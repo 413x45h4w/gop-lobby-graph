@@ -1,0 +1,9 @@
+tool,what,n_calls,notes,date_EST,window_EST
+get_users_by_usernames,guess batch 0 (100 usernames),1,"see raw/; low-confidence, not used for edges",2026-11-17,12:58-1:14 PM
+search_posts_all,A0 member chunks 0-14 (block 0 names),15,"1 hit, rejected namesake",2026-11-17,12:58-1:14 PM
+search_posts_all,"A3 member chunks 0-14 (block 3 names incl. Ballard, Lanza, Trujillo, Walden)",15,"1 hit (Stefanik note_tweet, not relationship)",2026-11-17,12:58-1:14 PM
+search_posts_all,A4 member chunks 0-14 (block 4 names + @handles of Ballard/Trujillo/Lanza/Walden/LaCivita),15,"9 hits (LaCivita 7 pre-era, Trujillo 2)",2026-11-17,12:58-1:14 PM
+search_posts_all,control (Barbour) + 1 global probe,2,probe discarded (namesake noise),2026-11-17,12:58-1:14 PM
+get_posts_by_ids,author resolution + note_tweet,1,,2026-11-17,12:58-1:14 PM
+search_posts_all,B1 member chunks 0-14 (block 1 names),15,0 hits,2026-11-17,1:17-1:19 PM
+search_posts_all,B2 member chunks 0-14 (block 2 names),15,0 hits,2026-11-17,1:19-1:20 PM

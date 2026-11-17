@@ -1,0 +1,16 @@
+rank_social,lobbyist_id,name,firm,x_handle,handle_confidence,weighted_degree,distinct_members,distinct_members_member_authored,photo_together_posts,photo_any_posts,shoutouts,pagerank,excluded_posts_colleague_era_or_ambiguous,lda_filings_naming_lobbyist_2023_26_sample,lda_clients_sample,lda_registrants,ld203_usd_to_current_gop_members_2023_26,ld203_distinct_gop_members_funded,social_edge_members_also_funded,computed_at
+1,L07,Matt Schlapp,Cove Strategies,mschlapp,high (bio: Chair of @cpac),237.75,67,16,22,67,37,0.4035,0,41,7,COVE STRATEGIES,0,0,0,2026-11-17T12:14:32-05:00
+2,L10,Connie Mack IV,Black Diamond Strategies / Mack Strategies,ConnieMackIV,high (bio: Ret. Member of Congress),8.0,3,1,2,2,1,0.0151,1,7,4,BLACK DIAMOND STRATEGIES LLC; MACK STRATEGIES,2000,2,0,2026-11-17T12:14:32-05:00
+3,L02,Carlos Trujillo,Continental Strategy,AmbCTrujillo,"high (bio: Partner @ Continental, former OAS ambassador)",4.5,2,1,0,3,0,0.0187,0,80,46,"CONTINENTAL STRATEGY, LLC",61950,8,1,2026-11-17T12:14:32-05:00
+4,L14,Richard Burr,DLA Piper,SenatorBurr,high (bio: Former U.S. Senator),1.0,1,0,0,0,1,0.0128,2,9,8,DLA PIPER LLP (US),8000,8,0,2026-11-17T12:14:32-05:00
+5,L11,Saxby Chambliss,DLA Piper,SaxbyChambliss,"high (bio: Former Senator, Partner at DLA Piper)",0.5,1,0,0,0,0,0.0027,0,26,5,DLA PIPER LLP (US),21000,13,1,2026-11-17T12:14:32-05:00
+6,L15,Steve Stivers,Ohio Chamber of Commerce (in-house),stevestivers,high (bio: CEO Ohio Chamber),0.5,1,0,0,0,0,0.0128,0,15,1,OHIO CHAMBER OF COMMERCE,194500,15,0,2026-11-17T12:14:32-05:00
+7,L01,Brian Ballard,Ballard Partners,BrianBallard,"medium (exact-name account, 0 posts; dormant/placeholder)",0,0,0,0,0,0,0,0,100,90,BALLARD PARTNERS,77500,15,0,2026-11-17T12:14:32-05:00
+8,L03,David Urban,BGR Group,(none found),no verified personal X account found,0,0,0,0,0,0,0,0,29,23,LGL ADVISORS LLC; BGR GOVERNMENT AFFAIRS,58921,17,0,2026-11-17T12:14:32-05:00
+9,L04,Bryan Lanza,Mercury Public Affairs,bryanlanza,"low-medium (exact-name account, 0 posts)",0,0,0,0,0,0,0,0,97,45,"MERCURY PUBLIC AFFAIRS, LLC",14300,3,0,2026-11-17T12:14:32-05:00
+10,L05,Ches McDowell,Checkmate Government Relations,(none found),no X account found,0,0,0,0,0,0,0,0,49,43,CHECKMATE GOVERNMENT RELATIONS,6600,1,0,2026-11-17T12:14:32-05:00
+11,L06,Marc Lampkin,Brownstein Hyatt Farber Schreck,(none found),exact-name account has 0 posts/1 follower; treated as none,0,0,0,0,0,0,0,0,100,58,"BROWNSTEIN HYATT FARBER SCHRECK, LLP",132500,53,0,2026-11-17T12:14:32-05:00
+12,L08,Ed Royce,Brownstein Hyatt Farber Schreck,RepEdRoyce,high (former official account),0,0,0,0,0,0,0,0,95,42,"BROWNSTEIN HYATT FARBER SCHRECK, LLP",409950,93,0,2026-11-17T12:14:32-05:00
+13,L09,Jeff Denham,Dentons,JeffDenham,high (bio: Former U.S. Representative),0,0,0,0,0,0,0,0,31,15,"DENTONS US LLP; K&L GATES, LLP",46500,24,0,2026-11-17T12:14:32-05:00
+14,L12,Larry Bucshon,Holland & Knight,RepLarryBucshon,high (bio: Former Congressman IN-08),0,0,0,0,0,0,0,37,29,17,HOLLAND & KNIGHT LLP,38541,19,0,2026-11-17T12:14:32-05:00
+15,L13,Greg Walden,Alpine Group Partners,repgregwalden,high (archived former official account),0,0,0,0,0,0,0,0,97,34,"ALPINE ADVISORS; ALPINE GROUP PARTNERS, LLC.; DGA GROUP GOVERNMENT RELATIONS LLC",180250,74,0,2026-11-17T12:14:32-05:00

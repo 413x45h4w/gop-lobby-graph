@@ -1,0 +1,76 @@
+lobbyist_id,lobbyist_name,member_bioguide,member_name,weight,n_posts,photo_together,photo_probable_award,photo_mention_unclear,shoutout,mention_other,reply,member_authored,lobbyist_authored,computed_at
+L07,Matt Schlapp,J000289,Jim Jordan,22.5,20,2,0,5,2,10,1,0,20,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,L000577,Mike Lee,17.75,29,0,1,2,0,10,16,18,11,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,S001196,Elise M. Stefanik,12.5,9,2,0,2,1,4,0,4,5,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,J000299,Mike Johnson,9.5,7,2,0,1,0,4,0,0,7,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,C001129,Mike Collins,9.5,14,0,0,1,2,2,9,11,3,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,C001098,Ted Cruz,8.0,6,1,0,2,0,3,0,0,6,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,C001096,Kevin Cramer,8.0,4,2,0,0,2,0,0,1,3,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,W000816,Roger Williams,6.5,6,0,1,1,2,2,0,1,5,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,S001214,W. Gregory Steube,6.5,5,0,1,1,2,1,0,1,4,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,S001217,Rick Scott,6.5,7,0,0,2,1,4,0,0,7,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,J000304,Ronny Jackson,6.0,4,1,0,1,0,2,0,0,4,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,H000601,Bill Hagerty,6.0,5,0,0,3,0,2,0,0,5,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,T000278,Tommy Tuberville,5.5,4,1,0,1,0,2,0,0,4,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,H001096,Harriet M. Hageman,5.5,3,1,0,1,1,0,0,0,3,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,C001108,James Comer,5.0,5,1,0,0,0,3,1,0,5,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,B001299,Jim Banks,5.0,3,1,0,0,1,1,0,0,3,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,B001302,Andy Biggs,5.0,6,0,0,1,2,3,0,2,4,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,T000250,John Thune,5.0,5,0,0,1,3,0,1,0,5,2026-11-17T12:14:32-05:00
+L10,Connie Mack IV,S001217,Rick Scott,4.5,3,1,0,0,1,1,0,1,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,H001082,Kevin Hern,4.0,2,1,0,0,1,0,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,P000605,Scott Perry,4.0,2,1,0,0,1,0,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,B001243,Marsha Blackburn,4.0,2,1,0,0,1,0,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,D000626,Warren Davidson,3.5,2,1,0,0,0,1,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,H001098,Abraham J. Hamadeh,3.5,2,1,0,0,0,1,0,1,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,M001244,Ashley Moody,3.5,2,1,0,0,0,1,0,0,2,2026-11-17T12:14:32-05:00
+L02,Carlos Trujillo,P000622,Jimmy Patronis,3.0,2,0,0,2,0,0,0,2,0,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,E000295,Joni Ernst,3.0,1,1,0,0,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,B001309,Tim Burchett,3.0,1,1,0,0,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,F000478,Russell Fry,3.0,4,0,0,0,2,2,0,1,3,2026-11-17T12:14:32-05:00
+L10,Connie Mack IV,H001072,J. French Hill,3.0,1,1,0,0,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,B000825,Lauren Boebert,2.5,3,0,0,1,0,2,0,0,3,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,B001261,John Barrasso,2.5,2,0,0,1,1,0,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,D000600,Mario Diaz-Balart,2.5,2,0,0,1,1,0,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,M001205,Carol D. Miller,2.0,2,0,0,0,1,1,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,O000175,Andrew Ogles,2.0,2,0,0,0,1,1,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,A000375,Jodey C. Arrington,2.0,3,0,0,0,1,2,0,0,3,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,C001118,Ben Cline,2.0,3,0,0,0,1,2,0,0,3,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,H001052,Andy Harris,2.0,1,0,1,0,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,G000565,Paul A. Gosar,2.0,1,0,1,0,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,K000392,David Kustoff,2.0,1,0,1,0,0,0,0,1,0,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,G000568,H. Morgan Griffith,2.0,1,0,1,0,0,0,0,1,0,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,J000312,James C. Justice,2.0,1,0,1,0,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,M001184,Thomas Massie,2.0,2,0,0,1,0,0,1,2,0,2026-11-17T12:14:32-05:00
+L02,Carlos Trujillo,G000593,Carlos A. Gimenez,1.5,1,0,0,1,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,P000603,Rand Paul,1.5,1,0,0,1,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,H001089,Josh Hawley,1.5,1,0,0,1,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,J000311,Brian Jack,1.5,2,0,0,0,1,1,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,M001224,Nathaniel Moran,1.5,1,0,0,1,0,0,0,1,0,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,M001216,Cory Mills,1.5,2,0,0,0,1,0,1,1,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,M001199,Brian J. Mast,1.5,1,0,0,1,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,L000571,Cynthia M. Lummis,1.5,2,0,0,0,1,1,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,F000469,Russ Fulcher,1.5,1,0,0,1,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,B001291,Brian Babin,1.5,1,0,0,1,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,O000086,Burgess Owens,1.5,1,0,0,1,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,S001176,Steve Scalise,1.5,1,0,0,1,0,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,C001039,Kat Cammack,1.5,2,0,0,0,1,0,1,1,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,K000393,John Kennedy,1.0,1,0,0,0,0,1,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,M000194,Nancy Mace,1.0,1,0,0,0,1,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,M001242,Bernie Moreno,1.0,1,0,0,0,0,1,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,E000300,Gabe Evans,1.0,1,0,0,0,1,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,W000809,Steve Womack,1.0,2,0,0,0,0,2,0,0,2,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,M001136,Lisa C. McClain,1.0,1,0,0,0,1,0,0,0,1,2026-11-17T12:14:32-05:00
+L14,Richard Burr,B001305,Ted Budd,1.0,1,0,0,0,1,0,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,D000032,Byron Donalds,0.5,1,0,0,0,0,1,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,W000437,Roger F. Wicker,0.5,1,0,0,0,0,1,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,S001184,Tim Scott,0.5,1,0,0,0,0,1,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,S001227,Eric Schmitt,0.5,1,0,0,0,0,1,0,1,0,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,P000048,August Pfluger,0.5,1,0,0,0,0,1,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,B001319,Katie Boyd Britt,0.5,1,0,0,0,0,1,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,H001095,Wesley Hunt,0.5,1,0,0,0,0,1,0,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,M001235,Riley M. Moore,0.5,1,0,0,0,0,0,1,0,1,2026-11-17T12:14:32-05:00
+L07,Matt Schlapp,J000307,John James,0.5,1,0,0,0,0,1,0,0,1,2026-11-17T12:14:32-05:00
+L10,Connie Mack IV,P000603,Rand Paul,0.5,1,0,0,0,0,0,1,0,1,2026-11-17T12:14:32-05:00
+L11,Saxby Chambliss,J000299,Mike Johnson,0.5,1,0,0,0,0,1,0,0,1,2026-11-17T12:14:32-05:00
+L15,Steve Stivers,F000446,Randy Feenstra,0.5,1,0,0,0,0,0,1,0,1,2026-11-17T12:14:32-05:00

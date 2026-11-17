@@ -1,0 +1,877 @@
+lobbyist_id,year,period,filing_uuid,type,payee,honoree,amount,date,matched_gop_member_bioguide,matched_gop_member,match_rule,computed_at
+L01,2023,mid_year,80f5994f-a463-41b3-a698-f6babc3ed6c9,feca,SOTO FOR CONGRESS,Congressman Darren Soto,1000.00,2023-06-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2023,mid_year,80f5994f-a463-41b3-a698-f6babc3ed6c9,feca,BYRON DONALDS FOR CONGRESS,Congressman Byron Donalds,1000.00,2023-06-06,D000032,Byron Donalds,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2023,mid_year,80f5994f-a463-41b3-a698-f6babc3ed6c9,feca,MAX MILLER FOR CONGRESS,Congressman Max Miller,3300.00,2023-06-06,M001222,Max L. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2023,mid_year,80f5994f-a463-41b3-a698-f6babc3ed6c9,feca,JARED MOSKOWITZ FOR CONGRESS,Congressman Jared Moskowitz,1000.00,2023-03-27,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2023,mid_year,80f5994f-a463-41b3-a698-f6babc3ed6c9,feca,LAUREL LEE FOR CONGRESS,Congresswoman Laurel Lee,2900.00,2023-03-22,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2023,year_end,f448fe12-28ed-444a-9907-e9e63623ea6a,feca,CORY MILLS FOR CONGRESS,Congressman Cory Mills,1000.00,2023-09-14,M001216,Cory Mills,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2023,year_end,f448fe12-28ed-444a-9907-e9e63623ea6a,feca,CRAIG GOLDMAN FOR CONGRESS,Craig Goldman,1000.00,2023-11-08,G000601,Craig A. Goldman,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2023,year_end,f448fe12-28ed-444a-9907-e9e63623ea6a,feca,CANTWELL VICTORY FUND 2024,Senator Maria Cantwell,10000.00,2023-11-07,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2023,year_end,f448fe12-28ed-444a-9907-e9e63623ea6a,feca,WALTZ FOR CONGRESS,Congressman Mike Waltz,5000.00,2023-10-18,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2024,mid_year,256eff0c-997b-4661-9977-f09c7c078b4c,feca,HARIDOPOLOS VICTORY FUND,Republican Candidates,11500.00,2024-05-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2024,mid_year,256eff0c-997b-4661-9977-f09c7c078b4c,feca,TEAM BRIAN JACK,Brian Jack,14900.00,2024-03-30,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2024,mid_year,256eff0c-997b-4661-9977-f09c7c078b4c,feca,CHRIS COONS FOR DELAWARE,Senator Chris Coons,6600.00,2024-03-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2024,mid_year,256eff0c-997b-4661-9977-f09c7c078b4c,feca,TEAM RICK SCOTT,Senator Rick Scott,11000.00,2024-02-26,S001217,Rick Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2024,mid_year,256eff0c-997b-4661-9977-f09c7c078b4c,feca,TRUMP SAVE AMERICA JFC,Former President Donald Trump,11600.00,2024-01-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2024,mid_year,256eff0c-997b-4661-9977-f09c7c078b4c,feca,TRUMP 47 COMMITTEE,Former President Donald Trump,250000.00,2024-03-24,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2024,year_end,97394023-8a62-4ff4-846b-e866c21808dc,feca,RECLAIM AMERICA PAC,U.S. Senator Marco Rubio,5000.00,2024-07-09,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,mid_year,10b1e18a-7ede-4837-abb6-c28e42ea6378,feca,MIKE HARIDOPOLOS FOR CONGRESS,Congressman Mike Haridopolos,3500.00,2025-06-17,H001099,Mike Haridopolos,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,mid_year,10b1e18a-7ede-4837-abb6-c28e42ea6378,feca,DEBBIE WASSERMAN SCHULTZ FOR CONGRESS,Congresswoman Debbie Wasserman Schultz,3000.00,2025-06-10,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,mid_year,10b1e18a-7ede-4837-abb6-c28e42ea6378,feca,TED CRUZ VICTORY FUND,Senator Ted Cruz,5000.00,2025-04-17,C001098,Ted Cruz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,mid_year,10b1e18a-7ede-4837-abb6-c28e42ea6378,feca,MOODY FOR FLORIDA,Senator Ashley Moody,5000.00,2025-03-24,M001244,Ashley Moody,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,mid_year,10b1e18a-7ede-4837-abb6-c28e42ea6378,feca,FRIENDS OF JIMMY PATRONIS,Congressman Jimmy Patronis,5000.00,2025-01-27,P000622,Jimmy Patronis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,mid_year,10b1e18a-7ede-4837-abb6-c28e42ea6378,feca,FRIENDS OF JIMMY PATRONIS,Congressman Jimmy Patronis,2000.00,2025-03-11,P000622,Jimmy Patronis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,mid_year,10b1e18a-7ede-4837-abb6-c28e42ea6378,feca,RANDY FINE FOR CONGRESS,Congressman Randy Fine,6600.00,2025-01-21,F000484,Randy Fine,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,year_end,5b2514f8-fb10-4333-b4aa-6acc7745d0a8,feca,COTTON MAJORITY COMMITTEE,U.S. Senator Tom Cotton,3300.00,2025-07-16,C001095,Tom Cotton,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,year_end,5b2514f8-fb10-4333-b4aa-6acc7745d0a8,feca,FEELY FOR CONGRESS,Jay Feely,3500.00,2025-09-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,year_end,5b2514f8-fb10-4333-b4aa-6acc7745d0a8,feca,REPUBLICAN NATIONAL COMMITTEE,Republican Party,200000.00,2025-12-17,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2025,year_end,24e0823c-1c9f-48ed-b507-70a84d17cb94,feca,ASHLEY MOODY VICTORY FUND,U.S. Senator Ashley Moody,5000.00,2025-11-14,M001244,Ashley Moody,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2026,mid_year,4d903138-6ae7-4171-8ab3-7dbcbfcce404,feca,RANDY FINE FOR CONGRESS,Congressman Randy Fine,3500.00,2026-06-22,F000484,Randy Fine,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2026,mid_year,4d903138-6ae7-4171-8ab3-7dbcbfcce404,feca,CITIZENS FOR JOHN RUTHERFORD,Congressman John Rutherford,2500.00,2026-04-21,R000609,John H. Rutherford,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2026,mid_year,4d903138-6ae7-4171-8ab3-7dbcbfcce404,feca,FRENCH HILL FOR ARKANSAS,Congressman French Hill,3500.00,2026-04-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L01,2026,mid_year,4d903138-6ae7-4171-8ab3-7dbcbfcce404,feca,SCOTT FRANKLIN FOR CONGRESS,Congressman Scott Franklin,1000.00,2026-03-09,F000472,Scott Franklin,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2023,mid_year,6658fed5-cb2e-41d1-996d-1619da6f5679,feca,GARRET GRAVES FOR CONGRESS,Garret Graves,1500.00,2023-04-26,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2023,year_end,5038e85e-1950-44fa-871f-e2f7c6424899,feca,SALAZAR FOR CONGRESS,Maria Elvira Salazar,2500.00,2023-10-19,S000168,Maria Elvira Salazar,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2023,year_end,5038e85e-1950-44fa-871f-e2f7c6424899,feca,SALAZAR VICTORY COMMITTEE,Maria Elvira Salazar,2500.00,2023-10-16,S000168,Maria Elvira Salazar,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2023,year_end,5038e85e-1950-44fa-871f-e2f7c6424899,feca,MEUSER FOR CONGRESS,Dan Meuser,1650.00,2023-07-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2023,year_end,f05544f5-7e2a-47dc-bd2d-68837631fb38,feca,TOM ROYALS FOR CONGRESS,Tom Royals,1000.00,2023-10-04,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2023,year_end,f05544f5-7e2a-47dc-bd2d-68837631fb38,feca,TEAM MOONEY,Alex Mooney,1000.00,2023-09-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2023,year_end,f05544f5-7e2a-47dc-bd2d-68837631fb38,feca,"MOONEY FOR SENATE, INC",Alex Mooney,1000.00,2023-09-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2024,mid_year,8f91e8dc-9587-42a9-b2ad-94726ca583c7,feca,TOM ROYALS FOR CONGRESS,Tom Royals,2300.00,2024-03-04,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2024,mid_year,8f91e8dc-9587-42a9-b2ad-94726ca583c7,feca,REPUBLICAN PARTY OF FLORIDA,Rick Scott,2150.00,2024-05-30,S001217,Rick Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2024,mid_year,8f91e8dc-9587-42a9-b2ad-94726ca583c7,feca,"LAUREL LEE FOR CONGRESS, INC",Laurel Lee,1000.00,2024-01-22,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2024,year_end,7e34861c-e7ca-4463-987b-82dbb2d1baba,feca,TEAM RICK SCOTT,RICK SCOTT,11600.00,2024-07-13,S001217,Rick Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2024,year_end,7e34861c-e7ca-4463-987b-82dbb2d1baba,feca,LETS GET TO WORK PAC,RICK SCOTT,5000.00,2024-07-17,S001217,Rick Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2024,year_end,7e34861c-e7ca-4463-987b-82dbb2d1baba,feca,RICK SCOTT FOR FLORIDA,RICK SCOTT,3300.00,2024-07-17,S001217,Rick Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2024,year_end,7e34861c-e7ca-4463-987b-82dbb2d1baba,feca,LAUREL LEE VICTORY FUND,LAUREL LEE,1000.00,2024-10-15,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2025,mid_year,1e47b761-ba59-4472-9a59-820988a7e0fc,feca,AARON BEAN FOR CONGRESS,AARON BEAN,3500.00,2025-04-21,B001314,Aaron Bean,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2025,mid_year,1e47b761-ba59-4472-9a59-820988a7e0fc,feca,CARLOS GIMENEZ FOR CONGRESS,CARLOS GIMENEZ,3500.00,2025-06-28,G000593,Carlos A. Gimenez,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2025,mid_year,1e47b761-ba59-4472-9a59-820988a7e0fc,feca,GIMENEZ VICTORY COMMITTEE,CARLOS GIMENEZ,10000.00,2025-06-28,G000593,Carlos A. Gimenez,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2025,mid_year,1e47b761-ba59-4472-9a59-820988a7e0fc,feca,KARINA FOR CONGRESS,KARINA LIPSMAN,500.00,2025-06-26,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2025,mid_year,1e47b761-ba59-4472-9a59-820988a7e0fc,feca,LIBERTAD,LIBERTAD,3000.00,2025-06-28,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2025,mid_year,1e47b761-ba59-4472-9a59-820988a7e0fc,feca,MOODY FOR FLORIDA,ASHLEY MOODY,3300.00,2025-05-22,M001244,Ashley Moody,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2025,mid_year,1e47b761-ba59-4472-9a59-820988a7e0fc,feca,RANDY FINE FOR CONGRESS,RANDY FINE,6600.00,2025-01-24,F000484,Randy Fine,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2025,year_end,2b89cc12-5a74-4c12-a8dd-3a1b70843860,feca,APL VICTORY FUND,Anna Paulina Luna,1000.00,2025-08-08,L000596,Anna Paulina Luna,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2025,year_end,2b89cc12-5a74-4c12-a8dd-3a1b70843860,feca,ANNA PAULINA LUNA FOR CONGRESS,Anna Paulina Luna,1000.00,2025-08-08,L000596,Anna Paulina Luna,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2025,year_end,b81d2bf2-742f-4aa1-9968-7799c20b1a7d,feca,CONTINENTAL STRATEGY PAC,Continental Strategy,10000.00,2025-11-03,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2026,mid_year,b2ef3608-95dd-450a-8a5e-b3ed4d148d78,feca,NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE,National Republican Congressional Committee,25000.00,2026-02-12,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2026,mid_year,b2ef3608-95dd-450a-8a5e-b3ed4d148d78,feca,LAUREL LEE,"Laurel Lee for Congress, Inc.",1000.00,2026-01-23,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2026,mid_year,b2ef3608-95dd-450a-8a5e-b3ed4d148d78,feca,LAUREL LEE,Laurel Lee Victory Fund,1000.00,2026-01-23,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2026,mid_year,ae812b66-a491-4c18-b534-304df52ff934,feca,"LAUREL LEE FOR CONGRESS, INC.",Laurel Lee,1000.00,2026-01-23,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L02,2026,mid_year,ab302fc5-30c3-4379-82e4-32eec70059c8,feca,LAUREL LEE VICTORY FUND,Laurel Lee,1000.00,2026-01-23,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,mid_year,e821d2a3-17c4-40ef-98c6-7ae4525ba5c7,feca,BGR PAC,BGR PAC,125.00,2023-02-28,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,mid_year,e821d2a3-17c4-40ef-98c6-7ae4525ba5c7,feca,BGR PAC,BGR PAC,125.00,2023-03-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,mid_year,e821d2a3-17c4-40ef-98c6-7ae4525ba5c7,feca,BGR PAC,BGR PAC,125.00,2023-03-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,mid_year,e821d2a3-17c4-40ef-98c6-7ae4525ba5c7,feca,FRIENDS OF GLENN THOMPSON,Glenn Thompson,2500.00,2023-04-01,T000467,Glenn Thompson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,mid_year,e821d2a3-17c4-40ef-98c6-7ae4525ba5c7,feca,BGR PAC,BGR PAC,125.00,2023-04-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,mid_year,e821d2a3-17c4-40ef-98c6-7ae4525ba5c7,feca,BGR PAC,BGR PAC,125.00,2023-04-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,mid_year,e821d2a3-17c4-40ef-98c6-7ae4525ba5c7,feca,BGR PAC,BGR PAC,125.00,2023-05-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,mid_year,e821d2a3-17c4-40ef-98c6-7ae4525ba5c7,feca,BGR PAC,BGR PAC,125.00,2023-05-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,mid_year,e821d2a3-17c4-40ef-98c6-7ae4525ba5c7,feca,BGR PAC,BGR PAC,125.00,2023-06-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,mid_year,e821d2a3-17c4-40ef-98c6-7ae4525ba5c7,feca,BGR PAC,BGR PAC,125.00,2023-06-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,BGR PAC,BGR PAC,125.00,2023-07-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,NARRAGANSETT BAY PAC,Narragansett Bay PAC,2500.00,2023-07-19,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,BGR PAC,BGR PAC,125.00,2023-07-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,LAWLER VICTORY FUND,Lawler Victory Fund,1000.00,2023-08-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,BGR PAC,BGR PAC,125.00,2023-08-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,MERCURI FOR CONGRESS,Robert Mercuri,2602.54,2023-08-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,BGR PAC,BGR PAC,125.00,2023-08-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,BGR PAC,BGR PAC,125.00,2023-09-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,MARK GREEN FOR CONGRESS,Mark Green,3300.00,2023-09-27,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,KEVIN MCCARTHY FOR CONGRESS,Kevin McCarthy,2500.00,2023-09-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,KEVIN MCCARTHY FOR CONGRESS,Kevin McCarthy,800.00,2023-09-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,BGR PAC,BGR PAC,125.00,2023-10-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,DALE STRONG FOR CONGRESS,Dale Strong,1000.00,2023-11-28,S001220,Dale W. Strong,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,BGR PAC,BGR PAC,125.00,2023-11-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,BGR PAC,BGR PAC,125.00,2023-12-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2023,year_end,b0ab34a2-98ee-49e3-a342-860190d279ae,feca,BGR PAC,BGR PAC,125.00,2023-12-19,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BGR PAC,BGR PAC,250.00,2024-06-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,EARLY VOTE ACTION PAC,Early Vote Action PAC,2500.00,2024-06-17,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BGR PAC,BGR PAC,250.00,2024-06-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,NRSC,NRSC,2500.00,2024-02-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BGR PAC,BGR PAC,125.00,2024-02-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,NRCC,NRCC,2500.00,2024-02-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BERNIE MORENO FOR SENATE,Bernie Moreno,1000.00,2024-02-20,M001242,Bernie Moreno,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,"MCCAUL FOR CONGRESS, INC.",Michael McCaul,1000.00,2024-02-21,M001157,Michael T. McCaul,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BGR PAC,BGR PAC,125.00,2024-02-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BGR PAC,BGR PAC,125.00,2024-03-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BYRON DONALDS FOR CONGRESS,Byron Donalds,1000.00,2024-03-15,D000032,Byron Donalds,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,HOGAN FOR MARYLAND INC.,Larry Hogan,1000.00,2024-03-24,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BGR PAC,BGR PAC,125.00,2024-03-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BRIAN JACK FOR CONGRESS,Brian Jack,6600.00,2024-04-01,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BGR PAC,BGR PAC,125.00,2024-04-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BGR PAC,BGR PAC,125.00,2024-04-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,NRSC,NRSC,2500.00,2024-05-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BGR PAC,BGR PAC,125.00,2024-05-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,NRCC,NRCC,2500.00,2024-05-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,mid_year,93d0f3fe-13de-4050-9cb7-a3a5b82e8338,feca,BGR PAC,BGR PAC,125.00,2024-05-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BGR PAC,BGR PAC,250.00,2024-07-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BGR PAC,BGR PAC,250.00,2024-07-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,SMILEY FOR CONGRESS,Tiffany Smiley,3300.00,2024-08-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,NSRC,NSRC,2500.00,2024-08-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,NRCC,NRCC,2500.00,2024-08-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BGR PAC,BGR PAC,250.00,2024-08-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BGR PAC,BGR PAC,250.00,2024-08-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BGR PAC,BGR PAC,250.00,2024-09-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,EMMER MAJORITY BUILDERS,Emmer Majority Builders,1041.02,2024-09-24,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,SAM BROWN VICTORY COMMITTEE,Sam Brown Victory Committee,3300.00,2024-09-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BRIAN FITZPATRICK FOR ALL OF US,Brian Fitzpatrick,520.51,2024-09-30,F000466,Brian K. Fitzpatrick,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,GROW THE MAJORITY,Grow the Majority,2500.00,2024-09-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,MIKE JOHNSON FOR LOUISIANA,Mike Johnson,1000.00,2024-09-30,J000299,Mike Johnson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BGR PAC,BGR PAC,250.00,2024-09-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,LAWLER FOR CONGRESS,Michael Lawler,2500.00,2024-10-01,L000599,Michael Lawler,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,TED CRUZ FOR SENATE,Ted Cruz,1000.00,2024-10-01,C001098,Ted Cruz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BGR PAC,BGR PAC,125.00,2024-10-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BGR PAC,BGR PAC,125.00,2024-10-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,NSRC,NSRC,2500.00,2024-11-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,TIM SHEEHY FOR MONTANA,Tim Sheehy,1000.00,2024-11-14,S001232,Tim Sheehy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BGR PAC,BGR PAC,125.00,2024-11-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,NRCC,NRCC,2500.00,2024-11-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,BGR PAC,BGR PAC,125.00,2024-11-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2024,year_end,96d59d7b-e4ad-4375-a20a-e81e00b74bb8,feca,PAT RYAN FOR CONGRESS,Patrick Ryan,2500.00,2024-12-03,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,mid_year,a1fac8a6-23db-4a69-99a4-1ab183f6ca17,feca,JONI FOR IOWA,Joni Ernst,3300.00,2025-01-10,E000295,Joni Ernst,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,mid_year,a1fac8a6-23db-4a69-99a4-1ab183f6ca17,feca,NRSC,NRSC,3750.00,2025-01-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,mid_year,a1fac8a6-23db-4a69-99a4-1ab183f6ca17,feca,NRCC,NRCC,2500.00,2025-02-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,mid_year,a1fac8a6-23db-4a69-99a4-1ab183f6ca17,feca,BGR PAC,BGR PAC,1250.00,2025-03-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,mid_year,a1fac8a6-23db-4a69-99a4-1ab183f6ca17,feca,ALASKANS FOR DAN SULLIVAN,Dan Sullivan,7000.00,2025-03-31,S001198,Dan Sullivan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,mid_year,a1fac8a6-23db-4a69-99a4-1ab183f6ca17,feca,NRSC,NRSC,3750.00,2025-04-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,mid_year,a1fac8a6-23db-4a69-99a4-1ab183f6ca17,feca,MOODY FOR FLORIDA,Ashley Moody,3500.00,2025-05-08,M001244,Ashley Moody,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,mid_year,a1fac8a6-23db-4a69-99a4-1ab183f6ca17,feca,NRCC,NRCC,2500.00,2025-05-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,mid_year,a1fac8a6-23db-4a69-99a4-1ab183f6ca17,feca,MOODY FOR FLORIDA,Ashley Moody,3500.00,2025-06-30,M001244,Ashley Moody,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,year_end,c02eba8c-5756-4410-a94b-93c1a14d2459,feca,BGR PAC,BGR PAC,1250.00,2025-07-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,year_end,c02eba8c-5756-4410-a94b-93c1a14d2459,feca,REPUBLICAN NATIONAL COMMITTEE,Republican National Committee,25000.00,2025-07-21,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,year_end,c02eba8c-5756-4410-a94b-93c1a14d2459,feca,NRSC,NRSC,3750.00,2025-07-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,year_end,c02eba8c-5756-4410-a94b-93c1a14d2459,feca,WHATLEY FOR SENATE,Michael Whatley,7000.00,2025-08-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,year_end,c02eba8c-5756-4410-a94b-93c1a14d2459,feca,NRCC,NRCC,2500.00,2025-08-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,year_end,c02eba8c-5756-4410-a94b-93c1a14d2459,feca,"LAWLER FOR CONGRESS, INC.",Michael Vincent Lawler,3500.00,2025-08-21,L000599,Michael Lawler,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,year_end,c02eba8c-5756-4410-a94b-93c1a14d2459,feca,COLLINS FOR SENATOR,Susan M. Collins,6000.00,2025-08-21,C001035,Susan M. Collins,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,year_end,c02eba8c-5756-4410-a94b-93c1a14d2459,feca,NRSC,NRSC,3750.00,2025-10-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,year_end,c02eba8c-5756-4410-a94b-93c1a14d2459,feca,TEAM ROGERS,Team Rogers,7000.00,2025-11-11,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2025,year_end,c02eba8c-5756-4410-a94b-93c1a14d2459,feca,NRCC,NRCC,2500.00,2025-11-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,BGR PAC,BGR PAC,2500.00,2026-01-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,BANKS FOR SENATE,James (Jim) Banks,2500.00,2026-01-26,B001299,Jim Banks,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,NRCC,NRCC,1000.00,2026-01-27,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,NRSC,NRSC,3750.00,2026-01-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,NRCC,NRCC,1000.00,2026-02-27,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,TEAM BRIAN JACK,Team Brian Jack,1000.00,2026-03-24,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,CATALINA LAUF VICTORY FUND,Catalina Lauf Victory Fund,3500.00,2026-03-24,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,NRCC,NRCC,1000.00,2026-03-27,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,BATTLEGROUND PA,Battleground PA,20000.00,2026-04-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,TEAM BRIAN JACK,Team Brian Jack,2500.00,2026-04-24,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,NRCC,NRCC,1000.00,2026-04-27,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,NRSC,NRSC,3750.00,2026-04-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,ROB WITTMAN FOR CONGRESS,Rob Wittman,1000.00,2026-05-04,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,NRCC,NRCC,1000.00,2026-05-27,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,ASHLEY FOR IOWA,Ashley Hinson,7000.00,2026-06-02,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,MVL PAC,MVL PAC,1000.00,2026-06-07,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,NRCC,NRCC,1000.00,2026-06-27,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L03,2026,mid_year,bcb987f8-f57e-4819-8e1e-43c2f0e8f463,feca,WICKER VICTORY COMMITTEE,Wicker Victory Committee,2500.00,2026-06-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L04,2024,mid_year,1f1f0163-f6a4-4647-af93-e14a60e0c204,feca,BRIAN JACK,Brian Jack for Congress,2000.00,2024-03-28,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L04,2024,mid_year,1f1f0163-f6a4-4647-af93-e14a60e0c204,feca,BRIAN JACK,Brian Jack for Congress,3300.00,2024-06-03,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L04,2024,mid_year,aa9a1848-3b36-4e68-a6a7-2ad316686a29,feca,JOHN JAMES,John James for Michigan,1000.00,2024-02-13,J000307,John James,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L04,2024,year_end,15d396dd-dbc0-4786-b48c-5ae71ff981e7,feca,TRUMP 47 COMMITTEE,Donald Trump,500.00,2024-10-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L04,2025,year_end,05bf55ec-dec8-4bf0-8af5-a1d910f29f3f,feca,BRIAN JACK,Brian Jack for Congress,500.00,2025-10-12,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L04,2025,year_end,05bf55ec-dec8-4bf0-8af5-a1d910f29f3f,feca,BRIAN JACK,Brian Jack for Congress,3500.00,2025-11-21,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L04,2026,mid_year,bde0a779-f86b-479a-89c7-41c2c80f01eb,feca,EMMER VICTORY COMMITTEE,Tom Emmer,2000.00,2026-06-09,E000294,Tom Emmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L04,2026,mid_year,bde0a779-f86b-479a-89c7-41c2c80f01eb,feca,BRIAN JACK FOR CONGRESS,Brian Jack,2000.00,2026-06-15,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L05,2025,year_end,9fab4eeb-1047-4ffa-bdf1-2717f7c096ae,feca,JOHNSTON COUNTY GOP 31 FOR 31 GUN RAFFLE,n/a,1000.00,2025-07-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L05,2025,year_end,9fab4eeb-1047-4ffa-bdf1-2717f7c096ae,feca,WHATLEY FOR SENATE,n/a,3500.00,2025-08-01,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L05,2025,year_end,9fab4eeb-1047-4ffa-bdf1-2717f7c096ae,feca,NATE MORRIS US SENATE,n/a,7000.00,2025-08-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L05,2025,year_end,9fab4eeb-1047-4ffa-bdf1-2717f7c096ae,feca,TED BUDD VICTORY,n/a,6600.00,2025-09-04,B001305,Ted Budd,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L05,2025,year_end,9fab4eeb-1047-4ffa-bdf1-2717f7c096ae,feca,BANKS FOR SENATE,n/a,1500.00,2025-09-22,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L05,2025,year_end,9fab4eeb-1047-4ffa-bdf1-2717f7c096ae,feca,BOBBY HANIG FOR CONGRESS,n/a,1000.00,2025-09-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,HERN FOR CONGRESS,Kevin Hern,1000.00,2023-03-23,H001082,Kevin Hern,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,MIKE GALLAGHER FOR CONGRESS,Mike Gallagher,500.00,2023-03-28,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,BURGESS OWENS FOR CONGRESS,Burgess Owens,2500.00,2023-03-29,O000086,Burgess Owens,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,VIRGINIA FOXX FOR CONGRESS,Virginia Foxx,5000.00,2023-03-30,F000450,Virginia Foxx,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,KEN CALVERT FOR CONGRESS,Ken Calvert,2500.00,2023-04-19,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,CRUZ VICTORY COMMITTEE,Ted Cruz,2500.00,2023-04-26,C001098,Ted Cruz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,MARSHA BLACKBURN FOR SENATE,Marsha Blackburn,1000.00,2023-05-02,B001243,Marsha Blackburn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,TIM SCOTT FOR AMERICA,Tim Scott,1000.00,2023-05-30,S001184,Tim Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,FRIENDS OF DAVID SCHWEIKERT,David Schweikert,500.00,2023-06-13,S001183,David Schweikert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,MIKE BOST FOR CONGRESS,Mike Bost,1000.00,2023-06-28,B001295,Mike Bost,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,86b19d18-8b30-4de2-b12c-16a400a8c9db,feca,RON DESANTIS FOR PRESIDENT,Ron DeSantis,6600.00,2023-06-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,year_end,88d69d04-1814-4d64-9494-644d9274bcc0,feca,AARON BEAN FOR CONGRESS,Aaron Bean,1000.00,2023-07-24,B001314,Aaron Bean,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,year_end,88d69d04-1814-4d64-9494-644d9274bcc0,feca,HUDSON FOR CONGRESS,Richard Hudson,1000.00,2023-07-27,H001067,Richard Hudson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,year_end,88d69d04-1814-4d64-9494-644d9274bcc0,feca,EMMER VICTORY COMMITTEE,Tom Emmer,5000.00,2023-09-05,E000294,Tom Emmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,year_end,88d69d04-1814-4d64-9494-644d9274bcc0,feca,MOONEY FOR SENATE,Alex Mooney,1000.00,2023-09-11,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,year_end,88d69d04-1814-4d64-9494-644d9274bcc0,feca,CLIFF BENTZ FOR CONGRESS,Cliff Bentz,500.00,2023-09-11,B000668,Cliff Bentz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,year_end,88d69d04-1814-4d64-9494-644d9274bcc0,feca,CATHY MCMORRIS RODGERS FOR CONGRESS,Cathy McMorris Rodgers,1000.00,2023-09-22,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,year_end,88d69d04-1814-4d64-9494-644d9274bcc0,feca,FRIENDS OF DAVE MCCORMICK,Dave McCormick,3300.00,2023-09-26,M001243,David McCormick,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,year_end,88d69d04-1814-4d64-9494-644d9274bcc0,feca,WICKER FOR SENATE,Roger Wicker,1000.00,2023-10-03,W000437,Roger F. Wicker,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,year_end,88d69d04-1814-4d64-9494-644d9274bcc0,feca,VIRGINIA FOXX FOR CONGRESS,Virginia Foxx,1000.00,2023-10-13,F000450,Virginia Foxx,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,mid_year,442d1b00-a914-4e89-9f16-e064b157d00f,feca,RON DESANTIS FOR PRESIDENT,Ron DeSantis,3300.00,2023-06-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2023,year_end,6c9d54e4-13f2-4177-8b40-eb1218a8e742,feca,SCHMITT,Eric Schmitt,500.00,2023-11-13,S001227,Eric Schmitt,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,61df72f7-d967-43da-8a82-69758beb406c,feca,LEEPAC,Senator Mike Lee,250.00,2024-03-19,L000577,Mike Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,61df72f7-d967-43da-8a82-69758beb406c,feca,MCGUIRE VICTORY FUND,VA State Sen. John McGuire,1000.00,2024-03-27,M001239,John J. McGuire III,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,61df72f7-d967-43da-8a82-69758beb406c,feca,TEAM RICK SCOTT,Senator Rick Scott,5000.00,2024-04-16,S001217,Rick Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,61df72f7-d967-43da-8a82-69758beb406c,feca,FRIENDS OF DAVID SCHWEIKERT,Rep. David Schweikert,1000.00,2024-04-17,S001183,David Schweikert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,469fbd8c-041d-4494-8e49-a7fe66e80ffe,feca,TOM COLE FOR CONGRESS,Rep. Tom Cole,2000.00,2024-06-03,C001053,Tom Cole,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,469fbd8c-041d-4494-8e49-a7fe66e80ffe,feca,BRITT FOR ALABAMA INC.,Sen. Katie Britt,1000.00,2024-05-15,B001319,Katie Boyd Britt,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,e66f1608-8f3f-44a0-a2be-6d85425f8982,feca,CRAMER FOR SENATE,Senator Kevin Cramer,1000.00,2024-06-26,C001096,Kevin Cramer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,e66f1608-8f3f-44a0-a2be-6d85425f8982,feca,LAUREL LEE FOR CONGRESS,Congresswoman Laurel Lee,1000.00,2024-06-26,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,89105388-e50d-4241-8d21-cfc7932268bf,feca,JOSH HAWLEY VICTORY COMMITTEE,Senator Josh Hawley,3300.00,2024-07-09,H001089,Josh Hawley,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,b33e70be-ba16-40fa-a240-b818bf9153c9,feca,CATHY FOR CONGRESS,Cathy McMorris Rodgers,2500.00,2024-01-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,b33e70be-ba16-40fa-a240-b818bf9153c9,feca,TIM SHEEHY FOR MT,Tim Sheehy,1000.00,2024-02-05,S001232,Tim Sheehy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,b33e70be-ba16-40fa-a240-b818bf9153c9,feca,LEEPAC,Mike Lee,250.00,2024-03-19,L000577,Mike Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,b33e70be-ba16-40fa-a240-b818bf9153c9,feca,MCGUIRE VICTORY FUND,John McGuire,1000.00,2024-03-27,M001239,John J. McGuire III,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,b33e70be-ba16-40fa-a240-b818bf9153c9,feca,TEAM RICK SCOTT,Rick Scott,5000.00,2024-04-16,S001217,Rick Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,b33e70be-ba16-40fa-a240-b818bf9153c9,feca,FRIENDS OF DAVID SCHWEIKERT,David Schweikert,1000.00,2024-04-17,S001183,David Schweikert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,b33e70be-ba16-40fa-a240-b818bf9153c9,feca,BRITT FOR ALABAMA INC.,Katie Britt,1000.00,2024-05-15,B001319,Katie Boyd Britt,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,b33e70be-ba16-40fa-a240-b818bf9153c9,feca,TOM COLE FOR CONGRESS,Tom Cole,2000.00,2024-06-03,C001053,Tom Cole,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,b33e70be-ba16-40fa-a240-b818bf9153c9,feca,LAUREL LEE FOR CONGRESS,Laurel Lee,1000.00,2024-06-26,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,mid_year,b33e70be-ba16-40fa-a240-b818bf9153c9,feca,CRAMER FOR SENATE,Kevin Cramer,1000.00,2024-06-26,C001096,Kevin Cramer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,JOSH HAWLEY VICTORY COMMITTEE,Sen. Josh Hawley,3300.00,2024-07-09,H001089,Josh Hawley,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,TRUMP 47 COMMITTEE,Donald J. Trump,10000.00,2024-07-10,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,AARON BEAN FOR CONGRESS,Rep. Aaron Bean,1000.00,2024-07-23,B001314,Aaron Bean,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,WALBERG FOR CONGRESS,Rep. Tim Walberg,1000.00,2024-07-23,W000798,Tim Walberg,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,BURGESS 4 UTAH,Rep. Burgess Owens,1000.00,2024-07-23,O000086,Burgess Owens,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,"JONI ERNST FOR US SENATE, INC.",Sen. Joni Ernst,1000.00,2024-07-30,E000295,Joni Ernst,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,2024 THUNE REPUBLICAN SENATE VICTORY,Sen. John Thune,5000.00,2024-08-22,T000250,John Thune,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,me,TRUMP 47 COMMITTEE,Donald J. Trump,307.00,2024-09-10,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,me,TRUMP 47 COMMITTEE,Donald J. Trump,32.00,2024-09-11,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,IOWANS FOR ZACH NUNN,Rep. Zach Nunn,1000.00,2024-09-24,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,KEN CALVERT FOR CONGRESS COMMITTEE,Rep. Ken Calvert,1000.00,2024-09-24,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,PETE RICKETTS FOR SENATE,Sen. Pete Ricketts,1000.00,2024-09-24,R000618,Pete Ricketts,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,EMMER MAJORITY BUILDERS,Rep. Tom Emmer,1000.00,2024-10-01,E000294,Tom Emmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,TIM SHEEHY FOR MONTANA,Sen. Tim Sheehy,1500.00,2024-10-10,S001232,Tim Sheehy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,KAREN BASS FOR MAYOR,Mayor Karen Bass,500.00,2024-10-16,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2024,year_end,8f1326d7-9882-499d-a6a3-e082d1c02769,feca,TRUMP 47 COMMITTEE,Donald J. Trump,10000.00,2024-10-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,THOM TILLIS COMMITTEE,Sen. Thom Tillis,3300.00,2025-01-14,T000476,Thom Tillis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,TEAM MORENO,Sen. Bernie Moreno,1000.00,2025-01-21,M001242,Bernie Moreno,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,WINNING FOR AMERICA PAC,Multicandidate,500.00,2025-02-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,BRETT GUTHRIE FOR CONGRESS,Rep. Brett Guthrie,2000.00,2025-02-11,G000558,Brett Guthrie,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,NICOLE FOR NEW YORK,Rep. Nicole Malliotakis,1000.00,2025-01-26,M000317,Nicole Malliotakis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,HERN FOR CONGRESS,Rep. Kevin Hern,1000.00,2025-03-04,H001082,Kevin Hern,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,TEAM JORDAN,Rep. Jim Jordan,1000.00,2025-03-05,J000289,Jim Jordan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,JOHNSON LEADERSHIP FUND,Speaker Mike Johnson,1500.00,2025-04-07,J000299,Mike Johnson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,COLE FOR CONGRESS,Rep. Tom Cole,2500.00,2025-05-05,C001053,Tom Cole,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,SULLIVAN VICTORY,Sen. Dan Sullivan,3500.00,2025-05-07,S001198,Dan Sullivan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,BARRASSO VICTORY,Sen. John Barrasso,2000.00,2025-06-03,B001261,John Barrasso,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,mid_year,2012fc24-8565-4e10-9f20-25572ef613db,feca,COACH PAC,Sen. Tommy Tuberville,500.00,2025-06-25,T000278,Tommy Tuberville,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,year_end,a8edac27-2dc4-4ed6-81a5-ef756cdcca83,feca,TED CRUZ VICTORY FUND,Sen. Ted Cruz,2500.00,2025-09-03,C001098,Ted Cruz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,year_end,a8edac27-2dc4-4ed6-81a5-ef756cdcca83,feca,BRANDON GILL FOR TEXAS,Rep. Brandon Gill,1000.00,2025-09-03,G000603,Brandon Gill,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,year_end,a8edac27-2dc4-4ed6-81a5-ef756cdcca83,feca,ASHLEY FOR IOWA,Rep. Ashley Hinson,1000.00,2025-09-23,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,year_end,a8edac27-2dc4-4ed6-81a5-ef756cdcca83,feca,NRCC,NRCC,2500.00,2025-09-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,year_end,a8edac27-2dc4-4ed6-81a5-ef756cdcca83,feca,NRSC,NRSC,1000.00,2025-09-24,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,year_end,a8edac27-2dc4-4ed6-81a5-ef756cdcca83,feca,LAUREL LEE FOR CONGRESS INC.,Rep. Laurel Lee,1000.00,2025-09-26,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,year_end,a8edac27-2dc4-4ed6-81a5-ef756cdcca83,feca,FRENCH HILL FOR CONGRESS,Rep. French Hill,500.00,2025-09-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,year_end,a8edac27-2dc4-4ed6-81a5-ef756cdcca83,feca,MAST FOR CONGRESS,Rep. Brian Mast,500.00,2025-11-19,M001199,Brian J. Mast,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,year_end,a8edac27-2dc4-4ed6-81a5-ef756cdcca83,feca,GARBARINO FOR CONGRESS,Rep. Andrew Garbarino,1000.00,2025-12-02,G000597,Andrew R. Garbarino,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2025,year_end,a8edac27-2dc4-4ed6-81a5-ef756cdcca83,feca,JEFF CRANK FOR CONGRESS,Rep. Jeff Crank,500.00,2025-12-03,C001137,Jeff Crank,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,ROBERT ADERHOLT FOR CONGRESS,Robert Aderholt,1000.00,2026-01-21,A000055,Robert B. Aderholt,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,"FRIENDS OF TODD YOUNG, INC.",Todd Young,1000.00,2026-02-25,Y000064,Todd Young,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,PENNSYLVANIA HONOR,Dave McCormick,3500.00,2026-02-27,M001243,David McCormick,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,WINNING FOR AMERICA PAC,Eric Schmitt,3500.00,2026-02-27,S001227,Eric Schmitt,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,NICOLE FOR NEW YORK,Nicole Malliotakis,1000.00,2026-03-10,M000317,Nicole Malliotakis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,JEFF HURD 4 CO,Jeff Hurd,500.00,2026-03-16,H001100,Jeff Hurd,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,HERN FOR SENATE,Kevin Hern,1000.00,2026-03-24,H001082,Kevin Hern,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,JAKE ELLZEY FOR CONGRESS,Jake Ellzey,500.00,2026-04-08,E000071,Jake Ellzey,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,CONGRESS NJ,"Tom Kean, Chris Smith, and Jeff Van Drew",500.00,2026-05-05,S000522,Christopher H. Smith,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,HUSTED4SENATE,Jon Husted,500.00,2026-05-12,H001104,Jon Husted,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,TEAM JORDAN,Jim Jordan,1000.00,2026-05-13,J000289,Jim Jordan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,SCALISE LEADERSHIP FUND,Steve Scalise,5000.00,2026-05-13,S001176,Steve Scalise,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,JOHNSON LEADERSHIP FUND,Mike Johnson,5000.00,2026-05-14,J000299,Mike Johnson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,WOMACK FOR CONGRESS,Steve Womack,500.00,2026-05-21,W000809,Steve Womack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,TEAM BRIAN JACK,Brian Jack,1000.00,2026-05-28,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,HERN FOR SENATE,Kevin Hern,1000.00,2026-05-29,H001082,Kevin Hern,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,KEN PAXTON VICTORY FUND,Ken Paxton,5000.00,2026-06-01,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L06,2026,mid_year,be1049b3-c7a2-4dbe-b44e-ce88c809ccd6,feca,ANDY BARR FOR SENATE,Andy Barr,3300.00,2026-06-10,B001282,Andy Barr,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE,National Republican Congressional Committee,15000.00,2023-01-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,NATIONAL REPUBLICAN SENATORIAL COMMITTEE,National Republican Senatorial Committee,15000.00,2023-01-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,KEN CALVERT FOR CONGRESS,Kenneth Calvert,5000.00,2023-01-13,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,WICKER FOR SENATE,Roger Wicker,5000.00,2023-01-16,W000437,Roger F. Wicker,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,"MCCAUL FOR CONGRESS, INC.",Michael McCaul,2500.00,2023-01-25,M001157,Michael T. McCaul,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,SCOTT BAUGH FOR CONGRESS,Scott Baugh,5000.00,2023-01-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,TUESDAY GROUP POLITICAL ACTION COMMITTEE,Tuesday Group Political Action Committee,5000.00,2023-01-30,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,DARRELL ISSA FOR CONGRESS,Darrell Issa,2500.00,2023-02-01,I000056,Darrell Issa,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,ASHLEY HINSON FOR CONGRESS,Ashley Hinson,3000.00,2023-02-07,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,MIKE GALLAGHER FOR WISCONSIN,Michael Gallagher,2500.00,2023-03-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,TIM SCOTT FOR SENATE,Tim Scott,2000.00,2023-03-08,S001184,Tim Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,YOUNG KIM FOR CONGRESS,Young Kim,5000.00,2023-03-10,K000397,Young Kim,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,DON BACON FOR CONGRESS,Donald Bacon,1500.00,2023-03-14,B001298,Don Bacon,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,MICHELLE STEEL FOR CONGRESS,Michelle Steel,2000.00,2023-03-20,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,JAKE ELLZEY FOR CONGRESS,John Ellzey,1000.00,2023-03-21,E000071,Jake Ellzey,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,BRIAN FITZPATRICK FOR ALL OF US,Brian Fitzpatrick,2000.00,2023-03-22,F000466,Brian K. Fitzpatrick,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,CAROL FOR CONGRESS,Carol Miller,1500.00,2023-03-22,M001205,Carol D. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,DARREL ISSA FOR CONGRESS,Darrell Issa,1000.00,2023-03-22,I000056,Darrell Issa,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC,Jason Smith,5000.00,2023-03-22,S001195,Jason Smith,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,DON BACON FOR CONGRESS,Donald Bacon,2500.00,2023-03-27,B001298,Don Bacon,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,BURGESS 4 CONGRESS,Burgess Owens,1000.00,2023-04-06,O000086,Burgess Owens,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,BICE FOR CONGRESS,Stephanie Bice,1000.00,2023-04-17,B000740,Stephanie I. Bice,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,MCCARTHY VICTORY FUND,Kevin McCarthy,3300.00,2023-04-18,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,MCCARTHY VICTORY FUND,Kevin McCarthy,1700.00,2023-04-18,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,MEUSER FOR CONGRESS,Daniel Meuser,1000.00,2023-04-18,M001204,Daniel Meuser,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,KEN CALVERT FOR CONGRESS COMMITTEE,Kenneth Calvert,5000.00,2023-04-19,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,CAROL FOR CONGRESS,Carol Miller,1000.00,2023-04-20,M001205,Carol D. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,MARSHA FOR SENATE,Marsha Blackburn,5000.00,2023-04-24,B001243,Marsha Blackburn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,"MCCAUL FOR CONGRESS, INC.",Michael McCaul,5000.00,2023-04-24,M001157,Michael T. McCaul,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,YOUNG KIM FOR CONGRESS,Young Kim,5000.00,2023-04-24,K000397,Young Kim,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,DON BACON FOR CONGRESS,Donald Bacon,1000.00,2023-05-01,B001298,Don Bacon,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,BUCHANAN FOR CONGRESS,Vern Buchanan,1000.00,2023-05-03,B001260,Vern Buchanan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,"KEAN FOR CONGRESS, INC","Thomas Kean, Jr",1000.00,2023-05-05,K000398,"Thomas H. Kean, Jr.",first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,CORY MILLS FOR CONGRESS,Cory Mills,1000.00,2023-05-15,M001216,Cory Mills,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC,Seal PAC Supporting Electing American Leaders PAC,1500.00,2023-05-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC,Seal PAC Supporting Electing American Leaders PAC,1000.00,2023-05-16,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,SELF FOR CONGRESS,Keith Self,1000.00,2023-05-22,S001224,Keith Self,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,FRIENDS OF DAVID SCHWEIKERT,David Schweikert,1000.00,2023-06-05,S001183,David Schweikert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,LUCAS FOR CONGRESS,Frank Lucas,5000.00,2023-06-14,L000491,Frank D. Lucas,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,COLE FOR CONGRESS,Tom Cole,1000.00,2023-06-21,C001053,Tom Cole,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,GUY FOR CONGRESS,Guy Reschenthaler,1000.00,2023-06-26,R000610,Guy Reschenthaler,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,TEAM HAGERTY,Bill Hagerty,2000.00,2023-06-28,H000601,Bill Hagerty,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,KEN CALVERT FOR CONGRESS COMMITTEE,Kenneth Calvert,2000.00,2023-04-25,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,KEN CALVERT FOR CONGRESS COMMITTEE,Kenneth Calvert,500.00,2023-06-29,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,"MCCAUL FOR CONGRESS, INC.",Michael McCaul,3300.00,2023-05-15,M001157,Michael T. McCaul,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,YOUNG KIM FOR CONGRESS,Young Kim,3300.00,2023-05-09,K000397,Young Kim,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,mid_year,a362a2b5-3445-4687-9237-a5a6383442b3,feca,SEAL PAC SUPPORTING ELECTING AMERICAN LEADERS PAC,Seal PAC Supporting Electing American Leaders PAC,2500.00,2023-04-24,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,E-PAC,Elise Stefanik,250.00,2023-07-05,S001196,Elise M. Stefanik,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,RICHARD HUDSON,Hudson for Congress,1000.00,2023-07-17,H001067,Richard Hudson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,KEVIN KILEY FOR CONGRESS,Kevin Kiley,1000.00,2023-07-17,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,CARLOS GIMENEZ FOR CONGRESS,Carlos Gimenez,1000.00,2023-08-24,G000593,Carlos A. Gimenez,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,FRIENDS OF NEAL DUNN,Neal Dunn,1000.00,2023-09-12,D000628,Neal P. Dunn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,MICHAEL WALTZ FOR CONGRESS,Michael Waltz,1000.00,2023-09-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,CLAUDIA TENNEY FOR CONGRESS,Claudia Tenney,1000.00,2023-09-20,T000478,Claudia Tenney,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,AUGUST PFLUGER FOR CONGRESS,August Pfluger,1000.00,2023-09-25,P000048,August Pfluger,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,DAVIDSON FOR CONGRESS,Warren Davidson,1000.00,2023-10-17,D000626,Warren Davidson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,STEIL FOR WISCONSIN,Bryan Steil,1000.00,2023-11-09,S001213,Bryan Steil,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,JOHN JAMES FOR MICHIGAN,John James,1500.00,2023-07-25,J000307,John James,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,CLIFF BENTZ FOR CONGRESS,Cliff Bentz,1500.00,2023-09-15,B000668,Cliff Bentz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,"ANDY BARR FOR CONGRESS, INC.",Andy Barr,2000.00,2023-07-27,B001282,Andy Barr,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,JIM RISCH FOR U S SENATE COMMITTEE,Jim Risch,2500.00,2023-09-18,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,BOLD ACTIVE CONSERVATIVES OF NEBRASKA PAC-BACON PAC,Don Bacon,5000.00,2023-08-18,B001298,Don Bacon,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,CATHY MCMORRIS RODGERS FOR CONGRESS,Cathy McMorris Rodgers,5000.00,2023-09-18,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,GRAVES FOR CONGRESS,Sam Graves,5000.00,2023-09-18,G000546,Sam Graves,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,MCCONNELL SENATE COMMITTEE,Mitch McConnell,5000.00,2023-10-31,M000355,Mitch McConnell,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,FRIENDS OF JOHN BARRASSO,John Barrasso,5000.00,2023-11-14,B001261,John Barrasso,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2023,year_end,0a7e38cd-54c6-4125-8499-9d73a51d9f84,feca,FOREVER YOUNG PAC,Young Kim,5000.00,2023-12-20,K000397,Young Kim,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE,National Republican Congressional Committee,15000.00,2024-01-02,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,NATIONAL REPUBLICAN SENATORIAL COMMITTEE,National Republican Senatorial Committee,15000.00,2024-01-02,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,REPUBLICAN GOVERNANCE GROUP/TUESDAY GROUP PAC,Republican Governance Group/Tuesday Group PAC,5000.00,2024-01-10,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,CAROL FOR CONGRESS,Carol Miller,2500.00,2024-02-05,M001205,Carol D. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,TIM SHEEHY FOR MONTANA,Tim Sheehy,2500.00,2024-02-05,S001232,Tim Sheehy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,DARRELL ISSA FOR CONGRESS,Darrell Issa,1500.00,2024-02-07,I000056,Darrell Issa,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,DARRELL ISSA FOR CONGRESS,Darrell Issa,3500.00,2024-02-07,I000056,Darrell Issa,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,TEXAS REPUBLICANS UNITED PAC (TRU PAC),Michael McCaul,1000.00,2024-02-14,M001157,Michael T. McCaul,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,HOGAN VICTORY FUND,Larry Hogan,3300.00,2024-02-28,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,TEXANS FOR RONNY JACKSON,Ronny Jackson,1500.00,2024-02-28,J000304,Ronny Jackson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,ELISA FOR CONGRESS,Elise Stefanik,5000.00,2024-02-28,S001196,Elise M. Stefanik,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,TEXANS FOR RONNY JACKSON,Ronny Jackson,1500.00,2024-03-04,J000304,Ronny Jackson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,"ANDY BARR FOR CONGRESS, INC.",Andy Barr,1000.00,2024-03-06,B001282,Andy Barr,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,KEAN FOR CONGRESS INC,Tom Kean,2500.00,2024-04-09,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,BLACKBURN TENNESSEE VICTORY FUND,Marsha Blackburn,5000.00,2024-03-13,B001243,Marsha Blackburn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,HOGAN VICTORY FUND,Larry Hogan,700.00,2024-03-18,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,DON BACON FOR CONGRESS,Don Bacon,4000.00,2024-03-26,B001298,Don Bacon,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,BANKS FOR SENATE,Jim Banks,1000.00,2024-03-28,B001299,Jim Banks,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,MIKE ROGERS VICTORY,Mike Rogers,5000.00,2024-04-09,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,ROGERS FOR SENATE,Mike Rogers,1000.00,2024-05-21,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,LORI CHAVEZ-DEREMER FOR CONGRESS,Lori Chavez-Deremer,1000.00,2024-04-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,VALADAO FOR CONGRESS,David Valadao,1000.00,2024-04-15,V000129,David G. Valadao,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,MICHAEL WALTZ FOR CONGRESS,Michael Waltz,1000.00,2024-04-19,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,FRIENDS OF SINGLETON FOR CONGRESS,Phillip Singleton,1000.00,2024-04-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,STEIL FOR WISCONSIN,Bryan Steil,1000.00,2024-04-29,S001213,Bryan Steil,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,MARIO DIAZ-BALART FOR CONGRESS,Mario Diaz-Balart,500.00,2024-04-29,D000600,Mario Diaz-Balart,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,JEFF HURD FOR CONGRESS,Jeff Hurd,1000.00,2024-05-02,H001100,Jeff Hurd,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,ASHLEY HINSON FOR CONGRESS,Ashley Hinson,2000.00,2024-05-08,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,ASHLEY HINSON FOR CONGRESS,Ashley Hinson,1000.00,2024-05-08,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,GUY FOR CONGRESS,Guy Reschenthaler,1000.00,2024-05-10,R000610,Guy Reschenthaler,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,"BRITT FOR ALABAMA, INC.",Katie Britt,5000.00,2024-05-21,B001319,Katie Boyd Britt,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,CRAMER FOR SENATE,Kevin Cramer,5000.00,2024-05-21,C001096,Kevin Cramer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,JONI FOR IOWA,Joni Ernst,1000.00,2024-05-21,E000295,Joni Ernst,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,STOP COLLECTIVISM OR TOTALITARIANISM TRIUMPHS PAC,Scott Baugh,2500.00,2024-05-21,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,VALADAO FOR CONGRESS,David Valadao,2000.00,2024-05-23,V000129,David G. Valadao,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,RICK SCOTT FOR FLORIDA,Rick Scott,5000.00,2024-05-28,S001217,Rick Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,TEXANS FOR SENATOR JOHN CORNYN INC,John Cornyn,5000.00,2024-05-28,C001056,John Cornyn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,COLE FOR CONGRESS,Tom Cole,5000.00,2024-05-28,C001053,Tom Cole,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,EMMER FOR CONGRESS,Tom Emmer,5000.00,2024-05-31,E000294,Tom Emmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,FRENCH HILL FOR ARKANSAS,French Hill,2500.00,2024-06-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,COLE FOR CONGRESS,Tom Cole,2500.00,2024-06-14,C001053,Tom Cole,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,LUCAS FOR CONGRESS,Frank Lucas,5000.00,2024-06-14,L000491,Frank D. Lucas,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,BERNIE MORENO FOR SENATE,Bernie Moreno,5000.00,2024-06-27,M001242,Bernie Moreno,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,DON BACON FOR CONGRESS,Don Bacon,1000.00,2024-02-28,B001298,Don Bacon,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,mid_year,ca2fdd02-8a28-43e4-846c-1016414d8353,feca,YOUNG KIM FOR CONGRESS,Young Kim,3300.00,2024-04-16,K000397,Young Kim,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,BERNIE MORENO FOR US SENATE,Bernie Moreno,2500.00,2024-11-13,M001242,Bernie Moreno,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,DAVE MCCORMICK FOR US SENATE,Dave McCormick,2500.00,2024-11-14,M001243,David McCormick,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,SCOTT BAUGH FOR CONGRESS,Scott Baugh,3300.00,2024-09-11,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,KEN CALVERT FOR CONGRESS COMMITTEE,Ken Calvert,3300.00,2024-09-27,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,FRIENDS OF JOHN THUNE,John Thune,1000.00,2024-08-22,T000250,John Thune,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,MIKE KENNEDY FOR UTAH,Mike Kennedy,500.00,2024-09-06,K000403,Mike Kennedy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,ELECTGABEEVANS.COM,Timothy Gabriel Evans,1000.00,2024-09-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,JIM RISCH FOR US SENATE COMMITTEE,James Risch,1500.00,2024-09-16,R000584,James E. Risch,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,JASON SMITH FOR CONGRESS,Jason Smith,2500.00,2024-09-16,S001195,Jason Smith,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,"LAWLER FOR CONGRESS, INC.",Michael Lawler,2500.00,2024-09-16,L000599,Michael Lawler,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,FOREVER YOUNG PAC,Young Kim,5000.00,2024-09-24,K000397,Young Kim,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,TIM SHEEHY FOR MONTANA,Tim Sheehy,2500.00,2024-11-13,S001232,Tim Sheehy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,AARON BEAN FOR CONGRESS,Aaron Bean,500.00,2024-07-12,B001314,Aaron Bean,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,TEXANS FOR RONNEY JACKSON,Ronny Jackson,1500.00,2024-07-12,J000304,Ronny Jackson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,LESLIE FOR WASHINGTON,Leslie Lewallen,500.00,2024-07-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,MIKE CRAPO FOR U.S. SENATE,Michael Crapo,1000.00,2024-08-09,C000880,Mike Crapo,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2024,year_end,844c9096-95bd-474c-b724-1d6951c90105,feca,PETE RICKETTS FOR SENATE,Pete Ricketts,5000.00,2024-08-20,R000618,Pete Ricketts,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE,National Republican Congressional Committee,15000.00,2025-01-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,NATIONAL REPUBLICAN SENATORIAL COMMITTEE,National Republican Senatorial Committee,15000.00,2025-01-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,REPUBLICAN GOVERNANCE GROUP,Republican Governance Group,5000.00,2025-01-13,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,KEN CALVERT FOR CONGRESS COMMITTEE,Ken Calvert,1000.00,2025-01-27,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,GUTHRIE FOR CONGRESS,Brett Guthrie,5000.00,2025-02-07,G000558,Brett Guthrie,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,TEAM HILL,French Hill,5000.00,2025-02-28,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,WALBERG FOR CONGRESS,Tim Walberg,2500.00,2025-03-04,W000798,Tim Walberg,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,MOODY FOR FLORIDA,Ashley Moody,1000.00,2025-03-04,M001244,Ashley Moody,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,JIM JORDAN FOR CONGRESS,Jim Jordan,1000.00,2025-03-04,J000289,Jim Jordan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,COTTON FOR SENATE,Tom Cotton,5000.00,2025-03-04,C001095,Tom Cotton,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,THOM TILLIS COMMITTEE,Thom Tillis,5000.00,2025-03-07,T000476,Thom Tillis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,ALASKANS FOR DAN SULLIVAN,Dan Sullivan,5000.00,2025-03-07,S001198,Dan Sullivan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,FEDORCHAK FOR ND,Julie Fedorchak,1000.00,2025-03-07,F000482,Julie Fedorchak,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,CELESTE FOR CONGRESS,Celeste Maloy,2000.00,2025-03-07,M001228,Celeste Maloy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,MEUSER FOR CONGRESS,Dan Meuser,1000.00,2025-03-07,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,BRITT FOR ALABAMA INC,Katie Britt,1000.00,2025-03-07,B001319,Katie Boyd Britt,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,BUCHANAN FOR CONGRESS,Vern Buchanan,1000.00,2025-03-07,B001260,Vern Buchanan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,MIKE JOHNSON FOR LOUISIANA,Mike Johnson,2500.00,2025-03-07,J000299,Mike Johnson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,KEN CALVERT FOR CONGRESS COMMITTEE,Ken Calvert,5000.00,2025-03-05,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,ASHLEY HINSON FOR CONGRESS,Ashley Hinson,3000.00,2025-03-07,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,KEVIN KILEY FOR CONGRESS,Kevin Kiley,1000.00,2025-03-28,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,FRIENDS OF MCCORMICK,Rich McCormick,1500.00,2025-03-28,M001218,Richard McCormick,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,MCGUIRE FOR VIRGINIA,John McGuire,1500.00,2025-03-28,M001239,John J. McGuire III,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,DON BACON FOR CONGRESS,Don Bacon,5000.00,2025-03-28,B001298,Don Bacon,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,MR. SOUTHERN MISSOURIAN IN THE HOUSE PAC,Jason Smith,1000.00,2025-03-31,S001195,Jason Smith,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,SELF FOR CONGRESS,Keith Self,1000.00,2025-04-22,S001224,Keith Self,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,SCALISE LEADERSHIP FUND,Steve Scalise,2500.00,2025-04-15,S001176,Steve Scalise,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,CISCOMANI FOR CONGRESS,Juan Ciscomani,2500.00,2025-05-12,C001133,Juan Ciscomani,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,DARRELL ISSA FOR CONGRESS,Darrell Issa,3500.00,2025-04-15,I000056,Darrell Issa,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,GUY FOR CONGRESS,Guy Reschenthaler,2500.00,2025-04-15,R000610,Guy Reschenthaler,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,BILL CASSIDY FOR SENATE,Bill Cassidy,5000.00,2025-05-15,C001075,Bill Cassidy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,TEXANS FOR RONNY JACKSON,Ronny Jackson,1500.00,2025-05-12,J000304,Ronny Jackson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,BRIAN FITZPATRICK FOR ALL OF US,Brian Fitzpatrick,1000.00,2025-05-22,F000466,Brian K. Fitzpatrick,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,ROB WITTMAN FOR CONGRESS,Rob Wittman,5000.00,2025-05-22,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,MAST FOR CONGRESS,Brian Mast,5000.00,2025-05-22,M001199,Brian J. Mast,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,CAPITO FOR WEST VIRGINIA,Shelley Moore Capito,5000.00,2025-05-22,C001047,Shelley Moore Capito,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,TEXANS FOR RONNY JACKSON,Ronny Jackson,1500.00,2025-05-22,J000304,Ronny Jackson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,mid_year,64e57898-47a5-4a32-9511-2de4ce3b4e2d,feca,TEAM JONI,Joni Ernst,2000.00,2025-06-11,E000295,Joni Ernst,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,YOUNG KIM FOR CONGRESS,Young Kim,3500.00,2025-09-15,K000397,Young Kim,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,FRIENDS OF JOHN BARRASSO,John Barrasso,1000.00,2025-09-16,B001261,John Barrasso,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,"FRIENDS OF JIMMY PATRONIS, INC.",Jimmy Patronis,500.00,2025-07-02,P000622,Jimmy Patronis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,MIKE HARIDOPOLOS FOR CONGRESS,Mike Haridopolos,500.00,2025-07-02,H001099,Mike Haridopolos,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,RANDY FINE FOR CONGRESS,Randy Fine,500.00,2025-07-02,F000484,Randy Fine,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,STEIL FOR WISCONSIN,Bryan Steil,2000.00,2025-07-15,S001213,Bryan Steil,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,BRIAN FITZPATRICK FOR ALL OF US,Brian Fitzpatrick,1000.00,2025-07-21,F000466,Brian K. Fitzpatrick,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,MARIO DIAZ-BALART FOR CONGRESS,Mario Diaz-Balart,1500.00,2025-07-21,D000600,Mario Diaz-Balart,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,MCGUIRE FOR VIRGINIA,John McGuire,3500.00,2025-08-29,M001239,John J. McGuire III,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,KEVIN KILEY FOR CONGRESS,Kevin Kiley,4000.00,2025-09-02,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,ASHLEY HINSON FOR CONGRESS,Ashley Hinson,500.00,2025-09-08,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,ASHLEY HINSON FOR CONGRESS,Ashley Hinson,2000.00,2025-09-08,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,LUCAS FOR CONGRESS,Frank Lucas,2500.00,2025-09-08,L000491,Frank D. Lucas,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,JEFF HURD FOR CONGRESS,Jeff Hurd,2500.00,2025-10-29,H001100,Jeff Hurd,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,"LAWLER FOR CONGRESS, INC.",Mike Lawler,3000.00,2025-10-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,MCGUIRE FOR VIRGINIA,John McGuire,5000.00,2025-11-18,M001239,John J. McGuire III,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,GARBARINO FOR CONGRESS,Andrew Garbarino,2500.00,2025-12-01,G000597,Andrew R. Garbarino,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2025,year_end,92a11bba-2f79-41f3-baa0-8f5e925fb2b7,feca,JEFF CRANK FOR CONGRESS,Jeff Crank,1000.00,2025-12-11,C001137,Jeff Crank,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,JAKE ELLZEY FOR CONGRESS,Jake Ellzey,2500.00,2026-03-06,E000071,Jake Ellzey,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,KEAN FOR CONGRESS,Tom Kean,1000.00,2026-02-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,ELECTGABEEVANS.COM,Gabe Evans,1000.00,2026-02-05,E000300,Gabe Evans,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,FRIENDS OF ANDY BARR,Andy Barr,1500.00,2026-04-27,B001282,Andy Barr,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,FRIENDS OF ANDY BARR,Andy Barr,2500.00,2026-05-13,B001282,Andy Barr,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,SCALISE LEADERSHIP FUND,Steve Scalise,2500.00,2026-05-13,S001176,Steve Scalise,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,MARIO DIAZ-BALART FOR CONGRESS,Mario Diaz-Balart,1000.00,2026-05-28,D000600,Mario Diaz-Balart,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,HUSTED FOR SENATE,Jon Husted,1000.00,2026-05-13,H001104,Jon Husted,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,TEAM JORDAN,Jim Jordan,1000.00,2026-05-13,J000289,Jim Jordan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,JOHNSON LEADERSHIP FUND,Mike Johnson,2500.00,2026-05-13,J000299,Mike Johnson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,COLLINS VICTORY FUND,Susan Collins,1000.00,2026-05-14,C001035,Susan M. Collins,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,JOE WILSON FOR CONGRESS,Joe Wilson,1000.00,2026-05-28,W000795,Joe Wilson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,MOODY FOR FLORIDA,Ashley Moody,2500.00,2026-06-09,M001244,Ashley Moody,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,HYDE-SMITH VICTORY FUND,Cindy Hyde-Smith,1000.00,2026-06-19,H001079,Cindy Hyde-Smith,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,NATHANIEL MORAN FOR CONGRESS,Nathaniel Moran,1000.00,2026-06-16,M001224,Nathaniel Moran,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,NATHANIEL MORAN FOR CONGRESS,Nathaniel Moran,500.00,2026-06-08,M001224,Nathaniel Moran,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,ROUNDS FOR SENATE,Mike Rounds,1000.00,2026-06-16,R000605,Mike Rounds,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,ROB WITTMAN FOR CONGRESS,Rob Wittman,1000.00,2026-06-16,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,SEND IN THE SEAL PAC,Tim Sheehy,1000.00,2026-06-16,S001232,Tim Sheehy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,BERGMANFORCONGRESS,Jack Bergman,1000.00,2026-06-16,B001301,Jack Bergman,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,MIKE ROGERS FOR CONGRESS,Mike Rogers,1000.00,2026-03-11,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,COLE FOR CONGRESS,Tom Cole,1000.00,2026-03-25,C001053,Tom Cole,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,WOMACK FOR CONGRESS COMMITTEE,Steve Womack,1000.00,2026-05-14,W000809,Steve Womack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,ASHLEY FOR IOWA,Ashley Hinson,1000.00,2026-04-27,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,TEAM HILL,French Hill,5000.00,2026-05-28,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,TEXANS FOR RONNY JACKSON,Ronny Jackson,4000.00,2026-05-27,J000304,Ronny Jackson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,RUSS ADERHOLT FOR CONGRESS,Russ Aderholt,1000.00,2026-01-16,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,BRIAN FITZPATRICK FOR ALL OF US,Brian Fitzpatrick,1000.00,2026-02-05,F000466,Brian K. Fitzpatrick,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,FRIENDS OF TODD YOUNG,Todd Young,2000.00,2026-02-12,Y000064,Todd Young,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,FRIENDS OF TODD YOUNG,Todd Young,1000.00,2026-02-12,Y000064,Todd Young,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,"LAWLER FOR CONGRESS, INC.",Mike Lawler,1000.00,2026-02-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,"LAWLER FOR CONGRESS, INC.",Mike Lawler,2000.00,2026-03-16,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,VALADAO FOR CONGRESS,David Valadao,1000.00,2026-02-05,V000129,David G. Valadao,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,TEXANS FOR RONNY JACKSON,Ronny Jackson,1000.00,2026-02-13,J000304,Ronny Jackson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,MILLER-MEEKS FOR CONGRESS,Candice Miller-Meeks,1000.00,2026-02-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,CISCOMANI FOR CONGRESS,Juan Ciscomani,1000.00,2026-02-05,C001133,Juan Ciscomani,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,KIM VICTORY FUND,Young Kim,3500.00,2026-03-05,K000397,Young Kim,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,CLAUDIA TENNEY FOR CONGRESS,Claudia Tenney,1000.00,2026-03-12,T000478,Claudia Tenney,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L08,2026,mid_year,dfe245dd-7404-478a-88c1-e16c9fec81ea,feca,JEFF HURD FOR CONGRESS,Jeff Hurd,2000.00,2026-03-19,H001100,Jeff Hurd,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,mid_year,5c81df45-9da8-4cee-bd18-97862d51cf08,feca,AMODEI FOR NEVADA,Congressman Mark Amodei,1000.00,2023-02-28,A000369,Mark E. Amodei,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,mid_year,5c81df45-9da8-4cee-bd18-97862d51cf08,feca,FRIENDS OF DAVE JOYCE,Congressman Dave Joyce,1000.00,2023-02-28,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,mid_year,5c81df45-9da8-4cee-bd18-97862d51cf08,feca,MARIO DIAZ-BALART FOR CONGRESS,Congressman Mario Diaz-Balart,1000.00,2023-02-28,D000600,Mario Diaz-Balart,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,mid_year,5c81df45-9da8-4cee-bd18-97862d51cf08,feca,EMMER FOR CONGRESS,Congressman Tom Emmer Jr.,1000.00,2023-05-31,E000294,Tom Emmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,mid_year,5c81df45-9da8-4cee-bd18-97862d51cf08,feca,FRIENDS OF DAVE JOYCE,Congressman Dave Joyce,1000.00,2023-05-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,mid_year,5c81df45-9da8-4cee-bd18-97862d51cf08,feca,HERN FOR CONGRESS,Congressman Kevin Hern,1000.00,2023-05-31,H001082,Kevin Hern,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,mid_year,5c81df45-9da8-4cee-bd18-97862d51cf08,feca,TIM SCOTT FOR AMERICA,Senator Tim Scott,2000.00,2023-05-31,S001184,Tim Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,mid_year,5c81df45-9da8-4cee-bd18-97862d51cf08,feca,VALADAO FOR CONGRESS,Congressman David Valadao,1000.00,2023-05-31,V000129,David G. Valadao,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,AMODEI FOR NEVADA,Rep. Mark Amodei,1000.00,2023-07-21,A000369,Mark E. Amodei,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,KEN CALVERT FOR CONGRESS,Rep. Ken Calvert,1000.00,2023-07-21,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,MEUSER FOR CONGRESS,Rep. Dan Meuser,1000.00,2023-07-21,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,MARC FOR US INC,Rep. Marc Molinaro,1000.00,2023-07-21,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,BOOZMAN FOR ARKANSAS,Sen. John Boozman,1000.00,2023-10-02,B001236,John Boozman,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,COLE FOR CONGRESS,Rep. Tom Cole,1000.00,2023-10-02,C001053,Tom Cole,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,GARBARINO FOR CONGRESS,Rep. Andrew Garbarino,1000.00,2023-10-02,G000597,Andrew R. Garbarino,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,FRIENDS OF DAVE JOYCE,Rep. Dave Joyce,1000.00,2023-10-02,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,LAWLER FOR CONGRESS,Rep. Mike Lawler,1000.00,2023-10-02,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,JULIA LETLOW FOR CONGRESS,Rep. Julia Letlow,1000.00,2023-10-02,L000595,Julia Letlow,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,MEUSER FOR CONGRESS,Rep. Dan Meuser,1000.00,2023-10-02,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,MIKE ROGERS FOR CONGRESS,Rep. Mike Rogers,1000.00,2023-10-02,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,JASON SMITH FOR CONGRESS,Rep. Jason Smith,1000.00,2023-10-02,S001195,Jason Smith,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,VALADAO FOR CONGRESS,Rep. David Valadao,1000.00,2023-10-02,V000129,David G. Valadao,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,MAST FOR CONGRESS,Rep. Brian Mast,1000.00,2023-11-13,M001199,Brian J. Mast,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2023,year_end,2f9d385c-1841-4e3c-bcc0-8a3fe02145de,feca,ROGERS FOR SENATE,Former Rep. Mike Rogers,1000.00,2023-11-13,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,KEN CALVERT FOR CONGRESS,Rep. Ken Calvert,2000.00,2024-06-05,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,VINCE FONG FOR CONGRESS,Rep. Vince Fong,1000.00,2024-01-31,F000480,Vince Fong,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,KEN CALVERT FOR CONGRESS,Rep. Ken Calvert,1000.00,2024-02-16,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,LORI CHAVEZ-DEREMER FOR CONGRESS,Rep. Lori Chavez-DeRemer,1000.00,2024-02-16,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,JOHN DUARTE FOR CONGRESS,Rep. John Duarte,1000.00,2024-02-16,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,FRIENDS OF DUSTY JOHNSON,Rep. Dusty Johnson,1000.00,2024-02-16,J000301,Dusty Johnson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,JULIA LETLOW FOR CONGRESS,Rep. Julia Letlow,1000.00,2024-02-16,L000595,Julia Letlow,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,MAST FOR CONGRESS,Rep. Brian Mast,1000.00,2024-02-16,M001199,Brian J. Mast,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE,Republican Members of the House,2500.00,2024-02-16,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,VALADAO FOR CONGRESS,Rep. David Valadao,1000.00,2024-02-16,V000129,David G. Valadao,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,VAN ORDEN FOR CONGRESS,Rep. Derrick Van Orden,1000.00,2024-02-16,V000135,Derrick Van Orden,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,JOHN CURTIS FOR UTAH,Rep. John Curtis,1000.00,2024-04-30,C001114,John R. Curtis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,VINCE FONG FOR CONGRESS,Rep. Vince Fong,1000.00,2024-04-30,F000480,Vince Fong,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,TEAM RONNY,Rep. Ronny Jackson,1000.00,2024-04-30,J000304,Ronny Jackson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,FRIENDS OF DAVE JOYCE,Rep. David Joyce,1000.00,2024-04-30,J000295,David P. Joyce,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,ALASKANS FOR NICK BEGICH,Nicholas Begich,1000.00,2024-04-30,B001323,Nicholas J. Begich III,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,mid_year,a5da658a-7f04-489b-94e7-b41c1ced133e,feca,TRUMP 47 COMMITTEE,Fmr. Pres. Donald Trump,5000.00,2024-05-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,year_end,f46debfe-adee-4614-bd21-0b2320a18991,feca,SCOTT BAUGH FOR CONGRESS,Mr. Scott Baugh,2000.00,2024-08-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2024,year_end,f46debfe-adee-4614-bd21-0b2320a18991,feca,MIKE ROGERS FOR CONGRESS,Rep. Mike Rogers,2000.00,2024-10-07,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,KEN CALVERT FOR CONGRESS,Rep. Ken Calvert,1000.00,2025-01-15,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,VINCE FONG FOR CONGRESS,Rep. Vince Fong,1000.00,2025-01-15,F000480,Vince Fong,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,GARBARINO FOR CONGRESS,Rep. Andrew Garbarino,1000.00,2025-01-15,G000597,Andrew R. Garbarino,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,MULLIN FOR AMERICA,Rep. Markwayne Mullin,1000.00,2025-01-15,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,VALADAO FOR CONGRESS,Rep. David Valadao,1000.00,2025-01-15,V000129,David G. Valadao,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,HERN FOR CONGRESS,Rep. Kevin Hern,1500.00,2025-03-11,H001082,Kevin Hern,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,MEUSER FOR CONGRESS,Rep. Dan Meuser,2000.00,2025-03-11,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,VALADAO FOR CONGRESS,Rep. David Valadao,1000.00,2025-03-11,V000129,David G. Valadao,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,ANDY BARR FOR CONGRESS,Rep. Andy Barr,1000.00,2025-06-11,B001282,Andy Barr,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,BUDDY CARTER FOR CONGRESS,Rep. Buddy Carter,1000.00,2025-06-11,C001103,"Earl L. ""Buddy"" Carter",first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,mid_year,a0442473-08a1-4f65-99b3-d2d09753ba15,feca,ROGER WILLIAMS FOR CONGRESS,Rep. Roger Williams,1000.00,2025-06-11,W000816,Roger Williams,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2025,year_end,9ca4bb18-1958-4397-8a9c-fbcb27a419d2,feca,KEN CALVERT FOR CONGRESS,Congressman Ken Calvert,1000.00,2025-08-08,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2026,mid_year,c601d6f8-476a-4bad-bcd9-716730246a2d,feca,FRIENDS OF ANDY BARR,Representative Andy Barr,1000.00,2026-04-21,B001282,Andy Barr,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2026,mid_year,c601d6f8-476a-4bad-bcd9-716730246a2d,feca,FRIENDS OF DAVE JOYCE,Representative Dave Joyce,1000.00,2026-04-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L09,2026,mid_year,c601d6f8-476a-4bad-bcd9-716730246a2d,feca,HERN FOR SENATE,Representative Kevin Hern,1000.00,2026-04-23,H001082,Kevin Hern,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L10,2024,mid_year,0be910dd-50c8-402d-b981-e204add95e50,feca,"TRUMP NATIONAL COMMITTEE JFC, INC.","TRUMP NATIONAL COMMITTEE JFC, INC.",500.00,2024-05-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L10,2024,mid_year,480b7f02-3128-47b9-8c82-f77d7d57f06a,feca,MIKE HARIDOPOLOS FOR CONGRESS,Candidate Mike Haridopolos,500.00,2024-05-31,H001099,Mike Haridopolos,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L10,2024,mid_year,480b7f02-3128-47b9-8c82-f77d7d57f06a,feca,DONALD J. TRUMP FOR PRESIDENT 2024,President Donald J. Trump,450.00,2024-05-31,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L10,2024,mid_year,480b7f02-3128-47b9-8c82-f77d7d57f06a,feca,MIKE HARIDOPOLOS FOR CONGRESS,Candidate Mike Haridopolos,500.00,2024-05-22,H001099,Mike Haridopolos,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L10,2025,year_end,0eae3a1f-8680-44b4-ac02-5222a6f6624c,feca,MAST FOR CONGRESS,Rep. Brian Mast,1000.00,2025-10-29,M001199,Brian J. Mast,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2023,mid_year,47e0f309-f767-41fa-9fb1-625adb05179c,feca,MARSHA FOR SENATE,Marsha Blackburn,1000.00,2023-05-10,B001243,Marsha Blackburn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2023,mid_year,47e0f309-f767-41fa-9fb1-625adb05179c,feca,WICKER FOR SENATE,Roger Wicker,1000.00,2023-06-27,W000437,Roger F. Wicker,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2023,year_end,77b42fbc-e52a-404d-a6fd-581ec32ea38d,feca,ROGERS FOR SENATE,Mike Rogers,1000.00,2023-11-21,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2023,year_end,77b42fbc-e52a-404d-a6fd-581ec32ea38d,feca,VANCE VICTORY,"Joint Fundraising Committee of JD Vance For Senate Inc., Working for Ohio (Sen. JD Vance Leadership PAC), Ohio Republican Party State Central & Executive Committee and the NRSC",1000.00,2023-08-10,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2023,year_end,77b42fbc-e52a-404d-a6fd-581ec32ea38d,feca,"JD VANCE FOR SENATE, INC.",JD Vance,1000.00,2023-08-10,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2023,year_end,77b42fbc-e52a-404d-a6fd-581ec32ea38d,feca,SCALISE FOR CONGRESS,Steve Scalise,1000.00,2023-08-21,S001176,Steve Scalise,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2023,year_end,77b42fbc-e52a-404d-a6fd-581ec32ea38d,feca,SCALISE LEADERSHIP FUND,"Joint Fundraising Committee of Eye of the Tiger PAC (Rep. Steve Scalise Leadership PAC), NRCC and Scalise for Congress",1000.00,2023-08-21,S001176,Steve Scalise,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2023,year_end,77b42fbc-e52a-404d-a6fd-581ec32ea38d,feca,CHUCK EDWARDS FOR CONGRESS,Chuck Edwards,1000.00,2023-10-04,E000246,Chuck Edwards,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2023,year_end,77b42fbc-e52a-404d-a6fd-581ec32ea38d,feca,JOHNSON LEADERSHIP FUND,"Joint Fundraising Committee of Mike Johnson for Louisiana, American Revival PAC (Rep. Mike Johnson Leadership PAC) and NRCC",1000.00,2023-11-20,J000299,Mike Johnson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2024,mid_year,5aa44608-7483-4809-b063-c5519fb37885,feca,MIKE DUGAN FOR CONGRESS,Mike Dugan,1000.00,2024-02-26,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2024,mid_year,5aa44608-7483-4809-b063-c5519fb37885,feca,RICK W. ALLEN FOR CONGRESS,Rick Allen,1000.00,2024-03-08,A000372,Rick W. Allen,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2024,mid_year,5aa44608-7483-4809-b063-c5519fb37885,feca,FRIENDS OF JOHN BARRASSO,John Barrasso,1000.00,2024-04-25,B001261,John Barrasso,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2024,mid_year,5aa44608-7483-4809-b063-c5519fb37885,feca,KEVIN BISHOP FOR CONGRESS,Kevin Bishop,1000.00,2024-05-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2024,mid_year,5aa44608-7483-4809-b063-c5519fb37885,feca,MIKE DUGAN FOR CONGRESS,Mike Dugan,1000.00,2024-05-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2024,mid_year,5aa44608-7483-4809-b063-c5519fb37885,feca,MIKE ROGERS FOR SENATE,Mike Rogers,1000.00,2024-06-03,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2024,mid_year,5aa44608-7483-4809-b063-c5519fb37885,feca,LARRY HOGAN FOR MARYLAND,Larry Hogan,1000.00,2024-06-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,mid_year,d1d1d3a4-8c39-4a5f-85d8-fdb88e95a032,feca,TEXANS FOR SENATOR JOHN CORNYN INC.,John Cornyn,1000.00,2025-05-12,C001056,John Cornyn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,RICK W ALLEN FOR CONGRESS,Rick Allen,1000.00,2025-08-11,A000372,Rick W. Allen,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,"SCOTT BROWN FOR NEW HAMPSHIRE, INC.",Scott Brown,1000.00,2025-08-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,ROGERS FOR SENATE,Mike Rogers,1000.00,2025-09-16,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,COLLINS FOR SENATOR,Susan Collins,1000.00,2025-09-20,C001035,Susan M. Collins,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,DAN SULLIVAN FOR ALASKA,Dan Sullivan,1000.00,2025-09-24,S001198,Dan Sullivan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,BILL CASSIDY FOR US SENATE,Bill Cassidy,1000.00,2025-09-25,C001075,Bill Cassidy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,"TEAM GRAHAM, INC.",Lindsey Graham,1000.00,2025-09-26,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,MARK WARNER FOR SENATE,Mark Warner,1000.00,2025-10-13,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,WHATLEY FOR SENATE,Michael Whatley,1000.00,2025-10-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,JIM KINGSTON FOR CONGRESS,Jim Kingston,1000.00,2025-11-19,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2025,year_end,46854864-196e-4939-aa6b-05e80003860c,feca,"TEXANS FOR SENATOR JOHN CORNYN, INC.",John Cornyn,1000.00,2025-11-22,C001056,John Cornyn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2026,mid_year,b9aba34d-806d-4fca-833f-800ddc8ec591,feca,TEXANS FOR SENATOR JOHN CORNYN INC.,John Cornyn,1000.00,2026-02-02,C001056,John Cornyn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2026,mid_year,b9aba34d-806d-4fca-833f-800ddc8ec591,feca,COLLINS FOR SENATE,Susan Collins,2000.00,2026-03-15,C001035,Susan M. Collins,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L11,2026,mid_year,b9aba34d-806d-4fca-833f-800ddc8ec591,feca,CLAY FULLER FOR CONGRESS,Clay Fuller,1000.00,2026-03-23,F000485,Clay Fuller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2025,year_end,244dec27-9c59-463f-a303-45c408893446,feca,MIKE JOHNSON FOR LOUISIANA,Mike Johnson,2500.00,2025-11-08,J000299,Mike Johnson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2025,year_end,244dec27-9c59-463f-a303-45c408893446,feca,EMMER FOR CONGRESS,Tom Emmer,2500.00,2025-11-11,E000294,Tom Emmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2025,year_end,244dec27-9c59-463f-a303-45c408893446,feca,HUDSON FOR CONGRESS,Richard Hudson,2500.00,2025-11-08,H001067,Richard Hudson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2025,year_end,244dec27-9c59-463f-a303-45c408893446,feca,FRIENDS OF JIM KINGSTON,Jim Kingston,1000.00,2025-11-18,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2025,year_end,244dec27-9c59-463f-a303-45c408893446,feca,SCALISE FOR CONGRESS,Steve Scalise,2500.00,2025-11-10,S001176,Steve Scalise,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2025,year_end,244dec27-9c59-463f-a303-45c408893446,feca,SHREVE FOR CONGRESS,Jefferson Shreve,1000.00,2025-11-18,S001229,Jefferson Shreve,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2025,year_end,244dec27-9c59-463f-a303-45c408893446,feca,MCCLAIN FOR CONGRESS,Lisa McClain,1000.00,2025-11-18,M001136,Lisa C. McClain,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2025,year_end,244dec27-9c59-463f-a303-45c408893446,feca,ELISE FOR GOVERNOR,Elise Stefanic,2500.00,2025-11-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,AUSTIN SCOTT FOR CONGRESS,Congressman Austin Scott,1000.00,2026-01-06,S001189,Austin Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,LAWLER FOR CONGRESS,Congressman Mike Lawler,1000.00,2026-01-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,AUSTIN SCOTT FOR CONGRESS,Congressman Austin Scott,1000.00,2026-01-08,S001189,Austin Scott,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,BLAKE MOORE FOR CONGRESS,Congressman Blake Moore,1000.00,2026-01-21,M001213,Blake D. Moore,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,LALOTA FOR CONGRESS,Congressman Nick LaLota,1000.00,2026-01-21,L000598,Nick LaLota,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,MILLER-MEEKS FOR CONGRESS,Congresswoman Marianette Miller-Meeks,2500.00,2026-01-21,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,VALADAO FOR CONGRESS,Congressman David Valadao,1000.00,2026-01-21,V000129,David G. Valadao,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,GALLAGHER FOR CONGRESS,Congressman James Gallagher,1500.00,2026-02-11,G000607,James Gallagher,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,CASSIDY LEADERSHIP FUND,Senator Bill Cassidy,5000.00,2026-02-25,C001075,Bill Cassidy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,ELECTGABEEVANS.COM,Congressman Gabe Evans,1000.00,2026-03-02,E000300,Gabe Evans,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,COLE FOR CONGRESS,Congressman Tom Cole,2500.00,2026-03-09,C001053,Tom Cole,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,HOUCHIN FOR CONGRESS,Congresswoman Erin Houchin,1000.00,2026-03-09,H001093,Erin Houchin,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,JEFF HURD FOR CONGRESS,Jeff Hurd,1000.00,2026-03-11,H001100,Jeff Hurd,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,WHATLEY VICTORY COMMITTEE,Michael Whatley,1000.00,2026-03-11,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,MORGAN GRIFFITH FOR CONGRESS,Congressman Morgan Griffith,2500.00,2026-03-18,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,VICTORY EAST,Congressman Greg Murphy,5000.00,2026-03-18,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,AL FOR MONTANA,Al Olszewski,1041.02,2026-03-20,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,DR. SAM FOR CONGRESS,Sam McCowan,1041.02,2026-03-20,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,FRIENDS OF JOHN COWAN,John Cowan,1041.02,2026-03-20,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,MILLER-MEEKS FOR CONGRESS,Congresswoman Marianette Miller-Meeks,2500.00,2026-03-20,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,JIM JORDAN FOR CONGRESS,Congressman Jim Jordan,2500.00,2026-03-22,J000289,Jim Jordan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,DIANA DEGETTE FOR CONGRESS,Congresswoman Diana DeGette,2500.00,2026-03-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,DR. JOHN JOYCE FOR CONGRESS,Congressman John Joyce,1041.02,2026-04-18,J000302,John Joyce,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,ALVARADO FOR KENTUCKY,Ralph Alvarado,1041.02,2026-05-20,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,EVAN POWER FOR CONGRESS COMMITTEE,Evan Power,1000.00,2026-05-20,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,JULIA LETLOW FOR LOUISIANA,Congresswoman Julia Letlow,3500.00,2026-05-20,L000595,Julia Letlow,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,DEGETTE FOR CONGRESS,Congresswoman Diana DeGette,2500.00,2026-06-11,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,NRSC,National Republican Senatorial Committee,2500.00,2026-06-11,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L12,2026,mid_year,a6701ef4-3534-49d7-95bd-4a0ccc32341d,feca,LISA MCCLAIN FOR CONGRESS,Congresswoman Lisa McClain,2500.00,2026-06-25,M001136,Lisa C. McClain,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Lori Chavez-DeRemer for Congress,2000.00,2023-02-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Cathy McMorris Rodgers for Congress,2000.00,2023-02-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Claudia Tenney for Congress,1000.00,2023-02-08,T000478,Claudia Tenney,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Jeff Duncan for Congress,1000.00,2023-02-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Balderson for Congress,1000.00,2023-02-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Dan Crenshaw for Congress,1000.00,2023-02-08,C001120,Dan Crenshaw,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Armstrong for Congress,1000.00,2023-02-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Ciscomani for Congress,1000.00,2023-03-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Jay Obernolte for Congress,500.00,2023-03-14,O000019,Jay Obernolte,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Kiggans for Congress,500.00,2023-03-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Cliff Bentz for Congress,1000.00,2023-03-14,B000668,Cliff Bentz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Collins for Senator,1000.00,2023-03-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Marsha for Senate,1000.00,2023-03-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Mullin for America,1000.00,2023-03-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Finstad for Congress,1000.00,2023-04-24,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Guthrie for Congress,1000.00,2023-05-03,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Hunt for Congress,1000.00,2023-05-03,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Armstrong for Congress,1000.00,2023-06-01,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,d1668653-d716-496f-a109-ae0ee5132eec,feca,WALDEN FOR CONGRESS,Ashley Hinson for Congress,1000.00,2023-06-01,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,LORI CHAVEZ-DEREMER FOR CONGRESS,Lori Chavez-DeRemer,2000.00,2023-02-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,CATHY MCMORRIS RODGERS FOR CONGRESS,Hon. Cathy McMorris Rodgers,2000.00,2023-02-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,CLAUDIA TENNEY FOR CONGRESS,Hon. Claudia Tenney,1000.00,2023-02-08,T000478,Claudia Tenney,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,JEFF DUNCAN FOR CONGRESS,Hon. Jeff Duncan,1000.00,2023-02-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,BALDERSON FOR CONGRESS,Hon. Troy Balderson,1000.00,2023-02-08,B001306,Troy Balderson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,DAN CRENSHAW FOR CONGRESS,Hon. Dan Crenshaw,1000.00,2023-02-08,C001120,Dan Crenshaw,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,ARMSTRONG FOR CONGRESS,Hon. Kelly Armstrong,1000.00,2023-02-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,CISCOMANI FOR CONGRESS,Hon. Juan Ciscomani,1000.00,2023-03-14,C001133,Juan Ciscomani,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,JAY OBERNOLTE FOR CONGRESS,Hon. Jay Obernolte,500.00,2023-03-14,O000019,Jay Obernolte,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,KIGGANS FOR CONGRESS,Hon Jen Kiggans,500.00,2023-03-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,CLIFF BENTZ FOR CONGRESS,Hon. Cliff Bentz,1000.00,2023-03-14,B000668,Cliff Bentz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,COLLINS FOR SENATOR,Hon. Susan Collins,1000.00,2023-03-14,C001035,Susan M. Collins,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,MARSHA FOR SENATE,Hon. Marsha Blackburn,1000.00,2023-03-14,B001243,Marsha Blackburn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,MULLIN FOR AMERICA,Hon. MarkWayne Mullin,1000.00,2023-03-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,FINSTAD FOR CONGRESS,Hon. Brad Finstad,1000.00,2023-04-24,F000475,Brad Finstad,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,GUTHRIE FOR CONGRESS,Hon. Brett Guthrie,1000.00,2023-05-03,G000558,Brett Guthrie,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,ARMSTRONG FOR CONGRESS,Hon. Kelly Armstrong,1000.00,2023-06-01,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,mid_year,17946f07-3810-415a-8956-6d616bfa7c6e,feca,ASHLEY HINSON FOR CONGRESS,Hon. Ashley Hinson,1000.00,2023-06-01,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,LATTA FOR CONGRESS,Rep. Bob Latta,2500.00,2023-07-03,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,AARON BEAN FOR CONGRESS,Aaron Bean,1000.00,2023-07-10,B001314,Aaron Bean,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,DAN NEWHOUSE FOR CONGRESS,Dan Newhouse,1000.00,2023-07-13,N000189,Dan Newhouse,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,WEBER FOR CONGRESS,Randy Weber,2000.00,2023-09-29,W000814,"Randy K. Weber, Sr.",first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,CURTIS FOR CONGRESS,John Curtis,2000.00,2023-09-29,C001114,John R. Curtis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,CELESTE FOR CONGRESS,Celeste Maloy,1000.00,2023-10-25,M001228,Celeste Maloy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,KAY GRANGER CAMPAIGN FUND,Kay Granger,1000.00,2023-10-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,JAY OBERNOLTE FOR CONGRESS,Jay Obernolte,2000.00,2023-10-25,O000019,Jay Obernolte,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,JOHNSON FOR CONGRESS,Bill Johnson,1000.00,2023-10-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,NATHANIEL MORAN FOR CONGRESS,Nathaniel Moran,1000.00,2023-10-25,M001224,Nathaniel Moran,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,LAUREL LEE FOR CONGRESS,Laurel Lee,1000.00,2023-12-15,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2023,year_end,d2c5c7bd-1d38-49bd-9e9d-a93a7c291a01,feca,CLIFF BENTZ FOR CONGRESS,Cliff Bentz,2000.00,2023-12-15,B000668,Cliff Bentz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,LORI CHAVEZ-DEREMER FOR CONGRESS,Hon. Lori Chavez-DeRemer,2000.00,2024-01-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,WOMACK FOR CONGRESS COMMITTEE,Hon. Steve Womack,2000.00,2024-01-25,W000809,Steve Womack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,FRIENDS OF NEAL DUNN,Hon. Neal Dunn,1000.00,2024-01-25,D000628,Neal P. Dunn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,CATHY MCMORRIS RODGERS FOR CONGRESS,Hon. Cathy McMorris Rodgers,2000.00,2024-01-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,ARMSTRONG FOR GOVERNOR,Hon. Kelly Armstrong,2000.00,2024-01-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,DIANA FOR CONGRESS,Hon. Diana Harshbarger,2500.00,2024-01-25,H001086,Diana Harshbarger,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,BUDDY CARTER FOR CONGRESS,Hon. Buddy Carter,2500.00,2024-01-25,C001103,"Earl L. ""Buddy"" Carter",first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,LAUREL LEE FOR CONGRESS,Hon. Laurel Lee,1000.00,2024-02-26,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,JOHN JAMES FOR MICHIGAN,Hon. John James,1000.00,2024-02-26,J000307,John James,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,GARY PALMER FOR CONGRESS,Hon. Gary Palmer,1000.00,2024-02-26,P000609,Gary J. Palmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,LATTA FOR CONGRESS,Hon. Bob Latta,1000.00,2024-02-26,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,FRIENDS OF DUSTY JOHNSON,Hon. Dusty Johnson,1000.00,2024-02-26,J000301,Dusty Johnson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,DR. JOHN JOYCE FOR CONGRESS,Hon. John Joyce,1000.00,2024-02-26,J000302,John Joyce,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,GUTHRIE FOR CONGRESS,Hon. Brett Guthrie,1000.00,2024-03-25,G000558,Brett Guthrie,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,AARON BEAN FOR CONGRESS,Hon. Aaron Bean,1000.00,2024-03-25,B001314,Aaron Bean,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,KIGGANS FOR CONGRESS,Hon. Jen Kiggans,1000.00,2024-03-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,CAROL FOR CONGRESS,Hon. Carol Miller,1000.00,2024-03-25,M001205,Carol D. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,CAREY FOR CONGRESS,Hon. Mike Carey,1000.00,2024-03-25,C001126,Mike Carey,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,MARC FOR US,Hon. Marcus Molinaro,2000.00,2024-03-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,PFLUGER VICTORY COMMITTEE,Hon. August Pfluger,1000.00,2024-03-25,P000048,August Pfluger,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,FRIENDS OF DAVE JOYCE,Hon. Dave Joyce,2000.00,2024-04-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,"WINNING FOR AMERICA PAC, (SEN. ERIC SCHMITT LEADERSHIP PAC)",Sen. Eric Schmitt,1000.00,2024-04-25,S001227,Eric Schmitt,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,MICHELLE STEEL FOR CONGRESS,Hon. Michelle Steel,1000.00,2024-05-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,DR. JOHN JOYCE FOR CONGRESS,Hon. John Joyce,1000.00,2024-05-25,J000302,John Joyce,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,GUTHRIE FOR CONGRESS,Hon. Brett Guthrie,1000.00,2024-05-25,G000558,Brett Guthrie,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,MIKE BOST FOR CONGRESS COMMITTEE,Hon. Mike Bost,1000.00,2024-05-25,B001295,Mike Bost,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,LAUREL LEE FOR CONGRESS,Hon. Laurel Lee,1000.00,2024-05-25,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,CELESTE FOR CONGRESS,Hon. Celeste Maloy,2500.00,2024-05-25,M001228,Celeste Maloy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,9eb85c15-f057-4dd8-ac42-f17185966022,feca,BRIAN JACK FOR CONGRESS,Hon. Brian Jack,2000.00,2024-06-04,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,b9b5b8c6-aabf-4737-ac50-6ee4dce2f0c2,feca,ROGERS FOR SENATE,Hon. Mike Rogers,2000.00,2024-01-25,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,b9b5b8c6-aabf-4737-ac50-6ee4dce2f0c2,feca,ROGERS FOR SENATE,Hon. Mike Rogers,1000.00,2024-03-25,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,mid_year,b9b5b8c6-aabf-4737-ac50-6ee4dce2f0c2,feca,JEFF HEARD FOR CONGRESS,Hon. Jeff Heard,1000.00,2024-03-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Jay Obernolte for Congress,1000.00,2024-07-25,O000019,Jay Obernolte,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Kat for Congress,1000.00,2024-07-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Friends of Todd Young,2500.00,2024-07-25,Y000064,Todd Young,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Messmer for Congress,2000.00,2024-07-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Dr. Brian Babin for Congress,1000.00,2024-07-25,B001291,Brian Babin,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Vince Fong for Congress,1000.00,2024-07-25,F000480,Vince Fong,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Bilirakis for Congress,2500.00,2024-08-13,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Friends of Neal Dunn,1000.00,2024-08-13,D000628,Neal P. Dunn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Rulli for Ohio,1000.00,2024-08-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Hudson for Congress,1000.00,2024-09-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Ken Calvert for Congress Committee,2000.00,2024-09-25,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Brian Jack for Congress,2000.00,2024-09-25,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Advance the Senate,5000.00,2024-09-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Amodei for Nevada,1000.00,2024-09-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Deb Fischer for US Senate,2000.00,2024-09-25,F000463,Deb Fischer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Jeff Hurd for Congress,1000.00,2024-09-25,H001100,Jeff Hurd,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,DCR PAC,5000.00,2024-09-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Marsha for Senate,1000.00,2024-09-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Guy for Congress,1000.00,2024-10-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Guthrie for Congress,1000.00,2024-10-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Scalise for Congress,2000.00,2024-09-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Jeff Crank for Congress,1000.00,2024-10-23,C001137,Jeff Crank,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,52a62996-3a72-4585-94f0-989d6941db90,feca,WALDEN FOR CONGRESS,Latta for Congress,500.00,2024-10-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,JAY OBERNOLTE FOR CONGRESS,Rep. Jay Obernolte,1000.00,2024-07-25,O000019,Jay Obernolte,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,KAT FOR CONGRESS,Rep. Kat Cammack,1000.00,2024-07-25,C001039,Kat Cammack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,FRIENDS OF TODD YOUNG,Sen. Todd Young,2500.00,2024-07-25,Y000064,Todd Young,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,MESSMER FOR CONGRESS,Rep. Mark Messmer,2000.00,2024-07-25,M001233,Mark B. Messmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,DR. BRIAN BABIN FOR CONGRESS,Rep. Brian Babin,1000.00,2024-07-25,B001291,Brian Babin,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,VINCE FONG FOR CONGRESS,Rep. Vince Fong,1000.00,2024-07-25,F000480,Vince Fong,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,BILIRAKIS FOR CONGRESS,Rep. Gus Bilirakis,2500.00,2024-08-13,B001257,Gus M. Bilirakis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,FRIENDS OF NEAL DUNN,Rep. Neal Dunn,1000.00,2024-08-13,D000628,Neal P. Dunn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,RULLI FOR OHIO,Rep. Michael Rulli,1000.00,2024-08-25,R000619,Michael A. Rulli,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,HUDSON FOR CONGRESS,Rep. Richard Hudson,1000.00,2024-09-25,H001067,Richard Hudson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,KEN CALVERT FOR CONGRESS COMMITTEE,Rep. Ken Calvert,2000.00,2024-09-25,C000059,Ken Calvert,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,BRIAN JACK FOR CONGRESS,Rep. Brian Jack,2000.00,2024-09-25,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,ADVANCE THE SENATE JFC,Advance the Senate,5000.00,2024-09-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,AMODEI FOR NEVADA,Rep. Mark Amodei,1000.00,2024-09-25,A000369,Mark E. Amodei,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,DEB FISCHER FOR US SENATE,Sen. Deb Fischer,2000.00,2024-09-25,F000463,Deb Fischer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,JEFF HURD FOR CONGRESS,Rep. Jeff Hurd,1000.00,2024-09-25,H001100,Jeff Hurd,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,DCR PAC,DCR PAC (Rep. David Rouzer Leadership PAC),5000.00,2024-09-25,R000603,David Rouzer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,MARSHA FOR SENATE,Sen. Marsha Blackburn,1000.00,2024-09-25,B001243,Marsha Blackburn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,GUY FOR CONGRESS,Rep. Guy Reschenthaler,1000.00,2024-10-23,R000610,Guy Reschenthaler,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,GUTHRIE FOR CONGRESS,Rep. Brett Guthrie,1000.00,2024-10-23,G000558,Brett Guthrie,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,SCALISE FOR CONGRESS,Rep. Steve Scalise,2000.00,2024-09-23,S001176,Steve Scalise,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,JEFF CRANK FOR CONGRESS,Rep. Jeff Crank,1000.00,2024-10-23,C001137,Jeff Crank,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,LATTA FOR CONGRESS,Rep. Bob Latta,500.00,2024-10-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,JAY OBERNOLTE FOR CONGRESS,Rep. Jay Obernolte,2500.00,2024-09-17,O000019,Jay Obernolte,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,34526c56-ac9e-4c13-99d3-59b1e9cc70c7,feca,LORI CHAVEZ-DEREMER FOR CONGRESS,Rep. Lori Chavez-Deremer,2500.00,2024-08-18,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2024,year_end,f0e42a26-4423-4924-822c-cfd3eb03d376,feca,BUDD PAC,Ted Budd,250.00,2024-11-20,B001305,Ted Budd,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,BUDDY CARTER FOR CONGRESS,Hon. Buddy Carter,2000.00,2025-01-20,C001103,"Earl L. ""Buddy"" Carter",first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,CISCOMANI CONGRESS,Hon. Juan Ciscomani,1000.00,2025-03-25,C001133,Juan Ciscomani,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,CLIFF BENTZ FOR CONGRESS,Hon. Cliff Bentz,500.00,2025-03-25,B000668,Cliff Bentz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,CLIFF BENTZ FOR CONGRESS,Hon. Cliff Bentz,1000.00,2025-03-27,B000668,Cliff Bentz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,DIANA FOR CONGRESS,Hon. Diana Harshbarger,2000.00,2025-01-20,H001086,Diana Harshbarger,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,FEDORCHAK FOR ND,Hon. Julie Fedorchak,500.00,2025-03-25,F000482,Julie Fedorchak,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,FRY FOR CONGRESS,Hon. Russell Fry,1000.00,2025-03-25,F000478,Russell Fry,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,GUTHRIE FOR CONGRESS,Hon. Brett Guthrie,2000.00,2025-01-20,G000558,Brett Guthrie,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,HUDSON FOR CONGRESS,Hon. Richard Hudson,2000.00,2025-01-20,H001067,Richard Hudson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,JASON SMITH FOR CONGRESS,Hon. Jason Smith,1000.00,2025-06-25,S001195,Jason Smith,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,KAT FOR CONGRESS,Hon. Kat Cammack,2000.00,2025-01-20,C001039,Kat Cammack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,LISA MURKOWSKI FOR US SENATE,Hon. Lisa Murkowski,1000.00,2025-03-25,M001153,Lisa Murkowski,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,MARIO DIAZ-BALART FOR CONGRESS,Hon. Mario Diaz-Balart,1000.00,2025-03-25,D000600,Mario Diaz-Balart,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,MIKE KELLY FOR CONGRESS,Hon. Mike Kelly,1000.00,2025-03-25,K000376,Mike Kelly,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,MORGAN GRIFFITH FOR CONGRESS,Hon. Morgan Griffith,2000.00,2025-01-20,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,PETE SESSIONS FOR CONGRESS,Hon. Pete Sessions,1000.00,2025-06-25,S000250,Pete Sessions,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,PFLUGER VICTORY COMMITTEE,Hon. August Pfluger,1000.00,2025-06-25,P000048,August Pfluger,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,RANDY FINE FOR CONGRESS,Hon. Randy Fine,1000.00,2025-01-20,F000484,Randy Fine,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,TED CRUZ VICTORY FUND,Hon. Ted Cruz,1000.00,2025-06-25,C001098,Ted Cruz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,TIM SHEEHY FOR MONTANA,Hon. Tim Sheehy,1000.00,2025-03-25,S001232,Tim Sheehy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,VALADAO FOR CONGRESS,Hon. David Valadao,1000.00,2025-03-25,V000129,David G. Valadao,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,AARON BEAN FOR CONGRESS,Hon. Aaron Bean,1000.00,2025-04-25,B001314,Aaron Bean,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,CRAIG GOLDMAN FOR CONGRESS,Hon. Craig Goldman,500.00,2025-04-25,G000601,Craig A. Goldman,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,mid_year,2a2fb170-95a0-4fb2-8455-a764e7b8afce,feca,HUSTED FOR SENATE,Hon. John Husted,1000.00,2025-04-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,CLIFF BENTZ FOR CONGRESS,Rep. Cliff Bentz,1000.00,2025-07-25,B000668,Cliff Bentz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,HUSTED FOR SENATE,Senator Jon Husted,2000.00,2025-09-25,H001104,Jon Husted,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,MOODY FOR FLORIDA,Senator Ashley Moody,2000.00,2025-09-25,M001244,Ashley Moody,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,ASHLEY HINSON FOR CONGRESS,Rep. Ashley Hinson,1500.00,2025-09-25,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,BRIAN JACK FOR CONGRESS,Rep. Brian Jack,1000.00,2025-09-25,J000311,Brian Jack,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,CAROL FOR CONGRESS,Rep. Carol Miller,1000.00,2025-09-25,M001205,Carol D. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,RUSS FULCHER FOR IDAHO,Rep. Russ Fulcher,1000.00,2025-09-25,F000469,Russ Fulcher,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,FRIENDS OF MICHAEL GUEST,Rep. Michael Guest,1000.00,2025-09-25,G000591,Michael Guest,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,JAY OBERNOLTE FOR CONGRESS,Rep. Jay Obernolte,1000.00,2025-10-25,O000019,Jay Obernolte,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,VOTE BAUMGARTNER FOR CONGRESS,Rep. Michael Baumgartner,500.00,2025-10-25,B001322,Michael Baumgartner,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,CRAIG GOLDMAN FOR CONGRESS,Rep. Craig Goldman,2500.00,2025-12-05,G000601,Craig A. Goldman,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,CLAUDIA TENNEY FOR CONGRESS,Rep. Claudia Tenney,1500.00,2025-12-16,T000478,Claudia Tenney,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,DAINES FOR MONTANA,Senator Steve Daines,2500.00,2025-12-16,D000618,Steve Daines,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,FRIENDS OF NEAL DUNN,Rep. Neal Dunn,2000.00,2025-12-16,D000628,Neal P. Dunn,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2025,year_end,c19209e2-de57-44cf-b94a-4e80e33e9289,feca,SUNUNU SENATOR,John Sununu,2500.00,2025-12-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,ZINKE FOR CONGRESS,Rep. Ryan Zinke,3000.00,2026-02-25,Z000018,Ryan K. Zinke,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,MORGAN GRIFFITH FOR CONGRESS,Rep. Morgan Griffith,2000.00,2026-02-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,CAREY FOR CONGRESS,Rep. Mike Carey,2000.00,2026-02-25,C001126,Mike Carey,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,GUTHRIE FOR CONGRESS,Rep. Brett Guthrie,2500.00,2026-02-25,G000558,Brett Guthrie,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,LAUREL LEE FOR CONGRESS,Rep. Laurel Lee,500.00,2026-03-25,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,RICK CRAWFORD FOR CONGRESS,Rep. Rick Crawford,1000.00,2026-03-25,C001087,"Eric A. ""Rick"" Crawford",first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,MARK TEIXEIRA FOR CONGRESS,Mark Teixeira,1000.00,2026-03-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,LAUREL LEE FOR CONGRESS,Rep. Laurel Lee,500.00,2026-05-25,L000597,Laurel M. Lee,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,BALDERSON FOR CONGRESS,Rep. Troy Balderson,2000.00,2026-05-25,B001306,Troy Balderson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,TED CRUZ VICTORY FUND,Sen. Ted Cruz,2500.00,2026-05-25,C001098,Ted Cruz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,FLINT FOR MONTANA,Aaron Flint,2000.00,2026-05-25,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,RUSS FULCHER FOR IDAHO,Rep. Russ Fulcher,1000.00,2026-05-25,F000469,Russ Fulcher,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,CAPITO FOR WEST VIRGINIA,Sen. Shelley Moore Capito,1000.00,2026-05-25,C001047,Shelley Moore Capito,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,AARON BEAN FOR CONGRESS,Rep. Aaron Bean,1000.00,2026-05-25,B001314,Aaron Bean,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,GOLDMAN VICTORY FUND,Rep. Craig Goldman,1000.00,2026-05-25,G000601,Craig A. Goldman,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,CLIFF BENTZ FOR CONGRESS,Rep. Cliff Bentz,1000.00,2026-05-25,B000668,Cliff Bentz,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,JAKE ELLZEY FOR CONGRESS,Rep. Jake Ellzey,2000.00,2026-06-25,E000071,Jake Ellzey,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,SIMPSON FOR CONGRESS,Rep. Mike Simpson,2000.00,2026-06-25,S001148,Michael K. Simpson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L13,2026,mid_year,017b91a0-9ce6-4332-a9f9-a11c50332ff4,feca,WESTERMAN FOR CONGRESS,Rep. Bruce Westerman,2500.00,2026-06-25,W000821,Bruce Westerman,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2025,mid_year,17ae8727-e109-4647-8342-b63ce9267c2b,feca,"LUMMIS FOR WYOMING, INC.",Cynthia Lummis,1000.00,2025-06-29,L000571,Cynthia M. Lummis,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2025,mid_year,17ae8727-e109-4647-8342-b63ce9267c2b,feca,ROUNDS FOR SENATE,Mike Rounds,1000.00,2025-06-29,R000605,Mike Rounds,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2025,mid_year,17ae8727-e109-4647-8342-b63ce9267c2b,feca,JIM RISCH FOR US SENATE COMMITTEE,Jim Risch,1000.00,2025-06-29,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2025,year_end,f1c1dd58-ef86-4bdc-966d-a82fb319fd75,feca,WHATLEY FOR SENATE,Michael Whatley,1000.00,2025-12-07,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2025,year_end,f1c1dd58-ef86-4bdc-966d-a82fb319fd75,feca,THE PAT HARRIGAN COMMITTEE,Pat Harrigan,1000.00,2025-12-07,H001101,Pat Harrigan,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2025,year_end,f1c1dd58-ef86-4bdc-966d-a82fb319fd75,feca,ROGERS FOR SENATE,Mike Rogers,1000.00,2025-12-30,R000575,Mike Rogers,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2025,year_end,f1c1dd58-ef86-4bdc-966d-a82fb319fd75,feca,FRIENDS TO ELECT DR. GREG MURPHY TO CONGRESS,Greg Murphy,1000.00,2025-12-07,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2026,mid_year,957f837b-8a45-45e2-8d90-504ffd8a5042,feca,ASHLEY FOR IOWA,Ashley Hinson,1000.00,2026-06-23,H001091,Ashley Hinson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2026,mid_year,957f837b-8a45-45e2-8d90-504ffd8a5042,feca,HUSTED FOR SENATE,Jon Husted,1000.00,2026-06-23,H001104,Jon Husted,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2026,mid_year,957f837b-8a45-45e2-8d90-504ffd8a5042,feca,SUNUNU FOR SENATE,John Sununu,1000.00,2026-06-23,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2026,mid_year,957f837b-8a45-45e2-8d90-504ffd8a5042,feca,CASSIDY FOR SENATE,Bill Cassidy,1000.00,2026-05-11,C001075,Bill Cassidy,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L14,2026,mid_year,957f837b-8a45-45e2-8d90-504ffd8a5042,feca,COLLINS VICTORY COMMITTEE,"Joint Fundraising Fund of Collins for Senator, Dirigo PAC (Sen. Susan Collins Leadership PAC), Pine Tree Results PAC and NRSC",1000.00,2026-03-09,C001035,Susan M. Collins,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2023,mid_year,e6c222eb-71f2-493b-8a6c-b9f26e7973ff,feca,BILL JOHNSON FOR CONGRESS COMMITTEE,Rep. Bill Johnson (OH),2000.00,2023-03-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2023,mid_year,e6c222eb-71f2-493b-8a6c-b9f26e7973ff,feca,WENSTRUP FOR CONGRESS,Rep. Brad Wenstrup (OH),2000.00,2023-04-07,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2023,mid_year,e6c222eb-71f2-493b-8a6c-b9f26e7973ff,feca,PROTECT THE HOUSE 2024,Rep. Kevin McCarthy (CA),10000.00,2023-06-12,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2023,mid_year,e6c222eb-71f2-493b-8a6c-b9f26e7973ff,feca,PROTECT THE HOUSE 2024,Rep. Kevin McCarthy (CA),5000.00,2023-06-26,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2023,year_end,2b737977-a397-4de2-aca2-2bbdd230692a,feca,CAROL FOR CONGRESS,Rep. Carol Miller (WV),2000.00,2023-12-11,M001205,Carol D. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2023,year_end,2b737977-a397-4de2-aca2-2bbdd230692a,feca,FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC,Rep. Young Kim (CA),5000.00,2023-12-20,K000397,Young Kim,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2023,year_end,2b737977-a397-4de2-aca2-2bbdd230692a,feca,LATTA FOR CONGRESS,Rep. Bob Latta (OH),2000.00,2023-10-26,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2023,year_end,2b737977-a397-4de2-aca2-2bbdd230692a,feca,BUILDING AND RESTORING THE AMERICAN DREAM FUND,Rep. Brad Wenstrup (OH),5000.00,2023-07-05,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2023,year_end,2b737977-a397-4de2-aca2-2bbdd230692a,feca,BOLD ACTIVE CONSERVATIVES OF NEBRASKA PAC - BACON PAC,Rep. Don Bacon (NE),5000.00,2023-09-25,B001298,Don Bacon,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,MAX MILLER FOR CONGRESS,Rep. Max Miller,2000.00,2024-01-04,M001222,Max L. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,RULLI FOR CONGRESS,Mike Rulli,2000.00,2024-02-01,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,WILKIN FOR CONGRESS,Shane Wilkin,2000.00,2024-02-06,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,DEFEND US PAC,Rep. Mike Carey,35000.00,2024-02-29,C001126,Mike Carey,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,MAX MILLER FOR CONGRESS,Rep. Max Miller,2000.00,2024-03-29,M001222,Max L. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,CAREY FOR CONGRESS,Rep. Mike Carey,2000.00,2024-04-26,C001126,Mike Carey,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,CAROL FOR CONGRESS,Rep. Carol Miller,1000.00,2024-04-26,M001205,Carol D. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,GROW THE MAJORITY,Rep. Tom Emmer,25000.00,2024-06-21,E000294,Tom Emmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,KIDD FOR CONGRESS,Larry Kidd,2000.00,2024-02-20,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,WILKIN FOR CONGRESS,Shane Wilkin,2000.00,2024-02-20,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,79871e97-e62a-4d32-8313-e084b6257c35,feca,MAX MILLER FOR CONGRESS,Rep. Max Miller,1000.00,2024-03-25,M001222,Max L. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,mid_year,41667adc-4ff0-4ee9-a7e1-7d9364576b22,feca,DEFEND US PAC,Rep. Troy Balderson,35000.00,2024-02-29,B001306,Troy Balderson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,year_end,3cd4bd49-77aa-4d2f-9ac7-a26857ed2466,feca,MAGGIE'S LIST,N/A,1000.00,2024-07-08,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,year_end,3cd4bd49-77aa-4d2f-9ac7-a26857ed2466,feca,BERNIE MORENO FOR OHIO,Sen. Bernie Moreno (R-OH),1000.00,2024-08-05,M001242,Bernie Moreno,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,year_end,3cd4bd49-77aa-4d2f-9ac7-a26857ed2466,feca,RULLI FOR OHIO,Rep. Mike Rulli (R-OH),1000.00,2024-08-26,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,year_end,3cd4bd49-77aa-4d2f-9ac7-a26857ed2466,feca,COUGHLIN FOR CONGRESS,Kevin Coughlin,2000.00,2024-09-13,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,year_end,3cd4bd49-77aa-4d2f-9ac7-a26857ed2466,feca,EMMER MAJORITY BUILDERS,Rep. Tom Emmer (R-MN),25000.00,2024-09-24,E000294,Tom Emmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2024,year_end,3cd4bd49-77aa-4d2f-9ac7-a26857ed2466,feca,CAREY FOR CONGRESS,Rep. Mike Carey (R-OH),1000.00,2024-10-21,C001126,Mike Carey,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,mid_year,518818ca-04e0-4e24-b419-3f45a6ba6246,feca,FRIENDS OF ANDY BARR COMMITTEE,Rep. Andy Barr,2000.00,2025-03-14,B001282,Andy Barr,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,mid_year,518818ca-04e0-4e24-b419-3f45a6ba6246,feca,MAX MILLER FOR CONGRESS,Rep. Max Miller,1000.00,2025-06-27,M001222,Max L. Miller,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,mid_year,518818ca-04e0-4e24-b419-3f45a6ba6246,feca,RULLI FOR OHIO,Rep. Mike Rulli,1000.00,2025-04-14,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,year_end,85cb8297-a4bd-46fb-8ca8-f315689a7efc,feca,GUTHRIE FOR CONGRESS,Rep. Brett Guthrie (KY),1000.00,2025-11-03,G000558,Brett Guthrie,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,year_end,85cb8297-a4bd-46fb-8ca8-f315689a7efc,feca,DAVE TAYLOR FOR CONGRESS,Rep. David Taylor (OH),1000.00,2025-09-17,T000490,David J. Taylor,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,year_end,85cb8297-a4bd-46fb-8ca8-f315689a7efc,feca,HUSTED FOR SENATE,Sen. Jon Husted (OH),3500.00,2025-12-11,H001104,Jon Husted,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,year_end,85cb8297-a4bd-46fb-8ca8-f315689a7efc,feca,BERNIE MORENO FOR SENATE,Sen. Bernie Moreno (OH),3500.00,2025-12-11,M001242,Bernie Moreno,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,year_end,85cb8297-a4bd-46fb-8ca8-f315689a7efc,feca,JEFF CRANK FOR CONGRESS,Rep. Jeff Crank (CO),2000.00,2025-08-01,C001137,Jeff Crank,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,year_end,85cb8297-a4bd-46fb-8ca8-f315689a7efc,feca,"SCOTT BROWN FOR NEW HAMPSHIRE, INC.",Sen. Scott Brown,2000.00,2025-08-12,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,year_end,85cb8297-a4bd-46fb-8ca8-f315689a7efc,feca,DAVE TAYLOR FOR CONGRESS,Rep. David Taylor (OH),2000.00,2025-09-16,T000490,David J. Taylor,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,year_end,85cb8297-a4bd-46fb-8ca8-f315689a7efc,feca,FOREVER YOUTH ORGANIZATION UTILIZING A NEW GENERATION PAC,Sen. Todd Young (IN),5000.00,2025-09-25,Y000064,Todd Young,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2025,year_end,0f14807c-5544-46ca-b767-f81f6f1ab05b,feca,DAVE TAYLOR FOR CONGRESS,Rep. David Taylor (OH),1000.00,2025-09-24,T000490,David J. Taylor,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2026,mid_year,4eea493d-207c-47a2-9058-5b672099c5a9,feca,LATTA FOR CONGRESS,Rep. Bob Latta (OH),1000.00,2026-01-21,,,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2026,mid_year,4eea493d-207c-47a2-9058-5b672099c5a9,feca,EMMER MAJORITY BUILDERS,Rep. Tom Emmer (MN),25000.00,2026-04-14,E000294,Tom Emmer,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2026,mid_year,4eea493d-207c-47a2-9058-5b672099c5a9,feca,DAVIDSON VICTORY FUND,Rep. Warren Davidson (OH),2000.00,2026-05-18,D000626,Warren Davidson,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00
+L15,2026,mid_year,4eea493d-207c-47a2-9058-5b672099c5a9,feca,HUSTED FOR SENATE,Sen. Jon Husted (OH),3500.00,2026-06-30,H001104,Jon Husted,first+last name in honoree/payee text,2026-11-17T12:12:55-05:00

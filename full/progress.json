@@ -1,0 +1,108 @@
+{
+ "updated_at": "2026-11-17T14:08:17-05:00",
+ "run": "full build (money + X, top 300)",
+ "stages": {
+  "lda_crawl_ld2": {
+   "status": "done",
+   "files": "lda/ld2_universe/ld2_*.jsonl.gz (2022Q4-2026Q3)"
+  },
+  "lda_crawl_ld203": {
+   "status": "done",
+   "files": "lda/ld203_universe/ld203_*.jsonl.gz (2023 mid - 2026 mid)"
+  },
+  "selection": {
+   "status": "done",
+   "outputs": [
+    "full/lobbyist_universe_scored.csv",
+    "full/people_universe_scored.csv",
+    "full/selected_top300.csv",
+    "full/selected_top300_by_lda_id.csv"
+   ]
+  },
+  "fec_pass": {
+   "status": "done",
+   "outputs": [
+    "full/fec_indiv24_gopmember_poolname.jsonl.gz",
+    "full/fec_indiv26_gopmember_poolname.jsonl.gz"
+   ],
+   "note": "indiv zips deleted after pass; built from FEC bulk files, so no DEMO_KEY gaps; v2 build excludes 917 rows to party committees (type X/Y/Z)"
+  },
+  "money_edges": {
+   "status": "done",
+   "outputs": [
+    "full/edges_money_ld203.csv",
+    "full/edges_money_fec_raw.csv",
+    "full/edges_money_former_employer.csv",
+    "full/edges_money_pairs.csv"
+   ],
+   "note": "v2 2026-11-17: party-committee FEC rows excluded (NRSC->Sullivan linkage artifact)"
+  },
+  "ranking_money": {
+   "status": "done v2 2026-11-17T14:08:17-05:00",
+   "outputs": [
+    "full/ranking_money.csv"
+   ],
+   "weights": "0.315 income, 0.315 $, 0.18 members, 0.09 former employer, 0.10 F3L bundling (inert: no matches, rescaled /0.9)",
+   "backups": "*.prev_20261117_1407.*"
+  },
+  "x_layer": {
+   "status": "done for all 300 names (top-88 pass + 212-name rest pass)",
+   "done_calls_top88": 79,
+   "done_calls_rest": 177,
+   "lookup_calls_rest": 2,
+   "queue": "full/x/pending_queries_rest.json + pending_queries_rest_supp.json (unchanged); status in full/x/pending_queries_rest_status.json",
+   "call_log": "full/x/rest_run/calls_rest.csv",
+   "raw_hits": "full/x/rest_run/hits_rest_raw.jsonl",
+   "budget_left_today": 575,
+   "not_done": "@handle-mention queries for the 212 names (handles unknown)"
+  },
+  "rank_x_combined": {
+   "status": "done 2026-11-17T14:08:17-05:00 (rerun on money v2)",
+   "note": "zero-weight not_relationship rows now excluded from member/post counts (Walden X 25->0)",
+   "backups": "ranking_x.prev_20261117_1350.csv, ranking_combined.prev_20261117_1350.csv, rank_x_combined.prev_20261117.py"
+  },
+  "plots": {
+   "status": "done 2026-11-17T14:08:17-05:00 (money v2)",
+   "outputs": [
+    "full/network_top50.png",
+    "full/ranking_money_top25.png"
+   ],
+   "note": "$ escaped in money labels; network regenerated (Costa/Hull entered top 50, new X edges); X edges filtered to in-era",
+   "backups": "*.prev_20261117.png, plots.prev_20261117.py"
+  },
+  "docs": {
+   "status": "done",
+   "outputs": [
+    "full/SELECTION_RULES.md",
+    "full/FULL_REPORT.md"
+   ]
+  },
+  "fec_bundling_f3l": {
+   "status": "done 2026-11-17T14:08:17-05:00",
+   "outputs": [
+    "full/edges_money_bundling.csv",
+    "full/bundling/f3l_sa3l_all_2024_2026.csv",
+    "full/bundling/bundling_top300_to_nonmember_committees.csv",
+    "full/bundling/gop_member_committees.csv"
+   ],
+   "raw": [
+    "full/bundling/f3l_filings_raw.jsonl",
+    "full/bundling/f3l_efile_raw.jsonl",
+    "full/bundling/f3l_committees.jsonl",
+    "full/bundling/lpac_raw.jsonl",
+    "full/bundling/gop_f3l_alltime.jsonl",
+    "full/bundling/fecfiles/*.fec"
+   ],
+   "summary": {
+    "computed_at": "2026-11-17T14:06:22-05:00",
+    "filings_cycles_2024_2026": 468,
+    "lines": 1180,
+    "inscope_usd": 297943.33,
+    "inscope_matched_usd": 0,
+    "context_matched_usd": 11205462.63
+   },
+   "note": "0 in-scope bundling matched to top 300; only GOP-member F3L in 2023-26 is Messmer (AIPAC PAC $297,943.33). Trump-committee bundling by 5 of the 300 recorded as unscored context.",
+   "api_log": "full/bundling/api_calls.log (key redacted)"
+  }
+ }
+}
