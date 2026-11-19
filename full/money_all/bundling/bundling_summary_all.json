@@ -1,0 +1,24 @@
+{
+ "computed_at": "2026-11-18T19:28:18-05:00",
+ "filings": 608,
+ "sa3l_lines": 1454,
+ "lines_most_recent_2023_26": 1188,
+ "agg_rows": 625,
+ "member_rows": 175,
+ "member_usd": 23327794.21,
+ "member_usd_by_party": {
+  "Republican": 297943.33,
+  "Democrat": 23029850.88
+ },
+ "member_committees_filing": 61,
+ "members_filing": 60,
+ "scored_rows": 175,
+ "scored_usd": 23327794.21,
+ "scored_usd_by_party": {
+  "Republican": 297943.33,
+  "Democrat": 23029850.88
+ },
+ "scored_ind_usd": 0,
+ "scored_org_usd": 23327794.21,
+ "context_nonmember_matched_usd": 82506190.55
+}

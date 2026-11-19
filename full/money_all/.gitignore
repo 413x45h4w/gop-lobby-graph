@@ -1,0 +1,14 @@
+# money_all: huge raw FEC bulk zips stay local only (indiv24.zip 4.2GB, indiv26.zip 2.6GB)
+raw/fec_bulk/*.zip
+# CSVs over 10MB are committed as .csv.gz (gzip -k copies); the uncompressed working copies stay local
+edges_fec_all.csv
+edges_ld203_all.csv
+edges_ld203_all_dedup.csv
+edges_ld203_all_dedup.prev_20261118_1921.csv
+edges_ld203_all_dedup.prev_20261118_1923.csv
+edges_ld203_all_dedup.prev_20261118_1924.csv
+edges_ld203_all_dedup.prev_20261118_1928.csv
+edges_money_pairs_all.csv
+edges_money_pairs_all.prev_20261118_1923.csv
+edges_money_pairs_all.prev_20261118_1924.csv
+edges_money_pairs_all.prev_20261118_1928.csv

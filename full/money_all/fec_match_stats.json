@@ -1,0 +1,17 @@
+{
+ "computed_at": "2026-11-18T19:28:03-05:00",
+ "stats": {
+  "name_hit": 459539,
+  "high_employer_matches_registrant": 73754,
+  "medium_lobbying_occupation": 4418,
+  "low_dc_area_professional": 8117,
+  "ambiguous": 4064,
+  "pre2023": 137
+ },
+ "rejected": {
+  "no_employer_or_occupation_evidence": 369049
+ },
+ "rows": 86289,
+ "people": 6242,
+ "ambiguous_rows": 4064
+}
