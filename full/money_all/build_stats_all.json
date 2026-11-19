@@ -1,5 +1,5 @@
 {
- "computed_at": "2026-11-18T19:28:26-05:00",
+ "computed_at": "2026-11-18T19:44:59-05:00",
  "fec_rows_party_committee_excluded": 3203,
  "fec_party_committee_raw_usd": 6199207,
  "fec_party_committees_excluded": [
@@ -14,18 +14,18 @@
   }
  },
  "ld203": {
-  "items_all": 114879,
-  "items_after_fec_dedup": 62688,
-  "lobbyists": 5502,
+  "items_all": 114847,
+  "items_after_fec_dedup": 62656,
+  "lobbyists": 5499,
   "members": 533,
   "raw_usd_by_party": {
-   "D": 33517504,
-   "R": 57475993,
+   "D": 33463414,
+   "R": 57446993,
    "I": 137050
   },
   "scored_usd_by_party": {
-   "D": 24719009,
-   "R": 42911660,
+   "D": 24686571,
+   "R": 42894660,
    "I": 108550
   }
  },
@@ -60,13 +60,13 @@
   "ambiguous_surname_edges": 0
  },
  "pairs": {
-  "pairs": 71803,
-  "pairs_with_usd": 70165,
+  "pairs": 71783,
+  "pairs_with_usd": 70145,
   "members_reached": 538,
-  "scored_total_usd": 139385905,
+  "scored_total_usd": 139336467,
   "scored_usd_by_party": {
-   "R": 84111506,
-   "D": 55029364,
+   "R": 84094506,
+   "D": 54996926,
    "I": 245035
   }
  }

@@ -34,10 +34,17 @@ def plausible(prev,mem):
     if len(prev)>=3 and len(f)>=3 and prev[:3]==f[:3]: return True
     if ed(prev,f)<=2: return True
   return prev in G.norm(mem['name']).split()
+CMTW={'FOR','PAC','VICTORY','LEADERSHIP','FUND','COMMITTEE','CONGRESS','SENATE','TEAM','ACTION','MAJORITY'}
 def match(hon,payee):
   m=G.match(hon,payee)
   if not m or m[2]!='unique_last': return m,''
   mem=[x for x in G.MEM if x['bio']==m[0]][0]
+  # added 2026-11-18 (PAC layer): surname used as an ordinary word after AND/THE ('Georgia Safe and Strong' is not Rep. Dale Strong)
+  for t in (hon,payee):
+    toks=G.norm(t).split()
+    for i,w in enumerate(toks):
+      if w==mem['last'] and i>0 and toks[i-1] in ('AND','THE') and not (i+1<len(toks) and toks[i+1] in CMTW):
+        return None,f"surname {mem['last']} used after '{toks[i-1]}' in '{t}', not a name (would have matched {mem['name']})"
   for t in (hon,payee):
     toks=G.norm(t).split()
     for i,w in enumerate(toks):

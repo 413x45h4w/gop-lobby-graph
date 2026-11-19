@@ -1,0 +1,141 @@
+{
+ "lobbyist_to_pac": {
+  "rows": 171611,
+  "fec_rows": 164081,
+  "ld203_rows_after_fec_dedup": 7530,
+  "ld203_dup_of_fec": 8334,
+  "lobbyists": 8523,
+  "committees": 2598,
+  "pairs": 24147,
+  "usd": 88735311,
+  "usd_by_committee_lean": {
+   "D": 18719209,
+   "mixed": 19835745,
+   "R": 26172967,
+   "unknown": 24007390
+  },
+  "ld203_unresolved_rows": 11988,
+  "ld203_unresolved_usd": 9885643,
+  "usd_by_committee_class": {
+   "joint_fundraising_committee": 25273976,
+   "party_national_committee": 23725275,
+   "corporate_pac": 15452459,
+   "nonconnected_pac": 8767501,
+   "trade_association_pac": 5114715,
+   "hybrid_pac": 3401421,
+   "party_committee_state_local": 1880714,
+   "leadership_pac_nonmember": 1364754,
+   "membership_pac": 1148868,
+   "leadership_pac_of_member": 1045298,
+   "super_pac_independent_expenditure_only": 978635,
+   "labor_pac": 235594,
+   "corp_without_stock_pac": 229109,
+   "cooperative_pac": 61388,
+   "member_campaign_or_jfc": 34166,
+   "independent_expenditor_person_or_group": 13059,
+   "party_committee_national": 7780,
+   "other_U": 600
+  }
+ },
+ "pac_to_member": {
+  "ie_oppose": {
+   "R": 603575938,
+   "D": 423101062,
+   "I": 1343487
+  },
+  "ie_support": {
+   "R": 373437528,
+   "D": 235093950,
+   "I": 1522821
+  },
+  "party_coordinated": {
+   "R": 85303407,
+   "D": 46729066
+  },
+  "direct_contribution": {
+   "R": 439814435,
+   "D": 361260751,
+   "I": 2645038
+  },
+  "communication_cost_support": {
+   "D": 3180227,
+   "R": 3192382,
+   "I": 39360
+  },
+  "direct_inkind": {
+   "D": 750271,
+   "R": 220620
+  },
+  "communication_cost_oppose": {
+   "R": 8402,
+   "D": 130
+  }
+ },
+ "pac_to_member_edges": {
+  "ie_oppose": 1127,
+  "ie_support": 3168,
+  "party_coordinated": 239,
+  "direct_contribution": 215593,
+  "communication_cost_support": 221,
+  "direct_inkind": 590,
+  "communication_cost_oppose": 20
+ },
+ "pac_to_member_pacs": 5483,
+ "indirect": {
+  "pairs": 822131,
+  "lobbyists": 7909,
+  "skipped": {
+   "no_receipts_in_webk": 46858
+  },
+  "jfcs_with_participants": 508,
+  "indirect_pac_direct_usd": {
+   "R": 9843250,
+   "D": 6236702,
+   "I": 56639
+  },
+  "indirect_ie_support_usd": {
+   "R": 64503,
+   "D": 157648,
+   "I": 2
+  },
+  "indirect_ie_oppose_usd": {
+   "R": 546936,
+   "D": 475307,
+   "I": 2
+  },
+  "jfc_split_usd": {
+   "R": 5931460,
+   "D": 3131769,
+   "I": 4550
+  }
+ },
+ "registrant_ld203": {
+  "items": 302093,
+  "registrants": 2202,
+  "members": 536,
+  "raw_usd_by_party": {
+   "R": 396617825,
+   "D": 307378678,
+   "I": 2287516
+  },
+  "capped_usd_by_party": {
+   "R": 388546060,
+   "D": 304789120,
+   "I": 2276516
+  },
+  "lobbyists_credited": 9707
+ },
+ "officers": {
+  "edges": 796,
+  "lobbyists": 669,
+  "committees": 614,
+  "by_role": {
+   "treasurer(fec_cm_bulk)": 456,
+   "custodian_of_records(form1)": 140,
+   "designated_agent(form1)": 200
+  },
+  "of_member_committees": 0,
+  "ambiguous_rows": 1083,
+  "detail_calls": 1148
+ }
+}

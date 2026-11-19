@@ -12,3 +12,20 @@ edges_money_pairs_all.csv
 edges_money_pairs_all.prev_20261118_1923.csv
 edges_money_pairs_all.prev_20261118_1924.csv
 edges_money_pairs_all.prev_20261118_1928.csv
+# PAC layer (added 2026-11-18 ET): all raw FEC bulk files stay local; big CSVs committed as .csv.gz; earlier-pass .prev_ copies of big CSVs stay local
+raw/fec_bulk/
+edges_indirect_lobbyist_pac_member.csv
+edges_indirect_lobbyist_pac_member.prev_*.csv
+edges_lobbyist_to_pac_all.csv
+edges_lobbyist_to_pac_all.prev_*.csv
+edges_pac_to_member_all.csv
+edges_pac_to_member_all.prev_*.csv
+edges_registrant_ld203_to_member.csv
+edges_registrant_ld203_to_member.prev_*.csv
+edges_ld203_all_dedup.prev_*.csv
+edges_money_pairs_all.prev_*.csv
+pac/lobbyist_to_pac_fec_rows.csv
+pac/registrant_ld203_to_committee.csv
+pac/registrant_ld203_to_committee.prev_*.csv
+pac/__pycache__/
+__pycache__/

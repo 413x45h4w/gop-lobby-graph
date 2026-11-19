@@ -1,0 +1,73 @@
+{
+ "computed_at": "2026-11-18T19:28:26-05:00",
+ "fec_rows_party_committee_excluded": 3203,
+ "fec_party_committee_raw_usd": 6199207,
+ "fec_party_committees_excluded": [
+  "C00027466",
+  "C00143743"
+ ],
+ "former_employer_rejected": {
+  "edges": 296,
+  "by_reason": {
+   "ambiguous legislator name (not scored)": 253,
+   "list of >=3 legislators with no staff-role word (contact list, not employment)": 43
+  }
+ },
+ "ld203": {
+  "items_all": 114879,
+  "items_after_fec_dedup": 62688,
+  "lobbyists": 5502,
+  "members": 533,
+  "raw_usd_by_party": {
+   "D": 33517504,
+   "R": 57475993,
+   "I": 137050
+  },
+  "scored_usd_by_party": {
+   "D": 24719009,
+   "R": 42911660,
+   "I": 108550
+  }
+ },
+ "fec": {
+  "rows_all_conf": 83086,
+  "rows_scored": 72901,
+  "rows_high": 68760,
+  "rows_medium": 4141,
+  "lobbyists": 5795,
+  "members": 536,
+  "raw_usd_by_party": {
+   "R": 41506875,
+   "D": 30312973,
+   "I": 136485
+  },
+  "scored_usd_by_party": {
+   "R": 41199785,
+   "D": 30310373,
+   "I": 136485
+  },
+  "leadership_pac_rows": 7447
+ },
+ "former_employer": {
+  "edges": 2083,
+  "lobbyists": 1648,
+  "members": 387,
+  "by_party": {
+   "R": 1071,
+   "D": 997,
+   "I": 15
+  },
+  "ambiguous_surname_edges": 0
+ },
+ "pairs": {
+  "pairs": 71803,
+  "pairs_with_usd": 70165,
+  "members_reached": 538,
+  "scored_total_usd": 139385905,
+  "scored_usd_by_party": {
+   "R": 84111506,
+   "D": 55029364,
+   "I": 245035
+  }
+ }
+}
