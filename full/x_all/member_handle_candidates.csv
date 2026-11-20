@@ -1,0 +1,817 @@
+bioguide,member,party,chamber,state,handle,source,in_gop_layer,built_at
+S001195,Jason Smith,R,House,MO,RepJasonSmith,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001176,Steve Scalise,R,House,LA,SteveScalise,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000558,Brett Guthrie,R,House,KY,RepGuthrie,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000558,Brett Guthrie,R,House,KY,brettguthrie,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+J000299,Mike Johnson,R,House,LA,RepMikeJohnson,congress-legislators official,1,2026-11-18T20:09:01-05:00
+J000299,Mike Johnson,R,House,LA,MikeJohnson,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+J000299,Mike Johnson,R,House,LA,SpeakerJohnson,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C000059,Ken Calvert,R,House,CA,KenCalvert,congress-legislators official,1,2026-11-18T20:09:01-05:00
+E000294,Tom Emmer,R,House,MN,RepTomEmmer,congress-legislators official,1,2026-11-18T20:09:01-05:00
+E000294,Tom Emmer,R,House,MN,GOPMajorityWhip,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001053,Tom Cole,R,House,OK,TomColeOK04,congress-legislators official,1,2026-11-18T20:09:01-05:00
+P000034,"Frank Pallone, Jr.",D,House,NJ,FrankPallone,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000034,"Frank Pallone, Jr.",D,House,NJ,pallonefornj,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H001046,Martin Heinrich,D,Senate,NM,MartinHeinrich,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001046,Martin Heinrich,D,Senate,NM,SenatorHeinrich,wikidata P2002,0,2026-11-18T20:09:01-05:00
+W000805,Mark R. Warner,D,Senate,VA,MarkWarner,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000805,Mark R. Warner,D,Senate,VA,MarkWarnerVA,wikidata P2002,0,2026-11-18T20:09:01-05:00
+T000250,John Thune,R,Senate,SD,SenJohnThune,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000250,John Thune,R,Senate,SD,johnthune,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+T000250,John Thune,R,Senate,SD,LeaderJohnThune,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001101,Katherine M. Clark,D,House,MA,RepKClark,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C000127,Maria Cantwell,D,Senate,WA,SenatorCantwell,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C000127,Maria Cantwell,D,Senate,WA,MariaCantwell,wikidata P2002,0,2026-11-18T20:09:01-05:00
+T000476,Thom Tillis,R,Senate,NC,SenThomTillis,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001261,John Barrasso,R,Senate,WY,SenJohnBarrasso,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001072,J. French Hill,R,House,AR,RepFrenchHill,congress-legislators official,1,2026-11-18T20:09:01-05:00
+J000294,Hakeem S. Jeffries,D,House,NY,RepJeffries,congress-legislators official,0,2026-11-18T20:09:01-05:00
+R000575,Mike Rogers,R,House,AL,RepMikeRogersAL,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001056,John Cornyn,R,Senate,TX,JohnCornyn,congress-legislators official,1,2026-11-18T20:09:01-05:00
+W000437,Roger F. Wicker,R,Senate,MS,SenatorWicker,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001098,Ted Cruz,R,Senate,TX,SenTedCruz,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001098,Ted Cruz,R,Senate,TX,tedcruz,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+A000382,Angela D. Alsobrooks,D,Senate,MD,alsobrooksformd,wikidata P2002,0,2026-11-18T20:09:01-05:00
+A000382,Angela D. Alsobrooks,D,Senate,MD,CEXAlsobrooks,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001035,Susan M. Collins,R,Senate,ME,SenatorCollins,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001319,Katie Boyd Britt,R,Senate,AL,SenKatieBritt,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001319,Katie Boyd Britt,R,Senate,AL,KatieBoydBritt,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+B001319,Katie Boyd Britt,R,Senate,AL,KatieBrittforAL,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+K000384,Tim Kaine,D,Senate,VA,SenTimKaine,wikidata P2002,0,2026-11-18T20:09:01-05:00
+K000384,Tim Kaine,D,Senate,VA,timkaine,wikidata P2002,0,2026-11-18T20:09:01-05:00
+G000574,Ruben Gallego,D,Senate,AZ,RepRubenGallego,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000574,Ruben Gallego,D,Senate,AZ,RubenGallego,wikidata P2002,0,2026-11-18T20:09:01-05:00
+R000608,Jacky Rosen,D,Senate,NV,SenJackyRosen,congress-legislators official,0,2026-11-18T20:09:01-05:00
+R000608,Jacky Rosen,D,Senate,NV,RosenforNevada,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001303,Lisa Blunt Rochester,D,Senate,DE,SenLBR,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001303,Lisa Blunt Rochester,D,Senate,DE,LisaBRochester,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001303,Lisa Blunt Rochester,D,Senate,DE,RepLBR,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H000601,Bill Hagerty,R,Senate,TN,SenatorHagerty,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H000601,Bill Hagerty,R,Senate,TN,BillHagertyTN,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001075,Bill Cassidy,R,Senate,LA,SenBillCassidy,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001075,Bill Cassidy,R,Senate,LA,BillCassidy,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001075,Bill Cassidy,R,Senate,LA,SenatorCassidy,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+B001282,Andy Barr,R,House,KY,RepAndyBarr,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001299,Jim Banks,R,Senate,IN,RepJimBanks,congress-legislators official,1,2026-11-18T20:09:01-05:00
+A000371,Pete Aguilar,D,House,CA,RepPeteAguilar,congress-legislators official,0,2026-11-18T20:09:01-05:00
+N000015,Richard E. Neal,D,House,MA,RepRichardNeal,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001198,Dan Sullivan,R,Senate,AK,SenDanSullivan,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000585,Darin LaHood,R,House,IL,RepLaHood,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000570,Ben Ray Luján,D,Senate,NM,SenatorLujan,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000570,Ben Ray Luján,D,Senate,NM,benraylujan,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001232,Tim Sheehy,R,Senate,MT,TimSheehyMT,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+B001243,Marsha Blackburn,R,Senate,TN,MarshaBlackburn,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001243,Marsha Blackburn,R,Senate,TN,VoteMarsha,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+H001091,Ashley Hinson,R,House,IA,RepAshleyHinson,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001091,Ashley Hinson,R,House,IA,hinsonashley,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S001227,Eric Schmitt,R,Senate,MO,SenEricSchmitt,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001227,Eric Schmitt,R,Senate,MO,Eric_Schmitt,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001114,John R. Curtis,R,Senate,UT,RepJohnCurtis,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001067,Richard Hudson,R,House,NC,RepRichHudson,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001082,Kevin Hern,R,House,OK,repkevinhern,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000595,Julia Letlow,R,House,LA,RepJuliaLetlow,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000595,Julia Letlow,R,House,LA,jbletlow,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000463,Deb Fischer,R,Senate,NE,SenatorFischer,congress-legislators official,1,2026-11-18T20:09:01-05:00
+D000618,Steve Daines,R,Senate,MT,SteveDaines,congress-legislators official,1,2026-11-18T20:09:01-05:00
+D000600,Mario Diaz-Balart,R,House,FL,MarioDB,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001230,Tammy Baldwin,D,Senate,WI,SenatorBaldwin,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001230,Tammy Baldwin,D,Senate,WI,tammybaldwin,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001126,Mike Carey,R,House,OH,RepMikeCarey,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001243,David McCormick,R,Senate,PA,SenMcCormickPA,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+W000804,Robert J. Wittman,R,House,VA,RobWittman,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001088,Christopher A. Coons,D,Senate,DE,ChrisCoons,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001088,Christopher A. Coons,D,Senate,DE,SenCoonsOffice,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001088,Christopher A. Coons,D,Senate,DE,ChrisCoonsforDE,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H001076,Margaret Wood Hassan,D,Senate,NH,SenatorHassan,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001076,Margaret Wood Hassan,D,Senate,NH,maggie_hassan,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001244,Ashley Moody,R,Senate,FL,SenAshleyMoody,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+H001104,Jon Husted,R,Senate,OH,SenJonHusted,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+H001104,Jon Husted,R,Senate,OH,JonHusted,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S001208,Elissa Slotkin,D,Senate,MI,RepSlotkin,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001208,Elissa Slotkin,D,Senate,MI,ElissaSlotkin,wikidata P2002,0,2026-11-18T20:09:01-05:00
+R000610,Guy Reschenthaler,R,House,PA,GReschenthaler,congress-legislators official,1,2026-11-18T20:09:01-05:00
+R000610,Guy Reschenthaler,R,House,PA,reschenthaler,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M001226,Robert Menendez,D,House,NJ,RepMenendez,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001226,Robert Menendez,D,House,NJ,RobMenendez4NJ,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001215,Haley M. Stevens,D,House,MI,RepHaleyStevens,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001119,Angie Craig,D,House,MN,RepAngieCraig,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001119,Angie Craig,D,House,MN,AngieCraigMN,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C000880,Mike Crapo,R,Senate,ID,MikeCrapo,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C000880,Mike Crapo,R,Senate,ID,crapoforsenate,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+H001066,Steven Horsford,D,House,NV,RepHorsford,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001066,Steven Horsford,D,House,NV,StevenHorsford,wikidata P2002,0,2026-11-18T20:09:01-05:00
+J000289,Jim Jordan,R,House,OH,Jim_Jordan,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001047,Shelley Moore Capito,R,Senate,WV,SenCapito,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001184,Tim Scott,R,Senate,SC,SenatorTimScott,congress-legislators official,1,2026-11-18T20:09:01-05:00
+R000122,Jack Reed,D,Senate,RI,SenJackReed,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001150,Adam B. Schiff,D,Senate,CA,SenAdamSchiff,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001150,Adam B. Schiff,D,Senate,CA,AdamSchiff,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001150,Adam B. Schiff,D,Senate,CA,RepAdamSchiff,wikidata P2002,0,2026-11-18T20:09:01-05:00
+W000809,Steve Womack,R,House,AR,Rep_SteveWomack,congress-legislators official,1,2026-11-18T20:09:01-05:00
+P000614,Chris Pappas,D,House,NH,RepChrisPappas,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000614,Chris Pappas,D,House,NH,ChrisPappasNH,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001305,Ted Budd,R,Senate,NC,RepTedBudd,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001305,Ted Budd,R,Senate,NC,buddforcongress,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M001198,Roger Marshall,R,Senate,KS,SenatorMarshall,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001198,Roger Marshall,R,Senate,KS,RogerMarshallMD,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+H000273,John W. Hickenlooper,D,Senate,CO,SenatorHick,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H000273,John W. Hickenlooper,D,Senate,CO,Hickenlooper,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001242,Bernie Moreno,R,Senate,OH,berniemoreno,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000459,"Charles J. ""Chuck"" Fleischmann",R,House,TN,RepChuck,congress-legislators official,1,2026-11-18T20:09:01-05:00
+J000302,John Joyce,R,House,PA,RepJohnJoyce,congress-legislators official,1,2026-11-18T20:09:01-05:00
+V000129,David G. Valadao,R,House,CA,RepDavidValadao,congress-legislators official,1,2026-11-18T20:09:01-05:00
+A000380,Gabe Amo,D,House,RI,RepGabeAmo,congress-legislators official,0,2026-11-18T20:09:01-05:00
+A000380,Gabe Amo,D,House,RI,gabeamo,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001148,Michael K. Simpson,R,House,ID,CongMikeSimpson,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000478,Claudia Tenney,R,House,NY,RepTenney,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000478,Claudia Tenney,R,House,NY,claudiatenney,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+R000603,David Rouzer,R,House,NC,RepDavidRouzer,congress-legislators official,1,2026-11-18T20:09:01-05:00
+R000603,David Rouzer,R,House,NC,DavidRouzer,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+B001236,John Boozman,R,Senate,AR,JohnBoozman,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001236,John Boozman,R,Senate,AR,Boozman4AR,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+Y000064,Todd Young,R,Senate,IN,SenToddYoung,congress-legislators official,1,2026-11-18T20:09:01-05:00
+Y000064,Todd Young,R,Senate,IN,ToddYoungIN,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+W000779,Ron Wyden,D,Senate,OR,RonWyden,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000779,Ron Wyden,D,Senate,OR,wydenfororegon,wikidata P2002,0,2026-11-18T20:09:01-05:00
+W000779,Ron Wyden,D,Senate,OR,WydenPress,wikidata P2002,0,2026-11-18T20:09:01-05:00
+R000618,Pete Ricketts,R,Senate,NE,SenatorRicketts,congress-legislators official,1,2026-11-18T20:09:01-05:00
+R000618,Pete Ricketts,R,Senate,NE,GovRicketts,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001095,Tom Cotton,R,Senate,AR,SenTomCotton,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001095,Tom Cotton,R,Senate,AR,TomCottonAR,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000466,Brian K. Fitzpatrick,R,House,PA,RepBrianFitz,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M000934,Jerry Moran,R,Senate,KS,JerryMoran,congress-legislators official,1,2026-11-18T20:09:01-05:00
+P000048,August Pfluger,R,House,TX,RepPfluger,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001172,Adrian Smith,R,House,NE,RepAdrianSmith,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000377,Mark Kelly,D,Senate,AZ,SenMarkKelly,congress-legislators official,0,2026-11-18T20:09:01-05:00
+K000377,Mark Kelly,D,Senate,AZ,CaptMarkKelly,wikidata P2002,0,2026-11-18T20:09:01-05:00
+G000546,Sam Graves,R,House,MO,RepSamGraves,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001213,Blake D. Moore,R,House,UT,RepBlakeMoore,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000597,Andrew R. Garbarino,R,House,NY,RepGarbarino,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001163,Doris O. Matsui,D,House,CA,DorisMatsui,congress-legislators official,0,2026-11-18T20:09:01-05:00
+T000460,Mike Thompson,D,House,CA,RepThompson,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001205,Carol D. Miller,R,House,WV,RepCarolMiller,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001205,Carol D. Miller,R,House,WV,CarolMillerWV,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001113,Catherine Cortez Masto,D,Senate,NV,SenCortezMasto,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001113,Catherine Cortez Masto,D,Senate,NV,CortezMasto,wikidata P2002,0,2026-11-18T20:09:01-05:00
+A000375,Jodey C. Arrington,R,House,TX,RepArrington,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001103,"Earl L. ""Buddy"" Carter",R,House,GA,RepBuddyCarter,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001215,Mariannette Miller-Meeks,R,House,IA,RepMMM,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001215,Mariannette Miller-Meeks,R,House,IA,millermeeks,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+J000311,Brian Jack,R,House,GA,RepBrianJack,congress-legislators official,1,2026-11-18T20:09:01-05:00
+J000311,Brian Jack,R,House,GA,briantjack,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+K000397,Young Kim,R,House,CA,RepYoungKim,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000397,Young Kim,R,House,CA,YoungKimCA,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+G000568,H. Morgan Griffith,R,House,VA,RepMGriffith,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000394,Andy Kim,D,Senate,NJ,RepAndyKimNJ,wikidata P2002,0,2026-11-18T20:09:01-05:00
+K000394,Andy Kim,D,Senate,NJ,AndyKimNJ,wikidata P2002,0,2026-11-18T20:09:01-05:00
+P000595,Gary C. Peters,D,Senate,MI,SenGaryPeters,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000595,Gary C. Peters,D,Senate,MI,GaryPeters,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001156,Linda T. Sánchez,D,House,CA,RepLindaSanchez,congress-legislators official,0,2026-11-18T20:09:01-05:00
+J000295,David P. Joyce,R,House,OH,RepDaveJoyce,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001051,John R. Carter,R,House,TX,JudgeCarter,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001079,Cindy Hyde-Smith,R,Senate,MS,SenHydeSmith,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001079,Cindy Hyde-Smith,R,Senate,MS,cindyhydesmith,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+R000605,Mike Rounds,R,Senate,SD,SenatorRounds,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000482,Lori Trahan,D,House,MA,RepLoriTrahan,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000599,Michael Lawler,R,House,NY,RepMikeLawler,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000600,Nicholas A. Langworthy,R,House,NY,RepLangworthy,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001213,Bryan Steil,R,House,WI,RepBryanSteil,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001228,Celeste Maloy,R,House,UT,RepMaloyUtah,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001228,Celeste Maloy,R,House,UT,CelesteMaloyUT,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+K000391,Raja Krishnamoorthi,D,House,IL,CongressmanRaja,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000145,Alex Padilla,D,Senate,CA,SenAlexPadilla,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000145,Alex Padilla,D,Senate,CA,AlexPadilla4CA,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001111,Patty Murray,D,Senate,WA,PattyMurray,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001111,Patty Murray,D,Senate,WA,murraycampaign,wikidata P2002,0,2026-11-18T20:09:01-05:00
+D000216,Rosa L. DeLauro,D,House,CT,RosaDeLauro,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000216,Rosa L. DeLauro,D,House,CT,Rosa_DeLauro,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001306,Troy Balderson,R,House,OH,RepBalderson,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001314,Aaron Bean,R,House,FL,RepAaronBean,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001143,Betty McCollum,D,House,MN,BettyMcCollum04,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001143,Betty McCollum,D,House,MN,VoteBetty,wikidata P2002,0,2026-11-18T20:09:01-05:00
+D000617,Suzan K. DelBene,D,House,WA,RepDelBene,congress-legislators official,0,2026-11-18T20:09:01-05:00
+V000134,Beth Van Duyne,R,House,TX,RepBethVanDuyne,congress-legislators official,1,2026-11-18T20:09:01-05:00
+V000134,Beth Van Duyne,R,House,TX,Bethvanduyne,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+P000613,Jimmy Panetta,D,House,CA,RepJimmyPanetta,congress-legislators official,0,2026-11-18T20:09:01-05:00
+N000189,Dan Newhouse,R,House,WA,RepNewhouse,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000597,Laurel M. Lee,R,House,FL,RepLaurelLee,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000597,Laurel M. Lee,R,House,FL,Vote_Laurel,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+B001315,Nikki Budzinski,D,House,IL,RepNikkiB,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000471,Scott Fitzgerald,R,House,WI,RepFitzgerald,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001063,Henry Cuellar,D,House,TX,RepCuellar,congress-legislators official,0,2026-11-18T20:09:01-05:00
+O000019,Jay Obernolte,R,House,CA,JayObernolte,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001201,Thomas R. Suozzi,D,House,NY,reptomsuozzi,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001201,Thomas R. Suozzi,D,House,NY,tom_suozzi,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001194,Brian Schatz,D,Senate,HI,SenBrianSchatz,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001194,Brian Schatz,D,Senate,HI,brianschatz,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001194,Brian Schatz,D,Senate,HI,SchatzforHawaii,wikidata P2002,0,2026-11-18T20:09:01-05:00
+R000395,Harold Rogers,R,House,KY,RepHalRogers,congress-legislators official,1,2026-11-18T20:09:01-05:00
+E000071,Jake Ellzey,R,House,TX,RepEllzey,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000560,Rick Larsen,D,House,WA,RepRickLarsen,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001220,Dale W. Strong,R,House,AL,RepDaleStrong,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M000133,Edward J. Markey,D,Senate,MA,SenMarkey,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M000133,Edward J. Markey,D,Senate,MA,EdMarkey,wikidata P2002,0,2026-11-18T20:09:01-05:00
+L000571,Cynthia M. Lummis,R,Senate,WY,SenLummis,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000571,Cynthia M. Lummis,R,Senate,WY,CynthiaLummis,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+L000571,Cynthia M. Lummis,R,Senate,WY,CynthiaMLummis,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+K000399,Jennifer A. Kiggans,R,House,VA,RepJenKiggans,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000399,Jennifer A. Kiggans,R,House,VA,JenKiggans,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M001222,Max L. Miller,R,House,OH,repmaxmiller,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B000740,Stephanie I. Bice,R,House,OK,RepBice,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B000740,Stephanie I. Bice,R,House,OK,stephaniebice,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S000510,Adam Smith,D,House,WA,RepAdamSmith,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001226,Andrea Salinas,D,House,OR,repsalinas,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001226,Andrea Salinas,D,House,OR,AndreaRSalinas,wikidata P2002,0,2026-11-18T20:09:01-05:00
+W000797,Debbie Wasserman Schultz,D,House,FL,RepDWStweets,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000797,Debbie Wasserman Schultz,D,House,FL,DWStweets,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001153,Lisa Murkowski,R,Senate,AK,LisaMurkowski,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000566,Robert E. Latta,R,House,OH,BobLatta,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001257,Gus M. Bilirakis,R,House,FL,RepGusBilirakis,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001125,Troy A. Carter,D,House,LA,RepTroyCarter,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001183,David Schweikert,R,House,AZ,RepDavid,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001185,Terri A. Sewell,D,House,AL,RepTerriSewell,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C000537,James E. Clyburn,D,House,SC,RepJamesClyburn,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C000537,James E. Clyburn,D,House,SC,Clyburn,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C000537,James E. Clyburn,D,House,SC,WhipClyburn,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001181,Jeanne Shaheen,D,Senate,NH,SenatorShaheen,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000821,Bruce Westerman,R,House,AR,RepWesterman,congress-legislators official,1,2026-11-18T20:09:01-05:00
+I000056,Darrell Issa,R,House,CA,repdarrellissa,congress-legislators official,1,2026-11-18T20:09:01-05:00
+I000056,Darrell Issa,R,House,CA,DarrellIssa,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+N000193,Zachary Nunn,R,House,IA,ZachNunn,congress-legislators official,1,2026-11-18T20:09:01-05:00
+N000193,Zachary Nunn,R,House,IA,FriendsforZach,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000446,Randy Feenstra,R,House,IA,RepFeenstra,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000446,Randy Feenstra,R,House,IA,RandyFeenstra,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+P000608,Scott H. Peters,D,House,CA,RepScottPeters,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000608,Scott H. Peters,D,House,CA,ScottPetersSD,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001206,Joseph D. Morelle,D,House,NY,RepJoeMorelle,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001206,Joseph D. Morelle,D,House,NY,votemorelle,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001169,Christopher Murphy,D,Senate,CT,SenMurphyOffice,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001169,Christopher Murphy,D,Senate,CT,ChrisMurphyCT,wikidata P2002,0,2026-11-18T20:09:01-05:00
+E000295,Joni Ernst,R,Senate,IA,SenJoniErnst,congress-legislators official,1,2026-11-18T20:09:01-05:00
+E000295,Joni Ernst,R,Senate,IA,joniernst,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+R000584,James E. Risch,R,Senate,ID,SenatorRisch,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000388,Trent Kelly,R,House,MS,RepTrentKelly,congress-legislators official,1,2026-11-18T20:09:01-05:00
+N000191,Joe Neguse,D,House,CO,RepJoeNeguse,congress-legislators official,0,2026-11-18T20:09:01-05:00
+N000191,Joe Neguse,D,House,CO,JoeNeguse,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001210,Gregory F. Murphy,R,House,NC,RepGregMurphy,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001210,Gregory F. Murphy,R,House,NC,GregMurphyMD,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+H001093,Erin Houchin,R,House,IN,RepHouchin,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001093,Erin Houchin,R,House,IN,Erin_Houchi,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001133,Juan Ciscomani,R,House,AZ,RepCiscomani,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001133,Juan Ciscomani,R,House,AZ,JuanCiscomani,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+Z000018,Ryan K. Zinke,R,House,MT,RepRyanZinke,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001058,Bill Huizenga,R,House,MI,RepHuizenga,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001301,Jack Bergman,R,House,MI,RepJackBergman,congress-legislators official,1,2026-11-18T20:09:01-05:00
+J000304,Ronny Jackson,R,House,TX,RepRonnyJackson,congress-legislators official,1,2026-11-18T20:09:01-05:00
+J000304,Ronny Jackson,R,House,TX,RonnyJacksonTX,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001066,Kathy Castor,D,House,FL,USRepKCastor,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001136,Lisa C. McClain,R,House,MI,RepLisaMcClain,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001136,Lisa C. McClain,R,House,MI,lisaforcongress,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+B001292,"Donald S. Beyer, Jr.",D,House,VA,RepDonBeyer,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000480,Vince Fong,R,House,CA,RepVinceFong,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000478,Russell Fry,R,House,SC,RepRussellFry,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000478,Russell Fry,R,House,SC,RussellFrySC,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+Y000067,Rudy Yakym III,R,House,IN,RepRudyYakym,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000398,"Thomas H. Kean, Jr.",R,House,NJ,CongressmanKean,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000398,"Thomas H. Kean, Jr.",R,House,NJ,tomkean,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+D000628,Neal P. Dunn,R,House,FL,DrNealDunnFL2,congress-legislators official,1,2026-11-18T20:09:01-05:00
+D000628,Neal P. Dunn,R,House,FL,DunnCampaign,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+D000230,Donald G. Davis,D,House,NC,RepDonDavis,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000230,Donald G. Davis,D,House,NC,DonDavisNC,wikidata P2002,0,2026-11-18T20:09:01-05:00
+R000609,John H. Rutherford,R,House,FL,RepRutherfordFL,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000577,Mike Lee,R,Senate,UT,SenMikeLee,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000577,Mike Lee,R,Senate,UT,basedmikelee,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+L000575,James Lankford,R,Senate,OK,SenatorLankford,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001194,John R. Moolenaar,R,House,MI,RepMoolenaar,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001199,Lloyd Smucker,R,House,PA,RepSmucker,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000392,David Kustoff,R,House,TN,RepDavidKustoff,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000467,Glenn Thompson,R,House,PA,CongressmanGT,congress-legislators official,1,2026-11-18T20:09:01-05:00
+W000802,Sheldon Whitehouse,D,Senate,RI,SenWhitehouse,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000802,Sheldon Whitehouse,D,Senate,RI,SheldonforRI,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M000355,Mitch McConnell,R,Senate,KY,McConnellPress,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M000355,Mitch McConnell,R,Senate,KY,SenMcConnell,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+G000598,Robert Garcia,D,House,CA,RepRobertGarcia,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000598,Robert Garcia,D,House,CA,RobertGarciaLB,wikidata P2002,0,2026-11-18T20:09:01-05:00
+K000393,John Kennedy,R,Senate,LA,SenJohnKennedy,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000393,John Kennedy,R,Senate,LA,JohnKennedyLA,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M001237,Kristen McDonald Rivet,D,House,MI,repkmr,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001237,Kristen McDonald Rivet,D,House,MI,mcdonaldrivet,wikidata P2002,0,2026-11-18T20:09:01-05:00
+K000376,Mike Kelly,R,House,PA,MikeKellyPA,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001190,Bradley Scott Schneider,D,House,IL,RepSchneider,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001190,Bradley Scott Schneider,D,House,IL,Schneider4IL10,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001108,James Comer,R,House,KY,RepJamesComer,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001108,James Comer,R,House,KY,KYComer,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+V000136,Gabe Vasquez,D,House,NM,RepGabeVasquez,congress-legislators official,0,2026-11-18T20:09:01-05:00
+V000136,Gabe Vasquez,D,House,NM,Gabe_NM,wikidata P2002,0,2026-11-18T20:09:01-05:00
+D000197,Diana DeGette,D,House,CO,RepDianaDeGette,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001217,Rick Scott,R,Senate,FL,SenRickScott,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001217,Rick Scott,R,Senate,FL,scottforflorida,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+W000790,Raphael G. Warnock,D,Senate,GA,SenatorWarnock,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000790,Raphael G. Warnock,D,Senate,GA,RaphaelWarnock,wikidata P2002,0,2026-11-18T20:09:01-05:00
+W000790,Raphael G. Warnock,D,Senate,GA,ReverendWarnock,wikidata P2002,0,2026-11-18T20:09:01-05:00
+A000055,Robert B. Aderholt,R,House,AL,Robert_Aderholt,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000555,Kirsten E. Gillibrand,D,Senate,NY,GillibrandNY,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000555,Kirsten E. Gillibrand,D,Senate,NY,SenGillibrand,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001225,Eric Sorensen,D,House,IL,RepEricSorensen,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001086,Diana Harshbarger,R,House,TN,RepHarshbarger,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001137,Gregory W. Meeks,D,House,NY,RepGregoryMeeks,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000598,Nick LaLota,R,House,NY,RepLaLota,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000598,Nick LaLota,R,House,NY,nicklalota,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+G000583,Josh Gottheimer,D,House,NJ,RepJoshG,congress-legislators official,0,2026-11-18T20:09:01-05:00
+T000486,Ritchie Torres,D,House,NY,RepRitchie,congress-legislators official,0,2026-11-18T20:09:01-05:00
+T000486,Ritchie Torres,D,House,NY,RitchieTorres,wikidata P2002,0,2026-11-18T20:09:01-05:00
+W000812,Ann Wagner,R,House,MO,RepAnnWagner,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001176,Jeff Merkley,D,Senate,OR,SenJeffMerkley,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001176,Jeff Merkley,D,Senate,OR,JeffMerkley,wikidata P2002,0,2026-11-18T20:09:01-05:00
+K000405,Brad Knott,R,House,NC,RepKnott,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000405,Brad Knott,R,House,NC,bradknottfornc,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S001159,Marilyn Strickland,D,House,WA,RepStricklandWA,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000601,Greg Landsman,D,House,OH,repgreglandsman,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000601,Greg Landsman,D,House,OH,GregLandsman,wikidata P2002,0,2026-11-18T20:09:01-05:00
+L000590,Susie Lee,D,House,NV,RepSusieLee,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000590,Susie Lee,D,House,NV,SusieLeeNV,wikidata P2002,0,2026-11-18T20:09:01-05:00
+D000629,Sharice Davids,D,House,KS,RepDavids,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000629,Sharice Davids,D,House,KS,sharicedavids,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M000317,Nicole Malliotakis,R,House,NY,RepMalliotakis,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M000317,Nicole Malliotakis,R,House,NY,NMalliotakis,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S001216,Kim Schrier,D,House,WA,RepKimSchrier,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001039,Kat Cammack,R,House,FL,RepKatCammack,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000585,Jimmy Gomez,D,House,CA,RepJimmyGomez,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000593,Mike Levin,D,House,CA,RepMikeLevin,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000593,Mike Levin,D,House,CA,MikeLevinCA,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001296,Brendan F. Boyle,D,House,PA,CongBoyle,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001296,Brendan F. Boyle,D,House,PA,RepBrendanBoyle,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001295,Mike Bost,R,House,IL,RepBost,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001300,Nanette Diaz Barragán,D,House,CA,RepBarragan,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001042,Mazie K. Hirono,D,Senate,HI,MazieHirono,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001042,Mazie K. Hirono,D,Senate,HI,mazieforhawaii,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001260,Vern Buchanan,R,House,FL,VernBuchanan,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001096,Kevin Cramer,R,Senate,ND,SenKevinCramer,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001096,Kevin Cramer,R,Senate,ND,kevincramer,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+E000298,Ron Estes,R,House,KS,RepRonEstes,congress-legislators official,1,2026-11-18T20:09:01-05:00
+A000379,Mark Alford,R,House,MO,RepMarkAlford,congress-legislators official,1,2026-11-18T20:09:01-05:00
+A000379,Mark Alford,R,House,MO,markalfordkc,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+L000397,Zoe Lofgren,D,House,CA,RepZoeLofgren,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000831,James R. Walkinshaw,D,House,VA,JamesWalkinshaw,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001118,Ben Cline,R,House,VA,RepBenCline,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001118,Ben Cline,R,House,VA,Cline4Virginia,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S001196,Elise M. Stefanik,R,House,NY,RepStefanik,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001196,Elise M. Stefanik,R,House,NY,elisestefanik,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+P000620,Brittany Pettersen,D,House,CO,reppettersen,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000620,Brittany Pettersen,D,House,CO,pettersen4co,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B000668,Cliff Bentz,R,House,OR,RepBentz,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M000312,James P. McGovern,D,House,MA,RepMcGovern,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001200,Darren Soto,D,House,FL,RepDarrenSoto,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001067,Yvette D. Clarke,D,House,NY,RepYvetteClarke,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000600,Marie Gluesenkamp Perez,D,House,WA,RepMGP,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000600,Marie Gluesenkamp Perez,D,House,WA,mgpforcongress,wikidata P2002,0,2026-11-18T20:09:01-05:00
+T000480,William R. Timmons IV,R,House,SC,RepTimmons,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000480,William R. Timmons IV,R,House,SC,votetimmons,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+T000463,Michael R. Turner,R,House,OH,RepMikeTurner,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001326,Janelle S. Bynum,D,House,OR,RepBynum,congress-legislators official,0,2026-11-18T20:09:01-05:00
+K000009,Marcy Kaptur,D,House,OH,RepMarcyKaptur,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000481,Shomari Figures,D,House,AL,repscfigures,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000481,Shomari Figures,D,House,AL,ShomariFigures,wikidata P2002,0,2026-11-18T20:09:01-05:00
+F000450,Virginia Foxx,R,House,NC,VirginiaFoxx,congress-legislators official,1,2026-11-18T20:09:01-05:00
+I000058,Glenn Ivey,D,House,MD,RepGlennIvey,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001204,Daniel Meuser,R,House,PA,RepMeuser,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001204,Daniel Meuser,R,House,PA,Meuser4Congress,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+R000579,Patrick Ryan,D,House,NY,RepPatRyanNY,congress-legislators official,0,2026-11-18T20:09:01-05:00
+R000579,Patrick Ryan,D,House,NY,PatRyanUC,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001223,Emilia Strong Sykes,D,House,OH,RepEmiliaSykes,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001223,Emilia Strong Sykes,D,House,OH,EmiliaSykesOH,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H000874,Steny H. Hoyer,D,House,MD,RepStenyHoyer,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H000874,Steny H. Hoyer,D,House,MD,whiphoyer,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H000874,Steny H. Hoyer,D,House,MD,StenyHoyer,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H001099,Mike Haridopolos,R,House,FL,repharidopolos,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000385,Robin L. Kelly,D,House,IL,RepRobinKelly,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001087,"Eric A. ""Rick"" Crawford",R,House,AR,RepRickCrawford,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001277,Richard Blumenthal,D,Senate,CT,SenBlumenthal,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001277,Richard Blumenthal,D,Senate,CT,DickBlumenthal,wikidata P2002,0,2026-11-18T20:09:01-05:00
+G000591,Michael Guest,R,House,MS,RepMichaelGuest,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000591,Michael Guest,R,House,MS,GuestCongress,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+H001094,Val T. Hoyle,D,House,OR,repvalhoyle,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001094,Val T. Hoyle,D,House,OR,ValHoyle,wikidata P2002,0,2026-11-18T20:09:01-05:00
+G000601,Craig A. Goldman,R,House,TX,RepCraigGoldman,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000601,Craig A. Goldman,R,House,TX,goldmancraig,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+W000798,Tim Walberg,R,House,MI,RepWalberg,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001212,Pete Stauber,R,House,MN,RepPeteStauber,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001212,Pete Stauber,R,House,MN,PeteStauber,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S001214,W. Gregory Steube,R,House,FL,RepGregSteube,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001214,W. Gregory Steube,R,House,FL,gregsteube,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+L000557,John B. Larson,D,House,CT,RepJohnLarson,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001238,Sarah McBride,D,House,DE,SarahEMcBride,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001224,Nathaniel Moran,R,House,TX,RepNateMoran,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001224,Nathaniel Moran,R,House,TX,moran4congress,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+K000383,"Angus S. King, Jr.",I,Senate,ME,SenAngusKing,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000607,Sam T. Liccardo,D,House,CA,repliccardo,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000607,Sam T. Liccardo,D,House,CA,sliccardo,wikidata P2002,0,2026-11-18T20:09:01-05:00
+E000301,Sarah Elfreth,D,House,MD,repsarahelfreth,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001298,Don Bacon,R,House,NE,RepDonBacon,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001214,Frank J. Mrvan,D,House,IN,RepMrvan,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001085,Chrissy Houlahan,D,House,PA,RepHoulahan,congress-legislators official,0,2026-11-18T20:09:01-05:00
+T000278,Tommy Tuberville,R,Senate,AL,SenTuberville,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000474,Mike Flood,R,House,NE,USRepMikeFlood,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000474,Mike Flood,R,House,NE,Flood4Nebraska,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+H001090,Josh Harder,D,House,CA,RepJoshHarder,congress-legislators official,0,2026-11-18T20:09:01-05:00
+T000491,Derek Tran,D,House,CA,repderektranca,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001221,Hillary J. Scholten,D,House,MI,RepScholten,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001221,Hillary J. Scholten,D,House,MI,HillaryScholten,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001137,Jeff Crank,R,House,CO,RepJeffCrank,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001137,Jeff Crank,R,House,CO,jeffcrank,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+B001281,Joyce Beatty,D,House,OH,RepBeatty,congress-legislators official,0,2026-11-18T20:09:01-05:00
+E000300,Gabe Evans,R,House,CO,repgabeevans,congress-legislators official,1,2026-11-18T20:09:01-05:00
+E000300,Gabe Evans,R,House,CO,gabeforcolorado,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000472,Scott Franklin,R,House,FL,RepFranklin,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000482,Julie Fedorchak,R,House,ND,RepFedorchak,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000482,Julie Fedorchak,R,House,ND,fedorchak4nd,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+D000624,Debbie Dingell,D,House,MI,RepDebDingell,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001287,Ami Bera,D,House,CA,RepBera,congress-legislators official,0,2026-11-18T20:09:01-05:00
+R000599,Raul Ruiz,D,House,CA,RepRaulRuizMD,congress-legislators official,0,2026-11-18T20:09:01-05:00
+R000599,Raul Ruiz,D,House,CA,CongressmanRuiz,wikidata P2002,0,2026-11-18T20:09:01-05:00
+E000235,Mike Ezell,R,House,MS,RepEzell,congress-legislators official,1,2026-11-18T20:09:01-05:00
+E000235,Mike Ezell,R,House,MS,MikeEzellMS,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S000148,Charles E. Schumer,D,Senate,NY,SenSchumer,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S000148,Charles E. Schumer,D,Senate,NY,chuckschumer,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H001100,Jeff Hurd,R,House,CO,RepJeffHurd,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001100,Jeff Hurd,R,House,CO,jeff4colorado,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+G000604,Maggie Goodlander,D,House,NH,RepGoodlander,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000604,Maggie Goodlander,D,House,NH,maggieg603,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H001101,Pat Harrigan,R,House,NC,RepPatHarrigan,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001101,Pat Harrigan,R,House,NC,H001101,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000470,Michelle Fischbach,R,House,MN,RepFischbach,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000470,Michelle Fischbach,R,House,MN,FischbachMN7,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000470,Michelle Fischbach,R,House,MN,michellefischb,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+V000138,Eugene Simon Vindman,D,House,VA,RepVindman,congress-legislators official,0,2026-11-18T20:09:01-05:00
+V000138,Eugene Simon Vindman,D,House,VA,YVindman,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001055,Ed Case,D,House,HI,RepEdCase,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001055,Ed Case,D,House,HI,EdCaseHawaii,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001160,Gwen Moore,D,House,WI,RepGwenMoore,congress-legislators official,0,2026-11-18T20:09:01-05:00
+A000369,Mark E. Amodei,R,House,NV,MarkAmodeiNV2,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001189,Austin Scott,R,House,GA,AustinScottGA08,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000491,Frank D. Lucas,R,House,OK,RepFrankLucas,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001241,Dave Min,D,House,CA,daveminca,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001241,Dave Min,D,House,CA,SenDaveMin,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001203,Tina Smith,D,Senate,MN,SenTinaSmith,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001203,Tina Smith,D,Senate,MN,TinaSmithMN,wikidata P2002,0,2026-11-18T20:09:01-05:00
+J000310,Julie Johnson,D,House,TX,RepJulieJohnson,congress-legislators official,0,2026-11-18T20:09:01-05:00
+J000310,Julie Johnson,D,House,TX,juliejohnsonTX,wikidata P2002,0,2026-11-18T20:09:01-05:00
+G000581,Vicente Gonzalez,D,House,TX,RepGonzalez,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001096,Harriet M. Hageman,R,House,WY,RepHageman,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001199,Brian J. Mast,R,House,FL,RepBrianMast,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001199,Brian J. Mast,R,House,FL,BrianMastFL,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+P000621,Nellie Pou,D,House,NJ,caohouse,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000621,Nellie Pou,D,House,NJ,NelliePou,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001240,Addison P. McDowell,R,House,NC,RepMcDowell,congress-legislators official,1,2026-11-18T20:09:01-05:00
+R000619,Michael A. Rulli,R,House,OH,michaelrulli,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+J000301,Dusty Johnson,R,House,SD,RepDustyJohnson,congress-legislators official,1,2026-11-18T20:09:01-05:00
+J000301,Dusty Johnson,R,House,SD,DustyJohnson,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+K000403,Mike Kennedy,R,House,UT,repmikekennedy,congress-legislators official,1,2026-11-18T20:09:01-05:00
+K000403,Mike Kennedy,R,House,UT,kennedyforutah,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+E000297,Adriano Espaillat,D,House,NY,RepEspaillat,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000582,Ted Lieu,D,House,CA,RepTedLieu,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000582,Ted Lieu,D,House,CA,tedlieu,wikidata P2002,0,2026-11-18T20:09:01-05:00
+U000040,Lauren Underwood,D,House,IL,RepUnderwood,congress-legislators official,0,2026-11-18T20:09:01-05:00
+U000040,Lauren Underwood,D,House,IL,LUnderwood630,wikidata P2002,0,2026-11-18T20:09:01-05:00
+D000622,Tammy Duckworth,D,Senate,IL,SenDuckworth,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000622,Tammy Duckworth,D,Senate,IL,TammyDuckworth,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001211,Greg Stanton,D,House,AZ,RepGregStanton,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001211,Greg Stanton,D,House,AZ,gregstantonaz,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001220,Morgan McGarvey,D,House,KY,RepMcGarvey,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001220,Morgan McGarvey,D,House,KY,morganmcgarvey,wikidata P2002,0,2026-11-18T20:09:01-05:00
+T000193,Bennie G. Thompson,D,House,MS,BennieGThompson,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000605,Adam Gray,D,House,CA,RepAdamGrayCA,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000605,Adam Gray,D,House,CA,adamgrayca,wikidata P2002,0,2026-11-18T20:09:01-05:00
+R000622,Josh Riley,D,House,NY,JoshuaUE99,wikidata P2002,0,2026-11-18T20:09:01-05:00
+V000131,Marc A. Veasey,D,House,TX,RepVeasey,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001121,Jason Crow,D,House,CO,RepJasonCrow,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000386,Chuck Grassley,R,Senate,IA,ChuckGrassley,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001313,Shontel M. Brown,D,House,OH,RepShontelBrown,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001324,Wesley Bell,D,House,MO,RepWesleyBellMO,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001052,Andy Harris,R,House,MD,RepAndyHarrisMD,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001217,Jared Moskowitz,D,House,FL,RepMoskowitz,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000032,Byron Donalds,R,House,FL,RepDonaldsPress,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S000168,Maria Elvira Salazar,R,House,FL,RepMariaSalazar,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S000168,Maria Elvira Salazar,R,House,FL,MaElviraSalazar,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+A000372,Rick W. Allen,R,House,GA,RepRickAllen,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001061,John Hoeven,R,Senate,ND,SenJohnHoeven,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001216,Cory Mills,R,House,FL,RepMillsPress,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001216,Cory Mills,R,House,FL,CoryMillsFL,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000484,Randy Fine,R,House,FL,RepFine,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001059,Jim Costa,D,House,CA,RepJimCosta,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001212,Barry Moore,R,House,AL,RepBarryMoore,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000602,Laura Gillen,D,House,NY,RepLauraGillen,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000602,Laura Gillen,D,House,NY,lauraagillen,wikidata P2002,0,2026-11-18T20:09:01-05:00
+R000614,Chip Roy,R,House,TX,RepChipRoy,congress-legislators official,1,2026-11-18T20:09:01-05:00
+P000610,Stacey E. Plaskett,D,House,VI,StaceyPlaskett,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000610,Stacey E. Plaskett,D,House,VI,Plaskett_2012,wikidata P2002,0,2026-11-18T20:09:01-05:00
+D000631,Madeleine Dean,D,House,PA,RepDean,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000631,Madeleine Dean,D,House,PA,mad4pa,wikidata P2002,0,2026-11-18T20:09:01-05:00
+D000631,Madeleine Dean,D,House,PA,MadeleineDean,wikidata P2002,0,2026-11-18T20:09:01-05:00
+N000188,Donald Norcross,D,House,NJ,DonaldNorcross,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001235,Riley M. Moore,R,House,WV,RepRileyMoore,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001235,Riley M. Moore,R,House,WV,rileymoorewv,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+K000402,Timothy M. Kennedy,D,House,NY,reptimkennedy,congress-legislators official,0,2026-11-18T20:09:01-05:00
+K000402,Timothy M. Kennedy,D,House,NY,kennedyforny26,wikidata P2002,0,2026-11-18T20:09:01-05:00
+K000402,Timothy M. Kennedy,D,House,NY,SenKennedy,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001196,Seth Moulton,D,House,MA,RepMoulton,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001196,Seth Moulton,D,House,MA,sethmoulton,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001196,Seth Moulton,D,House,MA,teammoulton,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B000490,"Sanford D. Bishop, Jr.",D,House,GA,SanfordBishop,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001291,Brian Babin,R,House,TX,RepBrianBabin,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000475,Brad Finstad,R,House,MN,RepFinstad,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001061,Emanuel Cleaver,D,House,MO,RepCleaver,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000603,Rand Paul,R,Senate,KY,SenRandPaul,congress-legislators official,1,2026-11-18T20:09:01-05:00
+P000603,Rand Paul,R,Senate,KY,DrRandPaul,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+P000603,Rand Paul,R,Senate,KY,RandPaul,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+V000128,Chris Van Hollen,D,Senate,MD,ChrisVanHollen,congress-legislators official,0,2026-11-18T20:09:01-05:00
+V000128,Chris Van Hollen,D,Senate,MD,VanHollenForMD,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001218,Richard McCormick,R,House,GA,RepMcCormick,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001218,Richard McCormick,R,House,GA,RichforGA,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+R000606,Jamie Raskin,D,House,MD,RepRaskin,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000592,Jared F. Golden,D,House,ME,RepGolden,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000592,Jared F. Golden,D,House,ME,golden4congress,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H001047,James A. Himes,D,House,CT,jahimes,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001230,Suhas Subramanyam,D,House,VA,RepSuhas,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001230,Suhas Subramanyam,D,House,VA,SuhasforVA,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001120,Dan Crenshaw,R,House,TX,RepDanCrenshaw,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001120,Dan Crenshaw,R,House,TX,DanCrenshawTX,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+D000530,Christopher R. Deluzio,D,House,PA,RepDeluzio,congress-legislators official,0,2026-11-18T20:09:01-05:00
+A000148,Jake Auchincloss,D,House,MA,RepAuchincloss,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000635,Maxine Dexter,D,House,OR,RepDexterOR,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001227,Jennifer L. McClellan,D,House,VA,RepMcClellan,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001227,Jennifer L. McClellan,D,House,VA,JennMcClellanVA,wikidata P2002,0,2026-11-18T20:09:01-05:00
+W000187,Maxine Waters,D,House,CA,RepMaxineWaters,congress-legislators official,0,2026-11-18T20:09:01-05:00
+K000367,Amy Klobuchar,D,Senate,MN,SenAmyKlobuchar,congress-legislators official,0,2026-11-18T20:09:01-05:00
+K000367,Amy Klobuchar,D,Senate,MN,amyklobuchar,wikidata P2002,0,2026-11-18T20:09:01-05:00
+E000299,Veronica Escobar,D,House,TX,RepEscobar,congress-legislators official,0,2026-11-18T20:09:01-05:00
+E000299,Veronica Escobar,D,House,TX,vgescobar,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001157,Michael T. McCaul,R,House,TX,RepMcCaul,congress-legislators official,1,2026-11-18T20:09:01-05:00
+Q000023,Mike Quigley,D,House,IL,RepMikeQuigley,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001278,Suzanne Bonamici,D,House,OR,RepBonamici,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000626,Warren Davidson,R,House,OH,WarrenDavidson,congress-legislators official,1,2026-11-18T20:09:01-05:00
+D000626,Warren Davidson,R,House,OH,Vote_Davidson,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+G000599,Daniel S. Goldman,D,House,NY,RepDanGoldman,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000599,Daniel S. Goldman,D,House,NY,danielsgoldman,wikidata P2002,0,2026-11-18T20:09:01-05:00
+P000622,Jimmy Patronis,R,House,FL,JimmyPatronis,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M001230,Ryan Mackenzie,R,House,PA,RepMackenzie,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S000344,Brad Sherman,D,House,CA,BradSherman,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000468,Lizzie Fletcher,D,House,TX,RepFletcher,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M000871,Tracey Mann,R,House,KS,RepMann,congress-legislators official,1,2026-11-18T20:09:01-05:00
+N000026,Troy E. Nehls,R,House,TX,RepTroyNehls,congress-legislators official,1,2026-11-18T20:09:01-05:00
+N000026,Troy E. Nehls,R,House,TX,SheriffTNehls,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+N000026,Troy E. Nehls,R,House,TX,TroyNehls,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+K000400,Sydney Kamlager-Dove,D,House,CA,RepKamlagerDove,congress-legislators official,0,2026-11-18T20:09:01-05:00
+K000400,Sydney Kamlager-Dove,D,House,CA,AsmKamlagerDove,wikidata P2002,0,2026-11-18T20:09:01-05:00
+K000400,Sydney Kamlager-Dove,D,House,CA,sydneykamlager,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001323,Nicholas J. Begich III,R,House,AK,repnickbegich,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001323,Nicholas J. Begich III,R,House,AK,NBegich,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M001239,John J. McGuire III,R,House,VA,RepJohnMcGuire,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001239,John J. McGuire III,R,House,VA,johnmcguire56,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+D000563,Richard J. Durbin,D,Senate,IL,SenatorDurbin,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000563,Richard J. Durbin,D,Senate,IL,DickDurbin,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001327,"Robert P. Bresnahan, Jr.",R,House,PA,RepBresnahan,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001089,Josh Hawley,R,Senate,MO,SenHawleyPress,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001089,Josh Hawley,R,Senate,MO,HawleyMO,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M001208,Lucy McBath,D,House,GA,RepLucyMcBath,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001130,Jasmine Crockett,D,House,TX,RepJasmine,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001130,Jasmine Crockett,D,House,TX,jasmineforus,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001112,Salud O. Carbajal,D,House,CA,RepCarbajal,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001188,Grace Meng,D,House,NY,RepGraceMeng,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001188,Grace Meng,D,House,NY,Grace4NY,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S000250,Pete Sessions,R,House,TX,PeteSessions,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001117,Sean Casten,D,House,IL,RepCasten,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001117,Sean Casten,D,House,IL,SeanCasten,wikidata P2002,0,2026-11-18T20:09:01-05:00
+W000800,Peter Welch,D,Senate,VT,PeterWelch,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000800,Peter Welch,D,Senate,VT,welchforvt,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001233,Mark B. Messmer,R,House,IN,RepMessmer,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+W000814,"Randy K. Weber, Sr.",R,House,TX,TXRandy14,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001136,"Herbert C. Conaway, Jr.",D,House,NJ,RepHerbConaway,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001136,"Herbert C. Conaway, Jr.",D,House,NJ,herbconaway,wikidata P2002,0,2026-11-18T20:09:01-05:00
+O000174,Jon Ossoff,D,Senate,GA,SenOssoff,congress-legislators official,0,2026-11-18T20:09:01-05:00
+O000174,Jon Ossoff,D,Senate,GA,ossoff,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001321,Tom Barrett,R,House,MI,reptombarrett,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001321,Tom Barrett,R,House,MI,tombarrettmi7,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000454,Bill Foster,D,House,IL,RepBillFoster,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001228,Derek Schmidt,R,House,KS,repderekschmidt,congress-legislators official,1,2026-11-18T20:09:01-05:00
+W000830,George Whitesides,D,House,CA,Rep_Whitesides,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000606,Adelita S. Grijalva,D,House,AZ,adelitaforaz,wikidata P2002,0,2026-11-18T20:09:01-05:00
+G000606,Adelita S. Grijalva,D,House,AZ,Rep_Grijalva,wikidata P2002,0,2026-11-18T20:09:01-05:00
+D000594,Monica De La Cruz,R,House,TX,RepMonicaDLC,congress-legislators official,1,2026-11-18T20:09:01-05:00
+D000594,Monica De La Cruz,R,House,TX,monica4congress,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+H001068,Jared Huffman,D,House,CA,RepHuffman,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001080,Judy Chu,D,House,CA,RepJudyChu,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001225,Kevin Mullin,D,House,CA,RepKevinMullin,congress-legislators official,0,2026-11-18T20:09:01-05:00
+E000246,Chuck Edwards,R,House,NC,RepEdwards,congress-legislators official,1,2026-11-18T20:09:01-05:00
+E000246,Chuck Edwards,R,House,NC,ChuckEdwards4NC,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+P000609,Gary J. Palmer,R,House,AL,USRepGaryPalmer,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000469,Paul Tonko,D,House,NY,RepPaulTonko,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000593,Carlos A. Gimenez,R,House,FL,RepCarlos,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000593,Carlos A. Gimenez,R,House,FL,MayorGimenez,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+V000135,Derrick Van Orden,R,House,WI,RepVanOrden,congress-legislators official,1,2026-11-18T20:09:01-05:00
+V000135,Derrick Van Orden,R,House,WI,derrickvanorden,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S000185,"Robert C. ""Bobby"" Scott",D,House,VA,BobbyScott,congress-legislators official,0,2026-11-18T20:09:01-05:00
+K000375,William R. Keating,D,House,MA,USRepKeating,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001091,Joaquin Castro,D,House,TX,JoaquinCastrotx,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001145,Janice D. Schakowsky,D,House,IL,JanSchakowsky,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001318,Becca Balint,D,House,VT,RepBeccaB,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001318,Becca Balint,D,House,VT,BeccaBalintVT,wikidata P2002,0,2026-11-18T20:09:01-05:00
+J000312,James C. Justice,R,Senate,WV,JimJusticeWV,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+J000312,James C. Justice,R,Senate,WV,WVGovernor,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M001223,Seth Magaziner,D,House,RI,Rep_Magaziner,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001223,Seth Magaziner,D,House,RI,SethMagaziner,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001236,Tim Moore,R,House,NC,RepTimMooreNC,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001231,John W. Mannion,D,House,NY,JohnMannionNY22,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001231,John W. Mannion,D,House,NY,SenJohnMannion,wikidata P2002,0,2026-11-18T20:09:01-05:00
+K000401,Kevin Kiley,I,House,CA,RepKiley,congress-legislators official,0,2026-11-18T20:09:01-05:00
+K000401,Kevin Kiley,I,House,CA,KevinKileyCA,wikidata P2002,0,2026-11-18T20:09:01-05:00
+T000468,Dina Titus,D,House,NV,RepDinaTitus,congress-legislators official,0,2026-11-18T20:09:01-05:00
+R000621,Emily Randall,D,House,WA,EmilyRandallWA,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001232,April McClain Delaney,D,House,MD,RepAprilDelaney,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000829,Tony Wied,R,House,WI,RepTonyWied,congress-legislators official,1,2026-11-18T20:09:01-05:00
+W000829,Tony Wied,R,House,WI,tonywied,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+J000307,John James,R,House,MI,RepJames,congress-legislators official,1,2026-11-18T20:09:01-05:00
+J000307,John James,R,House,MI,JohnJamesMI,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M000194,Nancy Mace,R,House,SC,RepNancyMace,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M000194,Nancy Mace,R,House,SC,NancyMace,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+B001322,Michael Baumgartner,R,House,WA,repbaumgartner,congress-legislators official,1,2026-11-18T20:09:01-05:00
+O000176,"Johnny Olszewski, Jr.",D,House,MD,RepJohnnyO,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001229,LaMonica McIver,D,House,NJ,RepLaMonica,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001229,LaMonica McIver,D,House,NJ,LamonicaMciver,wikidata P2002,0,2026-11-18T20:09:01-05:00
+R000617,Delia C. Ramirez,D,House,IL,repdeliaramirez,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000589,Lance Gooden,R,House,TX,Lancegooden,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+L000603,Morgan Luttrell,R,House,TX,RepLuttrell,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000476,Maxwell Frost,D,House,FL,RepMaxwellFrost,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000476,Maxwell Frost,D,House,FL,MaxwellFrostFL,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001072,André Carson,D,House,IN,RepAndreCarson,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001110,J. Luis Correa,D,House,CA,RepLouCorrea,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000634,Troy Downing,R,House,MT,reptroydowning,congress-legislators official,1,2026-11-18T20:09:01-05:00
+D000634,Troy Downing,R,House,MT,TroyDowningMT,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+D000634,Troy Downing,R,House,MT,troydowning,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+T000487,Jill N. Tokuda,D,House,HI,RepJillTokuda,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000603,Brandon Gill,R,House,TX,repbrandongill,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000603,Brandon Gill,R,House,TX,realbrandongill,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001069,Joe Courtney,D,House,CT,RepJoeCourtney,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000816,Roger Williams,R,House,TX,RepRWilliams,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000474,Norma J. Torres,D,House,CA,NormaJTorres,congress-legislators official,0,2026-11-18T20:09:01-05:00
+T000474,Norma J. Torres,D,House,CA,Norma4Congress,wikidata P2002,0,2026-11-18T20:09:01-05:00
+G000559,John Garamendi,D,House,CA,RepGaramendi,congress-legislators official,0,2026-11-18T20:09:01-05:00
+V000139,Matt Van Epps,R,House,TN,repvanepps,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+V000139,Matt Van Epps,R,House,TN,MattForTN,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+D000623,Mark DeSaulnier,D,House,CA,RepDeSaulnier,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000273,Teresa Leger Fernandez,D,House,NM,RepTeresaLF,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000110,Cleo Fields,D,House,LA,repfields,congress-legislators official,0,2026-11-18T20:09:01-05:00
+J000309,Jonathan L. Jackson,D,House,IL,thejacksonfile,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001123,"Gilbert Ray Cisneros, Jr.",D,House,CA,GilCisnerosCA,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001123,"Gilbert Ray Cisneros, Jr.",D,House,CA,RepGilCisneros,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001218,Melanie A. Stansbury,D,House,NM,Rep_Stansbury,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001218,Melanie A. Stansbury,D,House,NM,MelanieforNM,wikidata P2002,0,2026-11-18T20:09:01-05:00
+W000795,Joe Wilson,R,House,SC,RepJoeWilson,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001095,Wesley Hunt,R,House,TX,RepWesleyHunt,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001095,Wesley Hunt,R,House,TX,WesleyHuntTX,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+W000822,Bonnie Watson Coleman,D,House,NJ,RepBonnie,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000806,Daniel Webster,R,House,FL,RepWebster,congress-legislators official,1,2026-11-18T20:09:01-05:00
+N000002,Jerrold Nadler,D,House,NY,RepJerryNadler,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001316,Eric Burlison,R,House,MO,RepEricBurlison,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001316,Eric Burlison,R,House,MO,EricBurlison,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001068,Steve Cohen,D,House,TN,RepCohen,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000469,Russ Fulcher,R,House,ID,RepRussFulcher,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000469,Russ Fulcher,R,House,ID,RussFulcher,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S001188,Marlin A. Stutzman,R,House,IN,RepStutzman,congress-legislators official,1,2026-11-18T20:09:01-05:00
+W000788,Nikema Williams,D,House,GA,RepNikema,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000788,Nikema Williams,D,House,GA,nikemawilliams,wikidata P2002,0,2026-11-18T20:09:01-05:00
+O000086,Burgess Owens,R,House,UT,RepBurgessOwens,congress-legislators official,1,2026-11-18T20:09:01-05:00
+O000086,Burgess Owens,R,House,UT,BurgessOwens,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+G000586,"Jesús G. ""Chuy"" García",D,House,IL,RepChuyGarcia,congress-legislators official,0,2026-11-18T20:09:01-05:00
+G000586,"Jesús G. ""Chuy"" García",D,House,IL,ChuyForCongress,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B000825,Lauren Boebert,R,House,CO,RepBoebert,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B000825,Lauren Boebert,R,House,CO,laurenboebert,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+G000576,Glenn Grothman,R,House,WI,RepGrothman,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001081,Jahana Hayes,D,House,CT,RepJahanaHayes,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001081,Jahana Hayes,D,House,CT,JahanaHayesCT,wikidata P2002,0,2026-11-18T20:09:01-05:00
+C001131,Greg Casar,D,House,TX,RepCasar,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000246,Pat Fallon,R,House,TX,RepPatFallon,congress-legislators official,1,2026-11-18T20:09:01-05:00
+M001245,Christian D. Menefee,D,House,TX,CDMenefee,wikidata P2002,0,2026-11-18T20:09:01-05:00
+G000587,Sylvia R. Garcia,D,House,TX,RepSylviaGarcia,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000616,Scott DesJarlais,R,House,TN,DesJarlaisTN04,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001285,Julia Brownley,D,House,CA,RepBrownley,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001129,Mike Collins,R,House,GA,RepMikeCollins,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001129,Mike Collins,R,House,GA,MikeCollinsGA,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M001184,Thomas Massie,R,House,KY,RepThomasMassie,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S000522,Christopher H. Smith,R,House,NJ,RepChrisSmith,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+R000620,Luz M. Rivas,D,House,CA,RepLuzRivas,congress-legislators official,0,2026-11-18T20:09:01-05:00
+R000620,Luz M. Rivas,D,House,CA,luzrivas,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S001224,Keith Self,R,House,TX,repkeithself,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001224,Keith Self,R,House,TX,SelfForCongress,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+A000381,Yassamin Ansari,D,House,AZ,RepYassAnsari,congress-legislators official,0,2026-11-18T20:09:01-05:00
+A000381,Yassamin Ansari,D,House,AZ,yassaminansari,wikidata P2002,0,2026-11-18T20:09:01-05:00
+E000296,Dwight Evans,D,House,PA,RepDwightEvans,congress-legislators official,0,2026-11-18T20:09:01-05:00
+J000288,"Henry C. ""Hank"" Johnson, Jr.",D,House,GA,RepHankJohnson,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001231,Lateefah Simon,D,House,CA,RepLSimon,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001231,Lateefah Simon,D,House,CA,lateefahsimon,wikidata P2002,0,2026-11-18T20:09:01-05:00
+P000607,Mark Pocan,D,House,WI,RepMarkPocan,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S001205,Mary Gay Scanlon,D,House,PA,RepMGS,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000462,Lois Frankel,D,House,FL,RepLoisFrankel,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000399,Lloyd Doggett,D,House,TX,RepLloydDoggett,congress-legislators official,0,2026-11-18T20:09:01-05:00
+D000399,Lloyd Doggett,D,House,TX,LloydDoggettTX,wikidata P2002,0,2026-11-18T20:09:01-05:00
+T000472,Mark Takano,D,House,CA,RepMarkTakano,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001116,Andrew S. Clyde,R,House,GA,Rep_Clyde,congress-legislators official,1,2026-11-18T20:09:01-05:00
+P000605,Scott Perry,R,House,PA,RepScottPerry,congress-legislators official,1,2026-11-18T20:09:01-05:00
+R000305,Deborah K. Ross,D,House,NC,RepDeborahRoss,congress-legislators official,0,2026-11-18T20:09:01-05:00
+R000305,Deborah K. Ross,D,House,NC,DeborahRossNC,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001325,Sheri Biggs,R,House,SC,repsheribiggs,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001325,Sheri Biggs,R,House,SC,votesheribiggs,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+M000687,Kweisi Mfume,D,House,MD,RepKweisiMfume,congress-legislators official,0,2026-11-18T20:09:01-05:00
+H001103,Pablo José Hernández,D,House,PR,reppablojose,congress-legislators official,0,2026-11-18T20:09:01-05:00
+K000389,Ro Khanna,D,House,CA,RepRoKhanna,congress-legislators official,0,2026-11-18T20:09:01-05:00
+K000389,Ro Khanna,D,House,CA,RoKhanna,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001307,James R. Baird,R,House,IN,RepJimBaird,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001307,James R. Baird,R,House,IN,electjimbaird,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+V000081,Nydia M. Velázquez,D,House,NY,NydiaVelazquez,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001288,Cory A. Booker,D,Senate,NJ,SenBooker,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001288,Cory A. Booker,D,Senate,NJ,CoryBooker,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H001077,Clay Higgins,R,House,LA,RepClayHiggins,congress-legislators official,1,2026-11-18T20:09:01-05:00
+V000130,Juan Vargas,D,House,CA,RepJuanVargas,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000477,Valerie P. Foushee,D,House,NC,ValerieFoushee,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000477,Valerie P. Foushee,D,House,NC,FousheeforNC,wikidata P2002,0,2026-11-18T20:09:01-05:00
+A000370,Alma S. Adams,D,House,NC,RepAdams,congress-legislators official,0,2026-11-18T20:09:01-05:00
+V000133,Jefferson Van Drew,R,House,NJ,Congressman_JVD,congress-legislators official,1,2026-11-18T20:09:01-05:00
+F000479,John Fetterman,D,Senate,PA,FettermanLt,wikidata P2002,0,2026-11-18T20:09:01-05:00
+F000479,John Fetterman,D,Senate,PA,JohnFetterman,wikidata P2002,0,2026-11-18T20:09:01-05:00
+T000490,David J. Taylor,R,House,OH,RepDaveTaylor,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000490,David J. Taylor,R,House,OH,davetayloroh,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+C001115,Michael Cloud,R,House,TX,RepCloudTX,congress-legislators official,1,2026-11-18T20:09:01-05:00
+J000305,Sara Jacobs,D,House,CA,RepSaraJacobs,congress-legislators official,0,2026-11-18T20:09:01-05:00
+O000175,Andrew Ogles,R,House,TN,repogles,congress-legislators official,1,2026-11-18T20:09:01-05:00
+O000175,Andrew Ogles,R,House,TN,AndyOgles,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000485,Clay Fuller,R,House,GA,RepClayFuller,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000485,Clay Fuller,R,House,GA,Clay4MainStreet,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+S001229,Jefferson Shreve,R,House,IN,repshreve,congress-legislators official,1,2026-11-18T20:09:01-05:00
+S001229,Jefferson Shreve,R,House,IN,jeffersonshreve,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+L000602,Summer L. Lee,D,House,PA,RepSummerLee,congress-legislators official,0,2026-11-18T20:09:01-05:00
+L000602,Summer L. Lee,D,House,PA,SummerForPA,wikidata P2002,0,2026-11-18T20:09:01-05:00
+D000096,Danny K. Davis,D,House,IL,RepDannyDavis,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000197,Nancy Pelosi,D,House,CA,SpeakerPelosi,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001177,Tom McClintock,R,House,CA,RepMcClintock,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000562,Stephen F. Lynch,D,House,MA,RepStephenLynch,congress-legislators official,0,2026-11-18T20:09:01-05:00
+T000165,Thomas P. Tiffany,R,House,WI,RepTiffany,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000165,Thomas P. Tiffany,R,House,WI,SenTomTiffany,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+T000165,Thomas P. Tiffany,R,House,WI,TomTiffanyWI,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+N000190,Ralph Norman,R,House,SC,RepRalphNorman,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000606,George Latimer,D,House,NY,RepGLatimer,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001246,Analilia Mejia,D,House,NJ,Analilia_Mejia,wikidata P2002,0,2026-11-18T20:09:01-05:00
+O000177,"Robert F. Onder, Jr.",R,House,MO,RepBobOnder,congress-legislators official,1,2026-11-18T20:09:01-05:00
+O000177,"Robert F. Onder, Jr.",R,House,MO,bobondermo,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+W000808,Frederica S. Wilson,D,House,FL,RepWilson,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S000929,Victoria Spartz,R,House,IN,RepSpartz,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000583,Barry Loudermilk,R,House,GA,RepLoudermilk,congress-legislators official,1,2026-11-18T20:09:01-05:00
+J000298,Pramila Jayapal,D,House,WA,RepJayapal,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001267,Michael F. Bennet,D,Senate,CO,SenatorBennet,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001267,Michael F. Bennet,D,Senate,CO,MichaelBennet,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H001098,Abraham J. Hamadeh,R,House,AZ,RepAbeHamadeh,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+H001098,Abraham J. Hamadeh,R,House,AZ,AbrahamHamadeh,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+F000483,Laura Friedman,D,House,CA,RepFriedmanCA,congress-legislators official,0,2026-11-18T20:09:01-05:00
+F000483,Laura Friedman,D,House,CA,laurafriedman43,wikidata P2002,0,2026-11-18T20:09:01-05:00
+H001102,Mark Harris,R,House,NC,RepMarkHarrisNC,congress-legislators official,1,2026-11-18T20:09:01-05:00
+H001102,Mark Harris,R,House,NC,markharrisnc9,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+G000565,Paul A. Gosar,R,House,AZ,RepGosar,congress-legislators official,1,2026-11-18T20:09:01-05:00
+G000565,Paul A. Gosar,R,House,AZ,DrPaulGosar,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+T000488,Shri Thanedar,D,House,MI,RepShriThanedar,congress-legislators official,0,2026-11-18T20:09:01-05:00
+T000488,Shri Thanedar,D,House,MI,ShriThanedar,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001211,Mary E. Miller,R,House,IL,RepMaryMiller,congress-legislators official,1,2026-11-18T20:09:01-05:00
+P000597,Chellie Pingree,D,House,ME,ChelliePingree,congress-legislators official,0,2026-11-18T20:09:01-05:00
+C001132,Elijah Crane,R,House,AZ,RepEliCrane,congress-legislators official,1,2026-11-18T20:09:01-05:00
+C001132,Elijah Crane,R,House,AZ,EliCrane_CEO,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+J000293,Ron Johnson,R,Senate,WI,SenRonJohnson,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000596,Anna Paulina Luna,R,House,FL,RepLuna,congress-legislators official,1,2026-11-18T20:09:01-05:00
+L000596,Anna Paulina Luna,R,House,FL,realannapaulina,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+L000596,Anna Paulina Luna,R,House,FL,voteapl,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+G000607,James Gallagher,R,House,CA,J_Gallagher4CA,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+O000173,Ilhan Omar,D,House,MN,Ilhan,congress-legislators official,0,2026-11-18T20:09:01-05:00
+O000173,Ilhan Omar,D,House,MN,IlhanMN,wikidata P2002,0,2026-11-18T20:09:01-05:00
+G000553,Al Green,D,House,TX,RepAlGreen,congress-legislators official,0,2026-11-18T20:09:01-05:00
+B001302,Andy Biggs,R,House,AZ,RepAndyBiggsAZ,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001302,Andy Biggs,R,House,AZ,andybiggs4az,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+R000612,John W. Rose,R,House,TN,RepJohnRose,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001328,Everton Blair Jr.,D,House,GA,evertonblairjr,wikidata P2002,0,2026-11-18T20:09:01-05:00
+M001234,Kelly Morrison,D,House,MN,kellymorrisonmn,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001234,Kelly Morrison,D,House,MN,morrison4mn,wikidata P2002,0,2026-11-18T20:09:01-05:00
+P000617,Ayanna Pressley,D,House,MA,RepPressley,congress-legislators official,0,2026-11-18T20:09:01-05:00
+P000617,Ayanna Pressley,D,House,MA,AyannaPressley,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001309,Tim Burchett,R,House,TN,RepTimBurchett,congress-legislators official,1,2026-11-18T20:09:01-05:00
+B001309,Tim Burchett,R,House,TN,timburchett,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+K000404,Kimberlyn King-Hinds,R,House,MP,RepKimKingHinds,congress-legislators official,1,2026-11-18T20:09:01-05:00
+T000481,Rashida Tlaib,D,House,MI,RepRashida,congress-legislators official,0,2026-11-18T20:09:01-05:00
+T000481,Rashida Tlaib,D,House,MI,RashidaTlaib,wikidata P2002,0,2026-11-18T20:09:01-05:00
+B001317,Josh Brecheen,R,House,OK,repbrecheen,congress-legislators official,1,2026-11-18T20:09:01-05:00
+O000172,Alexandria Ocasio-Cortez,D,House,NY,RepAOC,congress-legislators official,0,2026-11-18T20:09:01-05:00
+O000172,Alexandria Ocasio-Cortez,D,House,NY,AOC,wikidata P2002,0,2026-11-18T20:09:01-05:00
+W000817,Elizabeth Warren,D,Senate,MA,SenWarren,congress-legislators official,0,2026-11-18T20:09:01-05:00
+W000817,Elizabeth Warren,D,Senate,MA,ewarren,wikidata P2002,0,2026-11-18T20:09:01-05:00
+S000033,Bernard Sanders,I,Senate,VT,SenSanders,congress-legislators official,0,2026-11-18T20:09:01-05:00
+S000033,Bernard Sanders,I,Senate,VT,BernieSanders,wikidata P2002,0,2026-11-18T20:09:01-05:00
+R000600,Aumua Amata Coleman Radewagen,R,House,AS,RepAmata,congress-legislators official,1,2026-11-18T20:09:01-05:00
+R000600,Aumua Amata Coleman Radewagen,R,House,AS,amata96799,gop_x_layer member_handles_all.json,1,2026-11-18T20:09:01-05:00
+W000832,Aisha Wahab,D,House,CA,aishabbwahab,wikidata P2002,0,2026-11-18T20:09:01-05:00
+N000147,Eleanor Holmes Norton,D,House,DC,EleanorNorton,congress-legislators official,0,2026-11-18T20:09:01-05:00
+M001219,James C. Moylan,R,House,GU,JMoylanforGuam,congress-legislators official,1,2026-11-18T20:09:01-05:00

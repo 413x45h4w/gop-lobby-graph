@@ -1,0 +1,951 @@
+checked_at_ET,batch,handle,status,x_user_id,x_name,x_description,x_created_at
+2026-11-18T20:10:13-05:00,0,RepJasonSmith,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SteveScalise,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepGuthrie,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,brettguthrie,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepMikeJohnson,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,MikeJohnson,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SpeakerJohnson,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,KenCalvert,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepTomEmmer,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,GOPMajorityWhip,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,TomColeOK04,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,FrankPallone,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,pallonefornj,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,MartinHeinrich,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenatorHeinrich,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,MarkWarner,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,MarkWarnerVA,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenJohnThune,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,johnthune,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,LeaderJohnThune,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepKClark,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenatorCantwell,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,MariaCantwell,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenThomTillis,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenJohnBarrasso,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepFrenchHill,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepJeffries,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepMikeRogersAL,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,JohnCornyn,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenatorWicker,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenTedCruz,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,tedcruz,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,alsobrooksformd,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,CEXAlsobrooks,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenatorCollins,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenKatieBritt,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,KatieBoydBritt,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,KatieBrittforAL,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenTimKaine,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,timkaine,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepRubenGallego,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RubenGallego,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenJackyRosen,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RosenforNevada,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenLBR,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,LisaBRochester,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepLBR,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenatorHagerty,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,BillHagertyTN,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenBillCassidy,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,BillCassidy,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenatorCassidy,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepAndyBarr,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepJimBanks,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepPeteAguilar,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepRichardNeal,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenDanSullivan,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepLaHood,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenatorLujan,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,benraylujan,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,TimSheehyMT,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,MarshaBlackburn,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,VoteMarsha,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepAshleyHinson,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,hinsonashley,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenEricSchmitt,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,Eric_Schmitt,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepJohnCurtis,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepRichHudson,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,repkevinhern,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepJuliaLetlow,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,jbletlow,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenatorFischer,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SteveDaines,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,MarioDB,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenatorBaldwin,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,tammybaldwin,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepMikeCarey,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenMcCormickPA,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RobWittman,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,ChrisCoons,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenCoonsOffice,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,ChrisCoonsforDE,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenatorHassan,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,maggie_hassan,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenAshleyMoody,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,SenJonHusted,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,JonHusted,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepSlotkin,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,ElissaSlotkin,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,GReschenthaler,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,reschenthaler,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepMenendez,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RobMenendez4NJ,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepHaleyStevens,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepAngieCraig,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,AngieCraigMN,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,MikeCrapo,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,crapoforsenate,not_found:missing,,,,
+2026-11-18T20:10:13-05:00,0,RepHorsford,not_found:missing,,,,
+2026-11-18T20:10:49-05:00,0,RepJasonSmith,found,1623308912,Rep. Jason Smith,@WaysandMeansGOP Chairman | Farmer | 7th generation Missourian | Conservative fighting for Missouri’s working class and small businesses | Serving Missouri 08,2013-07-26T16:13:03.000Z
+2026-11-18T20:10:49-05:00,0,SteveScalise,found,1209417007,Steve Scalise,House Majority Leader. Dad. LSU & Saints fan. Proudly representing Louisiana’s First District.,2013-02-22T18:10:47.000Z
+2026-11-18T20:10:49-05:00,0,RepGuthrie,found,1908143071,Rep. Brett Guthrie,Fighting for conservative values in Washington while representing the people of Kentucky's 2nd Congressional District,2013-09-26T14:37:17.000Z
+2026-11-18T20:10:49-05:00,0,brettguthrie,found,114607567,Brett Guthrie,Congressman serving Kentucky's 2nd District.,2010-02-16T01:12:14.000Z
+2026-11-18T20:10:49-05:00,0,RepMikeJohnson,not_found:Not Found Error,,,,
+2026-11-18T20:10:49-05:00,0,MikeJohnson,found,4849654052,Mike Johnson,"56th Speaker of the House. Christian, husband, dad, attorney serving LA's 4th District since 2017.",2016-02-02T14:48:05.000Z
+2026-11-18T20:10:49-05:00,0,SpeakerJohnson,found,827279765287559171,Speaker Mike Johnson,"56th Speaker of the House | Christian, husband, dad, Constitutional law attorney & small biz owner.",2017-02-02T22:17:20.000Z
+2026-11-18T20:10:49-05:00,0,KenCalvert,found,22545491,Rep. Ken Calvert,Proudly representing Southern California in Congress. Defense Appropriations Subcommittee Chairman + Fentanyl Caucus Co-Chair. Fighting for you!,2009-03-02T22:30:20.000Z
+2026-11-18T20:10:49-05:00,0,RepTomEmmer,not_found:Not Found Error,,,,
+2026-11-18T20:10:49-05:00,0,GOPMajorityWhip,found,2914515430,Tom Emmer,"House Majority Whip, husband, father, hockey fan, and Congressman for Minnesota's 6th District.",2014-12-10T21:44:52.000Z
+2026-11-18T20:10:49-05:00,0,TomColeOK04,found,23124635,Rep. Tom Cole,Proud to represent #OK04 in the U.S. House of Reps. Chairman of @HouseAppropsGOP. Staff moderated unless signed by me. -TC,2009-03-06T21:54:25.000Z
+2026-11-18T20:10:49-05:00,0,FrankPallone,found,31801993,Rep. Frank Pallone,"#NJ06 Congressman. Top Dem on @EnergyCommerce. Fighting to lower Rx costs, protect our shore, & hold corporate polluters accountable. Long Branch born & bred.",2009-04-16T13:51:56.000Z
+2026-11-18T20:10:49-05:00,0,pallonefornj,found,1265423480,"Frank Pallone, Jr.",,2013-03-13T20:49:49.000Z
+2026-11-18T20:10:49-05:00,0,MartinHeinrich,found,183062944,Martin Heinrich,U.S. Senator fighting for all New Mexicans. Husband. Dad. ⅓ of the Three Climateers. Chile Enthusiast. #electrifyeverything⚡,2010-08-26T01:56:16.000Z
+2026-11-18T20:10:49-05:00,0,SenatorHeinrich,found,1099199839,Martin Heinrich,"U.S. Senator for NM. Husband, dad, hunter. Former engineer and current energy nerd. Respects hard work, NM values, and anyone with a freezer full of wild game.",2013-01-17T20:24:19.000Z
+2026-11-18T20:10:49-05:00,0,MarkWarner,found,7429102,Mark Warner,"U.S. Senator from Virginia. Vice Chairman, Senate Intel Committee.",2007-07-12T14:03:33.000Z
+2026-11-18T20:10:49-05:00,0,MarkWarnerVA,found,409719505,Mark Warner HQ,Campaign updates from Mark Warner. Following/retweeting does not equal endorsement.,2011-11-11T03:59:32.000Z
+2026-11-18T20:10:49-05:00,0,SenJohnThune,not_found:Forbidden,,,,
+2026-11-18T20:10:49-05:00,0,johnthune,found,26533227,John Thune,United States Senator from South Dakota. Senate Majority Leader.,2009-03-25T16:40:28.000Z
+2026-11-18T20:10:49-05:00,0,LeaderJohnThune,found,296361085,Leader John Thune,Senate Majority Leader. Representing South Dakota. Father. Grandfather. Husband. Sports Fan. Avid Outdoorsman. Hates Shoveling Snow.,2011-05-10T16:41:48.000Z
+2026-11-18T20:10:49-05:00,0,RepKClark,not_found:Not Found Error,,,,
+2026-11-18T20:10:49-05:00,0,SenatorCantwell,found,117501995,Sen. Maria Cantwell,U.S. Senator from Washington State | Ranking Member @commercedems | https://t.co/hxwJAXpyg7… | https://t.co/TZiAX2cens | RT≠endorsement,2010-02-25T19:21:52.000Z
+2026-11-18T20:10:49-05:00,0,MariaCantwell,found,35567751,Maria Cantwell,"Official Twitter account of Friends of Maria, Sen. Cantwell's re-election campaign committee. RT≠endorsement",2009-04-26T21:18:09.000Z
+2026-11-18T20:10:49-05:00,0,SenThomTillis,found,2964174789,Senator Thom Tillis,Official Twitter account of North Carolina U.S. Senator Thom Tillis.,2015-01-06T14:22:18.000Z
+2026-11-18T20:10:49-05:00,0,SenJohnBarrasso,found,202206694,Sen. John Barrasso,U.S. Senator for the great state of Wyoming | Senate Majority Whip | https://t.co/6GkVwSi1zy,2010-10-13T14:49:08.000Z
+2026-11-18T20:10:49-05:00,0,RepFrenchHill,found,2953974395,French Hill,Official account of Rep. French Hill. 9th generation Arkansan. @FinancialCmte Chairman. Proudly representing AR-02.,2014-12-31T23:54:58.000Z
+2026-11-18T20:10:49-05:00,0,RepJeffries,found,467823431,Hakeem Jeffries,Brooklyn Congressman. Leader @HouseDemocrats. Work hard. Stay focused. Deliver results #ForThePeople.,2012-01-18T21:54:44.000Z
+2026-11-18T20:10:49-05:00,0,RepMikeRogersAL,found,33977070,Mike Rogers,I am proud to represent Alabama's Third Congressional District.,2009-04-21T17:43:28.000Z
+2026-11-18T20:10:49-05:00,0,JohnCornyn,found,13218102,Senator John Cornyn,Proudly representing Texas in the U.S. Senate.,2008-02-07T19:52:55.000Z
+2026-11-18T20:10:49-05:00,0,SenatorWicker,found,264219447,Senator Roger Wicker,Senior U.S. Senator for Mississippi. Chairman @SASCGOP. Please visit my website for updates.,2011-03-11T14:59:01.000Z
+2026-11-18T20:10:49-05:00,0,SenTedCruz,found,1074480192,Senator Ted Cruz,Representing the State of Texas in the United States Senate.,2013-01-09T18:11:37.000Z
+2026-11-18T20:10:49-05:00,0,tedcruz,found,23022687,Ted Cruz,"Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.  GOING FURTHER out now.",2009-03-06T03:20:20.000Z
+2026-11-18T20:10:49-05:00,0,AlsobrooksForMD,found,1235381442999463937,Angela Alsobrooks,U.S. Senator from Maryland. Former Prosecutor. Lifelong Marylander. Alex’s mom. Let’s go farther together.,2020-03-05T01:47:58.000Z
+2026-11-18T20:10:49-05:00,0,CEXAlsobrooks,found,15935867,County Executive Angela Alsobrooks,"County Executive for Prince George's County, Maryland. Working hard every day to make you #PrinceGeorgesProud!",2008-08-21T19:45:14.000Z
+2026-11-18T20:10:49-05:00,0,SenatorCollins,found,19726613,Sen. Susan Collins,United States Senator from Maine. All posts originate from the Press Office of Senator Susan Collins.,2009-01-29T18:56:59.000Z
+2026-11-18T20:10:49-05:00,0,SenKatieBritt,found,1597271188383866883,Senator Katie Boyd Britt,U.S. Senator for the great state of Alabama. Fighting to grow opportunity for hardworking families and preserve the American Dream for our children.,2022-11-28T16:49:25.000Z
+2026-11-18T20:10:49-05:00,0,KatieBoydBritt,found,346559263,Katie Boyd Britt,"Tireless fighter for good-paying jobs, small businesses & rural Alabama. Proud Christian, wife and mom. Enterprise native. Follow the campaign: @KatieBrittForAL",2011-08-01T13:27:12.000Z
+2026-11-18T20:10:49-05:00,0,KatieBrittforAL,found,1400915708259696640,Katie Britt,Unapologetically committed to putting #AlabamaFirst and delivering results for our great state. Official tweets: @SenKatieBritt.,2021-06-04T20:42:52.000Z
+2026-11-18T20:10:49-05:00,0,SenTimKaine,found,1561739334230892544,Senator Tim Kaine,Official account of U.S. Senator Tim Kaine.,2022-08-22T15:37:49.000Z
+2026-11-18T20:10:49-05:00,0,timkaine,found,172858784,Tim Kaine,"Anne Holton’s husband, Dad of 3, Stone Irish, public servant, musician, civil rights lawyer, backpacker.",2010-07-30T20:00:32.000Z
+2026-11-18T20:10:49-05:00,0,RepRubenGallego,not_found:Not Found Error,,,,
+2026-11-18T20:10:49-05:00,0,RubenGallego,found,49217025,Ruben Gallego,"Senator from Arizona. Iraq War Veteran USMC 0311/0341. Hispanic/Latino. Father of Michael, Isla & Cooper. Husband to @syd_gallego",2009-06-21T03:26:23.000Z
+2026-11-18T20:10:49-05:00,0,SenJackyRosen,found,818554054309715969,Senator Jacky Rosen,Working across the aisle to deliver for hardworking Nevada families in the U.S. Senate. Proud mom and wife. Former computer programmer and synagogue president.,2017-01-09T20:24:29.000Z
+2026-11-18T20:10:49-05:00,0,RosenforNevada,found,4749863113,Jacky Rosen,"First former computer programmer & synagogue president in the U.S. Senate. Mom, bipartisan problem solver, and fighter for Nevadans. Official campaign account.",2016-01-12T20:33:06.000Z
+2026-11-18T20:10:49-05:00,0,SenLBR,found,817050219007328258,Senator Lisa Blunt Rochester,Official X page for U.S. Senator Lisa Blunt Rochester (D-DE).,2017-01-05T16:48:47.000Z
+2026-11-18T20:10:49-05:00,0,LisaBRochester,found,4049197462,Lisa Blunt Rochester,U.S. Senator serving Delaware. Mom of 2. @UDelaware alum.,2015-10-26T22:17:18.000Z
+2026-11-18T20:10:49-05:00,0,RepLBR,found,99889029,Matbet Güncel Bilgi ve Duyuru Merkezi,"Matbet güncel bilgi ve duyuru merkezi bu hesaptan yazılır. Adres değişince ilk satır burada durur, resmi rehber takipte kalır ve kanal açık kalır.",2009-12-28T07:22:05.000Z
+2026-11-18T20:10:49-05:00,0,SenatorHagerty,found,1346873610875654147,Senator Bill Hagerty,Husband | Father of four | Businessman | Community Volunteer | Conservative Republican | U.S. Senator | Former U.S. Ambassador to Japan | Proud Tennessean,2021-01-06T17:37:54.000Z
+2026-11-18T20:10:49-05:00,0,BillHagertyTN,found,1152598802873880576,Bill Hagerty,"Father. Husband. Proud Tennessean. Senator to the great state of TN. Former US Amb. to Japan, @realDonaldTrump 2016 Transition Leader + TN Victory Chair",2019-07-20T15:19:03.000Z
+2026-11-18T20:10:49-05:00,0,SenBillCassidy,found,1017500185356853248,"U.S. Senator Bill Cassidy, M.D.","Treated uninsured patients as a doctor in Louisiana’s charity hospital system, now serving the people of my state in the US Senate. Proud LSU grad! #GeauxTigers",2018-07-12T20:05:23.000Z
+2026-11-18T20:10:49-05:00,0,BillCassidy,found,55677432,"Bill Cassidy, M.D.",Gastroenterologist currently serving the people of Louisiana in the U.S. Senate.,2009-07-10T22:02:55.000Z
+2026-11-18T20:10:49-05:00,0,SenatorCassidy,found,2479160868,Bill Cassidy,,2014-05-06T03:10:26.000Z
+2026-11-18T20:10:49-05:00,0,RepAndyBarr,found,1089334250,Congressman Andy Barr,"Representing the Sixth Congressional District of Kentucky & Member of House Financial Services, Foreign Affairs, and Select China Committees",2013-01-14T15:29:49.000Z
+2026-11-18T20:10:49-05:00,0,RepJimBanks,not_found:Not Found Error,,,,
+2026-11-18T20:10:49-05:00,0,RepPeteAguilar,found,3018670151,Rep. Pete Aguilar,"Dad, husband, former mayor. Proud to be the Inland Empire’s voice in Congress representing #CA33. Chair of @HouseDemocrats.",2015-02-04T21:01:23.000Z
+2026-11-18T20:10:49-05:00,0,RepRichardNeal,found,442824717,Rep. Richard Neal,"Serving the 1st District of Massachusetts in the US House of Representatives, with 83 cities & towns in western & central MA. Ranking Member of @WaysMeansCmte.",2011-12-21T14:18:30.000Z
+2026-11-18T20:10:49-05:00,0,SenDanSullivan,found,2891210047,Sen. Dan Sullivan,Official twitter account for U.S. Senator Dan Sullivan. Proudly serving the state of Alaska.,2014-11-05T21:25:42.000Z
+2026-11-18T20:10:49-05:00,0,RepLaHood,found,3686482216,Darin LaHood,"Proudly representing the 16th District of Illinois. Member of @WaysandMeansGOP, @HouseIntel, and @ChinaSelect",2015-09-17T14:16:48.000Z
+2026-11-18T20:10:49-05:00,0,SenatorLujan,found,19318314,Senator Ben Ray Luján,"U.S. Senator for New Mexico. Born & raised in Nambé. Proud son of a union family. Farmer, mountain biker, delivering for the place we call home.",2009-01-22T01:00:32.000Z
+2026-11-18T20:10:49-05:00,0,benraylujan,found,91125308,Ben Ray Luján,Proud son of an ironworker & a public school employee. Fourth generation on my family farm in Nambé. Senator from New Mexico.,2009-11-19T15:28:52.000Z
+2026-11-18T20:10:49-05:00,0,TimSheehyMT,found,1630649273191743488,Tim Sheehy,"Servant leader, father, husband and Montana’s U.S. Senator 🇺🇸",2023-02-28T19:21:19.000Z
+2026-11-18T20:10:49-05:00,0,MarshaBlackburn,found,278145569,Sen. Marsha Blackburn,I am honored to serve the people of Tennessee.,2011-04-06T18:05:33.000Z
+2026-11-18T20:10:49-05:00,0,VoteMarsha,found,63150856,Marsha Blackburn,Governor-elect of Tennessee.  Instagram: @VoteMarsha,2009-08-05T14:44:11.000Z
+2026-11-18T20:10:49-05:00,0,RepAshleyHinson,found,1340783304304410625,Ashley Hinson,Proud mom and wife. Representing IA-02 in Congress and bringing a dose of Iowa common sense to Washington. FB: https://t.co/sKtNaJyBsw,2020-12-20T22:17:12.000Z
+2026-11-18T20:10:49-05:00,0,hinsonashley,found,18189966,Ashley Hinson,Congresswoman for Northeast Iowa. Iowa native. Wife to Matt and mother of two sons.,2008-12-17T14:42:17.000Z
+2026-11-18T20:10:49-05:00,0,SenEricSchmitt,found,1603540143872385026,Senator Eric Schmitt,Official account of United States Senator Eric Schmitt.,2022-12-15T23:59:44.000Z
+2026-11-18T20:10:49-05:00,0,Eric_Schmitt,found,101852818,Eric Schmitt,Husband • Dad • United States Senator for Missouri • Diehard #STLCards fan,2010-01-04T20:17:04.000Z
+2026-11-18T20:10:49-05:00,0,RepJohnCurtis,not_found:Not Found Error,,,,
+2026-11-18T20:10:49-05:00,0,RepRichHudson,found,935033864,Rep. Richard Hudson,Official Account of Congressman Richard Hudson (NC-09)  Member of @HouseGOP Leadership & @HouseCommerce,2012-11-08T17:41:00.000Z
+2026-11-18T20:10:49-05:00,0,repkevinhern,found,1067818539179024386,Congressman Kevin Hern,Proudly serving Oklahoma's First Congressional District,2018-11-28T16:32:33.000Z
+2026-11-18T20:10:49-05:00,0,RepJuliaLetlow,found,1382395679700439041,Congresswoman Julia Letlow,Proudly Representing #LA05 in Congress | Mom to Jeremiah and Jacqueline | Former Educator and Lifelong Learner | Christian | Conservative,2021-04-14T18:12:03.000Z
+2026-11-18T20:10:49-05:00,0,jbletlow,found,19039789,"Julia B Letlow, Ph.D.","Official Campaign Page for Julia Letlow for Louisiana | Louisianian, Christian, Conservative, Educator, Mother of Two",2009-01-15T21:25:56.000Z
+2026-11-18T20:10:49-05:00,0,SenatorFischer,found,1071402577,Senator Deb Fischer,Straight talk from the NE Sandhills. Proud mom and nana. Senior U.S. Senator for Nebraska and lifelong Husker. #GBR,2013-01-08T16:49:07.000Z
+2026-11-18T20:10:49-05:00,0,SteveDaines,found,11651202,Steve Daines,Serving the people of Montana in the U.S. Senate. 🇺🇸,2007-12-30T05:52:03.000Z
+2026-11-18T20:10:49-05:00,0,MarioDB,found,37094727,Mario Díaz-Balart,"Proudly representing FL-26. Dean of FL's Delegation. Vice Chair @HouseAppropsGOP, Chair of Natl Security & Dept. of State, & member of the Defense subcommittee.",2009-05-02T00:52:48.000Z
+2026-11-18T20:10:49-05:00,0,SenatorBaldwin,found,1074518754,Sen. Tammy Baldwin,"Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",2013-01-09T18:29:44.000Z
+2026-11-18T20:10:49-05:00,0,tammybaldwin,found,87510313,Tammy Baldwin,U.S. Senator for the great state of Wisconsin. Campaign account. 🧀,2009-11-04T19:20:25.000Z
+2026-11-18T20:10:49-05:00,0,RepMikeCarey,found,1457745193197780993,Congressman Mike Carey,"Proudly serving Ohio's 15th Congressional District. Member @WaysandMeansGOP, @HouseAdmin, & @HouseBudgetGOP. https://t.co/gD1EQmI20W",2021-11-08T16:21:58.000Z
+2026-11-18T20:10:49-05:00,0,SenMcCormickPA,found,1875267238309351424,Senator Dave McCormick,"U.S. Senator for Pennsylvania. Husband, father, Army veteran, and businessman. Committed to delivering results for every Pennsylvanian.",2025-01-03T19:45:48.000Z
+2026-11-18T20:10:49-05:00,0,RobWittman,found,15356407,Rep. Rob Wittman,"Honored to represent VA-01 in Congress. Vice chairman of @HASCRepublicans & @NatResources. Husband, dad, granddad, outdoorsman, and former marine scientist.",2008-07-08T18:25:49.000Z
+2026-11-18T20:10:49-05:00,0,ChrisCoons,found,15324851,Senator Chris Coons,"Father, husband, U.S. Senator from Delaware",2008-07-05T11:17:54.000Z
+2026-11-18T20:10:49-05:00,0,SenCoonsOffice,found,435500714,Office of Sen. Coons,"News releases, blog posts, new videos, transcripts and other resources from the office of U.S. Senator @ChrisCoons of Delaware.",2011-12-13T04:02:30.000Z
+2026-11-18T20:10:49-05:00,0,ChrisCoonsforDE,found,823302838524739584,Chris Coons,U.S. Senator from the First State. Former New Castle County Exec & in-house counsel for a manufacturing company. Husband & father of 3.,2017-01-22T22:54:27.000Z
+2026-11-18T20:10:49-05:00,0,SenatorHassan,found,946549322,Sen. Maggie Hassan,"New England sports fan, mom, crossword enthusiast, former governor, U.S. Senator for New Hampshire.",2012-11-13T21:27:37.000Z
+2026-11-18T20:10:49-05:00,0,Maggie_Hassan,found,361569788,Maggie Hassan,Senator. Mom. Sox fan.,2011-08-25T00:19:24.000Z
+2026-11-18T20:10:49-05:00,0,SenAshleyMoody,found,1082351804564848640,Senator Ashley Moody,United States Senator for the Free State of Florida.,2019-01-07T19:02:34.000Z
+2026-11-18T20:10:49-05:00,0,SenJonHusted,found,243670716,Senator Jon Husted,"Husband to Tina | Father to Alex, Katie, & Kylie | Conservative, Innovator & Leader | U.S. Senator from Ohio",2011-01-27T15:23:40.000Z
+2026-11-18T20:10:49-05:00,0,JonHusted,found,64098343,Jon Husted,"Husband to Tina | Father to Alex, Katie & Kylie | U.S. Senator from Ohio | Personal account - for tweets from the Office, follow @SenJonHusted",2009-08-09T03:02:53.000Z
+2026-11-18T20:10:49-05:00,0,RepSlotkin,not_found:Not Found Error,,,,
+2026-11-18T20:10:49-05:00,0,ElissaSlotkin,found,860547911268139008,Elissa Slotkin,"U.S. Senator for the great state of Michigan. Dog mom, Michigander. Fighting for better jobs, lower health care costs, and cleaner politics.",2017-05-05T17:33:05.000Z
+2026-11-18T20:10:49-05:00,0,GReschenthaler,found,4205133682,Guy Reschenthaler,Chief Deputy Whip. Proudly representing the people of Pennsylvania’s 14th District in the U.S. House of Representatives 🇺🇸,2015-11-16T22:15:01.000Z
+2026-11-18T20:10:49-05:00,0,reschenthaler,found,477223342,Guy Reschenthaler,U.S. Representative for PA-14. House Republican Chief Deputy Whip. Former Navy JAG & Magisterial District Judge.,2012-01-28T23:48:42.000Z
+2026-11-18T20:10:49-05:00,0,RepMenendez,found,1603468242852397057,Rep. Rob Menendez,Olivia and Robert's second favorite parent. Husband to Alex. Congressman for #NJ08 - the district with the best people and food no questions asked.,2022-12-15T19:13:25.000Z
+2026-11-18T20:10:49-05:00,0,RobMenendez4NJ,found,1491892268466413568,Rob Menendez,@RepMenendez for @NJGov's 8th District. Husband. Olivia and Robert's 2nd fav parent. Let’s meet this moment - together. 🇺🇸,2022-02-10T21:50:51.000Z
+2026-11-18T20:10:49-05:00,0,RepHaleyStevens,found,1076161611033968640,Rep. Haley Stevens,"Congresswoman for Michigan's 11th District. Ranking Member, Research and Technology Subcommittee, @sciencedems. @edworkforcedems. @cmteonccpdems.",2018-12-21T17:04:56.000Z
+2026-11-18T20:10:49-05:00,0,RepAngieCraig,found,1080222360643485698,Angie Craig,"Mom of 4 boys, Mimi to 4 grandsons, wife to Cheryl and MN Lynx superfan. Top Dem on @HouseAgDems. U.S. Rep for MN-02. Fighting for all Minnesotans.",2019-01-01T22:00:55.000Z
+2026-11-18T20:10:49-05:00,0,AngieCraigMN,found,411861905,Angie Craig,"Grateful mother to 4 amazing young men, wife to Cheryl and Mimi to 3 grandsons. Lynx fan, health care advocate & former journalist.",2011-11-14T00:01:21.000Z
+2026-11-18T20:10:49-05:00,0,MikeCrapo,found,600463589,Senator Mike Crapo,United States Senator for the great state of Idaho and Chairman of @senfinance.,2012-06-05T22:16:35.000Z
+2026-11-18T20:10:49-05:00,0,crapoforsenate,found,413160266,Mike Crapo,"Campaign account for an unwavering commonsense conservative who fights for lower taxes, limited government and reduced federal spending. #CrapoForSenate",2011-11-15T15:11:44.000Z
+2026-11-18T20:10:49-05:00,0,RepHorsford,found,389840566,Rep. Steven Horsford,Official account of Congressman Steven Horsford. Representing Nevada’s 4th District. Chairman Emeritus @TheBlackCaucus 📱 Text me: 702-710-1179,2011-10-13T02:23:25.000Z
+2026-11-18T20:11:54-05:00,1,StevenHorsford,found,246478393,Steven Horsford,Personal account for Congressman Steven Horsford of Nevada's Fourth Congressional District & Caucus Leadership Rep   | #Nevada #BattleBorn,2011-02-02T21:26:52.000Z
+2026-11-18T20:11:54-05:00,1,Jim_Jordan,found,18166778,Rep. Jim Jordan,Proudly serving Ohio's beautiful Fourth District. Chairman @JudiciaryGOP. Fighting to #DoWhatWeSaid,2008-12-16T17:20:24.000Z
+2026-11-18T20:11:54-05:00,1,SenCapito,found,193794406,Shelley Moore Capito,"Proudly serving WV in the U.S. Senate 💕Mom, grandmother x 9, and wife 🏃🏼‍♀️Runner 😀Eternal Optimist 🇺🇸@EPWGOP & @SenateRPC Chairman",2010-09-22T18:06:14.000Z
+2026-11-18T20:11:54-05:00,1,SenatorTimScott,found,217543151,Senator Tim Scott,Just a South Carolinian living his mama’s American Dream | Chairman of @BankingGOP,2010-11-19T20:34:30.000Z
+2026-11-18T20:11:54-05:00,1,SenJackReed,found,486694111,Senator Jack Reed,Official Twitter feed of Rhode Island’s U.S. Senator Jack Reed. Ranking Member of the Senate Armed Services Committee.,2012-02-08T15:24:01.000Z
+2026-11-18T20:11:54-05:00,1,SenAdamSchiff,found,29501253,Senator Adam Schiff,Husband. Father. U.S. Senator for California. Fighting for an economy that works for everyone and for our democracy.,2009-04-07T17:54:35.000Z
+2026-11-18T20:11:54-05:00,1,AdamSchiff,found,133028836,Adam Schiff,"California Senator. Father, husband, former prosecutor, triathlete, and sometimes comic.",2010-04-14T20:51:27.000Z
+2026-11-18T20:11:54-05:00,1,RepAdamSchiff,not_found:Not Found Error,,,,
+2026-11-18T20:11:54-05:00,1,rep_stevewomack,found,234469322,Rep. Steve Womack,Proud to serve the folks of Arkansas's 3rd District. Member of @HouseAppropsGOP.,2011-01-05T18:53:03.000Z
+2026-11-18T20:11:54-05:00,1,RepChrisPappas,found,1067748650485497862,Rep. Chris Pappas,"Member of Congress serving New Hampshire's 1st District | Life-long Manchester Resident, former Executive Councilor for District 4 | #NH01",2018-11-28T11:54:50.000Z
+2026-11-18T20:11:54-05:00,1,ChrisPappasNH,found,574799823,Chris Pappas,"Small business owner, Senator-elect, and life-long Granite Stater.",2012-05-08T19:11:57.000Z
+2026-11-18T20:11:54-05:00,1,RepTedBudd,not_found:Not Found Error,,,,
+2026-11-18T20:11:54-05:00,1,BuddForCongress,found,1387547723059052547,Budd For Congress,,2021-04-28T23:22:19.000Z
+2026-11-18T20:11:54-05:00,1,SenatorMarshall,found,1336344005588738052,Sen. Marshall,,2020-12-08T16:17:26.000Z
+2026-11-18T20:11:54-05:00,1,RogerMarshallMD,found,1240107944,Dr. Roger Marshall,"Husband, father, grandfather, doctor, and U.S. Senator for Kansas.",2013-03-03T23:50:35.000Z
+2026-11-18T20:11:54-05:00,1,SenatorHick,found,1318728336923787264,Senator John Hickenlooper,Proudly serving the people of Colorado in the U.S. Senate.,2020-10-21T01:38:38.000Z
+2026-11-18T20:11:54-05:00,1,Hickenlooper,found,117839957,John Hickenlooper,"Former geologist, brewer, mayor, and governor. Occasional banjo player. Fighting to bring change to Washington & get things done for Colorado!",2010-02-26T19:57:34.000Z
+2026-11-18T20:11:54-05:00,1,berniemoreno,found,410053879,Bernie Moreno,"Husband, father, grandfather, businessman, and grateful my parents brought me to America. Republican US Senator from Ohio.",2011-11-11T15:38:45.000Z
+2026-11-18T20:11:54-05:00,1,RepChuck,found,235190657,Chuck Fleischmann,The Nuclear Congressman. Proudly serving Tennessee's third district.,2011-01-07T15:46:29.000Z
+2026-11-18T20:11:54-05:00,1,RepJohnJoyce,found,1082311988926124036,"John Joyce, M.D.",Proudly serving Pennsylvania's 13th District in the U.S. House of Representatives.,2019-01-07T16:24:21.000Z
+2026-11-18T20:11:54-05:00,1,RepDavidValadao,found,1128514404,Rep. David Valadao,Proudly Representing California's 22nd Congressional District. Serving the Valley on @HouseAppropsGOP,2013-01-28T16:19:14.000Z
+2026-11-18T20:11:54-05:00,1,RepGabeAmo,found,1724849796496924672,Congressman Gabe Amo,Proudly representing Rhode Island's First Congressional District in the United States Congress.,2023-11-15T18:01:10.000Z
+2026-11-18T20:11:54-05:00,1,gabeamo,found,21666155,Gabe Amo,"Congressman from Rhode Island’s 1st Congressional District in the U.S. House of Representatives. For official activities, my account is @RepGabeAmo.",2009-02-23T16:35:12.000Z
+2026-11-18T20:11:54-05:00,1,CongMikeSimpson,found,76132891,Congressman Mike Simpson,Proudly representing Idaho's 2nd Congressional District. Member of @HouseAppropsGOP,2009-09-21T20:26:26.000Z
+2026-11-18T20:11:54-05:00,1,RepTenney,found,797201048490430465,Rep. Claudia Tenney,"Honored to represent NY-24. Member of @WaysandMeansGOP, @HouseIntel, @HouseScience & Chair of the Election Integrity Caucus.",2016-11-11T22:15:16.000Z
+2026-11-18T20:11:54-05:00,1,claudiatenney,found,756285384,Claudia Tenney,Member of Congress. Election Integrity Caucus Chair. @WaysandMeansGOP @HouseIntel #USNAMom #MarineMom 🥌 🏀🏇🐾⛳️,2012-08-14T02:26:00.000Z
+2026-11-18T20:11:54-05:00,1,RepDavidRouzer,found,834069080,Rep. David Rouzer,Congressman for North Carolina's 7th Congressional district,2012-09-19T20:23:15.000Z
+2026-11-18T20:11:54-05:00,1,DavidRouzer,found,127941167,David Rouzer,I have the privilege of representing the great people of North Carolina's 7th Congressional District. #NC07,2010-03-30T17:36:09.000Z
+2026-11-18T20:11:54-05:00,1,JohnBoozman,found,5558312,Senator John Boozman,"U.S. Senator for Arkansas serving as @SenateAgGOP Chairman and on the Appropriations, EPW, Veterans’ Affairs and Rules Committees #ServingAR #ARinDC",2007-04-27T16:05:52.000Z
+2026-11-18T20:11:54-05:00,1,Boozman4AR,found,111671288,John Boozman,"Husband, Dad, & Grandfather. Optometrist. @RazorbackFB alum. 5th-Generation Arkansan. Official Twitter account for my campaign to represent AR in the US Senate.",2010-02-05T19:18:28.000Z
+2026-11-18T20:11:54-05:00,1,SenToddYoung,found,234128524,Senator Todd Young,I proudly serve Hoosier families in the U.S. Senate. Contact my office at (202) 224-5623 for assistance. You can also visit our website for additional info.,2011-01-04T22:35:16.000Z
+2026-11-18T20:11:54-05:00,1,ToddYoungIN,found,59969802,Todd Young,"US Senator for Indiana. A proud husband, father, Naval Academy graduate, and Marine fighting for Hoosier families.",2009-07-25T03:36:56.000Z
+2026-11-18T20:11:54-05:00,1,RonWyden,found,250188760,Ron Wyden,U.S. Senator from Oregon. @SenateFinance Ranking Member. @WydenPress. Instagram: https://t.co/F6XmPU6zM8. He/him.,2011-02-10T16:08:15.000Z
+2026-11-18T20:11:54-05:00,1,WydenForOregon,found,122124607,Wyden for Oregon,Official campaign account for U.S. Senator Ron Wyden.,2010-03-11T17:33:48.000Z
+2026-11-18T20:11:54-05:00,1,WydenPress,found,292495654,WydenPress,"Official account of U.S. Senator @RonWyden's (D-Ore.) press office. Tweets managed by staff, hence editorial flair.",2011-05-03T18:58:04.000Z
+2026-11-18T20:11:54-05:00,1,SenatorRicketts,found,1610027469205082114,Senator Pete Ricketts,"Husband, father of three, 40th governor of Nebraska now serving as U.S. Senator for Nebraska",2023-01-02T21:37:29.000Z
+2026-11-18T20:11:54-05:00,1,GovRicketts,not_found:Not Found Error,,,,
+2026-11-18T20:11:54-05:00,1,SenTomCotton,found,968650362,Tom Cotton,U.S. Senator proudly serving the state of Arkansas.,2012-11-24T19:33:10.000Z
+2026-11-18T20:11:54-05:00,1,TomCottonAR,found,343041182,Tom Cotton,"U.S. Senator for Arkansas. For official updates, see @SenTomCotton. RLTW.",2011-07-26T23:57:10.000Z
+2026-11-18T20:11:54-05:00,1,RepBrianFitz,found,816303263586914304,Rep. Brian Fitzpatrick 🇺🇸,A fiercely independent voice for my hometown of #PA1 | Former @FBI Special Agent & Federal Prosecutor | CPA | EMT | Proud @Penn_State Alum | #WeAre 🐾,2017-01-03T15:20:39.000Z
+2026-11-18T20:11:54-05:00,1,JerryMoran,found,18632666,Senator Jerry Moran,Official account of U.S. Senator Jerry Moran. Honored to represent Kansans in the U.S. Senate.,2009-01-05T14:25:22.000Z
+2026-11-18T20:11:54-05:00,1,RepPfluger,found,1341120751399809026,Rep. August Pfluger,"US Air Force Colonel (Ret.), F-22 Fighter Pilot, Husband, Father, and Congressman for the 11th District of Texas. Chairman of @RepublicanStudy",2020-12-21T20:40:01.000Z
+2026-11-18T20:11:54-05:00,1,RepAdrianSmith,found,296245061,Rep. Adrian Smith,Proudly serving the 3rd District of Nebraska in the U.S. House of Representatives | Chairman of the @WaysandMeansGOP Trade Subcommittee,2011-05-10T12:52:01.000Z
+2026-11-18T20:11:54-05:00,1,SenMarkKelly,found,1324926274888888320,Senator Mark Kelly,"United States Senator for Arizona. Father, husband, Navy combat veteran, and retired NASA astronaut.",2020-11-07T04:12:32.000Z
+2026-11-18T20:11:54-05:00,1,CaptMarkKelly,found,65707359,Captain Mark Kelly,Navy combat veteran and retired NASA astronaut. Husband to @GabbyGiffords. United States Senator for the great state of Arizona.,2009-08-14T19:00:42.000Z
+2026-11-18T20:11:54-05:00,1,RepSamGraves,found,29766367,Rep. Sam Graves,Proudly representing Missouri's Sixth Congressional District,2009-04-08T17:20:43.000Z
+2026-11-18T20:11:54-05:00,1,RepBlakeMoore,found,1337452596093587462,Congressman Blake Moore,Serving Utah’s First District in Congress on @waysandmeansgop & @housebudgetgop. Vice Chair of @HouseGOP. Little league dad.,2020-12-11T17:42:41.000Z
+2026-11-18T20:11:54-05:00,1,RepGarbarino,found,1344349650447433729,Rep. Andrew Garbarino,Official Twitter account of Rep. Andrew Garbarino. Proudly representing New York's 2nd Congressional District.,2020-12-30T18:28:49.000Z
+2026-11-18T20:11:54-05:00,1,DorisMatsui,found,38254095,Rep. Doris Matsui,Representing California's 7th Congressional District — including the capital city of Sacramento. Subcommittee Ranking Member on the @EnergyCommerce Committee.,2009-05-06T19:20:50.000Z
+2026-11-18T20:11:54-05:00,1,RepThompson,found,303861808,Rep. Mike Thompson,Proudly representing California's 4th Congressional District. Chair of @HouseGVP.,2011-05-23T14:58:06.000Z
+2026-11-18T20:11:54-05:00,1,RepCarolMiller,found,1081318716573470720,Rep. Carol Miller,"Wife, mother, grandmother, small business owner, and bison farmer. Proudly serving West Virginia's 1st Congressional District.",2019-01-04T22:37:26.000Z
+2026-11-18T20:11:54-05:00,1,CarolMillerWV,found,841994444,Carol Miller,"Wife, mother, grandmother, small business owner, bison farmer, and Congresswoman for West Virginia's 1st District. Cutting the Bull Out of Politics. #MAGA",2012-09-23T16:26:12.000Z
+2026-11-18T20:11:54-05:00,1,SenCortezMasto,found,811313565760163844,Senator Cortez Masto,U.S. Senator from the great state of Nevada.,2016-12-20T20:53:22.000Z
+2026-11-18T20:11:54-05:00,1,CortezMasto,found,3145735852,Catherine Cortez Masto,"Senator from the great state of Nevada. Former Attorney General.  Third generation Nevadan fighting for families, workers, and all Nevadans.",2015-04-07T22:20:02.000Z
+2026-11-18T20:11:54-05:00,1,RepArrington,found,816284664658874368,Rep. Jodey Arrington,Proudly representing the good people of West Texas. Husband. Father of 3. Wreck ‘em Tech. Chairman @HouseBudgetGOP.  Member @WaysandMeansGOP,2017-01-03T14:06:44.000Z
+2026-11-18T20:11:54-05:00,1,RepBuddyCarter,found,2973870195,Buddy Carter,Proudly serving Georgia's 1st Congressional District   👇Sign up for my e-newsletter👇,2015-01-12T00:33:43.000Z
+2026-11-18T20:11:54-05:00,1,RepMMM,found,1345807954604412929,"Rep. Mariannette Miller-Meeks, M.D.","Mom, Doctor, Veteran, and Congresswoman proudly serving Iowa's First District | Member of @HouseCommerce @HouseVetAffairs | #FightForIowa",2021-01-03T19:03:30.000Z
+2026-11-18T20:11:54-05:00,1,millermeeks,found,18131106,Dr. Miller-Meeks,Doctor. Veteran. Fighter for Iowa.,2008-12-15T05:05:14.000Z
+2026-11-18T20:11:54-05:00,1,RepBrianJack,found,1872431129011130368,Congressman Brian Jack,6th-generation Georgian proudly representing the incredible people of Georgia’s 3rd Congressional District,2024-12-26T23:56:16.000Z
+2026-11-18T20:11:54-05:00,1,BrianTJack,found,137975431,Brian Jack,Congressman from Georgia’s 3rd Congressional District. Former @WhiteHouse45 Political Director.,2010-04-28T08:29:08.000Z
+2026-11-18T20:11:54-05:00,1,RepYoungKim,found,1344677401465397249,Young Kim,"Wife, mother, grandmother, small business owner, former CA Assemblywoman. Proud to represent #CA40 & fight for the American dream 🇺🇸",2020-12-31T16:11:29.000Z
+2026-11-18T20:11:54-05:00,1,YoungKimCA,found,2355919591,Young Kim,"Mom, wife, Congresswoman. Fighting to preserve the American Dream for all and running for reelection in #CA40.",2014-02-22T06:41:55.000Z
+2026-11-18T20:11:54-05:00,1,RepMGriffith,found,234057152,Morgan Griffith,Congressman Griffith represents the 9th District of Virginia in the U.S. House of Representatives.,2011-01-04T19:05:24.000Z
+2026-11-18T20:11:54-05:00,1,RepAndyKimNJ,found,1862719756517707776,Archived,,2024-11-30T04:46:21.000Z
+2026-11-18T20:11:54-05:00,1,AndyKimNJ,found,24215154,Andy Kim,"New Jersey Senator, public servant, and dad to two troublemaking little boys. Whether you voted for me or not, you’re my boss, I’m here to serve you.",2009-03-13T17:54:05.000Z
+2026-11-18T20:11:54-05:00,1,SenGaryPeters,found,236511574,Senator Gary Peters,U.S. Senator proudly representing the State of Michigan. 🏍️,2011-01-10T19:17:36.000Z
+2026-11-18T20:11:54-05:00,1,GaryPeters,found,145292853,Gary Peters,"Proud husband and father of three, five generations in MI, 20+ years in business, 10+ years in the U.S. Navy Reserve, fighter for the middle class",2010-05-18T16:10:02.000Z
+2026-11-18T20:11:54-05:00,1,RepLindaSanchez,found,312134473,Rep. Linda Sánchez,"I work for #CA38 in Congress. 🇺🇸 Ranking Member of the @WaysMeansCmte Trade Subcommittee. Proud mom, dog lover, & @Dodgers fan. ⚾️",2011-06-06T16:50:45.000Z
+2026-11-18T20:11:54-05:00,1,RepDaveJoyce,found,976969338,Dave Joyce,"Father, husband, and former prosecutor proudly representing #OH14",2012-11-28T21:12:14.000Z
+2026-11-18T20:11:54-05:00,1,JudgeCarter,found,18030431,Rep. John Carter,Bringing Texas to Washington and keeping Washington out of Texas. U.S. Representative proudly serving #TX31. Former Judge. Proud @TexasTech #RedRaider.,2008-12-10T21:00:58.000Z
+2026-11-18T20:11:54-05:00,1,SenHydeSmith,found,983348251972816896,U.S. Senator Cindy Hyde-Smith,Office of U.S. Senator Cindy Hyde-Smith (R-Miss.).,2018-04-09T14:17:47.000Z
+2026-11-18T20:11:54-05:00,1,cindyhydesmith,found,262192574,Cindy Hyde-Smith,Lifelong conservative proudly fighting for the people of Mississippi in the U.S. Senate.,2011-03-07T15:15:33.000Z
+2026-11-18T20:11:54-05:00,1,SenatorRounds,found,2955485182,Senator Mike Rounds,U.S. Senator for South Dakota,2015-01-01T20:23:49.000Z
+2026-11-18T20:11:54-05:00,1,RepLoriTrahan,found,1079802482640019456,Lori Trahan,Congresswoman proudly representing Massachusetts' Third District. @HouseDPCC Co-Chair. @EnergyCommerce member.,2018-12-31T18:12:28.000Z
+2026-11-18T20:11:54-05:00,1,RepMikeLawler,found,1590372047015886853,Congressman Mike Lawler,"Proudly serving New York’s 17th District | Member @FinancialCmte and @HouseForeignGOP | Chair Middle East and North Africa | Husband, father, small businessman",2022-11-09T15:55:02.000Z
+2026-11-18T20:11:54-05:00,1,RepLangworthy,found,1611396007111057408,Congressman Nick Langworthy,Proudly representing Western New York & the Southern Tier in Congress (NY-23). Luckiest dad of 2 & husband. #BillsMafia for life.,2023-01-06T16:15:42.000Z
+2026-11-18T20:11:54-05:00,1,RepBryanSteil,found,1075205691621720064,Bryan Steil,Proudly serving the people of Wisconsin’s 1st Congressional District. @HouseAdmin Chairman & @FinancialCmte Crypto Subcommittee Chairman.,2018-12-19T01:46:28.000Z
+2026-11-18T20:11:54-05:00,1,RepMaloyUtah,found,1746930615654449160,Rep. Celeste Maloy,Official account for Congresswoman Celeste Maloy. Proudly Serving Utah's 2nd Congressional District. Member of @HouseAppropsGOP and @NatResources,2024-01-15T16:21:41.000Z
+2026-11-18T20:11:54-05:00,1,CelesteMaloyUT,found,1673074326952886272,Celeste Maloy,Official Campaign X Account for Republican Congresswoman Celeste Maloy.,2023-06-25T21:03:17.000Z
+2026-11-18T20:11:54-05:00,1,CongressmanRaja,found,814179031956488192,Congressman Raja Krishnamoorthi,"Official Twitter account of Congressman Raja Krishnamoorthi (IL-08) | Serving on @HouseIntelDems, @OversightDems, @CmteOnCCPDems",2016-12-28T18:39:42.000Z
+2026-11-18T20:11:54-05:00,1,SenAlexPadilla,found,1351236267707654145,Senator Alex Padilla,U.S. Senator for California. Devoted husband and proud dad. Dodgers diehard. EngiNERD.,2021-01-18T18:34:30.000Z
+2026-11-18T20:11:54-05:00,1,AlexPadilla4CA,found,82489457,Alex Padilla,U.S. Senator for California. Husband & Dad. Former CA Secretary of State. @MIT Grad. San Fernando Valley native. Defending the dream.,2009-10-14T23:52:16.000Z
+2026-11-18T20:11:54-05:00,1,PattyMurray,found,293131808,Senator Patty Murray,"U.S. Senator, Washington state | @SenateApprops Vice Chair | Working every day to help people and solve problems",2011-05-04T20:23:35.000Z
+2026-11-18T20:11:54-05:00,1,MurrayCampaign,found,158470209,Senator Patty Murray,U.S. Senator for the great state of Washington ● Mom (and Nana) in tennis shoes ● she/her/hers,2010-06-22T19:55:00.000Z
+2026-11-18T20:11:54-05:00,1,rosadelauro,found,140519774,Rosa DeLauro,"Proud to represent CT-03 in Congress. Ranking Member of @AppropsDems. Italian-American, New Haven native, fierce advocate for a strong middle class.",2010-05-05T18:11:32.000Z
+2026-11-18T20:11:54-05:00,1,Rosa_DeLauro,found,893496121,Rosa DeLauro,My work has been and will always be about helping people. This is the campaign account for Rep. Rosa DeLauro who represents CT's 3rd Congressional District.,2012-10-20T15:42:46.000Z
+2026-11-18T20:11:54-05:00,1,RepBalderson,found,1037341536592310272,Congressman Troy Balderson,Proudly serving Ohio's 12th Congressional District. Member of the @HouseCommerce Committee. Chairman of the House Energy Action Team.,2018-09-05T14:07:50.000Z
+2026-11-18T20:11:54-05:00,1,RepAaronBean,found,1604927550081359875,Aaron Bean,Proudly representing FL-04 in the U.S. House of Representatives. Founder & Co-Chair of the House DOGE Caucus. @WaysandMeansGOP,2022-12-19T19:52:34.000Z
+2026-11-18T20:11:54-05:00,1,BettyMcCollum04,found,516880804,Rep. Betty McCollum,Proudly representing Minnesota's Fourth District in the U.S. House of Representatives. Member of @AppropsDems.,2012-03-06T20:52:11.000Z
+2026-11-18T20:11:54-05:00,1,VoteBetty,found,164414525,Betty McCollum for Congress,Official account for Rep. Betty McCollum's campaign. #MN04,2010-07-08T20:41:30.000Z
+2026-11-18T20:11:54-05:00,1,RepDelBene,found,995193054,Rep. Suzan DelBene,U.S. Congresswoman representing Washington's 1st Congressional District.   Wife | Mom | Grandma | Dog mom,2012-12-07T14:40:48.000Z
+2026-11-18T20:11:54-05:00,1,RepBethVanDuyne,found,1339633259349745670,Congresswoman Beth Van Duyne,"Proud mom of two. Former mayor. Proudly representing North Texas. American by birth, Texan by the Grace of God.",2020-12-17T18:07:41.000Z
+2026-11-18T20:11:54-05:00,1,Bethvanduyne,found,489856457,Beth Van Duyne,"Proud mother. Christian. Conservative. Congresswoman for Texas 24. American by birth, Texan by the Grace of God.",2012-02-11T23:59:29.000Z
+2026-11-18T20:11:54-05:00,1,RepJimmyPanetta,found,796736612554117120,Rep. Jimmy Panetta,I am honored to represent California's 19th congressional district in the U.S. House of Representatives.,2016-11-10T15:29:45.000Z
+2026-11-18T20:11:54-05:00,1,RepNewhouse,found,2930635215,Rep. Dan Newhouse,Proudly representing Washington's 4th District in the U.S. House of Representatives. Member of @HouseAppropsGOP | @HouseAgGop | @ChinaSelect,2014-12-18T20:19:23.000Z
+2026-11-18T20:11:54-05:00,1,RepLaurelLee,found,1608230657796227072,Congresswoman Laurel Lee,"Proudly representing Florida’s 15th District | FL’s 36th Secretary of State | Serving on @HouseCommerce, @JudiciaryGOP and @HouseAdmin",2022-12-28T22:40:34.000Z
+2026-11-18T20:11:54-05:00,1,Vote_Laurel,found,1539230869008830464,Laurel Lee,"Congresswoman, FL-15. Fmr Prosecutor, Judge & Secretary of State. Proud Floridian, America-First conservative fighting for faith, freedom & Florida’s future.",2022-06-21T13:06:20.000Z
+2026-11-18T20:11:54-05:00,1,RepNikkiB,found,1603476713995911168,Rep. Nikki Budzinski,U.S. Rep. for IL's 13th District. Proudly serving on @HouseAgDems & @VetAffairsDems for Central & Southern IL. Chair-elect for @NewDemCoalition.,2022-12-15T19:47:36.000Z
+2026-11-18T20:11:54-05:00,1,RepFitzgerald,found,1004891731,Rep. Scott Fitzgerald,Proudly serving Wisconsin’s Fifth District. #WI05 Member of @JudiciaryGOP & @FinancialCmte,2012-12-11T21:01:37.000Z
+2026-11-18T20:11:54-05:00,1,RepCuellar,found,210926192,Rep. Henry Cuellar,Proudly representing the 28th Congressional District of Texas. #TX28🇺🇸,2010-11-01T20:20:17.000Z
+2026-11-18T20:11:55-05:00,2,JayObernolte,found,272482466,Rep. Jay Obernolte,"Proudly representing California's 23rd Congressional District. Small businessman, former mayor and state assembly member. Learn more at https://t.co/wHVuW5pTLi.",2011-03-26T16:11:17.000Z
+2026-11-18T20:11:55-05:00,2,RepTomSuozzi,found,816705409486618624,Tom Suozzi,"Member of Congress, representing New York's 3rd Congressional District. Follow me on Instagram @RepTomSuozzi",2017-01-04T17:58:38.000Z
+2026-11-18T20:11:55-05:00,2,Tom_Suozzi,found,18907639,Tom Suozzi,"Member of Congress, representing NY-03, former Mayor Glen Cove, Nassau County Exec. Trained as a lawyer & CPA",2009-01-12T17:30:03.000Z
+2026-11-18T20:11:55-05:00,2,SenBrianSchatz,found,1262099252,Senator Brian Schatz,"Tweets from the Office of U.S. Senator Brian Schatz, representing the great state of Hawai‘i.",2013-03-12T14:23:20.000Z
+2026-11-18T20:11:55-05:00,2,brianschatz,found,47747074,Brian Schatz,United States Senator from Hawaii. Chief Deputy Whip.,2009-06-16T21:54:28.000Z
+2026-11-18T20:11:55-05:00,2,SchatzforHawaii,found,1284467173,Team Schatz,"Senator Brian Schatz is leading the fight on issues like climate change, health care, and building a fairer economy. Schatz 2022!",2013-03-20T22:41:07.000Z
+2026-11-18T20:11:55-05:00,2,RepHalRogers,found,550401754,Hal Rogers,U.S. Rep. for the people of Southern and Eastern Kentucky (KY-05). Fmr. Chair of House Approps. Dean of the U.S. House.,2012-04-10T19:59:22.000Z
+2026-11-18T20:11:55-05:00,2,RepEllzey,found,1366523868253458437,Rep. Jake Ellzey,Official X account of the office of Congressman Jake Ellzey of Texas' 6th Congressional District. 🇺🇸,2021-03-01T23:01:32.000Z
+2026-11-18T20:11:55-05:00,2,RepRickLarsen,found,404132211,Rep. Rick Larsen,"Born and raised in Arlington, WA. Representing WA’s beautiful 2nd Congressional District. Lead Democrat on @TransportDems.",2011-11-03T13:59:42.000Z
+2026-11-18T20:11:55-05:00,2,RepDaleStrong,found,825191196775546883,Dale W. Strong,🇺🇸 Serving Alabama’s 5th Congressional District. @HomelandGOP @HouseAppropsGOP,2017-01-28T03:58:07.000Z
+2026-11-18T20:11:55-05:00,2,SenMarkey,found,21406834,Ed Markey,Senator for Massachusetts. Ranker on @SenateSmallBiz Committee & @HELPCmteDems Primary Health & Retirement Security Subcommittee. Fighting for a Green New Deal.,2009-02-20T15:49:29.000Z
+2026-11-18T20:11:55-05:00,2,EdMarkey,found,1129029661,Ed Markey,"U.S. Senator fighting for the families and future of Massachusetts. Malden native, Red Sox fan, #netneutrality defender, co-author of the #GreenNewDeal (he/him)",2013-01-28T19:40:18.000Z
+2026-11-18T20:11:55-05:00,2,SenLummis,found,22831059,Senator Cynthia Lummis,U.S. Senator from Wyoming,2009-03-04T20:44:59.000Z
+2026-11-18T20:11:55-05:00,2,CynthiaLummis,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,2,CynthiaMLummis,found,1136711154435207168,Cynthia Lummis 🦬,Kiwi to my grandkids. Conservative. Republican. US Senator. All Wyoming. All the Time. Official tweets @SenLummis.,2019-06-06T19:07:13.000Z
+2026-11-18T20:11:55-05:00,2,RepJenKiggans,found,1605275643523891201,Congresswoman Jen Kiggans,"Wife, Mom to 4 awesome kids, Geriatric Nurse Practitioner, and former Navy helicopter pilot. Proudly serving VA-02 in Congress!",2022-12-20T18:56:55.000Z
+2026-11-18T20:11:55-05:00,2,JenKiggans,found,1112745685810589698,Jen Kiggans,"Former Navy helicopter pilot, Geriatric Nurse Practitioner, Wife, Mom to 4 awesome kids, & Congresswoman for Virginia’s 2nd Congressional District!",2019-04-01T15:57:00.000Z
+2026-11-18T20:11:55-05:00,2,RepMaxMiller,found,1610383926446489600,Congressman Max Miller,"Former congressman, Max Miller. Honored to have represented the great people of Ohio's 7th Congressional District. Not actively managed.",2023-01-03T21:14:21.000Z
+2026-11-18T20:11:55-05:00,2,RepBice,found,1344260196227555334,Rep. Stephanie Bice,Wife & Mother proudly serving OK-05 in the U.S. House. Committees: @HouseAppropsGOP & @HouseAdmin,2020-12-30T12:33:17.000Z
+2026-11-18T20:11:55-05:00,2,stephaniebice,found,32289500,Stephanie Bice,Wife | Mother | Congresswoman for Oklahoma’s 5th District | OkState Alum 🧡🖤🧡| Personal Account| Official account is @RepBice,2009-04-17T03:37:47.000Z
+2026-11-18T20:11:55-05:00,2,RepAdamSmith,found,58928690,Rep. Adam Smith,"Proudly serving Washington State's 9th District. Democratic leader of the House Armed Services Committee.  @HASCDemocrats, @NewDemCoalition, @USProgressives.",2009-07-21T21:31:55.000Z
+2026-11-18T20:11:55-05:00,2,RepSalinas,found,1611800554614755328,Congresswoman Andrea Salinas,"Working for #OR06. Proud Latina, mom, & first-generation American. Member @HouseAgDems & @ScienceDems. Leader in @HispanicCaucus & @NewDemCoalition.",2023-01-07T19:03:16.000Z
+2026-11-18T20:11:55-05:00,2,AndreaRSalinas,found,4669604480,Andrea Salinas,"Congresswoman for #OR06. Democrat, Latina, Mom. Change is possible in a single generation, but only if we work for it. Official account is @RepSalinas.",2015-12-28T21:38:33.000Z
+2026-11-18T20:11:55-05:00,2,RepDWStweets,found,1140648348,Rep. Debbie Wasserman Schultz,U.S. Congresswoman proudly representing the people of Florida's 25th District in our nation's capital.,2013-02-01T20:31:25.000Z
+2026-11-18T20:11:55-05:00,2,DWStweets,found,115979444,Debbie Wasserman Schultz,"Dog loving, clean cooking, breast cancer-surviving, Florida Gator cheering, softball-playing mother of three fighting in Congress on behalf of South Floridians.",2010-02-20T17:35:01.000Z
+2026-11-18T20:11:55-05:00,2,lisamurkowski,found,18061669,Sen. Lisa Murkowski,Official Twitter account for U.S. Senator Lisa Murkowski. Follow me for news and updates on what's happening in the Senate and across Alaska.,2008-12-11T21:55:19.000Z
+2026-11-18T20:11:55-05:00,2,boblatta,found,15394954,Rep. Bob Latta,Representing #OH5 in the U.S. Congress. Deputy Whip. Member of @HouseCommerce and Chair of the Energy Subcommittee.,2008-07-11T18:33:24.000Z
+2026-11-18T20:11:55-05:00,2,RepGusBilirakis,found,26051676,Gus Bilirakis,"#FL12. #FL Most EffectiveLegislator @HouseGOP Legislator. @HouseCommerce. @GOP Chair of Innovation, Data & Commerce Subcommittee. Husband. Father. Son",2009-03-23T17:56:32.000Z
+2026-11-18T20:11:55-05:00,2,RepTroyCarter,found,1352760304271241218,Congressman Troy A. Carter,Proudly representing Louisiana’s 2nd Congressional District 🇺🇸 ⚜️| Poli-Sci Professor | Loving Husband | Proud Father of Two Amazing Sons,2021-01-22T23:29:39.000Z
+2026-11-18T20:11:55-05:00,2,RepDavid,found,229197216,Rep. David Schweikert,Avid hiker and coffee enthusiast who is proud to represent Arizona's 1st Congressional District in the U.S. House of Representatives.,2010-12-21T19:48:02.000Z
+2026-11-18T20:11:55-05:00,2,RepTerriSewell,found,381152398,Rep. Terri A. Sewell,"Selma native, U.S. Congresswoman working #ForThePeople of Alabama's 7th District  https://t.co/0uBlTm34B9",2011-09-27T20:47:50.000Z
+2026-11-18T20:11:55-05:00,2,RepJamesClyburn,found,188019606,James E. Clyburn,U.S. Congressman representing South Carolina's 6th Congressional District.,2010-09-07T18:50:22.000Z
+2026-11-18T20:11:55-05:00,2,Clyburn,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,2,WhipClyburn,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,2,SenatorShaheen,found,109287731,Sen. Jeanne Shaheen,Proud Granite Stater serving New Hampshire in the US Senate. Former Governor. Mother & Grandmother. Pats & Red Sox Fan. Outdoor enthusiast.,2010-01-28T15:22:44.000Z
+2026-11-18T20:11:55-05:00,2,RepWesterman,found,2852998461,Rep. Bruce Westerman,Representing the 4th District of Arkansas. Husband. Father of 4. Hot Springs native. Engineer. Forester. Chairman @NatResources.,2014-10-31T03:57:48.000Z
+2026-11-18T20:11:55-05:00,2,repdarrellissa,found,63650107,Rep. Darrell Issa,Official Congressional Account for Congressman Darrell Issa. Father. Tech Entrepreneur. Congressman from California.,2009-08-07T05:39:34.000Z
+2026-11-18T20:11:55-05:00,2,DarrellIssa,found,22509548,Darrell Issa,"Entrepreneur, Former CEO, Congressman from California.  Visit my website: https://t.co/cPz4eptLEf",2009-03-02T17:39:00.000Z
+2026-11-18T20:11:55-05:00,2,ZachNunn,found,1610323831809363971,Congressman Zach Nunn,U. S. Representative for Iowa's Third District,2023-01-03T17:15:12.000Z
+2026-11-18T20:11:55-05:00,2,FriendsforZach,found,1790740354561396736,Vdcasino Güncel Giriş Rehberi,"Vdcasino güncel giriş rehberi bu hesaptan yazılır. Yeni giriş düşünce ilk satır buradan gider, resmi not takipte kalır ve kanalı açık tutunuz.",2024-05-15T13:45:46.000Z
+2026-11-18T20:11:55-05:00,2,RepFeenstra,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,2,RandyFeenstra,found,23764160,Randy Feenstra,Husband. Father of four. Lifelong Iowan. Republican for Governor of Iowa. Let’s take Iowa to new heights!,2009-03-11T13:45:07.000Z
+2026-11-18T20:11:55-05:00,2,RepScottPeters,found,1135486501,Rep. Scott Peters,Proudly serving #CA50 & the U.S. Constitution  @EnergyCommerce @HouseBudgetDems @NewDemCoalition  Listen to 72 and Sunny: https://t.co/KSbuQypfmU,2013-01-30T23:28:14.000Z
+2026-11-18T20:11:55-05:00,2,ScottPetersSD,found,292594517,Scott Peters,"San Diegan, 2x dad, husband, enviro lawyer, elected, urbanist. #CA50 #permitreform #SDinDC #YIMBY🥑 #GoDuke #Padres Work acct: @RepScottPeters",2011-05-03T22:25:55.000Z
+2026-11-18T20:11:55-05:00,2,RepJoeMorelle,found,1064595993222615040,Joe Morelle,"Proud grandfather, Democrat, and Congressman representing #NY25. Ranking Member @HouseAdm_Dems, Vice Ranking Member @AppropsDems. Black belt. Go @Cardinals.",2018-11-19T19:07:18.000Z
+2026-11-18T20:11:55-05:00,2,votemorelle,found,977247448820305920,Joe Morelle,Congressman representing Monroe County in #NY25. Democrat. Proud grandfather. Baseball enthusiast. Govt updates: @RepJoeMorelle,2018-03-23T18:15:22.000Z
+2026-11-18T20:11:55-05:00,2,SenMurphyOffice,found,2853793517,Sen. Murphy Office,Office of U.S. Senator Chris Murphy.       Staff share press items & updates on Chris's work for Connecticut. Follow Chris at @ChrisMurphyCT,2014-10-31T20:54:02.000Z
+2026-11-18T20:11:55-05:00,2,ChrisMurphyCT,found,150078976,Chris Murphy 🟧,U.S. Senator from Connecticut.,2010-05-31T01:22:43.000Z
+2026-11-18T20:11:55-05:00,2,SenJoniErnst,found,2856787757,Joni Ernst,"Mother, grandmother, and combat veteran, fighting for a more accountable and less wasteful Washington 🇺🇸 U.S. Senator serving the people of Iowa 🌽🐖",2014-11-02T13:32:54.000Z
+2026-11-18T20:11:55-05:00,2,joniernst,found,1383059977,Joni Ernst,Mother. Soldier. Leader. Proudly serving Iowa in the United States Senate.,2013-04-26T22:53:06.000Z
+2026-11-18T20:11:55-05:00,2,SenatorRisch,found,1096059529,Jim Risch,U.S. Senator for Idaho,2013-01-16T18:58:23.000Z
+2026-11-18T20:11:55-05:00,2,RepTrentKelly,found,3317799825,Trent Kelly,Proudly serving Mississippi's First Congressional District in the U.S. House of Representatives.  Rt's & likes ≠ Endorsements,2015-06-10T19:56:03.000Z
+2026-11-18T20:11:55-05:00,2,RepJoeNeguse,found,1078749802765139968,Rep. Joe Neguse,"Fighting for the people, lands, water, and farms of Northern & Western Colorado. Husband. Dad of two awesome kids. Attorney. Proud Coloradan. ⛰️",2018-12-28T20:29:29.000Z
+2026-11-18T20:11:55-05:00,2,JoeNeguse,found,1542372750,Joe Neguse,"Andrea’s husband | Dad to 2 wonderful kids | Millennial | Proud son of immigrants | Colorado Congressman | Fear is contagious, but so is hope! 🏔️🏔️🏔️",2013-06-24T03:30:41.000Z
+2026-11-18T20:11:55-05:00,2,RepGregMurphy,found,1173978070535024642,"Congressman Greg Murphy, M.D.","Proudly representing the wonderful people and gorgeous lands of North Carolina's Third District, Husband, Father, Surgeon, Traveler",2019-09-17T15:13:06.000Z
+2026-11-18T20:11:55-05:00,2,GregMurphyMD,found,1100072194632237056,Dr. Greg Murphy,Husband • Father • Physician • Member of Congress (NC3),2019-02-25T16:37:04.000Z
+2026-11-18T20:11:55-05:00,2,RepHouchin,found,1603694348725526528,Congresswoman Erin Houchin,"Proudly serving Hoosiers as Congresswoman for the 9th District of Indiana. Member of @HouseBudgetGOP, @HouseCommerce, and @RulesReps. #IN09",2022-12-16T10:12:12.000Z
+2026-11-18T20:11:55-05:00,2,Erin_Houchi,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,2,RepCiscomani,found,1603530970593775616,Congressman Juan Ciscomani,"Proud husband, father x6 & Congressman for #AZ06 | Fighting to defend the #AmericanDream 🇺🇸 | Serving on @HouseAppropsGOP & @HouseVetAffairs",2022-12-15T23:22:53.000Z
+2026-11-18T20:11:55-05:00,2,JuanCiscomani,found,62874548,Juan Ciscomani,"First generation American living the #AmericanDream 🇺🇸 Married to Laura, dad of 6, & Congressman #AZ06",2009-08-04T17:27:26.000Z
+2026-11-18T20:11:55-05:00,2,RepRyanZinke,found,2953494478,Rep Ryan Zinke,"Official government account for Congressman Ryan Zinke, Montana. @HouseAppropsGOP & @HouseForeignGOP Fighting for Montana in our nation's Capitol.",2014-12-31T17:32:01.000Z
+2026-11-18T20:11:55-05:00,2,RepHuizenga,found,233949261,Rep. Bill Huizenga,I serve the people of Michigan's 4th Congressional District. Father of 5. #SmallBiz Owner. HFSC Member. Follow https://t.co/pzRdG87VpD for more!,2011-01-04T14:01:28.000Z
+2026-11-18T20:11:55-05:00,2,RepJackBergman,found,815241612154417152,Rep. Jack Bergman,"U.S. Rep for #Mi01, Lt. General, USMC (ret), Yooper, Pilot, Proud Grandfather. Serving on VA, Armed Services, & Budget Committees.",2016-12-31T17:02:01.000Z
+2026-11-18T20:11:55-05:00,2,RepRonnyJackson,found,1341903465610686464,Ronny Jackson,Proudly serving the people of #TX13 in Congress.,2020-12-24T00:29:18.000Z
+2026-11-18T20:11:55-05:00,2,RonnyJacksonTX,found,1201953403099893760,Ronny Jackson,"Congressman for #TX13 | Former White House Physician & Retired Navy Rear Admiral | Texan, Veteran, Physician, Leader",2019-12-03T19:56:45.000Z
+2026-11-18T20:11:55-05:00,2,USRepKCastor,found,1880674038,U.S. Rep. Kathy Castor,Tampa Bay's Congresswoman⚡️🌴   🇺🇸 Fighting for A More Affordable America! 🇺🇸,2013-09-18T20:03:57.000Z
+2026-11-18T20:11:55-05:00,2,RepLisaMcClain,found,1344032292432437248,Chairwoman Lisa McClain,Lifelong Michigander proudly representing MI-09. Chairwoman of the @HouseGOP.,2020-12-29T21:28:39.000Z
+2026-11-18T20:11:55-05:00,2,LisaForCongress,found,1187551973173796866,Lisa McClain,Congresswoman in MI’s 9th District. House GOP Conference Chair. Political Outsider. Job Creator and here to get things done.,2019-10-25T02:10:42.000Z
+2026-11-18T20:11:55-05:00,2,RepDonBeyer,found,2962868158,Rep. Don Beyer,"Representing Northern Virginia’s #VA08 in the U.S. House, serving on @JECDems @WaysMeansCmte. Co-Chair of @CaucusOnClimate. He/Him/His",2015-01-05T22:09:04.000Z
+2026-11-18T20:11:55-05:00,2,RepVinceFong,found,1798417305803669504,Rep. Vince Fong,Official X of Congressman Vince Fong - proudly serving California’s 20th District 🇺🇸,2024-06-05T18:14:58.000Z
+2026-11-18T20:11:55-05:00,2,RepRussellFry,found,1603514304354983941,Congressman Russell Fry,Proudly representing the Grand Strand and Pee Dee. #SC07 | Member of @HouseGOP @HouseCommerce and @JudiciaryGOP 🇺🇸 🌙 🌴,2022-12-15T22:17:07.000Z
+2026-11-18T20:11:55-05:00,2,RussellFrySC,found,58784217,Russell Fry,#GOP Congressman for #SC07. Husband. Dad. Sock game on point. 8th grade ping pong champ. #AmericaFirst.,2009-07-21T12:41:12.000Z
+2026-11-18T20:11:55-05:00,2,RepRudyYakym,found,1605665632858607617,Congressman Rudy Yakym,Hoosier. Husband. Father of 3. Honored to serve the good people of Indiana's Second Congressional District. @WaysandMeansGOP,2022-12-21T20:45:07.000Z
+2026-11-18T20:11:55-05:00,2,CongressmanKean,found,1607422757670641665,Congressman Tom Kean,Proudly representing #NJ07 in Congress | Committed to finding common ground & delivering for New Jersey families | Serve on @HouseCommerce & @HouseForeignGOP,2022-12-26T17:07:11.000Z
+2026-11-18T20:11:55-05:00,2,tomkean,found,78033328,Senator Tom Kean,Former Senate Republican Leader.,2009-09-28T14:54:18.000Z
+2026-11-18T20:11:55-05:00,2,DrNealDunnFL2,found,815952318487298048,Dr. Neal Dunn,"Veteran, physician, and lifelong conservative proudly representing Florida's 2nd Congressional District. Vice Chair of @HouseCommerce Committee.",2017-01-02T16:06:07.000Z
+2026-11-18T20:11:55-05:00,2,DunnCampaign,found,3433189197,Dr. Neal Dunn,"Congressman for #FL02 🐊 | Grandpa, Army Veteran, Surgeon, Businessman | Duty, Honor, Country 🇺🇸",2015-08-20T20:16:00.000Z
+2026-11-18T20:11:55-05:00,2,RepDonDavis,found,1610323296360210433,Congressman Don Davis,Father | Husband | Veteran | @HouseAgDems |@HASCDemocrats Working to deliver fair solutions for #NC01.,2023-01-03T17:14:34.000Z
+2026-11-18T20:11:55-05:00,2,DonDavisNC,found,226330560,Don Davis,"Congressman #NC01. 5th generation eastern North Carolinian, 🇺🇸 Veteran, State Senator, and Presbyterian minister. Raised in the tobacco fields.",2010-12-13T22:30:01.000Z
+2026-11-18T20:11:55-05:00,2,RepRutherfordFL,found,828977216595849216,Rep. John Rutherford,Proudly serving NE FL District 5.  Former Sheriff focused on keeping communities safe & protecting your rights. @HouseAppropsGOP,2017-02-07T14:42:24.000Z
+2026-11-18T20:11:55-05:00,2,SenMikeLee,found,88784440,Mike Lee,I am a United States Senator from the great state of Utah. Please help me restore constitutional leadership to Washington.,2009-11-09T22:47:47.000Z
+2026-11-18T20:11:55-05:00,2,BasedMikeLee,found,1551266822460162051,Mike Lee,Pass the SAVE America Act—now!,2022-07-24T18:03:46.000Z
+2026-11-18T20:11:55-05:00,2,SenatorLankford,found,225921757,Sen. James Lankford,US Senator for Oklahoma | Republican Conference Vice Chair,2010-12-12T20:33:07.000Z
+2026-11-18T20:11:55-05:00,2,RepMoolenaar,found,2696643955,Rep. John Moolenaar,Representing Michigan's Second Congressional District. Chairman of the House @ChinaSelect. This is the Twitter page of the official House office.,2014-07-31T21:09:14.000Z
+2026-11-18T20:11:55-05:00,2,RepSmucker,found,41417564,Rep. Lloyd Smucker,Representing the people of #PA11 in the U.S. House of Representatives. Husband & father.,2009-05-20T18:31:13.000Z
+2026-11-18T20:11:55-05:00,2,RepDavidKustoff,found,816012124505931780,Rep. David Kustoff,Official news and updates from Congressman David Kustoff. Proudly serving the 8th District of Tennessee,2017-01-02T20:03:46.000Z
+2026-11-18T20:11:55-05:00,2,CongressmanGT,found,18967498,"Glenn ""GT"" Thompson",I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania's 15th Congressional District. #PA15,2009-01-14T04:54:58.000Z
+2026-11-18T20:11:55-05:00,2,SenWhitehouse,found,242555999,Sheldon Whitehouse,"U.S. Senator from Rhode Island, the Ocean State. Ranking Member @EPWcmte",2011-01-25T01:52:03.000Z
+2026-11-18T20:11:55-05:00,2,SheldonforRI,found,770121222,Sheldon Whitehouse,Delivering for Rhode Island in the U.S. Senate. Campaign account.,2012-08-20T19:55:16.000Z
+2026-11-18T20:11:55-05:00,2,McConnellPress,found,339822881,Senator McConnell's Press Office,The official Twitter account of the press office for U.S. Senator Mitch McConnell. Also follow: @SenMcConnell,2011-07-21T18:25:30.000Z
+2026-11-18T20:11:55-05:00,2,SenMcConnell,found,1249982359,U.S. Senator Mitch McConnell,U.S. Senator for Kentucky. Longest-serving Senate party leader in American history. Chair of @SenateRules & Defense Appropriations. Member of @SenateAgGOP,2013-03-07T20:21:15.000Z
+2026-11-18T20:11:55-05:00,2,RepRobertGarcia,found,1602792195878047744,Congressman Robert Garcia,"California Congressman & Leader of @OversightDems. Former Long Beach Mayor. Truth & Justice, always. 🇺🇸🏳️‍🌈",2022-12-13T22:27:41.000Z
+2026-11-18T20:11:55-05:00,2,RobertGarciaLB,found,1028707293351698432,.,.,2018-08-12T18:18:26.000Z
+2026-11-18T20:11:55-05:00,2,SenJohnKennedy,found,816683274076614656,John Kennedy,Husband. Father. God lover. Animal lover. Sportsman. Former Louisiana Treasurer. Conservative Champion for Louisiana in the U.S. Senate.,2017-01-04T16:30:40.000Z
+2026-11-18T20:11:55-05:00,2,JohnKennedyLA,found,26594419,John Neely Kennedy,U.S. Senator for Louisiana,2009-03-25T21:18:45.000Z
+2026-11-18T20:11:55-05:00,2,RepKMR,found,1871605623496097792,Congresswoman Kristen McDonald Rivet,Proudly serving mid-Michigan in Congress. Lifelong Michigander. Raised 6 kids. Always fighting for working families.  Learn more: https://t.co/hpryAwDHfp,2024-12-24T17:16:17.000Z
+2026-11-18T20:11:55-05:00,2,McDonaldRivet,found,60748834,Kristen McDonald Rivet,"Congresswoman for Michigan’s Eighth District. Mom to 6. Fighting for working families, lower costs and good-paying jobs in #MI08.",2009-07-27T23:47:49.000Z
+2026-11-18T20:11:55-05:00,2,MikeKellyPA,found,935368364,Rep. Mike Kelly,U.S. Rep. Mike Kelly proudly serves the people of Pennsylvania's 16th District (#PA16). Member @WaysandMeansGOP 🇺🇸,2012-11-08T20:31:21.000Z
+2026-11-18T20:11:55-05:00,2,RepSchneider,found,1071840474,Rep. Brad Schneider,Proud to represent the people of Illinois's 10th Congressional District. Chair of the @NewDemCoalition.,2013-01-08T19:59:14.000Z
+2026-11-18T20:11:55-05:00,2,Schneider4IL10,found,278005891,Brad Schneider,I represent Illinois's 10th District in the United States Congress #IL10.,2011-04-06T12:23:04.000Z
+2026-11-18T20:11:55-05:00,3,RepJamesComer,found,1274852794206388225,Rep. James Comer,Chairman on House @GOPoversight. Proudly representing Kentucky in Congress. #KY1,2020-06-21T23:52:56.000Z
+2026-11-18T20:11:55-05:00,3,KYComer,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,3,RepGabeVasquez,found,1610096539577487360,Rep. Gabe Vasquez,Official updates for NM-02. Proud to represent Southern NM.   (Note: All comments or replies can be submitted via web or phone at 202-225-2365. Full policy ⬇),2023-01-03T02:12:21.000Z
+2026-11-18T20:11:55-05:00,3,Gabe_NM,found,2151608598,Gabe Vasquez,"Former City Councilor, conservationist, 1st-gen American, and Congressman for NM-02. Rooted in people power.",2013-10-23T20:06:58.000Z
+2026-11-18T20:11:55-05:00,3,RepDianaDeGette,found,28599820,Rep. Diana DeGette,"Proudly representing Denver in the U.S. House. Fighting for our environment, public lands & reproductive rights. Rockies/Broncos/Avs fan. Wife. Mom. Dog lover.",2009-04-03T16:41:06.000Z
+2026-11-18T20:11:55-05:00,3,SenRickScott,found,131546062,Rick Scott,Florida's U.S. Senator. Chairman of @SenateAging. Fighting for Florida families and to Make Washington Work. #LetsGetToWork https://t.co/o87ZhJHUSD,2010-04-10T16:03:04.000Z
+2026-11-18T20:11:55-05:00,3,ScottforFlorida,found,306389855,Rick Scott,"Senator from Florida, Grandpa, Father, Husband, 45th Governor of Florida, Navy Vet, Businessman. #LetsGetToWork",2011-05-27T20:03:02.000Z
+2026-11-18T20:11:55-05:00,3,SenatorWarnock,found,1352287997853622273,Senator Reverend Raphael Warnock,United States Senator for Georgia. Pastor of Ebenezer Baptist Church.,2021-01-21T16:12:57.000Z
+2026-11-18T20:11:55-05:00,3,RaphaelWarnock,found,234412394,Raphael G. Warnock,"Father of 2 amazing kids.  Pastor of Ebenezer Baptist Church, spiritual home of MLK, Jr. Work: freedom-fighting, peace-making, truth-telling, justice-seeking.",2011-01-05T16:05:20.000Z
+2026-11-18T20:11:55-05:00,3,ReverendWarnock,found,1221242033530195970,Reverend Raphael Warnock,Pastor. Advocate. Savannah born & raised. @Morehouse alum. Senator from Georgia.,2020-01-26T01:24:46.000Z
+2026-11-18T20:11:55-05:00,3,Robert_Aderholt,found,76452765,Robert Aderholt,"Proudly serving Alabama's 4th District and Chairman of @HouseAppropsGOP Subcommittee on Labor, Health and Human Services, and Education",2009-09-22T21:16:37.000Z
+2026-11-18T20:11:55-05:00,3,gillibrandny,found,899978622416695297,Sen. Kirsten Gillibrand,"Proudly serving the people of New York in the U.S. Senate. Married to Jonnie, mom to Theo, Henry, and our labradoodle, Maple. Official account.",2017-08-22T12:56:39.000Z
+2026-11-18T20:11:55-05:00,3,SenGillibrand,found,72198806,Kirsten Gillibrand,"Mom to Theo, Henry and dog Maple. Wife to Jonathan. U.S. Senator for New York.",2009-09-07T03:53:24.000Z
+2026-11-18T20:11:55-05:00,3,RepEricSorensen,found,1611441794704674828,Congressman Eric Sorensen,Official account. 🌤️ Meteorologist representing Central and Northwestern Illinois in Congress. #IL17,2023-01-06T19:17:35.000Z
+2026-11-18T20:11:55-05:00,3,RepHarshbarger,found,1345787285179162624,Rep. Diana Harshbarger,Proudly representing the great people of East Tennessee. Serving on @HouseCommerce,2021-01-03T17:41:59.000Z
+2026-11-18T20:11:55-05:00,3,RepGregoryMeeks,found,22812754,Rep. Gregory Meeks,"Proudly serving the beautiful people of the 5th Congressional District of New York. For media inquiries, please contact NY05Press@mail.house.gov",2009-03-04T18:36:27.000Z
+2026-11-18T20:11:55-05:00,3,RepLaLota,found,1588581125177442305,Congressman Nick LaLota,"Father, husband, and Navy Veteran proudly serving Long Islanders in Congress. Alum of @StAnthonysHS, @NavalAcademy, @Hofstra_Law, and @ZarbSchool.",2022-11-04T17:17:19.000Z
+2026-11-18T20:11:55-05:00,3,nicklalota,found,275989559,Nick LaLota 🗽💪🇺🇸🫡,"Father, Husband, Proud American, Navy Veteran and Congressman serving #NY01 and the greatest nation the world has ever known.",2011-04-02T12:25:49.000Z
+2026-11-18T20:11:55-05:00,3,RepJoshG,found,815310506596691968,Rep Josh Gottheimer,Honored to serve NJ-5 | Vice Chair @ProbSolveCaucus | Intelligence & Financial Services Committees | Working across the aisle for Lower Taxes & Jersey Values,2016-12-31T21:35:47.000Z
+2026-11-18T20:11:55-05:00,3,RepRitchie,found,1276403757224546304,Rep. Ritchie Torres,"Congressman for #NY15 (Bronx). Bronx native, product of public housing. Fighting every day for the essential borough.   Official House account.",2020-06-26T06:36:14.000Z
+2026-11-18T20:11:55-05:00,3,RitchieTorres,found,1247612029,Ritchie Torres,Personal account in which I speak for myself rather than for the federal government. Government account: @RepRitchie. Campaign account: @RitchieTorresNY.,2013-03-07T00:58:26.000Z
+2026-11-18T20:11:55-05:00,3,RepAnnWagner,found,1051446626,Ann Wagner,Official Twitter account for Congresswoman Ann Wagner-- proudly Representing the 2nd Congressional District of Missouri https://t.co/6TKCrqRcSw,2013-01-01T00:01:45.000Z
+2026-11-18T20:11:55-05:00,3,SenJeffMerkley,found,29201047,Senator Jeff Merkley,"Dad, runner, filibuster reformer. U.S. Senator from Oregon.",2009-04-06T13:38:39.000Z
+2026-11-18T20:11:55-05:00,3,JeffMerkley,found,223166587,Jeff Merkley,Husband. Dad. Garage tinkerer. Thorn in the side of the privileged and powerful. U.S. Senator from Oregon. Official campaign account. Fighting for YOU. He/Him.,2010-12-05T16:03:18.000Z
+2026-11-18T20:11:55-05:00,3,RepKnott,found,1874964140105863168,Congressman Brad Knott,Proudly serving North Carolina's 13th Congressional District,2025-01-02T23:41:10.000Z
+2026-11-18T20:11:55-05:00,3,bradknottfornc,found,1732433648236838912,Team Knott,"Brad Knott is a father, husband, and former prosecutor running for re-election in North Carolina's 13th Congressional District 🇺🇸",2023-12-06T16:17:13.000Z
+2026-11-18T20:11:55-05:00,3,RepStricklandWA,found,1343646545955213312,Congresswoman Marilyn Strickland,"Proudly representing #WA10. Fighting for a nation that is safe, just, and secure for all. @TheBlackCaucus @CAPAC @NewDemCoalition @TransportDems @HASCDemocrats",2020-12-28T19:54:50.000Z
+2026-11-18T20:11:55-05:00,3,RepGregLandsman,found,1613637172346642432,Congressman Greg Landsman,"Father, husband, former teacher. Proudly serving Southwest Ohio (OH-01) 🙏🏻💙",2023-01-12T20:41:10.000Z
+2026-11-18T20:11:55-05:00,3,GregLandsman,found,106162639,Greg Landsman,Member of Congress in SW Ohio 🙏🏻💙,2010-01-18T18:02:45.000Z
+2026-11-18T20:11:55-05:00,3,RepSusieLee,found,1079061579973439488,Congresswoman Susie Lee,Proudly serving the folks in Nevada's 3rd District. Bipartisan Leader. Education Advocate. Mom to two great kids.,2018-12-29T17:08:23.000Z
+2026-11-18T20:11:55-05:00,3,SusieLeeNV,found,602919981,Susie Lee,"Congresswoman, #NV03. Education Advocate & Community Leader. Mother of 2 awesome kids.",2012-06-08T15:21:57.000Z
+2026-11-18T20:11:55-05:00,3,RepDavids,found,1080516116395499522,Rep. Sharice Davids,"Proud to represent #KS03 in the United States Congress. Member of @NewDemCoalition, @TransportDems, and @HouseAgDems.",2019-01-02T17:28:11.000Z
+2026-11-18T20:11:55-05:00,3,sharicedavids,found,950952511556538368,Sharice Davids,"Putting Kansans first and fighting for opportunity, because everyone deserves a shot at success. Proud to represent #KS03 in the US Congress.",2018-01-10T04:48:41.000Z
+2026-11-18T20:11:55-05:00,3,RepMalliotakis,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,3,NMalliotakis,found,757862089,Nicole Malliotakis,"U.S. Congress member for Brooklyn/ Staten Island, Former NY Assembly Member, 2017 Republican Nominee for NYC Mayor, daughter of Greek & Cuban immigrants",2012-08-14T20:45:06.000Z
+2026-11-18T20:11:55-05:00,3,RepKimSchrier,found,1080462532815532032,"Rep. Kim Schrier, M.D.",Proudly representing the people of Washington State’s 8th District. Pediatrician. Mom.,2019-01-02T13:55:16.000Z
+2026-11-18T20:11:55-05:00,3,RepKatCammack,found,1344325638983987201,Congresswoman Kat Cammack,"Proudly serving #FL03 | Member @HouseCommerce, @HouseAgGOP | Chair @GOPWomensCaucus",2020-12-30T16:53:31.000Z
+2026-11-18T20:11:55-05:00,3,RepJimmyGomez,found,2371339658,Rep. Jimmy Gomez,"Official account, Member of Congress (Los Angeles) | Serving on the @WaysMeansCmte & @HouseIntelDems",2014-03-04T03:56:14.000Z
+2026-11-18T20:11:55-05:00,3,RepMikeLevin,found,1072134139560620033,Rep. Mike Levin,"Proud husband/dad, SoCal native, clean energy advocate, environmental attorney, Stanford/Duke alum. U.S. Representative for CA-49. Official account.",2018-12-10T14:21:12.000Z
+2026-11-18T20:11:55-05:00,3,MikeLevinCA,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,3,CongBoyle,found,4304448314,Rep. Brendan Boyle,"Official Legislative Account | Ranking Member @HouseBudgetDems, Co-Chair @BlueCollarDems, Proud Father, Loyal Philly sports fan and Fighter for PA-02",2015-11-20T20:17:53.000Z
+2026-11-18T20:11:55-05:00,3,RepBrendanBoyle,found,231108733,Congressman Brendan Boyle,"Congressman from PA. Ranking Member, Budget Cmte. Proud Dad to Abby & husband to Jenny. Notre Dame & Harvard alum. Diehard Philly sports fan. Personal account.",2010-12-27T16:31:09.000Z
+2026-11-18T20:11:55-05:00,3,RepBost,found,2964877294,Rep. Mike Bost,Proudly representing IL-12 in Congress. Chairman of @HouseVetAffairs & member of @TransportGOP & @HouseAgGOP. Find me on FB at https://t.co/Z75zc2DFGl,2015-01-06T19:55:08.000Z
+2026-11-18T20:11:55-05:00,3,RepBarragan,found,816833925456789505,Nanette D. Barragán,"Honored to represent CA's 44th Congressional District, #CA44. @HouseDemocrats Steering & Policy Co-Chair, @HispanicCaucus, @EnergyCommerce. @Dodgers fan.",2017-01-05T02:29:18.000Z
+2026-11-18T20:11:55-05:00,3,maziehirono,found,92186819,Senator Mazie Hirono,U.S. Senator Mazie K. Hirono - Proudly Serving the People of Hawaii,2009-11-24T03:10:37.000Z
+2026-11-18T20:11:55-05:00,3,mazieforhawaii,found,169198625,Mazie Hirono,"U.S. Senator for Hawaii, focused on getting our families back to work and building a sustainable future for Hawaii.",2010-07-21T19:47:58.000Z
+2026-11-18T20:11:55-05:00,3,VernBuchanan,found,20467163,Rep. Vern Buchanan,"Vice Chairman @WaysandMeansGOP. Member @JCTgov. Serving Florida’s 16th Congressional District, including Manatee and Hillsborough Counties.",2009-02-09T21:05:19.000Z
+2026-11-18T20:11:55-05:00,3,SenKevinCramer,found,1048784496,Senator Kevin Cramer,Representing the great people of North Dakota in the United States Senate.,2012-12-30T20:54:06.000Z
+2026-11-18T20:11:55-05:00,3,kevincramer,found,28267055,Kevin Cramer,"U.S. Senator, former Representative, GOP Conservative, husband,  father  & grandfather of 6 awesome kids! For official updates, follow: @SenKevinCramer",2009-04-02T02:58:44.000Z
+2026-11-18T20:11:55-05:00,3,RepRonEstes,found,854715071116849157,Rep. Ron Estes,Official X account of Congressman Ron Estes. Proudly serving the Fourth District of Kansas. 🌻,2017-04-19T15:15:27.000Z
+2026-11-18T20:11:55-05:00,3,RepMarkAlford,found,1612483604071727104,Rep. Mark Alford,Official X account of Congressman Mark Alford | Proudly representing Missouri's 4th District l Serving on @HouseAppropsGOP & @HouseSmallBiz 🇺🇸,2023-01-09T16:17:35.000Z
+2026-11-18T20:11:55-05:00,3,markalfordkc,found,704689629,Mark Alford 🇺🇸🇺🇸🇺🇸🇺🇸,"Personal Page for Husband, Father of 3, and U.S. Congressman from Missouri",2013-10-08T09:48:17.000Z
+2026-11-18T20:11:55-05:00,3,RepZoeLofgren,found,267938462,Rep. Zoe Lofgren,"Member of Congress proudly representing CA’s 18th Congressional District, which serves communities in Monterey, San Benito, Santa Clara, & Santa Cruz counties.",2011-03-17T21:06:21.000Z
+2026-11-18T20:11:55-05:00,3,JamesWalkinshaw,found,14229561,James Walkinshaw,Dad. Husband. VA-11 Congressman. Rep. Connolly’s longtime Chief of Staff. Personal account.,2008-03-26T20:45:46.000Z
+2026-11-18T20:11:55-05:00,3,RepBenCline,found,1072158357237174272,Congressman Ben Cline,"Representing Virginia’s 6th District | Member of @freedomcaucus | Serving on @JudiciaryGOP, @HouseAppropsGOP, @HouseIntel & @housebudgetGOP",2018-12-10T15:57:26.000Z
+2026-11-18T20:11:55-05:00,3,Cline4Virginia,found,40264497,Ben Cline,Husband of Elizabeth. Father of two daughters. Proudly representing the people of Virginia's Sixth Congressional District in the U.S. House of Representatives.,2009-05-15T15:37:07.000Z
+2026-11-18T20:11:55-05:00,3,RepStefanik,found,2962813893,Rep. Elise Stefanik,Proud Representative for New York's 21st Congressional District. 📸 Instagram: @repstefanik,2015-01-05T22:17:51.000Z
+2026-11-18T20:11:55-05:00,3,EliseStefanik,found,109579534,Elise Stefanik,👦🏻 Mom | ⛰️NY21 Congresswoman | ✍️ Bestselling Author of POISONED IVIES 📖 | Dedicated Reader 📚 | New Yorker🗽 | Proud American 🇺🇸,2010-01-29T14:56:38.000Z
+2026-11-18T20:11:55-05:00,3,RepPettersen,found,1610014478405406720,U.S. Rep. Brittany Pettersen,"Official account of U.S. Congresswoman Brittany Pettersen, proudly representing the people of #CO07. Mom. Fighter. Born and raised Coloradan 🏔️",2023-01-02T20:46:25.000Z
+2026-11-18T20:11:55-05:00,3,pettersen4co,found,483010877,Brittany Pettersen,"Mom. Fighter. Representative for #CO07 (Jefferson, Broomfield, Lake, Park, Teller, Chaffee, Fremont, and Custer Counties) Follow my official page @RepPettersen",2012-02-04T15:04:39.000Z
+2026-11-18T20:11:55-05:00,3,RepBentz,found,1345788865911656454,Congressman Cliff Bentz,Proudly serving Oregon's 2nd Congressional District. Member of @HouseCommerce & @NatResources,2021-01-03T17:47:44.000Z
+2026-11-18T20:11:55-05:00,3,RepMcGovern,found,242426145,Rep. Jim McGovern,Together let’s build a future where human rights matter everywhere & nobody struggles just to survive. Fighter for MA02. Top Dem @RulesDemocrats @TLhumanrights.,2011-01-24T19:18:36.000Z
+2026-11-18T20:11:55-05:00,3,RepDarrenSoto,found,818713465653051392,Rep. Darren Soto,"Representing #FL9: Osceola + parts of Orange & Polk🇺🇸🇵🇷 Deputy Chair @HispanicCaucus. Member @EnergyCommerce & @NRDems. Lawyer, conservationist, musician 🎸",2017-01-10T06:57:55.000Z
+2026-11-18T20:11:55-05:00,3,RepYvetteClarke,found,240812994,Rep. Yvette D. Clarke,"Official account, U.S. Rep. Yvette D. Clarke (NY-09, Brooklyn). Chair of @TheBlackCaucus. Serving on @EnergyCommerce. Brooklyn bred.",2011-01-20T20:14:21.000Z
+2026-11-18T20:11:55-05:00,3,RepMGP,found,1603127874512453632,Rep. Marie Gluesenkamp Perez,"Southwest Washington’s independent voice in Congress. Auto repair shop co-founder, mom, lives in the woods. #WA03",2022-12-14T20:40:54.000Z
+2026-11-18T20:11:55-05:00,3,MGPforCongress,found,1493294940708696069,Marie Gluesenkamp Perez,"5th-generation Washingtonian, small business owner and pro-choice mother, representing #WA03 in Congress. @HouseBlueDogs co-chair. Working for Washington 💪🌲🔧",2022-02-14T18:44:14.000Z
+2026-11-18T20:11:55-05:00,3,RepTimmons,found,1079770852302958592,Congressman William Timmons,Congressman from #SC04. Captain in the US Air Force @theSCANG. Small business owner and former prosecutor. Member of @FinancialCmte and @GOPOversight. wrtiv.eth,2018-12-31T16:06:47.000Z
+2026-11-18T20:11:55-05:00,3,VoteTimmons,found,958510641228275712,William Timmons,Fighting for #SC04 in Congress. Captain in the US Air Force @theSCANG. Small business owner. Endorsed by President Trump!,2018-01-31T01:21:59.000Z
+2026-11-18T20:11:55-05:00,3,RepMikeTurner,found,51228911,US Rep. Mike Turner,"Proudly represent the 10th District of Ohio. Montgomery, Greene and Clark Counties | Member of @HASCRepublicans & @GOPoversight",2009-06-26T21:15:07.000Z
+2026-11-18T20:11:55-05:00,3,RepBynum,found,1875014393613688832,Rep. Janelle Bynum,US Congresswoman. Engineer. Proud mom of four. Devoted sports fan. Fighter for Oregon #OR05,2025-01-03T03:01:18.000Z
+2026-11-18T20:11:55-05:00,3,RepMarcyKaptur,found,581141508,Rep. Marcy Kaptur,Honored to serve the hardworking families of Ohio's 9th District. Longest-serving woman in history of Congress. Ranking Member on Energy & Water @AppropsDems.,2012-05-15T16:57:51.000Z
+2026-11-18T20:11:55-05:00,3,repscfigures,found,1877805371114635264,Rep. Shomari C. Figures,U.S. Congressman for AL-02,2025-01-10T19:52:08.000Z
+2026-11-18T20:11:55-05:00,3,ShomariFigures,found,1726910359053721600,Figures for Congress,"I’m running for Congress in #AL2 Together, we can make the promise of America more real for everyone. Let’s Go! ✊🏽#FiguresforCongress",2023-11-21T10:28:24.000Z
+2026-11-18T20:11:55-05:00,3,virginiafoxx,found,16256269,Virginia Foxx,Congresswoman Virginia Foxx. Conservative representing North Carolina's Fifth District. Chairwoman of @RulesReps.,2008-09-12T13:30:07.000Z
+2026-11-18T20:11:55-05:00,3,RepGlennIvey,found,1610111693836664834,Rep. Glenn Ivey,The official account of Congressman Glenn Ivey. Proudly serving #MD04 on @AppropsDems,2023-01-03T03:12:10.000Z
+2026-11-18T20:11:55-05:00,3,RepMeuser,found,1080574793630527505,Congressman Dan Meuser,Proudly serving the hardworking taxpayers of Pennsylvania's 9th Congressional District. Member of @FinancialCmte and @HouseSmallBiz,2019-01-02T21:21:21.000Z
+2026-11-18T20:11:55-05:00,3,Meuser4Congress,found,903354645623566340,Dan Meuser,Congressman in PA-9 | Results-Oriented Businessman | Problem Solver | America First | Conservative | Fmr. PA Secretary of Revenue | Husband | Father,2017-08-31T20:31:45.000Z
+2026-11-18T20:11:55-05:00,3,RepPatRyanNY,found,1569400849130049537,Rep. Pat Ryan,Dad. Husband. Veteran. Former Ulster County Exec. Working to solve problems & deliver results for #NY18.,2022-09-12T19:02:51.000Z
+2026-11-18T20:11:55-05:00,3,PatRyanUC,found,172377413,Pat Ryan 🇺🇸,| Dad & Husband | Veteran | Democrat | Alumni of @WestPoint_USMA and @GeorgetownCSS | Proudly Representing NY-18 in Congress |,2010-07-29T15:26:35.000Z
+2026-11-18T20:11:55-05:00,3,RepEmiliaSykes,found,1611527835742519297,Rep. Emilia Strong Sykes,"Congresswoman for Ohio’s 13th Congressional District, the Birthplace of Champions. Posts are made by staff unless denoted w/ ESS",2023-01-07T00:59:31.000Z
+2026-11-18T20:11:55-05:00,3,EmiliaSykesOH,found,1871673438,Emilia Sykes,"Congresswoman representing OH-13, the Birthplace of Champions. JD/MPH. Akron. Democrat. 💓💚#WeBelongHere Paid for by: Emilia Sykes For Congress",2013-09-16T13:39:47.000Z
+2026-11-18T20:11:55-05:00,3,RepStenyHoyer,found,22012091,Steny Hoyer,Congressman for Maryland’s Fifth District in the U.S. House of Representatives  Chair: @RLC_Leaders,2009-02-26T14:13:01.000Z
+2026-11-18T20:11:55-05:00,3,whiphoyer,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,3,StenyHoyer,found,266719387,Steny Hoyer,I represent Maryland's Fifth Congressional District and served as the House Majority Leader in the 117th Congress. This is my official campaign page.,2011-03-15T17:56:32.000Z
+2026-11-18T20:11:55-05:00,3,RepHaridopolos,found,1861318683475251201,Congressman Mike Haridopolos,Proudly representing Florida’s 8th Congressional District  @FinancialCmte & @HouseScience Space Subcommittee Chair,2024-11-26T07:59:09.000Z
+2026-11-18T20:11:55-05:00,3,RepRobinKelly,found,1339931490,Robin Kelly,"Official Twitter for Rep Robin Kelly #IL02 Member @EnergyCommerce, Co-Chair @CBWGCAUCUS & Chair of @TheBlackCaucus Health Braintrust",2013-04-09T19:02:01.000Z
+2026-11-18T20:11:55-05:00,3,RepRickCrawford,found,233693291,Rep. Rick Crawford,Representing AR-01 in the U.S. House of Representatives.  Social media commenting policy can be found here: https://t.co/JXpnmCKFhV,2011-01-03T21:57:49.000Z
+2026-11-18T20:11:55-05:00,3,SenBlumenthal,found,278124059,Richard Blumenthal,"Official Twitter account of U.S. Senator Richard Blumenthal, proudly working for the people of Connecticut.",2011-04-06T17:13:53.000Z
+2026-11-18T20:11:55-05:00,3,DickBlumenthal,found,102477372,Richard Blumenthal,Official account of Blumenthal for Connecticut.,2010-01-06T20:56:57.000Z
+2026-11-18T20:11:55-05:00,3,RepMichaelGuest,found,1081243468327018496,Congressman Michael Guest,Rep. for MS’s Third District in the U.S. House. Chair of Border Security and Enforcement @HomelandGOP. Member @HouseAppropsGOP. Christian. Husband. Father.,2019-01-04T17:38:26.000Z
+2026-11-18T20:11:55-05:00,3,GuestCongress,found,953749679166156800,Michael Guest,United States Congressman for Mississippi's Third District.,2018-01-17T22:03:38.000Z
+2026-11-18T20:11:55-05:00,3,RepValHoyle,found,1612865196489412608,Representative Val Hoyle,"Congresswoman serving Oregon’s Fourth District. Wife, Mom, former Labor Commissioner. Pro Union, Pro-Choice, Pro Democracy. #OR04",2023-01-10T17:33:54.000Z
+2026-11-18T20:11:55-05:00,3,ValHoyle,found,118612783,Val Hoyle,"Wife, Mother, and Congresswoman serving OR04 (Benton, Coos, Curry, Douglas, Lane, Linn and Lincoln Counties)",2010-03-01T06:39:31.000Z
+2026-11-18T20:11:55-05:00,3,RepCraigGoldman,found,1875192416602599424,Rep. Craig Goldman,Proudly representing Texas’ 12th Congressional District in the US Congress. Member on @HouseCommerce,2025-01-03T14:49:31.000Z
+2026-11-18T20:11:55-05:00,3,GoldmanCraig,found,342923280,Craig Goldman,"5th generation Texan, 4th generation native of Fort Worth. U.S. Congressman CD 12.",2011-07-26T19:58:23.000Z
+2026-11-18T20:11:55-05:00,3,RepWalberg,found,237862972,Rep. Tim Walberg,"Husband, father, grandfather, and representative of Michigan’s 5th District. Chairman of @EdWorkforceCmte. Member of @NatResources.",2011-01-13T20:26:26.000Z
+2026-11-18T20:11:55-05:00,3,RepPeteStauber,found,1075830599007510535,Pete Stauber,Proud to represent Minnesota's 8th Congressional District.,2018-12-20T19:09:37.000Z
+2026-11-18T20:11:55-05:00,3,PeteStauber,found,883069589722198018,Pete Stauber,"Fighting for our way of life. This is my campaign account. If you were looking for my House of Representatives account, please visit @RepPeteStauber.",2017-07-06T21:06:11.000Z
+2026-11-18T20:11:55-05:00,3,RepGregSteube,found,1083125649609506816,Congressman Greg Steube,"Representing Florida’s Suncoast (FL-17) Husband, father, U.S. Army veteran, serving on @WaysandMeansGOP @HouseIntel",2019-01-09T22:17:33.000Z
+2026-11-18T20:11:55-05:00,3,gregsteube,found,21924842,Greg Steube,Conservative Republican serving Florida’s 17th Congressional District,2009-02-25T21:52:12.000Z
+2026-11-18T20:11:55-05:00,4,RepJohnLarson,found,50452197,Rep. John Larson,Member of Congress representing the First District of Connecticut.,2009-06-24T21:47:31.000Z
+2026-11-18T20:11:55-05:00,4,SarahEMcBride,found,272191896,Sarah McBride,"Delaware's Member of Congress. Working to deliver for ALL Delawareans. For official statements, visit @Rep_McBride.",2011-03-26T01:01:53.000Z
+2026-11-18T20:11:55-05:00,4,RepNateMoran,found,1603470469608374272,Congressman Nathaniel Moran,"Proudly serving TX-01. Member of @WaysandMeansGOP and @ChinaSelect. Husband, father of 4, conservative Republican. 🇺🇸 Ephesians 4:1.",2022-12-15T19:22:32.000Z
+2026-11-18T20:11:55-05:00,4,moran4congress,found,1464256502001188873,Nathaniel Moran for Congress,Keep East Texas the place we’re proud to call “Home” | ETX | America First,2021-11-26T15:36:28.000Z
+2026-11-18T20:11:55-05:00,4,SenAngusKing,found,1068481578,Senator Angus King,News from the office of Independent U.S. Senator Angus King of Maine. Following/retweeting does not equal an endorsement.,2013-01-07T14:52:27.000Z
+2026-11-18T20:11:55-05:00,4,RepLiccardo,found,1875008939714056192,Rep. Sam Liccardo,Recovering San José Mayor | Jessica’s husband | Cycling 🚲 Geek | Congressman for CA-16 | @ushousefsc | @NewDemCoalition Tech & Innovation Working Group Chair,2025-01-03T02:39:15.000Z
+2026-11-18T20:11:55-05:00,4,sliccardo,found,61822673,Sam Liccardo,"Official: @repliccardo. US Rep for CA 16th District. Former Mayor of San José. Despite being 60% water, I’m a big eater. @kohl_garcia's Husband.",2009-07-31T17:24:22.000Z
+2026-11-18T20:11:55-05:00,4,RepSarahElfreth,found,1875244261844668416,Congresswoman Sarah Elfreth,Proudly representing Maryland’s 3rd Congressional District.,2025-01-03T18:14:22.000Z
+2026-11-18T20:11:55-05:00,4,RepDonBacon,found,818975124460335106,Rep. Don Bacon 🇺🇸✈️🏍️⭐️🎖️,"Serving the great people of NE-02 🇺🇸. Chair of Cyber Subcommittee. Married to Angie, 4 kids, 8 grandkids. Brig Gen ⭐️ USAF (Ret.) https://t.co/mkCpzgSdUD",2017-01-11T00:17:40.000Z
+2026-11-18T20:11:55-05:00,4,RepMrvan,found,1346205046036377601,Rep. Frank J. Mrvan,Proudly serving Indiana's First Congressional District in the U.S. House of Representatives,2021-01-04T21:21:40.000Z
+2026-11-18T20:11:55-05:00,4,RepHoulahan,found,1052896620797460481,Chrissy Houlahan,"Air Force veteran, engineer, entrepreneur, educator and the first woman ever to represent Pennsylvania's 6th District in Congress.",2018-10-18T12:18:11.000Z
+2026-11-18T20:11:55-05:00,4,SenTuberville,found,1345739193721487362,Coach Tommy Tuberville,United States Senator for the great state of Alabama.,2021-01-03T14:30:13.000Z
+2026-11-18T20:11:55-05:00,4,USRepMikeFlood,found,1547025742529167360,Rep. Mike Flood,Serving Nebraska's 1st District in the U.S House of Representatives | @MainCaucus Chair | @FinancialCmte Housing & Insurance Subcommittee Chairman,2022-07-13T01:11:52.000Z
+2026-11-18T20:11:55-05:00,4,Flood4Nebraska,found,1487156409028558849,Mike Flood,"Husband, father, business owner, and conservative Republican representing Nebraska's 1st District in Congress",2022-01-28T20:11:56.000Z
+2026-11-18T20:11:55-05:00,4,RepJoshHarder,found,1080851152151953410,Rep. Josh Harder,Pam’s husband. Lillian and Karina’s dad. Fighting for San Joaquin families in Congress on @AppropsDems @NewDemCoalition,2019-01-03T15:39:30.000Z
+2026-11-18T20:11:55-05:00,4,RepDerekTranCA,found,1877088040453079040,Rep. Derek Tran,"Dad, Husband, U.S. Army Vet, Small Business Owner, & Son of Refugees proudly representing #CA45 families in Congress.",2025-01-08T20:20:48.000Z
+2026-11-18T20:11:55-05:00,4,RepScholten,found,1609941568869335041,Congresswoman Hillary Scholten,"Proudly serving Michigan’s Third Congressional District. Member of @TransportDems, @HSBCDems, and @NewDemCoalition. Vice Chair of @DemWomenCaucus.",2023-01-02T15:56:12.000Z
+2026-11-18T20:11:55-05:00,4,HillaryScholten,found,1106949340197801986,Hillary Scholten,"Proud West Michigander, mother of two, and former DOJ attorney. Congresswoman for Michigan’s Third District. Follow my official office @RepScholten.",2019-03-16T16:04:23.000Z
+2026-11-18T20:11:55-05:00,4,RepJeffCrank,found,1875271096364331008,Rep. Jeff Crank,Proudly serving the 5th District of Colorado | Member of @HASCRepublicans and @NatResources,2025-01-03T20:01:20.000Z
+2026-11-18T20:11:55-05:00,4,jeffcrank,found,23346442,Jeff Crank,"Husband to Lisa, Dad to Joel & Jessica. Follower of Jesus. Hunter/Adventurer. Fighting for freedom. Congressman from Colorado's 5th District.",2009-03-08T19:55:23.000Z
+2026-11-18T20:11:55-05:00,4,RepBeatty,found,1531521632,Rep. Joyce Beatty,Serving Ohio’s 3rd District. #OH03. Chair Emerita of @TheBlackCaucus. Proud Ohioan.,2013-06-19T17:47:09.000Z
+2026-11-18T20:11:55-05:00,4,repgabeevans,found,1620505546913894401,Congressman Gabe Evans,Christian. Husband. Father. Army combat veteran. Retired police lieutenant. Grandson of immigrants. Congressman for Colorado’s 8th district. 🇺🇸,2023-01-31T19:33:31.000Z
+2026-11-18T20:11:55-05:00,4,GabeforColorado,found,1691828244540989440,Gabe Evans,Christian. Husband. Father. Army combat veteran. Retired police lieutenant. Grandson of immigrants. Congressman for Colorado’s 8th district. 🇺🇸,2023-08-16T15:05:01.000Z
+2026-11-18T20:11:55-05:00,4,RepFranklin,found,1343664721384398849,Congressman Scott Franklin,"Husband, father, and Navy veteran proudly representing Florida's 18th Congressional District.",2020-12-28T21:06:58.000Z
+2026-11-18T20:11:55-05:00,4,RepFedorchak,found,1869462860499501056,Congresswoman Julie Fedorchak,Congresswoman for North Dakota-At Large. 🇺🇸 Serving on @HouseCommerce,2024-12-18T19:21:14.000Z
+2026-11-18T20:11:55-05:00,4,fedorchak4ND,found,2430685130,Julie Fedorchak,"Mom, wife, devout Catholic, conservative member of Congress, family gal, fierce promoter of energy independence, enthusiastic sports fan, dog lover.",2014-04-06T16:16:52.000Z
+2026-11-18T20:11:55-05:00,4,RepDebDingell,found,2970279814,Rep. Debbie Dingell,Proudly serving the people of Michigan's 6th Congressional District. Chair of @HouseDPCC.,2015-01-09T19:15:50.000Z
+2026-11-18T20:11:55-05:00,4,RepBera,found,950783972,"Ami Bera, M.D.",Doctor and Member of Congress. Proudly representing CA-06 and Sacramento County in the U.S. House of Representatives.,2012-11-16T01:39:54.000Z
+2026-11-18T20:11:55-05:00,4,RepRaulRuizMD,found,1089859058,"Congressman Raul Ruiz, M.D.",Emergency medicine physician and public servant. Serving California's 25th Congressional District.,2013-01-14T18:58:43.000Z
+2026-11-18T20:11:55-05:00,4,CongressmanRuiz,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,4,RepEzell,found,1602788004749344768,Congressman Mike Ezell,"Husband, father, grandfather, and retired sheriff. Proudly representing the people of South Mississippi in Congress. Serving on @TransportGOP & @NatResources",2022-12-13T22:10:44.000Z
+2026-11-18T20:11:55-05:00,4,MikeEzellMS,found,1377293395333246981,Mike Ezell,"Christian, Husband, Dad & Granddad. Career Law Enforcement Officer. Republican Congressman in #MS04",2021-03-31T16:15:42.000Z
+2026-11-18T20:11:55-05:00,4,SenSchumer,found,17494010,Chuck Schumer,"Official Account of Senator Chuck Schumer, New York’s Senator and the Senate Democratic Leader.",2008-11-19T20:10:20.000Z
+2026-11-18T20:11:55-05:00,4,chuckschumer,found,1872999342,Chuck Schumer,"Campaign account for Senator Chuck Schumer, D-NY Fighting hard for the middle class - father, husband, Giants & Yankees fan",2013-09-16T21:08:18.000Z
+2026-11-18T20:11:55-05:00,4,RepJeffHurd,found,1870164247419736064,Rep. Jeff Hurd,Honored to serve the great people of CO-03. 🏔️ Conservative. Husband. Father of five. 🇺🇸,2024-12-20T17:49:32.000Z
+2026-11-18T20:11:55-05:00,4,jeff4colorado,found,1690061461647691777,Jeff Hurd,Husband. Father of 5. Conservative. Running for re-election in Colorado's 3rd Congressional District.,2023-08-11T18:03:58.000Z
+2026-11-18T20:11:55-05:00,4,RepGoodlander,found,1874831517706256384,Congresswoman Maggie Goodlander,Proudly representing New Hampshire's Second District.,2025-01-02T14:55:07.000Z
+2026-11-18T20:11:55-05:00,4,MaggieG603,found,2252635728,Maggie Goodlander,NH Native | Advocate & Educator | Standing up to Bullies since 1986 | Congresswoman for #NH02,2013-12-18T22:45:41.000Z
+2026-11-18T20:11:55-05:00,4,RepPatHarrigan,found,1874879606525919233,Congressman Pat Harrigan,"Congressman From #NC10, Green Beret, Bronze Star Recipient, Entrepreneur, Husband, Father, Serving on @HASCRepublicans and @HouseScience.",2025-01-02T18:05:51.000Z
+2026-11-18T20:11:55-05:00,4,H001101,not_found:missing,,,,
+2026-11-18T20:11:55-05:00,4,RepFischbach,found,1344375287484723205,Rep. Michelle Fischbach,Proudly representing Minnesota's 7th District in the U.S. House of Representatives. Serving on @WaysandMeansGOP and @RulesReps,2020-12-30T20:11:55.000Z
+2026-11-18T20:11:55-05:00,4,FischbachMN7,found,1159929043816460288,Michelle Fischbach,"Campaign account of Michelle Fischbach, Congresswoman for western Minnesota’s 7th District. Proven Conservative, Proven Leader. #MN07",2019-08-09T20:46:49.000Z
+2026-11-18T20:11:55-05:00,4,michellefischb,found,1905462938,Michelle Fischbach,,2013-09-25T21:28:50.000Z
+2026-11-18T20:11:55-05:00,4,RepVindman,found,1873783602728595456,Congressman Eugene Vindman,"Father, Husband, Veteran | Congressman proudly representing Virginia’s Seventh District",2024-12-30T17:30:50.000Z
+2026-11-18T20:11:55-05:00,4,YVindman,found,1225929222839046144,Eugene Vindman,Father. Husband. Veteran. | Congressman for Virginia’s Seventh District,2020-02-07T23:48:16.000Z
+2026-11-18T20:11:55-05:00,4,RepEdCase,found,1081350574589833221,Rep. Ed Case,Proudly representing Hawaii's First Congressional District.,2019-01-05T00:44:02.000Z
+2026-11-18T20:11:55-05:00,4,EdCaseHawaii,not_found:Forbidden,,,,
+2026-11-18T20:11:55-05:00,4,RepGwenMoore,found,22669526,Rep. Gwen Moore,"Honored to represent Wisconsin’s 4th Congressional District. Proud mother, grandmother & great-grandmother. Loves poetry reading, knitting & crocheting.",2009-03-03T20:02:57.000Z
+2026-11-18T20:11:55-05:00,4,MarkAmodeiNV2,found,402719755,Rep. Mark Amodei,Proudly representing Nevada's 2nd District,2011-11-01T13:43:55.000Z
+2026-11-18T20:11:55-05:00,4,AustinScottGA08,found,234797704,Rep. Austin Scott,I am proud to represent the 8th Congressional District of Georgia. Committees: @HouseIntel @HASCRepublicans @HouseAgGOP @RulesReps,2011-01-06T16:01:46.000Z
+2026-11-18T20:11:55-05:00,4,RepFrankLucas,found,242772524,Frank Lucas,"Husband, Dad, 5th Generation Oklahoman. Proudly representing Oklahoma’s Third Congressional District.",2011-01-25T15:24:07.000Z
+2026-11-18T20:11:55-05:00,4,DaveMinCA,found,48219458,Dave Min,"Dad, husband and Congressmember for #CA47.  ""Not some kindly professor"" according to the GOP.  Official account = @CongressMin",2009-06-18T02:52:00.000Z
+2026-11-18T20:11:55-05:00,4,SenDaveMin,found,1329106574082641920,Senator Dave Min,"Retired account for former California State Senator Dave Min (2020-2024), now serving in Congress.   Current official account = @CongressMin",2020-11-18T16:58:14.000Z
+2026-11-18T20:11:55-05:00,4,SenTinaSmith,found,941000686275387392,Tina Smith,"Mom, wife, daughter, and loving but distracted friend. U.S. Senator for Minnesota. Prefers window seats, donuts and MN beer (all together when possible)",2017-12-13T17:43:41.000Z
+2026-11-18T20:11:55-05:00,4,TinaSmithMN,found,47724293,Tina Smith,"Converse-wearing, donut-eating U.S. Senator from Minnesota. Longtime fierce advocate for families and grandma. she/her",2009-06-16T19:48:15.000Z
+2026-11-18T20:11:55-05:00,4,RepJulieJohnson,found,1861777824463376384,Congresswoman Julie Johnson,"Congresswoman for Texas’s 32nd District | Texas educated attorney and former Texas state legislator | @HomelandDems, @HouseForeign, @HouseAdm_Dems",2024-11-27T14:23:27.000Z
+2026-11-18T20:11:55-05:00,4,juliejohnsonTX,found,920404478569967621,Julie Johnson for Texas,U.S. Congresswoman for the Gerrymandered #TX32,2017-10-17T21:41:42.000Z
+2026-11-18T20:11:55-05:00,4,RepGonzalez,found,818536152588238849,Rep. Vicente Gonzalez,Proudly representing the 34th District of Texas in the U.S. Congress #TX34,2017-01-09T19:13:21.000Z
+2026-11-18T20:11:55-05:00,4,RepHageman,found,1578455747263766528,Rep. Harriet Hageman,"Proudly serving Wyoming in the US House. I will always fight to return power to the people and rein in waste, fraud, and abuse in the federal government.",2022-10-07T18:42:50.000Z
+2026-11-18T20:11:55-05:00,4,RepBrianMast,found,814103950404239360,Rep. Brian Mast,"I love my wife, 4 rowdy kids and dog, America and my community. I would give my life for them all without regret. God bless, and thank you for letting me serve.",2016-12-28T13:41:21.000Z
+2026-11-18T20:11:55-05:00,4,BrianMastFL,found,3170031728,Brian Mast,Fighter For America. Army Combat Vet. Purple Heart Recipient. Husband & Father. Serving #FL21 in Congress. Join the fight: Text MAST to 50902,2015-04-24T05:54:35.000Z
+2026-11-18T20:11:55-05:00,4,CAOHouse,found,2414740159,Office of the CAO,The Office of the Chief Administrative Officer provides support services and business solutions to the U.S. House of Representatives,2014-03-27T18:15:04.000Z
+2026-11-18T20:11:55-05:00,4,NelliePou,found,1411017944,Nellie Pou,"Congresswoman New Jersey 9th District. Former New Jersey State Senator, and Assemblywoman. Paterson Native. Fighting for lower costs and working families.",2013-05-07T19:19:11.000Z
+2026-11-18T20:11:55-05:00,4,RepMcDowell,found,1787665552657264641,Congressman Addison McDowell,US Congressman for North Carolina’s 6th Congressional District.  🇺🇸 Proudly serving on the @TransportGOP @NatResources @housebudgetGOP.,2024-05-07T02:08:05.000Z
+2026-11-18T20:11:55-05:00,4,michaelrulli,found,1016827313022033921,Michael Rulli,Congressman for Ohio’s 6th district. 100% America First.,2018-07-10T23:31:37.000Z
+2026-11-18T20:11:55-05:00,4,RepDustyJohnson,found,1074782372594413569,Rep. Dusty Johnson,"South Dakota's lone U.S. Representative - husband, father, & proud South Dakotan. Member of @HouseAgGOP, @TransportGOP & @ChinaSelect.",2018-12-17T21:44:20.000Z
+2026-11-18T20:11:55-05:00,4,DustyJohnson,found,140529899,Dusty Johnson,Congressman. Husband to Jacquelyn. Father to three. 🇺🇸,2010-05-05T18:45:58.000Z
+2026-11-18T20:11:55-05:00,4,RepMikeKennedy,found,1875302141440749573,"Rep. Mike Kennedy, M.D.",Proudly serving Utah's 3rd Congressional District  Vice Chairman of the Subcommittee on Federal Lands 🏔️,2025-01-03T22:04:45.000Z
+2026-11-18T20:11:55-05:00,4,KennedyForUtah,found,972942134742474752,Dr. Mike Kennedy,"Congressman, Family Doctor, Attorney, Businessman, Eagle Scout, Husband and Proud Father of Eight in the Beautiful State of Utah.",2018-03-11T21:07:36.000Z
+2026-11-18T20:11:55-05:00,4,RepEspaillat,found,817076257770835968,Adriano Espaillat,Former undocumented immigrant turned progressive Congressman. Fighting #ForThePeople of NY-13. 💪🏽,2017-01-05T18:32:15.000Z
+2026-11-18T20:11:55-05:00,4,RepTedLieu,found,3044993235,Rep. Ted Lieu,"Official account for Rep @TedLieu, serving #CA36 in the U.S. House of Representatives. Vice Chair of @HouseDemocrats.",2015-02-19T20:08:54.000Z
+2026-11-18T20:11:55-05:00,4,tedlieu,found,21059255,Ted Lieu,"Husband of Betty, the love of my life. Father of two great kids. USAF veteran. Member of Congress. In that order. Also, trump called me Lightweight.",2009-02-17T03:12:31.000Z
+2026-11-18T20:11:55-05:00,4,RepUnderwood,found,1080539438508400642,Rep. Lauren Underwood,"Representing #IL14. Nurse, health enthusiast, advocate for the working families of Illinois. Member of @AppropsDems. Co-Chair of @HouseDPCC.",2019-01-02T19:00:52.000Z
+2026-11-18T20:11:55-05:00,4,LUnderwood630,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,4,SenDuckworth,found,1058520120,Tammy Duckworth,Mom. Combat Veteran. Blackhawk pilot. U.S. Senator. Illinoisan.,2013-01-03T18:59:33.000Z
+2026-11-18T20:11:55-05:00,4,TammyDuckworth,found,328679423,Tammy Duckworth,Soldier. Senator. Mother.,2011-07-03T20:43:44.000Z
+2026-11-18T20:11:55-05:00,4,RepGregStanton,found,1080885078425784320,Rep. Greg Stanton,"Dad, husband and former Phoenix mayor now proudly serving AZ-04 in Congress. ☀️🌵 Member of @TransportDems @HouseForeign @CmteonCCPDems & @NewDemCoalition.",2019-01-03T17:54:19.000Z
+2026-11-18T20:11:55-05:00,4,gregstantonaz,found,218292287,Greg Stanton,"Dad. Husband. Former Phoenix Mayor. Congressman for Arizona's 4th District. Chair @VoteNewDems. For official updates, follow @RepGregStanton.",2010-11-21T23:15:19.000Z
+2026-11-18T20:11:55-05:00,4,RepMcGarvey,found,1610300298303787008,Rep. Morgan McGarvey,"Lifelong Louisvillian proudly serving #KY03 in Congress. Husband & father, dad band guitarist, bourbon fan 🥃 🎸  @VetAffairsDems | @HSBCDems | @HouseBudgetDems",2023-01-03T15:41:44.000Z
+2026-11-18T20:11:55-05:00,4,MorganMcGarvey,found,389242668,Morgan McGarvey,"Proud dad, occasional guitarist, & Congressman for KY-03. @DCCC Recruitment Co-Chair.",2011-10-12T02:50:37.000Z
+2026-11-18T20:11:55-05:00,4,BennieGThompson,found,82453460,Rep. Bennie G. Thompson,Husband. Father. Grandfather. Avid hunter. Proudly serving #MS02 in Congress. | Ranking Member of @HomelandDems. | Follow my Instagram: @benniegthompson,2009-10-14T20:47:03.000Z
+2026-11-18T20:11:55-05:00,4,RepAdamGrayCA,found,1872779342784184320,Congressman Adam Gray,Congressman for California's 13th Congressional District. Member of the @HouseAgDems and @NRDems. #ValleyFirst.,2024-12-27T22:59:39.000Z
+2026-11-18T20:11:55-05:00,4,AdamGrayCA,found,2426056399,Adam C. Gray,Congressman #CA13. Merced born & raised. Champion of bipartisan & common-sense solutions. #ValleyFirst. Personal Account.,2014-04-03T18:53:24.000Z
+2026-11-18T20:11:55-05:00,4,JoshuaUE99,found,1643012216424218626,Josh Riley,,2023-04-03T22:07:08.000Z
+2026-11-18T20:11:55-05:00,4,RepVeasey,found,1074129612,Rep. Marc Veasey,Representing Dallas-Fort Worth (TX-33) | @energycommerce | #GunViolencePrevention Taskforce Deputy Whip | @CVRCaucus + @bluecollardems,2013-01-09T15:49:27.000Z
+2026-11-18T20:11:55-05:00,4,RepJasonCrow,found,1080191866509901826,Rep. Jason Crow,Dad. Little League Baseball Coach. Army Ranger. Westerner & Whiskey Enthusiast. Colorado Congressman. 🏔️,2019-01-01T19:59:44.000Z
+2026-11-18T20:11:55-05:00,4,ChuckGrassley,found,10615232,Chuck Grassley,"U.S. Senator. Family farmer. Lifetime resident of New Hartford, IA. Also follow @GrassleyPress for news and information.",2007-11-26T15:17:02.000Z
+2026-11-18T20:11:55-05:00,4,RepShontelBrown,found,1456381091598700556,Rep. Shontel Brown,Delivering for Ohio's Eleventh Congressional District.,2021-11-04T22:01:33.000Z
+2026-11-18T20:11:55-05:00,4,RepWesleyBellMO,found,1875208198166122496,Congressman Wesley Bell,Official House Twitter Account for Congressman Wesley Bell. Proud Representative of Missouri’s First District. Native St. Louisan. https://t.co/6mZRmejB9i,2025-01-03T15:52:06.000Z
+2026-11-18T20:11:55-05:00,4,RepAndyHarrisMD,found,960962340,"Rep. Andy Harris, MD","Proud to serve MD-01 | @freedomcaucus Chairman | Member of @HouseAppropsGOP | Co-chair of House Pro-Life Caucus | Physician, Navy Vet, Father and Husband",2012-11-20T18:31:27.000Z
+2026-11-18T20:11:55-05:00,4,RepMoskowitz,found,1610009027743830018,Congressman Jared Moskowitz,"Father, husband, sneaker head, and Congressman for Florida’s 23rd Congressional District.",2023-01-02T20:24:11.000Z
+2026-11-18T20:11:55-05:00,4,RepDonaldsPress,found,1343968646050283522,Congressman Byron Donalds,Proudly representing the people of Southwest Florida in Florida’s 19th Congressional District | Serving on @FinancialCmte & @GOPoversight | Official Account,2020-12-29T17:14:49.000Z
+2026-11-18T20:11:55-05:00,4,RepMariaSalazar,found,1325928411689349120,Rep. María Elvira Salazar,U.S. Congresswoman | Daughter of Exiles | Emmy Award-Winning Journalist | Serving on @HouseForeignGOP & @FinancialCmte | #FL27☀️🌴🇺🇸,2020-11-09T22:29:20.000Z
+2026-11-18T20:11:55-05:00,4,MaElviraSalazar,found,40282700,María Elvira Salazar 🇺🇸,Congresswoman • 5x Emmy Award-winning journalist • Daughter of exiles • Nico & Marti's mom • Representing beautiful South Florida #FL27 ☀️🌴,2009-05-15T17:04:40.000Z
+2026-11-18T20:11:55-05:00,4,RepRickAllen,found,2964287128,Rick W. Allen,Proudly representing Georgia's 12th Congressional District. Member of @HouseCommerce and @EdWorkforceCmte. #GA12,2015-01-06T14:45:18.000Z
+2026-11-18T20:11:55-05:00,4,SenJohnHoeven,found,382791093,Senator John Hoeven,"U.S. Senator for North Dakota serving on the Senate Agriculture, Energy, Appropriations & Indian Affairs committees.",2011-09-30T17:55:30.000Z
+2026-11-18T20:11:55-05:00,4,RepMillsPress,found,1611138873496637440,Rep. Cory Mills 🇺🇸,U.S. Congressman (FL-07); Bronze Star Recipient; Army Combat Veteran; House Armed Services & Foreign Affairs Committee Member.,2023-01-05T23:13:50.000Z
+2026-11-18T20:11:55-05:00,4,CoryMillsFL,found,1216076954375421952,Cory Mills,U.S. Congressman (FL-07) • Army Combat Veteran • Armed Services & Foreign Affairs Committee • Chairman- Oversight & Intelligence 🇺🇸 IG:CoryMillsforFlorida,2020-01-11T19:18:42.000Z
+2026-11-18T20:11:55-05:00,4,RepFine,found,1917684236557115396,Congressman Randy Fine,Husband and father proudly serving Florida’s 6th Congressional District. Newest member of the House @freedomcaucus. Account Guidelines: https://t.co/suSVSWpW9P,2025-04-30T20:56:27.000Z
+2026-11-18T20:11:55-05:00,4,RepJimCosta,found,245451804,Rep. Jim Costa,Representing California's 21st Congressional District  Fresno Native | Farmer | @HouseAgDems | @HouseForeign,2011-01-31T18:42:23.000Z
+2026-11-18T20:11:55-05:00,5,RepBarryMoore,found,1339006078688825344,Rep. Barry Moore,U.S. Representative for #AL01. Do justly. Love mercy. Walk humbly. Micah 6:8,2020-12-16T00:35:16.000Z
+2026-11-18T20:11:55-05:00,5,RepLauraGillen,found,1854256323547815957,Congresswoman Laura Gillen,"Congresswoman for New York's Fourth District, proudly representing Nassau County on @TransportDems and @ScienceDems.",2024-11-06T20:16:14.000Z
+2026-11-18T20:11:55-05:00,5,LauraAGillen,found,1510967216,Laura Gillen,"Mom, Lawyer, Congresswoman, Fighter | Running for Congress to make life better  Follow @RepLauraGillen for official updates.",2013-06-12T16:21:49.000Z
+2026-11-18T20:11:55-05:00,5,RepChipRoy,found,1082790600292925440,Rep. Chip Roy Press Office,This is a staff account to provide updates to our constituents in Texas' 21st District.,2019-01-09T00:06:11.000Z
+2026-11-18T20:11:55-05:00,5,StaceyPlaskett,found,2724095695,Rep. Stacey Plaskett,Proudly representing the Virgin Islands of the United States,2014-08-11T14:40:01.000Z
+2026-11-18T20:11:55-05:00,5,Plaskett_2012,found,569344237,Stacey Plaskett,Stacey Plaskett has worked for the last 5 years as the General Counsel for the US Virgin Islands Economic Development Authority.,2012-05-02T19:06:25.000Z
+2026-11-18T20:11:55-05:00,5,RepDean,found,567508925,Congresswoman Madeleine Dean,"Congresswoman serving Pennsylvania’s Fourth District of Montgomery and Berks Counties | Committees: @AppropsDems & @HouseForeign | “Courage is in the air""",2012-04-30T20:07:23.000Z
+2026-11-18T20:11:55-05:00,5,mad4pa,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,5,MadeleineDean,found,935717078966964228,Madeleine Dean,Congresswoman serving Montgomery and Berks Counties | This is my campaign account | @RepDean is my official page | #PA04,2017-11-29T03:48:31.000Z
+2026-11-18T20:11:55-05:00,5,DonaldNorcross,found,3122099613,Congressman Donald Norcross 🇺🇸,"Honored to serve NJ-01 Electrician • Husband, Dad, Granddad Co-chair: @Labor_Caucus Member: @EdWorkforceDems, @HASCDemocrats TAL Ranking Member",2015-03-27T20:08:34.000Z
+2026-11-18T20:11:55-05:00,5,RepRileyMoore,found,1875249747809710080,Rep. Riley M. Moore,"Proudly Representing West Virginia's 2nd District in Congress | Member @HouseAppropsGOP | Father, Husband, Roman Catholic",2025-01-03T18:36:15.000Z
+2026-11-18T20:11:55-05:00,5,RileyMooreWV,found,1346883186,Riley Moore,"Congressman WV-02, fmr. State Treasurer / WV Delegate, father, husband, Roman Catholic, Conservative, & Mountaineer fan. Retweet≠endorsement.",2013-04-12T14:00:05.000Z
+2026-11-18T20:11:55-05:00,5,RepTimKennedy,found,221176170,Rep. Tim Kennedy,"Former occupational therapist serving New York's 26th Congressional District. Husband, dad, & South Buffalo native.",2010-11-29T23:21:06.000Z
+2026-11-18T20:11:55-05:00,5,kennedyforny26,found,1724247188165824512,Tim Kennedy for Congress,Dad & husband. Former OT & Congressman representing NY-26. Determined to keep delivering for WNY.   https://t.co/H0TssBNgBn,2023-11-14T02:06:09.000Z
+2026-11-18T20:11:55-05:00,5,SenKennedy,not_found:Forbidden,,,,
+2026-11-18T20:11:55-05:00,5,RepMoulton,found,3091316093,Rep. Seth Moulton Press Office,"Official account for Rep. Moulton's press office. Member of @HASCDemocrats, @TransportDems, & @CmteOnCCPDems. Tweets from Seth signed -SWM",2015-03-13T14:26:54.000Z
+2026-11-18T20:11:55-05:00,5,sethmoulton,found,248495200,Seth Moulton,"Girl dad, Marine, candidate for US Senate in Massachusetts. Our fight can't wait. 🇺🇸",2011-02-07T03:35:59.000Z
+2026-11-18T20:11:55-05:00,5,teammoulton,not_found:Forbidden,,,,
+2026-11-18T20:11:55-05:00,5,SanfordBishop,found,249410485,"Sanford Bishop, Jr.",Proudly representing Georgia's 2nd Congressional District. Ranking Member of House Appropriations Subcommittee on Agriculture  https://t.co/MrFLBgdTHf,2011-02-09T00:23:10.000Z
+2026-11-18T20:11:55-05:00,5,RepBrianBabin,found,2929491549,Brian Babin,"Proudly serving #TX36 residents in Congress. Chairman of @housescience, Border Security Caucus Co-Chair, and @TransportGOP member.",2014-12-18T13:28:53.000Z
+2026-11-18T20:11:55-05:00,5,RepFinstad,found,1563316176717246464,Congressman Brad Finstad,"Official X account for U.S. Congressman Brad Finstad, proudly representing Minnesota's First District.",2022-08-27T00:04:50.000Z
+2026-11-18T20:11:55-05:00,5,repcleaver,found,163570705,Rep. Emanuel Cleaver,"This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri's Fifth District.",2010-07-06T19:14:47.000Z
+2026-11-18T20:11:55-05:00,5,SenRandPaul,found,1298624375692894210,Senator Rand Paul,"I fight for Kentucky, individual rights, and the Constitution | This is an official government account for Senator Rand Paul.",2020-08-26T14:12:42.000Z
+2026-11-18T20:11:55-05:00,5,DrRandPaul,found,39834947,Rand Paul,"I fight for the Constitution, individual liberty and the freedoms that make this country great.",2009-05-13T21:07:01.000Z
+2026-11-18T20:11:55-05:00,5,RandPaul,found,216881337,Rand Paul,"U.S. Senator for Kentucky | I fight for the Constitution, individual liberty and the freedoms that make this country great.",2010-11-17T23:52:35.000Z
+2026-11-18T20:11:55-05:00,5,ChrisVanHollen,found,18137749,Senator Chris Van Hollen,U.S. Senator for Maryland,2008-12-15T15:00:29.000Z
+2026-11-18T20:11:55-05:00,5,VanHollenForMD,found,3067974778,Chris Van Hollen,Proud Marylander serving all the people of this state. Progressive fighter committed to getting results.,2015-03-03T14:43:00.000Z
+2026-11-18T20:11:55-05:00,5,RepMcCormick,found,1610689483929780225,"Congressman Rich McCormick, MBA MD",Marine Helicopter Pilot & Doctor Proudly Serving Georgia's 7th Congressional District.  @HASCRepublicans @GOPOversight @HouseScience,2023-01-04T17:28:23.000Z
+2026-11-18T20:11:55-05:00,5,RichforGA,found,1136709465082945538,Dr. Rich McCormick for Congress,"Marine helicopter pilot, doctor, and father fighting to Revive Freedom and Save America as the Congressman for GA-07",2019-06-06T19:00:30.000Z
+2026-11-18T20:11:55-05:00,5,RepRaskin,found,806906355214852096,Rep. Jamie Raskin,Proudly serving Maryland's beautiful Eighth Congressional District and leading @HouseJudiciary Committee Democrats in Congress.,2016-12-08T17:00:41.000Z
+2026-11-18T20:11:55-05:00,5,RepGolden,found,1080891667308298240,Congressman Jared Golden,Proud dad. Resident of Lewiston. Raised in Leeds and trained in the Marines. U.S. Congressman putting Mainers first.,2019-01-03T18:20:30.000Z
+2026-11-18T20:11:55-05:00,5,golden4congress,found,900516768032202752,Jared Golden for Congress,Campaign Account - Congressman Representing Maine’s 2nd District - #TeamGolden,2017-08-24T00:35:03.000Z
+2026-11-18T20:11:55-05:00,5,jahimes,found,31611298,Jim Himes 🇺🇸🇺🇦,Connecticut Congressman. Reader. Runner. Swimmer. Apiarist. And I make maple syrup. And mead.,2009-04-16T02:38:33.000Z
+2026-11-18T20:11:55-05:00,5,RepSuhas,found,1861930573733986305,Rep. Suhas Subramanyam (VA-10),Maya and Nina’s Dad. Miranda’s husband. Proudly serving Virginia’s 10th Congressional District. 🇺🇸,2024-11-28T00:30:37.000Z
+2026-11-18T20:11:55-05:00,5,SuhasforVA,found,3017738772,Suhas Subramanyam,Dad. Husband. VA-10 Congressman.  Dedicated to serving Virginia+America. My official House of Reps account is: @repsuhas,2015-02-12T21:40:25.000Z
+2026-11-18T20:11:55-05:00,5,RepDanCrenshaw,found,1080894931311431682,Rep. Dan Crenshaw,Proudly representing Texas's Second Congressional District,2019-01-03T18:33:28.000Z
+2026-11-18T20:11:55-05:00,5,DanCrenshawTX,found,930552552302792705,Dan Crenshaw,"Congressman, Lieutenant Commander (Ret), & former Navy SEAL.",2017-11-14T21:46:32.000Z
+2026-11-18T20:11:55-05:00,5,RepDeluzio,found,1608934316779921408,Congressman Chris Deluzio,"Fighter for Western PA. #PA17 Congressman, veteran, voting rights attorney, union organizer. Member of @TransportDems and @HASCDemocrats.",2022-12-30T21:15:48.000Z
+2026-11-18T20:11:55-05:00,5,RepAuchincloss,found,1330278736554582016,Rep. Jake Auchincloss 🟧,"Dad. Marine. Massachusetts Congressman. Build an economy that works like Legos, not Monopoly.",2020-11-21T22:35:59.000Z
+2026-11-18T20:11:55-05:00,5,RepDexterOR,found,1873797020143804416,Congresswoman Maxine Dexter,"Mother, physician, and proud U.S. Representative for Oregon's Third Congressional District.",2024-12-30T18:23:42.000Z
+2026-11-18T20:11:55-05:00,5,RepMcClellan,found,1633610542584659970,Congresswoman Jennifer McClellan,"Proud Mom, Democrat, and First Black Congresswoman from Virginia. Representing VA-04 in the U.S. House of Representatives. 🔺",2023-03-08T23:28:10.000Z
+2026-11-18T20:11:55-05:00,5,JennMcClellanVA,found,370859141,Jennifer McClellan,Congresswoman in VA04. Wife of @davemillsva. Mom. Attorney. Former State Senator/Delegate. 🔺 Congressional account: @RepMcClellan,2011-09-09T19:14:57.000Z
+2026-11-18T20:11:55-05:00,5,RepMaxineWaters,found,36686040,Maxine Waters,Proudly serving the people of California's 43rd District in Congress. Ranking Member of the House Financial Services Committee (@USHouseFSC ).,2009-04-30T15:17:45.000Z
+2026-11-18T20:11:55-05:00,5,SenAmyKlobuchar,found,22044727,Senator Amy Klobuchar,Senior U.S. Senator from MN | Snow enthusiast ❄️,2009-02-26T18:50:05.000Z
+2026-11-18T20:11:55-05:00,5,amyklobuchar,found,33537967,Amy Klobuchar,Minnesota Governor-elect and U.S. Senator.,2009-04-20T14:59:36.000Z
+2026-11-18T20:11:55-05:00,5,RepEscobar,found,1075517806551154689,Rep. Veronica Escobar,Tejana. Fronteriza. Proudly representing El Paso in the U.S. House of Representatives.,2018-12-19T22:26:42.000Z
+2026-11-18T20:11:55-05:00,5,vgescobar,found,38960144,Veronica Escobar,"personal account (Congresswoman El Paso, TX)",2009-05-10T00:30:04.000Z
+2026-11-18T20:11:55-05:00,5,RepMcCaul,found,26424123,Michael McCaul,Representing the 10th District of Texas | Chairman Emeritus of @HouseForeignGOP and @HomelandGOP,2009-03-25T03:54:11.000Z
+2026-11-18T20:11:55-05:00,5,RepMikeQuigley,found,56864092,Mike Quigley,"Representing Illinois' 5th District. House Appropriations & Intel member, amateur hockey player, proud Cubs fan. He/Him.",2009-07-15T00:10:43.000Z
+2026-11-18T20:11:55-05:00,5,RepBonamici,found,558769636,Suzanne Bonamici,"Representing Oregon's 1st District. Working to strengthen #PublicEducation, support #WorkingFamilies, & #ActOnClimate. Proud mom of two grown kids. She/her.",2012-04-20T16:30:32.000Z
+2026-11-18T20:11:55-05:00,5,WarrenDavidson,found,742735530287304704,Warren Davidson 🇺🇸,Former Army Ranger who loves this country with a soldier's passion. Restoring a government small enough to fit within the Constitution. Job 19:25.,2016-06-14T15:08:44.000Z
+2026-11-18T20:11:55-05:00,5,Vote_Davidson,found,4624539143,Warren Davidson,Former Army Ranger and mfg entrepreneur serving in Congress. I love this country with a soldier’s passion and I will always support and defend our Constitution.,2015-12-27T19:22:18.000Z
+2026-11-18T20:11:55-05:00,5,RepDanGoldman,found,1610019555371372544,Rep. Dan Goldman,Congressman for New York's 10th District in the House of Representatives,2023-01-02T21:07:14.000Z
+2026-11-18T20:11:55-05:00,5,danielsgoldman,found,435232010,Daniel Goldman,"Congressman (NY-10); Former Lead Counsel, Trump Impeachment 1.0; AUSA, SDNY. Proud husband & father of 5 children. Gov’t account: @RepDanGoldman",2011-12-12T20:38:32.000Z
+2026-11-18T20:11:55-05:00,5,JimmyPatronis,found,33402633,Jimmy Patronis,"Congressman from Florida’s 1st District. Husband & Father of 2 Boys. NW Florida born & raised. & yes, FL has a Central Time Zone. Official account: @PatronisFL",2009-04-20T03:16:29.000Z
+2026-11-18T20:11:55-05:00,5,RepMackenzie,found,575398878,U.S. Congressman Ryan Mackenzie,New Congressman. New dad. (PA-07),2012-05-09T12:37:32.000Z
+2026-11-18T20:11:55-05:00,5,BradSherman,found,30216513,Congressman Brad Sherman,Proudly serving California's 32nd District in the U.S. Congress.   Instagram Profile: https://t.co/9kfBZ2xnLs,2009-04-10T13:38:03.000Z
+2026-11-18T20:11:55-05:00,5,RepFletcher,found,1075904377221722113,Rep. Lizzie Fletcher,"Honored and proud to represent Texas' 7th Congressional District in Houston, where inclusion, innovation, and collaboration thrive. #TX07",2018-12-21T00:02:47.000Z
+2026-11-18T20:11:55-05:00,5,RepMann,found,1345825008887721986,Rep. Tracey Mann,"Official account for Rep. Tracey Mann | Big First, KS | Advocate for KS agriculture and conservative values | @HouseAgGOP @TransportGOP #KS01",2021-01-03T20:11:11.000Z
+2026-11-18T20:11:55-05:00,5,RepTroyNehls,found,1347318288850825217,Congressman Troy E. Nehls,"Congressman (TX-22) | Proudly serving on @JudiciaryGOP, @TransportGOP and @J6Select | Author of The Big Fraud and Borderless by Design",2021-01-07T23:04:54.000Z
+2026-11-18T20:11:55-05:00,5,SheriffTNehls,found,3299995136,Troy Nehls,"TX-22 Congressman & Fmr. FBC Sheriff | US Army Major, ret. | America First",2015-07-29T00:35:59.000Z
+2026-11-18T20:11:55-05:00,5,TroyNehls,found,563471310,Troy Nehls,#GOP nominee for #FortBendCounty #Sheriff. #Vote #Republican on November 6.  http://t.co/V4uS8NaJZR,2012-04-26T02:59:32.000Z
+2026-11-18T20:11:55-05:00,5,RepKamlagerDove,found,1613235716669988871,Congresswoman Sydney Kamlager-Dove,"Proudly representing CA's 37th District | @HouseJudiciary, @HouseForeign, @TheBlackCaucus, @USProgressives | Account maintained by federal staff.",2023-01-11T18:05:49.000Z
+2026-11-18T20:11:55-05:00,5,AsmKamlagerDove,not_found:Forbidden,,,,
+2026-11-18T20:11:55-05:00,5,sydneykamlager,found,993539467817373696,Sydney Kamlager,"Congresswoman, #CA37 | Mother | Grown.Ass.Woman | 💙 ZPB 1920 🤍 | ❤️🖤💚 | Torch-passer, truth-teller | Equity, opportunity, justice = Always!",2018-05-07T17:14:03.000Z
+2026-11-18T20:11:55-05:00,5,RepNickBegich,found,1857837273603256320,Congressman Nick Begich,Proudly serving America’s 49th state in the United States House of Representatives.  American prosperity starts in Alaska.,2024-11-16T17:25:31.000Z
+2026-11-18T20:11:55-05:00,5,NBegich,found,302097181,Pusulabet Erişim ve Rehber 2026,"Pusulabet erişim ve rehber 2026 bu hesapta tutulur. Erişim yenilenince ilk duyuru burada durur, resmi satır takipte kalır ve kanal açık bırakılır.",2011-05-20T16:00:08.000Z
+2026-11-18T20:11:55-05:00,5,RepJohnMcGuire,found,1875020632024350720,Congressman John McGuire,"Official account of Congressman John McGuire, proudly representing Virginia's 5th Congressional District. Member of @HASCRepublicans and @GOPoversight.",2025-01-03T03:25:43.000Z
+2026-11-18T20:11:55-05:00,5,johnmcguire56,not_found:Forbidden,,,,
+2026-11-18T20:11:55-05:00,5,SenatorDurbin,found,247334603,Senator Dick Durbin,Serving the people of Illinois. Democratic Whip and Ranking Member of the Senate Judiciary Committee @JudiciaryDems.,2011-02-04T15:50:42.000Z
+2026-11-18T20:11:55-05:00,5,DickDurbin,found,308794407,Dick Durbin,U.S. Senator for Illinois,2011-06-01T00:54:26.000Z
+2026-11-18T20:11:55-05:00,5,RepBresnahan,found,1872398693837484032,Congressman Rob Bresnahan Jr.,Proudly serving Pennsylvania's Eighth Congressional District in Congress,2024-12-26T21:47:20.000Z
+2026-11-18T20:11:55-05:00,5,SenHawleyPress,found,1080960924687704064,Senator Hawley Press Office,Tweets from the office of U.S. Senator Josh Hawley,2019-01-03T22:55:42.000Z
+2026-11-18T20:11:55-05:00,5,HawleyMO,found,2352629311,Josh Hawley,"Follower of Jesus, constitutional lawyer, husband to Erin, Dad to Elijah, Blaise and Abigail, U.S. Senator for Missouri",2014-02-20T03:13:57.000Z
+2026-11-18T20:11:55-05:00,5,RepLucyMcBath,found,1082380458976051202,Rep. Lucy McBath,"Ranking Member @HouseJudiciary Crime Subcommittee & @EdWorkforceDems. If you need help with a federal agency, please call my office at (470) 773-6330.",2019-01-07T20:56:25.000Z
+2026-11-18T20:11:55-05:00,5,RepJasmine,found,1609974443631157248,Congresswoman Jasmine Crockett,"Former public defender, now proudly serving the people of Texas’ 30th District. @OversightDems & @HouseJudiciary. Posts are made by staff unless denoted w/ CWC",2023-01-02T18:07:13.000Z
+2026-11-18T20:11:55-05:00,5,JasmineForUS,found,918913624395079680,Jasmine Crockett,Congresswoman #TX30 | Civil Rights and Criminal Attorney | Progressive | Former State Representative HD-100 | DST 1913 🐘🔥 | She/Her/Ella | #TEXASTOUGH,2017-10-13T18:57:35.000Z
+2026-11-18T20:11:55-05:00,5,RepCarbajal,found,816157667882373120,Rep. Salud Carbajal,"Father, husband and veteran proudly representing California’s 24th District. Working to protect the environment, improve our economy, and support our veterans.",2017-01-03T05:42:06.000Z
+2026-11-18T20:11:55-05:00,5,RepGraceMeng,found,1051127714,Grace Meng,"Representing NY's 6th Congressional District - Parts of West, Central and Northeast Queens.  For specific questions or concerns, please contact my office.",2012-12-31T20:28:41.000Z
+2026-11-18T20:11:55-05:00,5,Grace4NY,found,571214272,Grace Meng,"Wife & Mother, Congresswoman, Attorney.",2012-05-04T22:35:04.000Z
+2026-11-18T20:11:55-05:00,5,PeteSessions,found,24735461,Pete Sessions,Proudly representing the 17th Congressional District of Texas.,2009-03-16T17:54:52.000Z
+2026-11-18T20:11:55-05:00,5,RepCasten,found,1083472286089396224,Rep. Sean Casten,"Proudly serving IL-06. Dad, husband, former clean energy entrepreneur. Climate nerd, gun safety & consumer advocate @USHouseFSC @JECDems. He/him",2019-01-10T21:14:57.000Z
+2026-11-18T20:11:55-05:00,5,SeanCasten,found,66804351,Sean Casten,"US Rep, IL-06. Engineer. Former CEO. Dad. Husband. Born at 326 ppm. Official tweets @RepCasten. Also: SeanCasten at Mastodon & Bluesky.",2009-08-18T21:17:08.000Z
+2026-11-18T20:11:55-05:00,5,PeterWelch,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,5,WelchForVT,found,499109830,Peter Welch,"U.S. senator, hiker, Margaret's husband. Honored to serve Vermont. Senator working for you.",2012-02-21T19:48:49.000Z
+2026-11-18T20:11:55-05:00,5,RepMessmer,found,1875298824387760128,Congressman Mark Messmer,"Devoted husband, father, grandpa, & lifelong Hoosier proudly representing Indiana's 8th District in Congress. @HASCRepublicans, @EdWorkforceCmte, & @HouseAgGOP.",2025-01-03T21:51:22.000Z
+2026-11-18T20:11:55-05:00,5,TXRandy14,found,1058051748,Randy Weber,Proudly serving the great people of Texas’ 14th District | Member of @HouseCommerce & @HouseScience 🇺🇸,2013-01-03T15:30:06.000Z
+2026-11-18T20:11:55-05:00,5,RepHerbConaway,found,1872681063597887488,Congressman Herb Conaway,"Dad, Physician, former U.S. Air Force Captain, former NJ Assemblyman. Proudly representing NJ-03 in Congress.",2024-12-27T16:29:11.000Z
+2026-11-18T20:11:55-05:00,5,herbconaway,found,52596035,Dr. Herb Conaway,"Father, former U.S. Air Force Captain, Physician, Congressman (NJ-03).",2009-07-01T01:52:07.000Z
+2026-11-18T20:11:55-05:00,5,SenOssoff,found,1356714265894408196,Ossoff's Office,Official updates from Georgia U.S. Senator Jon Ossoff's office,2021-02-02T21:21:52.000Z
+2026-11-18T20:11:55-05:00,5,ossoff,found,521747968,Jon Ossoff,"U.S. Senator. Dad, husband, Georgian.",2012-03-11T22:46:55.000Z
+2026-11-18T20:11:55-05:00,5,RepTomBarrett,found,1859761953725624320,Congressman Tom Barrett,Representing the People of Michigan’s 7th District in the United States House of Representatives.,2024-11-22T00:53:09.000Z
+2026-11-18T20:11:55-05:00,5,tombarrettmi7,found,1459495909079801860,Tom Barrett,Father. Husband. Iraq War Veteran. Helicopter Pilot. Representing Michigan's 7th Congressional District.,2021-11-13T12:18:53.000Z
+2026-11-18T20:11:55-05:00,5,RepBillFoster,found,1080509366,Congressman Bill Foster,Scientist. Businessman. Proud to represent the 11th Congressional District of Illinois.,2013-01-11T18:17:11.000Z
+2026-11-18T20:11:55-05:00,5,RepDerekSchmidt,found,1875994749443645440,Congressman Derek Schmidt,Proudly Representing Kansas' Second District in Congress,2025-01-05T19:56:44.000Z
+2026-11-18T20:11:55-05:00,5,Rep_Whitesides,found,1872709283634397185,Rep. George Whitesides,"U.S. Congressman, representing the Santa Clarita, Antelope, and N. San Fernando Valleys. Former NASA Chief of Staff. Proud father of 2.",2024-12-27T18:21:10.000Z
+2026-11-18T20:11:55-05:00,5,AdelitaForAZ,found,1906193081814388736,Adelita Grijalva,Mom. Advocate. Lifelong Southern Arizonan. Congresswoman for #AZ07. Follow official account: @rep_grijalva,2025-03-30T03:55:02.000Z
+2026-11-18T20:11:55-05:00,5,Rep_Grijalva,found,1973490757026848768,Rep. Adelita Grijalva,"Mom, First Chicana from AZ in Congress, Proudly representing #AZ07. Fighting for justice and opportunity.",2025-10-01T20:51:14.000Z
+2026-11-18T20:11:55-05:00,5,RepMonicaDLC,found,1590396129094647814,Rep. Monica De La Cruz,Mother of 2 and small business owner | proudly representing #TX15 | Serving on @FinancialCmte and @HouseAgGOP | Co-Chair of the Congressional Women's Caucus,2022-11-09T17:29:41.000Z
+2026-11-18T20:11:55-05:00,5,monica4congress,found,1185738917435314176,Monica De La Cruz,"United States Congresswoman proudly serving Texas’ 15th Congressional District, mom, daughter, and proud UTSA alumna. 🙌🏻🇺🇸",2019-10-20T02:06:13.000Z
+2026-11-18T20:11:55-05:00,6,RepHuffman,found,1071102246,Rep. Jared Huffman,Congressman for California's North Coast. Ranking Member of @NRDems. Follow me on bluesky @rephuffman.bsky.social,2013-01-08T14:52:00.000Z
+2026-11-18T20:11:55-05:00,6,RepJudyChu,found,193732179,Judy Chu,Proudly representing California's 28th District in the U.S. House of Representatives. @WaysMeansCmte. @HouseBudgetDems. @USProgressives. Chair Emerita @CAPAC.,2010-09-22T15:18:17.000Z
+2026-11-18T20:11:55-05:00,6,RepKevinMullin,found,1610411994888409088,Kevin Mullin,"Proudly representing #CA15 in Congress. Father of twins. Husband. Former CA Assemblymember, Mayor, Councilmember, small business owner. @EnergyCommerce",2023-01-03T23:06:16.000Z
+2026-11-18T20:11:55-05:00,6,RepEdwards,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,6,ChuckEdwards4NC,found,838404430793953280,Chuck Edwards,"Send a Washington outsider to Congress. We need the conservative philosophy, grit, fighting spirit, and proven track record of Chuck Edwards to represent #NC11.",2017-03-05T15:02:48.000Z
+2026-11-18T20:11:55-05:00,6,USRepGaryPalmer,found,2861616083,Gary Palmer,Proudly serving the people of Alabama's 6th Congressional District. Member of @HouseCommerce and @GOPoversight.,2014-11-04T22:58:38.000Z
+2026-11-18T20:11:55-05:00,6,RepPaulTonko,found,84119348,Paul Tonko,"Engineer. Ice cream lover. Congressman for #NY20 Albany, Schenectady, Troy, Saratoga Springs & more 🇺🇸",2009-10-21T17:24:57.000Z
+2026-11-18T20:11:55-05:00,6,RepCarlos,found,1343679195034103808,Rep. Carlos A. Gimenez,"U.S. Congressman | Armed Services, Homeland Security, & Select Committee on China | Firefighter & Mayor of Miami-Dade #FL28",2020-12-28T22:04:32.000Z
+2026-11-18T20:11:55-05:00,6,MayorGimenez,found,331783175,Mayor Carlos A. Gimenez,"As Miami-Dade County’s highest-ranking elected official and chief administrator I oversee a government of more than 28,000 employees and an $8.9 billion budget.",2011-07-08T18:17:21.000Z
+2026-11-18T20:11:55-05:00,6,RepVanOrden,found,1598778014401269760,Rep. Derrick Van Orden,U.S. Navy SEAL veteran serving #WI03 | @HouseAgGOP @HouseVetAffairs @HASCRepublicans,2022-12-02T20:36:11.000Z
+2026-11-18T20:11:55-05:00,6,derrickvanorden,found,2580992246,Derrick Van Orden,Customer Service Agent WI 03,2014-06-21T20:23:32.000Z
+2026-11-18T20:11:55-05:00,6,BobbyScott,found,161791703,Rep. Bobby Scott,"Proudly representing Virginia's 3rd Congressional District. Ranking Member of the Committee on Education and Workforce, @EdWorkforceDems.",2010-07-01T19:57:00.000Z
+2026-11-18T20:11:55-05:00,6,USRepKeating,found,232992031,Congressman Bill Keating,Official Twitter page. Proudly representing the 9th Congressional District of Massachusetts.,2011-01-01T23:58:47.000Z
+2026-11-18T20:11:55-05:00,6,JoaquinCastrotx,found,231510077,Joaquin Castro,"Texas Congressman. Democrat. Intelligence Committee. Foreign Affairs Committee. Born, raised, represent San Antonio.   X Standards: https://t.co/58dvW70wOP",2010-12-28T18:41:02.000Z
+2026-11-18T20:11:55-05:00,6,janschakowsky,found,24195214,Jan Schakowsky,"Official Twitter account for Rep. Jan Schakowsky, Illinois 9th Congressional District",2009-03-13T16:03:17.000Z
+2026-11-18T20:11:55-05:00,6,RepBeccaB,found,1606115178210365448,Rep. Becca Balint,"Mom, Teacher, Vermonter, Writer & Congresswoman for VT, fighting for working families. @HouseJudiciary & @HouseBudgetDems. She/Her. Official. 🏳️‍🌈🏔️🏍️🍁",2022-12-23T02:31:32.000Z
+2026-11-18T20:11:55-05:00,6,BeccaBalintVT,found,1210894642465501184,Becca Balint,"Mom, teacher, Vermonter. Proud to be the 1st Congresswoman from the great state of Vermont. #teambecca #bhive🐝 🏳️‍🌈🏍🍁",2019-12-28T12:06:49.000Z
+2026-11-18T20:11:55-05:00,6,JimJusticeWV,found,3167789983,Jim Justice,"Father, husband, job creator, coach, former Governor, and U.S. Senator from West Virginia. Fighting for more jobs, lower taxes, a stronger economy.",2015-04-22T17:48:41.000Z
+2026-11-18T20:11:55-05:00,6,wvgovernor,found,1878821700625678336,Governor Patrick Morrisey,37th Governor of the State of West Virginia. Official account of Governor Patrick Morrisey.  Tweets directly from the Governor will have his initials (PM).,2025-01-13T15:10:08.000Z
+2026-11-18T20:11:55-05:00,6,Rep_Magaziner,found,1615455207713808384,Congressman Seth Magaziner,Proud to fight for working people as the Representative for Rhode Island's Second Congressional District.,2023-01-17T21:05:16.000Z
+2026-11-18T20:11:55-05:00,6,SethMagaziner,found,1434052620,Seth Magaziner,"U.S. Representative for RI’s 2nd district, father to Max and Lucy, husband to Julia, fighter for working people, and shameless booster of Rhode Island. 🌊⚓️🇺🇸",2013-05-16T21:44:38.000Z
+2026-11-18T20:11:55-05:00,6,RepTimMooreNC,found,282219422,Congressman Tim Moore,Representing North Carolina's 14th Congressional District 🇺🇸| Longest-serving Speaker of the North Carolina House | Member of @FinancialCmte & @housebudgetGOP,2011-04-14T19:52:30.000Z
+2026-11-18T20:11:55-05:00,6,JohnMannionNY22,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,6,SenJohnMannion,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,6,RepKiley,found,1610356961475809280,Rep. Kevin Kiley,"Proudly representing CA's 3rd district in the U.S. House. Former state legislator, prosecutor, and teacher. Share your thoughts with me at https://t.co/nyDvXbQpXz",2023-01-03T19:28:02.000Z
+2026-11-18T20:11:55-05:00,6,KevinKileyCA,found,3180247177,Kevin Kiley,Independent Congressman from California,2015-04-30T04:51:04.000Z
+2026-11-18T20:11:55-05:00,6,repdinatitus,found,122174004,Dina Titus,Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.,2010-03-11T21:05:31.000Z
+2026-11-18T20:11:55-05:00,6,EmilyRandallWA,found,950534709100011521,Emily Randall,Healthcare champ | 1st-gen college grad | Union family | Democratic for Congresswoman in #WA06 | Posts from the folks at Team Emily unless signed “ER”,2018-01-09T01:08:29.000Z
+2026-11-18T20:11:55-05:00,6,RepAprilDelaney,found,1874580463752196096,Rep. April McClain Delaney,"Delivering common-sense, common-ground solutions for Maryland’s 6th District in Congress. Serving on @HouseAgDems and @ScienceDems. Follow along!",2025-01-01T22:16:59.000Z
+2026-11-18T20:11:55-05:00,6,RepTonyWied,found,1857080132470452224,Rep. Tony Wied,Proudly serving the people of Wisconsin's 8th Congressional District. #WI08 🇺🇸 @HouseAgGOP @TransportGOP @HouseSmallBiz,2024-11-14T15:16:34.000Z
+2026-11-18T20:11:55-05:00,6,TonyWied,found,1729229709630717952,Tony Wied,Husband | Father | America First Businessman | Proudly representing Wisconsin's 8th Congressional District. 🇺🇸 For official updates follow: @RepTonyWied,2023-11-27T20:04:38.000Z
+2026-11-18T20:11:55-05:00,6,RepJames,found,1609056891547668480,Rep. John James,"Representative for the people of Southeast Michigan. Husband, father, son, and grateful servant. Member of @HouseCommerce.",2022-12-31T05:20:43.000Z
+2026-11-18T20:11:55-05:00,6,JohnJamesMI,found,861246117689925633,John James,Faith and Family. God and Country. Service Before Self. Michigan First.,2017-05-07T15:47:30.000Z
+2026-11-18T20:11:55-05:00,6,RepNancyMace,found,1343597700542038017,Rep. Nancy Mace,From Waffle House ➡ The Citadel ➡ US House. Working hard serving South Carolina. #SouthCarolina @GOPoversight @HASCRepublicans 🇺🇸🇺🇸🇺🇸,2020-12-28T16:41:08.000Z
+2026-11-18T20:11:55-05:00,6,NancyMace,found,914815520842616834,Nancy Mace,First woman to graduate from The Citadel. Member of Congress. 🇺🇸,2017-10-02T11:33:11.000Z
+2026-11-18T20:11:55-05:00,6,RepBaumgartner,found,1869814916430888960,Congressman Michael Baumgartner,"Let’s build the future of Eastern Washington 🇺🇸 @JudiciaryGOP, @HouseForeignGOP, @EdWorkforceCmte",2024-12-19T18:40:12.000Z
+2026-11-18T20:11:55-05:00,6,RepJohnnyO,found,1858226214269272064,Rep. Johnny Olszewski,"Proudly representing Maryland’s 2nd Congressional District. Dad, husband, former public school teacher, and county executive. Always @Ravens + @Orioles.",2024-11-17T19:11:22.000Z
+2026-11-18T20:11:55-05:00,6,RepLaMonica,found,1844608219865354246,Rep. LaMonica McIver,Proudly Representing New Jersey’s 10th Congressional District,2024-10-11T05:17:47.000Z
+2026-11-18T20:11:55-05:00,6,LamonicaMciver,found,912822519136161793,LaMonica McIver,Mom| Wife| Congresswoman Representing NJ’s 10th District| Personal Account.,2017-09-26T23:33:42.000Z
+2026-11-18T20:11:55-05:00,6,repdeliaramirez,found,1074354529787895808,Congresswoman Delia C. Ramirez,Congresista proudly serving the diverse IL-03. 🦋I will not concede the power of the people.,2018-12-16T17:24:15.000Z
+2026-11-18T20:11:55-05:00,6,Lancegooden,found,1029094268542099457,Lance Gooden,Congressman from Texas | Husband | Father | America First 🇺🇸,2018-08-13T19:56:08.000Z
+2026-11-18T20:11:55-05:00,6,RepLuttrell,found,1603028043454447621,Congressman Morgan Luttrell,"Proudly representing Texas' 8th Congressional District in the U.S. House of Representatives 🇺🇸@HomelandGOP, @HouseVetAffairs, @HASCRepublicans",2022-12-14T14:04:51.000Z
+2026-11-18T20:11:55-05:00,6,RepMaxwellFrost,found,1608494113174822925,Congressman Maxwell Alejandro Frost,Congressman representing Central Florida / Orlando (FL-10),2022-12-29T16:04:42.000Z
+2026-11-18T20:11:55-05:00,6,MaxwellFrostFL,found,67309671,Maxwell Alejandro Frost,"Congressman, Organizer, Musician, & Floridian. personal account, @repmaxwellfrost for official updates 🤘🏾",2009-08-20T13:11:16.000Z
+2026-11-18T20:11:55-05:00,6,RepAndreCarson,found,199325935,André Carson,"Fighting for Indiana's 7th District. Ranking Member, @TransportDems Aviation Subcommittee. ✈️ Official account.",2010-10-06T15:47:50.000Z
+2026-11-18T20:11:55-05:00,6,RepLouCorrea,found,815985039485837312,Rep. Lou Correa,"Father. Public servant. Member of Congress. Ranking Member, Border Subcommittee on @HomelandDems. Also @HouseJudiciary.",2017-01-02T18:16:08.000Z
+2026-11-18T20:11:55-05:00,6,RepTroyDowning,found,1873876193960763392,Congressman Troy Downing,"Congressman for Montana’s Second District | Husband, Father, fmr. @USAirForce Enlisted Aviator & MT State Auditor | Serving on @FinancialCmte & @NatResources",2024-12-30T23:38:11.000Z
+2026-11-18T20:11:55-05:00,6,TroyDowningMT,found,864935474539974657,Troy Downing,"Christian, Husband, Father, Montanan, Combat Veteran, Congressman (MT02).   Official: @RepTroyDowning Political: @DowningForMT  #USAF #MTPol #MT02",2017-05-17T20:07:41.000Z
+2026-11-18T20:11:55-05:00,6,troydowning,found,31034599,Troy Downing,,2009-04-14T02:33:38.000Z
+2026-11-18T20:11:55-05:00,6,RepJillTokuda,found,1610730477563805699,U.S. Rep. Jill Tokuda,"Proudly representing Hawaiʻi’s 2nd Congressional District. Member of @houseagdems, @hascdemocrats, @usprogressives, & @capac. Leading with aloha🌺",2023-01-04T20:12:46.000Z
+2026-11-18T20:11:55-05:00,6,RepBrandonGill,found,1854919740554190848,Congressman Brandon Gill,Congressman for TX-26 and 119th Congress Class President. 🇺🇸  Proudly fighting on @JudiciaryGOP @GOPoversight @housebudgetGOP @DOGECommittee,2024-11-08T16:11:51.000Z
+2026-11-18T20:11:55-05:00,6,realBrandonGill,found,1481110622079266817,Brandon Gill,"Husband to @MrsDanielleGill, Father to Marigold and Winston. US Congressman from Texas’ 26th Congressional District. Personal account.",2022-01-12T03:48:15.000Z
+2026-11-18T20:11:55-05:00,6,RepJoeCourtney,found,85396297,Rep. Joe Courtney,U.S. Congressman proudly fighting for the residents of Connecticut’s 2nd Congressional District.,2009-10-26T19:45:09.000Z
+2026-11-18T20:11:55-05:00,6,RepRWilliams,found,1077446982,Rep. Roger Williams,"Chairman of @HouseSmallBiz. Conservative fighting for lower taxes, less regulations, and more freedom for Texans. Honored to serve #TX25.",2013-01-10T19:21:22.000Z
+2026-11-18T20:11:55-05:00,6,NormaJTorres,found,236279233,Rep. Norma Torres,U.S. Representative for California's 35th District. @AppropsDems @HouseAdm_Dems,2011-01-10T06:30:14.000Z
+2026-11-18T20:11:55-05:00,6,Norma4Congress,found,2409478435,Norma Torres,"Congresswoman representing the people of Chino, Eastvale, Fontana, Montclair, Ontario, Rancho, Pomona, and Upland. Advocate for working #InlandEmpire families.",2014-03-24T19:45:00.000Z
+2026-11-18T20:11:55-05:00,6,RepGaramendi,found,88806753,John Garamendi,Californian and Congressman for California's 8th Congressional District. Senior member on @hascdemocrats and @transportdems. Ranking Member of Readiness.,2009-11-10T00:31:12.000Z
+2026-11-18T20:11:55-05:00,6,repvanepps,found,1999112199189766144,Rep. Matt Van Epps,Proudly representing Tennessee’s 7th District,2025-12-11T13:41:21.000Z
+2026-11-18T20:11:55-05:00,6,MattForTN,found,1933288636025298945,Matt Van Epps,Husband. Father. Christian. Combat Veteran. America First Patriot. Congressman representing TN-07. Paid for by Matt Van Epps for Congress,2025-06-12T22:22:28.000Z
+2026-11-18T20:11:55-05:00,6,RepDeSaulnier,found,2968007206,Mark DeSaulnier,"Representing CA-10. Member of @transportdems @EdWorkforceDems and House Ethics Committee. Dad, amateur historian, marathon runner & former small business owner.",2015-01-08T15:32:13.000Z
+2026-11-18T20:11:55-05:00,6,RepTeresaLF,found,1345147845926670337,Rep. Teresa Leger Fernández,Working to protect what we love. Mom. Proudly serving New Mexico’s 3rd Congressional District. Chair of the @DemWomenCaucus.,2021-01-01T23:21:40.000Z
+2026-11-18T20:11:55-05:00,6,RepFields,found,1868715744579489792,Congressman Cleo Fields,The Official X Account of Congressman Cleo Fields | Serving Louisiana’s 6th Congressional District,2024-12-16T17:52:48.000Z
+2026-11-18T20:11:55-05:00,6,thejacksonfile,found,149020175,Jonathan L. Jackson,"National Spokesperson for The Rainbow PUSH Coalition, College Professor, Human Rights Activist & Freedom Fighter",2010-05-28T06:01:30.000Z
+2026-11-18T20:11:55-05:00,6,GilCisnerosCA,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,6,RepGilCisneros,found,1080986167003230208,Rep. Gil Cisneros,"Navy Veteran and Representative for California's 31st District. Member of @HASCDemocrats, @HSBCDems @HispanicCaucus, @CAPAC. Ready to serve.",2019-01-04T00:36:00.000Z
+2026-11-18T20:11:55-05:00,6,Rep_Stansbury,found,1404519992582942724,Rep. Melanie Stansbury,"Representing New Mexico’s 1st Congressional District. Fighting for our future. Working every day to build a more just, equitable and resilient world.",2021-06-14T19:25:16.000Z
+2026-11-18T20:11:55-05:00,6,MelanieforNM,found,961359779003121665,Melanie Stansbury,"Congresswoman Repping #NM01, Former State House Rep, Science & Policy Wonk, Chile Enthusiast & Lover of All things New Mexican",2018-02-07T22:03:27.000Z
+2026-11-18T20:11:55-05:00,6,RepJoeWilson,found,254082173,Joe Wilson,Official Twitter account of U.S. Representative Joe Wilson serving #SC02.,2011-02-18T15:18:45.000Z
+2026-11-18T20:11:55-05:00,6,RepWesleyHunt,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,6,WesleyHuntTX,found,1112744620247662592,Wesley Hunt,"Personal Account for Wesley Hunt | Army Veteran, West Point Graduate, Congressman TX-38. (American/Apache Pilot)",2019-04-01T15:52:46.000Z
+2026-11-18T20:11:55-05:00,6,RepBonnie,found,2968451607,Rep. Bonnie Watson Coleman,Proudly serving the people of New Jersey’s 12th Congressional District. Proud #BlackWoman. Member @USProgressives Co-Chair @CBWGCaucus. She/her.,2015-01-08T20:18:16.000Z
+2026-11-18T20:11:55-05:00,6,RepWebster,found,281540744,Daniel Webster,A family man and small-business owner who is dedicated to serving the citizens of Central Florida with honor and integrity.,2011-04-13T13:47:05.000Z
+2026-11-18T20:11:55-05:00,6,RepJerryNadler,found,40302336,Rep. Nadler,Representing the west & east sides of Manhattan.,2009-05-15T18:37:39.000Z
+2026-11-18T20:11:55-05:00,6,RepEricBurlison,found,1606342594765590528,Rep. Eric Burlison,"Father and Congressman Representing Missouri's 7th Congressional District - Member of @GOPoversight, @TransportGOP, & @FreedomCaucus",2022-12-23T17:35:46.000Z
+2026-11-18T20:11:55-05:00,6,EricBurlison,found,17993908,Eric Burlison,"Congressman from Missouri.  #Christian, husband, and father of two girls.  #InvestmentAdvisor #SoftwareEngineer, #Conservative, #2A, #prolife.",2008-12-09T15:59:10.000Z
+2026-11-18T20:11:55-05:00,6,RepCohen,found,162069635,Steve Cohen,Memphis | Member of House Intelligence Committee | Champion for Justice and Civil Rights on Judiciary Committee | House Ranking Member of Helsinki Commission,2010-07-02T15:10:21.000Z
+2026-11-18T20:11:55-05:00,6,RepRussFulcher,found,1078741899572240384,Rep. Russ Fulcher,Lifelong Idahoan | Member of @NatResources & @HouseCommerce | Proudly serving Idaho’s 1st Congressional District #ID01,2018-12-28T19:58:05.000Z
+2026-11-18T20:11:55-05:00,6,RussFulcher,found,172944579,Russ Fulcher,"4th-generation Idahoan, farm kid, father, international businessman, and Congressman Representing Idaho’s 1st CD. #RussForUS",2010-07-31T00:59:35.000Z
+2026-11-18T20:11:55-05:00,6,RepStutzman,found,211901075,Rep. Marlin Stutzman,Representing #IN03,2010-11-04T16:00:16.000Z
+2026-11-18T20:11:55-05:00,6,RepNikema,found,1345461797361504259,Congresswoman Nikema Williams,Mama. Wife. Working for the #FightingFifth 🍑. Member of @FSCDems. #OutLoudOnPurpose for the people. She/Her,2021-01-02T20:08:08.000Z
+2026-11-18T20:11:55-05:00,6,NikemaWilliams,found,36424664,Nikema Williams,Congresswoman #GA05. Mommy to Carter. Wifey to @Smalls58. Chairwoman @GeorgiaDemocrat. #HBCUmade @talladegacolleg. Soror of #AKA1908 She/Her/Congresswoman,2009-04-29T17:56:53.000Z
+2026-11-18T20:11:55-05:00,6,RepBurgessOwens,found,1344481217685692416,Rep. Burgess Owens,Proudly serving Utah's 4th Congressional District. Member of @EdWorkforceCmte & @TransportGOP.,2020-12-31T03:11:25.000Z
+2026-11-18T20:11:55-05:00,6,BurgessOwens,found,779104195,Burgess Owens,Representing #UT04 in Congress  Super Bowl XV Champion,2012-08-24T23:04:57.000Z
+2026-11-18T20:11:55-05:00,6,RepChuyGarcia,found,1082427779583541248,Congressman Chuy García,"Progressive Chicagoan. Congressman for #IL04⁣. Member of @USProgressives, 🚊 @TransportDems.  FB/IG: @RepChuyGarcia",2019-01-08T00:04:27.000Z
+2026-11-18T20:11:55-05:00,6,ChuyForCongress,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,6,RepBoebert,found,1342989756611907584,Rep. Lauren Boebert,Congresswoman for Colorado's 4th District • Co-Chair #2A Caucus • Member of the House @FreedomCaucus • Member of @GOPOversight & @NatResources 🇺🇸,2020-12-27T00:24:52.000Z
+2026-11-18T20:11:55-05:00,6,laurenboebert,found,1201670995435646976,Lauren Boebert,Stay tuned!!,2019-12-03T01:14:36.000Z
+2026-11-18T20:11:55-05:00,6,RepGrothman,found,2976606250,Rep. Glenn Grothman,"Proudly representing #WI06. Chairman, Subcommittee on Health Care and Financial Services on @GOPOversight. @EdWorkforceCmte. @HouseBudgetGOP.",2015-01-13T15:08:48.000Z
+2026-11-18T20:11:55-05:00,6,RepJahanaHayes,found,1082086081238102018,Jahana Hayes,"Mom, Educator, Congresswoman for CT-05 #HayesInTheHouse",2019-01-07T01:26:40.000Z
+2026-11-18T20:11:55-05:00,6,JahanaHayesCT,found,991721030631780354,Jahana Hayes,Democrat US Congress CT05. This is a political/candidate page. For updates on my official work follow me @repjahanahayes,2018-05-02T16:48:13.000Z
+2026-11-18T20:11:55-05:00,6,RepCasar,found,1499512178013057032,Congressman Greg Casar,"Representing #TX35 from East Austin to West San Antonio. Chair of @USProgressives. Labor organizer. Lover of migas and long runs, just not at the same time.",2022-03-03T22:29:49.000Z
+2026-11-18T20:11:55-05:00,6,RepPatFallon,found,1343258042704527362,Rep. Pat Fallon,"Proudly representing the people of Texas' 4th Congressional District in the U.S. House of Representatives. Member: @HASCRepublicans, @HouseIntel, @GOPoversight",2020-12-27T18:11:28.000Z
+2026-11-18T20:11:55-05:00,6,CDMenefee,found,1310932410,Christian D. Menefee,"Congressman, TX-18 | Former Harris County Attorney | Houstonian | Husband & Father | UTSA & WUSTL Law | ΩΨΦ",2013-03-28T15:26:39.000Z
+2026-11-18T20:11:55-05:00,6,RepSylviaGarcia,found,1080587263132733442,Rep. Sylvia Garcia,"Member of Congress, TX-29. Includes Houston, Galena Park, Jacinto City, South Houston & Pasadena. Passionate about public service. Fighting for working people.",2019-01-02T22:10:54.000Z
+2026-11-18T20:11:55-05:00,6,DesJarlaisTN04,found,235312723,Scott DesJarlais,Individual Rights. Small Government. Strong Defense. Representing Tennessee's 4th District in Congress.,2011-01-07T21:47:44.000Z
+2026-11-18T20:11:55-05:00,6,RepBrownley,found,1243902714,Congresswoman Julia Brownley,Fighting #ForThePeople of California's 26th Congressional District,2013-03-05T14:51:28.000Z
+2026-11-18T20:11:55-05:00,6,RepMikeCollins,found,1601030771124408325,Rep. Mike Collins,"Trucking | Pilot | Proudly serving GA-10 | Member of @TransportGOP, @NatResources, & @housescience | Come for the memes, stay for the policy",2022-12-09T01:47:56.000Z
+2026-11-18T20:11:55-05:00,6,MikeCollinsGA,found,1421384162,Mike Collins,"Father, Husband, Trucker, Pilot. Conservative Workhorse running for U.S. Senate in Georgia. Text MIKE to 70622",2013-05-11T19:11:29.000Z
+2026-11-18T20:11:55-05:00,6,RepThomasMassie,found,975200486,Thomas Massie,"U.S. Representative KY4, Engineer, Farmer, Inventor. 30 patents. Appalachian American. MIT SB93 SM96 #sassywithmassie #politicalsciencedenier pronoun: Pappaw",2012-11-28T02:33:14.000Z
+2026-11-18T20:11:55-05:00,6,RepChrisSmith,not_found:Not Found Error,,,,
+2026-11-18T20:11:55-05:00,7,RepLuzRivas,found,1869140751512391681,Congresswoman Luz Rivas,"Official account. Engineer. Educator. Representative for the San Fernando Valley in Congress.  Member: @nrdems, @sciencedems Co-chair: STEM Education Caucus",2024-12-17T22:01:02.000Z
+2026-11-18T20:11:55-05:00,7,LuzRivas,found,15960655,Luz Rivas,Congresswoman #CA29 | Former CA Legislator and Engineer | @MIT alum | I believe in Science | Official @RepLuzRivas,2008-08-23T20:29:04.000Z
+2026-11-18T20:11:55-05:00,7,RepKeithSelf,found,1612430165585416192,Rep. Keith Self,"Proudly serving Texas’ 3rd Congressional District. Christian. Husband. Veteran. Member of @FreedomCaucus, @HouseForeignGOP, @HouseVetAffairs, & @HouseScience",2023-01-09T12:47:15.000Z
+2026-11-18T20:11:55-05:00,7,SelfForCongress,found,1440271846042001412,Keith Self,"Represents Texas Third Congressional District. Lieutenant Colonel, US Army (Ret), 25 years. County Judge, Collin County, 12 years. Christian, husband, veteran",2021-09-21T11:09:55.000Z
+2026-11-18T20:11:55-05:00,7,RepYassAnsari,found,1871623075822772224,Congresswoman Yassamin Ansari,"Official account of Congresswoman Yassamin Ansari, Representative for Arizona’s Third Congressional District.",2024-12-24T18:25:23.000Z
+2026-11-18T20:11:55-05:00,7,yassaminansari,found,174332143,Yassamin Ansari,Youngest woman in Congress & former Phoenix Vice Mayor🌵Serving on @OversightDems+ @NRDems. Proud daughter of immigrants.  Official @RepYassAnsari,2010-08-03T17:38:48.000Z
+2026-11-18T20:11:55-05:00,7,RepDwightEvans,found,90639372,Congressman Dwight Evans,Representing the 3rd Congressional District in PA. Making Ideas Matter since 1980.,2009-11-17T14:25:20.000Z
+2026-11-18T20:11:55-05:00,7,RepHankJohnson,found,24745957,Rep. Hank Johnson,"Father | Husband | Congressman for #GA04 | Ranking Member on @housejudiciary Subcommittee on Courts, IP, AI, & the Internet| Senior Member on @transportdems",2009-03-16T18:52:49.000Z
+2026-11-18T20:11:55-05:00,7,RepLSimon,found,1875918144654467072,Rep. Lateefah Simon,"Congresswoman for California's 12th Congressional District. Member of @oversightdems & @hsbcdems.  Regular updates on Instagram, Bluesky, Facebook @RepLSimon",2025-01-05T14:53:13.000Z
+2026-11-18T20:11:55-05:00,7,lateefahsimon,found,112275757,Lateefah Simon,Mom | Bay Native | Congresswoman CA-12 | Official tweets @RepLSimon | @macfound Fellow | @kamalaharris alum | Tweets are mine.,2010-02-07T22:09:34.000Z
+2026-11-18T20:11:55-05:00,7,RepMarkPocan,found,1206227149,Rep. Mark Pocan,Honored to serve the people of Wisconsin's 2nd District. @EqualityCaucus Co-Chair🏳️‍🌈 @Labor_Caucus Co-Chair✊ @AppropsDems Member He/Him/His,2013-02-21T22:59:04.000Z
+2026-11-18T20:11:55-05:00,7,RepMGS,found,1067541214671577093,Congresswoman Mary Gay Scanlon,Representing Pennsylvania's 5th Congressional District. Member of @HouseJudiciary @RulesDemocrats.,2018-11-27T22:10:34.000Z
+2026-11-18T20:11:55-05:00,7,RepLoisFrankel,found,1077121945,Rep. Lois Frankel,"Working mom and grandmother. Proudly representing Florida's 22nd Congressional District, from West Palm to Boca Raton.",2013-01-10T16:58:38.000Z
+2026-11-18T20:11:55-05:00,7,RepLloydDoggett,found,153944899,Lloyd Doggett,"Representing Austin in Congress. Leading Democrats on the Ways and Means Health Subcommittee. Cyclist, Longhorn, husband to Libby, father, grandfather.",2010-06-09T23:53:50.000Z
+2026-11-18T20:11:55-05:00,7,LloydDoggettTX,found,170111219,Rep. Lloyd Doggett,"U.S. Representative, Running to represent ATX, the only place I've ever called home. #TX37 Onward! #Worksforus",2010-07-23T23:50:04.000Z
+2026-11-18T20:11:55-05:00,7,RepMarkTakano,found,1037321378,Mark Takano,"Proudly Representing California's 39th District. Ranking Member: @VetAffairsDems. Chair: @EqualityCaucus. Member: @EdWorkforceDems, @USProgressives, and @CAPAC.",2012-12-26T14:58:17.000Z
+2026-11-18T20:11:55-05:00,7,Rep_Clyde,found,1357017361568694274,Rep. Andrew Clyde,U.S. Representative for Georgia’s Ninth Congressional District | Navy Combat Veteran | FFL | Small Business Owner | @HouseAppropsGOP & @HouseBudgetGOP,2021-02-03T17:25:52.000Z
+2026-11-18T20:11:55-05:00,7,RepScottPerry,found,18773159,Rep. Scott Perry,"Husband, Father of two amazing daughters, Small Businessman and Soldier. Congressman - 10th District (PA). https://t.co/v065I0REpk",2009-01-08T18:29:58.000Z
+2026-11-18T20:11:55-05:00,7,RepDeborahRoss,found,1348683154815655940,Congresswoman Deborah Ross,Proudly serving #NC02. Former civil rights attorney and NC legislator.  Committees: @HouseJudiciary and @ScienceDems,2021-01-11T17:28:59.000Z
+2026-11-18T20:11:55-05:00,7,DeborahRossNC,found,3806081652,Deborah Ross,"Congresswoman for #NC02. Proud North Carolinian and strong voice for all in our state. Wife to Steve, dog mom to Wylie, and former #NCGA.",2015-10-06T19:02:53.000Z
+2026-11-18T20:11:55-05:00,7,RepSheriBiggs,found,1874221699253616640,Sheri Biggs,In service to South Carolina's Third Congressional District.,2024-12-31T22:31:10.000Z
+2026-11-18T20:11:55-05:00,7,VoteSheriBiggs,found,1745262331251081216,Sheri Biggs,Conservative Republican Proudly Representing South Carolina’s Third Congressional District. President @realDonaldTrump Endorsed. https://t.co/hqm33XwxA0,2024-01-11T01:52:54.000Z
+2026-11-18T20:11:55-05:00,7,RepKweisiMfume,found,1276209702322438148,Kweisi Mfume,"Proudly Representing Maryland's 7th Congressional District. Member of @HouseForeign, @OversightDems, and @theBlackCaucus.",2020-06-25T17:44:54.000Z
+2026-11-18T20:11:55-05:00,7,RepPabloJose,found,1869024914738483200,Rep. Pablo José Hernández,"Congressman for Puerto Rico · Championing economic growth, energy security & equal federal benefits 🇺🇸🇵🇷",2024-12-17T14:20:57.000Z
+2026-11-18T20:11:55-05:00,7,RepRoKhanna,found,816298918468259841,Rep. Ro Khanna,Silicon Valley's CA-17. New economic patriotism & restoring American manufacturing. Medicare for All. Ending endless wars. No PAC $.,2017-01-03T15:03:23.000Z
+2026-11-18T20:11:55-05:00,7,RoKhanna,found,771152516,Ro Khanna,"Economic Patriotism: America's Next New Deal. Medicare for All. Tax Billionaires. No Foreign Wars. Good Jobs, Hometown Wealth. 650 999 9610",2012-08-21T09:10:20.000Z
+2026-11-18T20:11:55-05:00,7,RepJimBaird,found,1086316494450032640,Congressman Jim Baird,Lifelong Hoosier proudly representing the 4th Congressional District.,2019-01-18T17:36:49.000Z
+2026-11-18T20:11:55-05:00,7,ElectJimBaird,found,1684594310136635393,Elect someone else,"visit the link below • he’s too old, too ineffective, and too aligned with The Swamp • no more seat warming!",2023-07-27T16:00:00.000Z
+2026-11-18T20:11:55-05:00,7,NydiaVelazquez,found,164369297,Rep. Nydia Velazquez,Represents New York's 7th Congressional District in the U.S. House of Representatives. Ranking Member of @HSBCDems.,2010-07-08T18:18:20.000Z
+2026-11-18T20:11:55-05:00,7,SenBooker,found,2167097881,Sen. Cory Booker,Proudly serving the people of New Jersey in the U.S. Senate,2013-10-31T19:02:04.000Z
+2026-11-18T20:11:55-05:00,7,CoryBooker,found,15808765,Cory Booker,U.S. Senator from New Jersey.,2008-08-11T14:41:16.000Z
+2026-11-18T20:11:55-05:00,7,RepClayHiggins,found,843636970538618880,Rep. Clay Higgins,Representing #LA03 in the U.S. House of Representatives. Member of @GOPOversight and @HASCRepublicans.,2017-03-20T01:35:02.000Z
+2026-11-18T20:11:55-05:00,7,RepJuanVargas,found,1260172386,Rep. Juan Vargas,"Proudly representing the people of south San Diego County in US Congress. Former CA State Senator, Assembly Member and @SDCityCouncil Member.",2013-03-11T19:04:01.000Z
+2026-11-18T20:11:55-05:00,7,ValerieFoushee,found,1611471154732060692,Congresswoman Valerie Foushee,"U.S. Representative, proudly serving North Carolina's 4th Congressional District.",2023-01-06T21:14:12.000Z
+2026-11-18T20:11:55-05:00,7,FousheeforNC,found,822521744661458944,Foushee for Congress,Lifelong North Carolinian. Mother. Congresswoman from North Carolina’s greatest district - NC04. My focus is your future.,2017-01-20T19:10:40.000Z
+2026-11-18T20:11:55-05:00,7,RepAdams,found,2916086925,"Rep. Alma S. Adams, Ph.D.",Dean of NC Dems representing NC’s 12th District. Educator. Artist. Founder & Co-Chair of the Black Maternal Health @BMHCaucus and the Bipartisan @HBCUCaucus.,2014-12-11T19:54:07.000Z
+2026-11-18T20:11:55-05:00,7,Congressman_JVD,found,1468677099594698757,Congressman Jeff Van Drew,Proudly serving New Jersey's Second Congressional District. Member of @JudiciaryGOP & @TransportGOP,2021-12-08T20:21:30.000Z
+2026-11-18T20:11:55-05:00,7,FettermanLt,found,1169638221480939521,Archived: Lt. Gov. John Fetterman,Archived official page for Pennsylvania Lieutenant Governor John Fetterman.,2019-09-05T15:48:01.000Z
+2026-11-18T20:11:55-05:00,7,JohnFetterman,found,3622368202,John Fetterman,"Dad, husband, U.S. Senator for the Commonwealth of Pennsylvania. For official updates, follow @SenFettermanPA 🇺🇸",2015-09-11T16:59:11.000Z
+2026-11-18T20:11:55-05:00,7,RepDaveTaylor,found,1874925648449355776,Representative Dave Taylor,Conservative proudly representing #OH02 | Small business owner | Attorney | Serving on @TransportGOP & @HouseAgGOP,2025-01-02T21:09:31.000Z
+2026-11-18T20:11:55-05:00,7,davetaylorOH,found,1735001342450552832,Dave Taylor,Father. Husband. Businessman. Congressman | Ohio’s 2nd Congressional District.,2023-12-13T18:19:10.000Z
+2026-11-18T20:11:55-05:00,7,RepCloudTX,not_found:Forbidden,,,,
+2026-11-18T20:11:55-05:00,7,RepSaraJacobs,found,1345103905869455361,Congresswoman Sara Jacobs,Proud to represent San Diego and a new generation of leaders in Congress.,2021-01-01T20:26:39.000Z
+2026-11-18T20:11:55-05:00,7,RepOgles,found,1603110823014141952,Rep. Andy Ogles,"Representing Tennessee's 5th Congressional District  | Believer | Patriot | Conservative | Father | Friend | @FinancialCmte, @HomelandGOP, & @FreedomCaucus",2022-12-14T19:33:17.000Z
+2026-11-18T20:11:55-05:00,7,AndyOgles,found,48375550,Congressman Andy Ogles,Congressman TN-5 Campaign Account | #Believer | #Patriot | #Conservative | Husband | Father | Friend | Talk Radio Host,2009-06-18T15:03:17.000Z
+2026-11-18T20:11:55-05:00,7,RepClayFuller,found,2044823073799524352,Congressman Clay Fuller,"Congressman for GA-14 representing the hardworking people of Northwest Georgia. Christian, husband, father, Air Force veteran, America First Patriot.",2026-04-16T17:00:16.000Z
+2026-11-18T20:11:55-05:00,7,Clay4MainStreet,found,1218212301259640832,Clay Fuller,Congressman for Georgia’s 14th District. Trump Endorsed. Veteran Fighting for Mainstreet. Opinions are my own.,2020-01-17T16:43:51.000Z
+2026-11-18T20:11:55-05:00,7,RepShreve,found,1868781678954450944,Congressman Jefferson Shreve,Proud Hoosier & Congressman for Indiana's 6th District,2024-12-16T22:14:55.000Z
+2026-11-18T20:11:55-05:00,7,JeffersonShreve,found,1246163954,Jefferson Shreve,Congressman for Indiana’s 6th District,2013-03-06T13:57:29.000Z
+2026-11-18T20:11:55-05:00,7,RepSummerLee,found,999285287812558848,Rep. Summer Lee,Representing Pennsylvania's 12th Congressional District. Member of @HouseJudiciary and @EdWorkforceDems.,2018-05-23T13:45:53.000Z
+2026-11-18T20:11:55-05:00,7,SummerForPA,found,917389190328877056,Summer Lee,HBCU alum. Congresswoman representing #PA12. She/her #AllPowerToThePeople,2017-10-09T14:00:02.000Z
+2026-11-18T20:11:55-05:00,7,RepDannyDavis,found,789244177,Rep. Danny K. Davis,“The People’s Congressman” US House Representative for Illinois' 7th District. Serving on the 119th Congress Committee on Ways and Means.,2012-08-29T12:31:09.000Z
+2026-11-18T20:11:55-05:00,7,SpeakerPelosi,found,15764644,Nancy Pelosi,"Representative for CA-11, fighting for the people of San Francisco. 52nd Speaker of the House. Wife, mother, grandmother, dark chocolate connoisseur.",2008-08-07T15:35:02.000Z
+2026-11-18T20:11:55-05:00,7,RepMcClintock,found,50152441,Tom McClintock,Honored to serve the people of California’s 5th Congressional District. Member of @JudiciaryGOP @NatResources & @housebudgetGOP,2009-06-24T00:21:07.000Z
+2026-11-18T20:11:55-05:00,7,RepStephenLynch,found,310310133,Rep. Stephen F. Lynch,Official account. Proudly serving the 8th Congressional District of Massachusetts.,2011-06-03T14:48:36.000Z
+2026-11-18T20:11:55-05:00,7,RepTiffany,found,1267841066335682562,Rep. Tom Tiffany,"Official account of Congressman Tom Tiffany | 7th District of Wisconsin #WI07 | Father, Former Dam Tender | @JudiciaryGOP and @NatResources",2020-06-02T15:30:54.000Z
+2026-11-18T20:11:55-05:00,7,SenTomTiffany,found,817387868465299457,Senator Tom Tiffany,"State Senator from the 12th Senate District, representing Wisconsin's Northwoods.",2017-01-06T15:10:28.000Z
+2026-11-18T20:11:55-05:00,7,TomTiffanyWI,found,3389296557,Tom Tiffany,Running for Wisconsin Governor. Husband. Girl Dad. Dam Tender. Putting Wisconsinites FIRST.,2015-07-23T14:59:27.000Z
+2026-11-18T20:11:55-05:00,7,RepRalphNorman,found,880480631108644864,Rep. Ralph Norman,Proudly serving the 5th congressional district of South Carolina 🍑 - Chairman @House_COS,2017-06-29T17:38:35.000Z
+2026-11-18T20:11:55-05:00,7,RepGLatimer,found,1863611233230024704,Rep. George Latimer,Congressman for New York's 16th Congressional District - proudly representing Westchester and Bronx Counties.,2024-12-02T15:49:29.000Z
+2026-11-18T20:11:55-05:00,7,Analilia_Mejia,found,2269654426,Analilia Mejia,"Organizer. Mom. Jersey girl. Fighting for working families, fair democracy & a future where every kid gets a real shot. Unbossed, unbought & unapologetically NJ",2014-01-08T22:10:14.000Z
+2026-11-18T20:11:55-05:00,7,RepBobOnder,found,1872324445055987712,Bob Onder,"Proudly serving Missouri’s 3rd Congressional District | Member of @JudiciaryGop, @TransportGOP, and @EdWorkforceCmte | MD, JD. | Husband and father of six.",2024-12-26T16:52:35.000Z
+2026-11-18T20:11:55-05:00,7,BobOnderMO,found,1604949372,Dr. Bob Onder,"Republican Congressman for #MO03. Former State Senator. MD, JD. Husband & Dad of 6. Endorsed by President Trump. 🇺🇸",2013-07-19T03:36:29.000Z
+2026-11-18T20:11:55-05:00,7,RepWilson,found,234014087,Rep. Frederica Wilson,Serving FL-24 in Congress. Ranking Member of Water & Environment. Founder of @5000rolemodels. Founder/Chair of bipartisan U.S. @CSSBMB_ & Florida Ports Caucus.,2011-01-04T17:08:09.000Z
+2026-11-18T20:11:55-05:00,7,RepSpartz,found,1344845201479663621,Rep. Victoria Spartz,Representing Indiana’s 5th Congressional District,2021-01-01T03:19:03.000Z
+2026-11-18T20:11:55-05:00,7,RepLoudermilk,found,2914163523,Rep. Barry Loudermilk,"Representing Georgia's 11th Congressional District, which includes all of Bartow, Gordon, and Pickens counties and portions of Cherokee and Cobb.",2014-12-10T18:53:17.000Z
+2026-11-18T20:11:55-05:00,7,RepJayapal,found,815733290955112448,Rep. Pramila Jayapal,"Congresswoman, lifelong organizer, mom. Proudly serving WA-7.  Chair Emerita @USProgressives. Member @HouseJudiciary, @HouseForeign, @HouseBudgetDems. She/her.",2017-01-02T01:35:46.000Z
+2026-11-18T20:11:55-05:00,7,SenatorBennet,found,224285242,Michael Bennet,U.S. Senator for Colorado,2010-12-08T16:29:29.000Z
+2026-11-18T20:11:55-05:00,7,MichaelBennet,found,45645232,Michael Bennet,"Girl dad fighting for the next generation. Current Senator, former school superintendent.",2009-06-08T19:21:51.000Z
+2026-11-18T20:11:55-05:00,7,RepAbeHamadeh,found,1849952301290504193,Office of Congressman Abe Hamadeh,"Office of Congressman Abe Hamadeh, proudly serving Arizona’s 8th Congressional District 🇺🇸",2024-10-25T23:13:08.000Z
+2026-11-18T20:11:55-05:00,7,AbrahamHamadeh,found,18458934,Abe Hamadeh,Congressman for Arizona’s 8th Congressional District • Happy Warrior! 💪🇺🇸  Official Account: @RepAbeHamadeh,2008-12-29T20:34:35.000Z
+2026-11-18T20:11:55-05:00,7,RepFriedmanCA,found,1618683941464195072,Rep. Laura Friedman,"Member of Congress representing California's 30th District. Pool shark. Pro: bikes, trains, housing, healthcare access & induction stoves!",2023-01-26T18:58:21.000Z
+2026-11-18T20:11:55-05:00,7,laurafriedman43,found,1789955472390234112,Marsbahis Güncel Adres Takip Platformu,"Marsbahis güncel adres takip platformu bu hesapta durur. Takip yenilenince ilk not buradan paylaşılır, resmi satır takipte kalır ve kanal açık durur.",2024-05-13T09:46:55.000Z
+2026-11-18T20:11:55-05:00,7,RepMarkHarrisNC,found,1874178374664323072,Rep. Mark Harris,"Husband, grandfather, pastor, proudly serving North Carolina’s 8th Congressional District. Member of @HouseAgGop, @JudiciaryGOP, and @EdWorkforceCmte.",2024-12-31T19:38:58.000Z
+2026-11-18T20:11:55-05:00,7,markharrisnc9,found,776295704,Natobet Rehberi - Güncel Bilgiler ve Platform,"Natobet dünyasındaki yenilikleri, platform duyurularını ve merak edilen detayları keşfedin. Natobet hakkında hazırlanan bilgilendirici içeriklerle güncel gelişm",2012-08-23T16:25:28.000Z
+2026-11-18T20:11:55-05:00,7,RepGosar,found,240760644,"Rep. Paul Gosar, DDS",Representing AZ’s 9th District,2011-01-20T17:44:27.000Z
+2026-11-18T20:11:55-05:00,7,DrPaulGosar,found,872148729184362497,Paul Gosar,Personal twitter. Congressman for AZ’s 9th District. Constitutional Conservative. 🇺🇸,2017-06-06T17:50:35.000Z
+2026-11-18T20:11:55-05:00,7,RepShriThanedar,found,1610719275265802253,Congressman Shri Thanedar,"Proud Detroiter, Father, Grandfather, Scientist, Author and Congressman representing Michigan’s 13th District. #MI13",2023-01-04T19:31:18.000Z
+2026-11-18T20:11:55-05:00,7,ShriThanedar,found,2965326656,Shri Thanedar,U.S. Congressman from Michigan's 13th District. Fighting for Michigan. Fighting for #MI13. Official Congressional account: @repshrithanedar,2015-01-08T06:49:13.000Z
+2026-11-18T20:11:55-05:00,7,RepMaryMiller,found,1343656635907125250,Rep. Mary Miller,"Official account for Congresswoman Mary Miller. Proudly serving the 15th District of Illinois. @HouseAgGOP, @EdWorkforceCmte, @HouseAdmin & @FreedomCaucus",2020-12-28T20:35:13.000Z
+2026-11-18T20:11:55-05:00,7,chelliepingree,found,14984637,Congresswoman Chellie Pingree,Organic Farmer 👩‍🌾 Maine islander 🌊 @AppropsDems Interior Ranking Member and member of @HouseAgDems.,2008-06-02T20:29:56.000Z
+2026-11-18T20:11:55-05:00,7,RepEliCrane,found,1608891205902794753,Rep. Eli Crane,"Former Navy SEAL 🇺🇸 Proudly serving Arizona's 2nd Congressional District in Congress. @GOPoversight, @HomelandGOP & @FreedomCaucus",2022-12-30T18:30:38.000Z
+2026-11-18T20:11:55-05:00,7,EliCrane_CEO,found,1006602338935508992,Eli Crane,"Believer, Husband, Father, and Former Navy SEAL. Proudly serving Arizona's 2nd Congressional District in Congress 🇺🇸 @EliCraneAZ",2018-06-12T18:21:14.000Z
+2026-11-18T20:11:55-05:00,7,SenRonJohnson,found,233737858,Senator Ron Johnson,Proud to serve Wisconsin in the U.S. Senate.,2011-01-04T00:25:27.000Z
+2026-11-18T20:11:55-05:00,7,RepLuna,found,1610230835289923584,Rep. Anna Paulina Luna,Official account for FL-13 Rep. Anna Paulina Luna 🇺🇸 | Serving on @GOPOversight & @HouseForeignGOP | Wife-Mom-USAF Veteran | https://t.co/6aOUUOfVjw,2023-01-03T11:05:32.000Z
+2026-11-18T20:11:55-05:00,7,realannapaulina,found,913308968809672705,Anna Paulina Luna,Personal Account for Congresswoman Luna ⚖️ Mom• WIFE • USAF Veteran,2017-09-28T07:46:41.000Z
+2026-11-18T20:11:55-05:00,7,VoteAPL,found,1386669755654934531,Anna Paulina Luna,Congresswoman Luna re-election page ⚖️ Mom • Wife • USAF veteran  Donate Below 👇🏼 https://t.co/ms8m73HQVa,2021-04-26T13:13:44.000Z
+2026-11-18T20:11:55-05:00,7,J_Gallagher4CA,found,512044262,James Gallagher,Husband & Father. Representative for California's 1st District. Republican.,2012-03-02T15:03:10.000Z
+2026-11-18T20:11:55-05:00,7,Ilhan,found,1082334352711790593,Rep. Ilhan Omar,Representing Minnesota's 5th District in the People's House. @USProgressives Deputy Chair. Account managed by staff.,2019-01-07T17:53:13.000Z
+2026-11-18T20:11:55-05:00,7,IlhanMN,found,783792992,Ilhan Omar,"Mom, Refugee and Congresswoman for #MN05. Progressive Caucus Deputy Chair. Fighting for a more just world.✨ https://t.co/u6aQiJB0hs 📚",2012-08-27T04:21:41.000Z
+2026-11-18T20:11:55-05:00,7,RepAlGreen,found,156333623,U.S. Representative Al Green,Proud to represent TX-09 in the U.S. House of Representatives • https://t.co/sFu9YxPkEK • https://t.co/Wy01PfnUOY #First58 #Historic66 #Noble95,2010-06-16T17:20:23.000Z
+2026-11-18T20:11:55-05:00,7,RepAndyBiggsAZ,found,816652616625168388,Rep Andy Biggs,Representing Arizona's Fighting Fifth. Member of the @JudiciaryGOP and @GOPoversight committees.,2017-01-04T14:28:51.000Z
+2026-11-18T20:11:55-05:00,7,andybiggs4az,found,702601370344402944,Andy Biggs,"Republican Nominee for Governor of Arizona.  Lt. Gov Nominee: @SineKerr Strong, steady leadership for all of Arizona.",2016-02-24T21:09:55.000Z
+2026-11-18T20:11:55-05:00,7,RepJohnRose,found,1081312310059253763,Congressman John Rose,Conservative U.S. Rep. serving Tennessee’s Sixth Congressional District. Proud husband to Chelsea and father to Guy and Sam. @HouseAgGOP & @FinancialCmte Member,2019-01-04T22:11:59.000Z
+2026-11-18T20:11:55-05:00,7,evertonblairjr,found,233266124,"Everton Blair, Jr.","US Congressman proudly representing GA’s 13th District. For congressional updates, visit @RepEvertonBlair",2011-01-02T19:48:42.000Z
+2026-11-18T20:11:55-05:00,7,KellyMorrisonMN,found,1863695408653889536,Kelly Morrison,Doctor | Mom | MN Sports Enthusiast  Representing Minnesota’s Third District in Congress,2024-12-02T21:23:26.000Z
+2026-11-18T20:11:55-05:00,7,Morrison4MN,found,988135719951626240,Kelly Morrison,Congresswoman for MN-03. Mom. Physician. Former Minnesota state Senator. 6th generation Minnesotan. Prepared and paid for by Morrison for Congress.,2018-04-22T19:21:29.000Z
+2026-11-18T20:11:55-05:00,7,RepPressley,found,1080584229510172678,Congresswoman Ayanna Pressley,Proudly serving the Massachusetts 7th. @FSCDems & @OversightDems Member. She/Her.,2019-01-02T21:58:51.000Z
+2026-11-18T20:11:55-05:00,7,AyannaPressley,found,31013444,Ayanna Pressley,Your Congresswoman. Proudly representing the MA 7th. Here to break concrete ceilings & shake the table. Personal account. She/hers. #ChangeCantWait,2009-04-14T01:06:07.000Z
+2026-11-18T20:11:55-05:00,7,RepTimBurchett,found,1028854804087492613,Rep. Tim Burchett Press Office,Official Press Office of U.S. Rep. Tim Burchett (TN-02). Proudly serving on @GOPoversight @HouseForeignGOP & @transportGOP.,2018-08-13T04:04:35.000Z
+2026-11-18T20:11:55-05:00,8,timburchett,found,353890966,Tim Burchett,Husband and Father. Representing #TN02 in Congress. Former mayor and state legislator. Honorary Duck Master. Fiscally Conservative Republican.,2011-08-12T20:08:19.000Z
+2026-11-18T20:11:55-05:00,8,RepKimKingHinds,found,1876313243049754624,Kimberlyn King-Hinds,Representative of the Northern Mariana Islands in Congress.,2025-01-06T17:03:59.000Z
+2026-11-18T20:11:55-05:00,8,RepRashida,found,1079769536730140672,Congresswoman Rashida Tlaib,Unapologetic Congresswoman fighting for justice for all. Proudly representing Michigan’s 12th District in the People’s House.,2018-12-31T16:01:33.000Z
+2026-11-18T20:11:55-05:00,8,RashidaTlaib,found,435331179,Rashida Tlaib,"Unbossed Congresswoman. Detroiter, Palestinian American, Muslima. #RootedInCommunity",2011-12-12T23:07:37.000Z
+2026-11-18T20:11:55-05:00,8,RepBrecheen,found,1603032402942730248,Congressman Josh Brecheen,Christian | Husband | Father | Fourth-Generation Rancher | Representing Oklahoma’s 2nd District @housebudgetGOP @HomelandGOP @freedomcaucus @HouseGOP,2022-12-14T14:21:42.000Z
+2026-11-18T20:11:55-05:00,8,RepAOC,found,1079104563280527364,Rep. Alexandria Ocasio-Cortez,This account is maintained by federal staff to share services and legislation relevant to constituents of NY-14.,2018-12-29T19:59:11.000Z
+2026-11-18T20:11:55-05:00,8,AOC,found,138203134,Alexandria Ocasio-Cortez,"US Congresswoman, NY-14. In a modern, moral, and wealthy society, no American should be too poor to live. People-Funded, takes no lobbyist💰. Personal account.",2010-04-28T22:38:40.000Z
+2026-11-18T20:11:55-05:00,8,SenWarren,found,970207298,Elizabeth Warren,"U.S. Senator, Massachusetts. She/her/hers. Official Senate account.",2012-11-25T15:14:27.000Z
+2026-11-18T20:11:55-05:00,8,ewarren,found,357606935,Elizabeth Warren,"U.S. Senator, former teacher. Wife, mom (Amelia, Alex, Bailey, CFPB), grandmother, and Okie. She/her. Official campaign account.",2011-08-18T16:43:48.000Z
+2026-11-18T20:11:55-05:00,8,SenSanders,found,29442313,Sen. Bernie Sanders,"Sen. Sanders of Vermont, Ranking Member of U.S. Senate Committee on Health, Education, Labor & Pensions, longest-serving independent in congressional history.",2009-04-07T13:02:35.000Z
+2026-11-18T20:11:55-05:00,8,BernieSanders,found,216776631,Bernie Sanders,"U.S. Senator for Vermont. Not me, us.",2010-11-17T17:53:52.000Z
+2026-11-18T20:11:55-05:00,8,RepAmata,found,3026622545,Rep. Aumua Amata🇦🇸,Congresswoman proudly representing American Samoa. Serving on the @NatResources and @HouseVetAffairs,2015-02-09T16:00:36.000Z
+2026-11-18T20:11:55-05:00,8,amata96799,found,19447958,Aumua Amata,,2009-01-24T14:32:43.000Z
+2026-11-18T20:11:55-05:00,8,aishabbwahab,found,740358285287526400,Dr. Aisha Wahab 愛莎華,U.S Congressmember | 1st Afghan American Woman Elected to Public Office in the U.S. | Fmr. CA State Senator & Hayward Council Member. RT=/=Support,2016-06-08T01:42:25.000Z
+2026-11-18T20:11:55-05:00,8,EleanorNorton,found,23600262,Eleanor #DCStatehood Holmes Norton,"Member of Congress, representing the District of Columbia.",2009-03-10T14:47:46.000Z
+2026-11-18T20:11:55-05:00,8,JMoylanforGuam,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,WhipKClark,found,2293131060,Katherine Clark,"Democratic Whip of the U.S. House of Representatives. Proudly representing the people of #MA5. Defender of women, kids & justice. She/Her",2014-01-15T18:53:47.000Z
+2026-11-18T20:12:30-05:00,9,KatherineClark,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,SenJimBanks,found,1625239870166691845,Jim,,2023-02-13T21:06:04.000Z
+2026-11-18T20:12:30-05:00,9,Jim_Banks,found,14836282,Jim Banks,Husband and Father. Conservative. Afghanistan veteran. U.S. Senator for the great state of Indiana!,2008-05-19T18:42:34.000Z
+2026-11-18T20:12:30-05:00,9,SenatorBanks,found,816131319033950208,Senator Jim Banks,Father. Husband. Afghanistan Navy Veteran. U.S. Senator for Indiana. 🇺🇸,2017-01-03T03:57:24.000Z
+2026-11-18T20:12:30-05:00,9,SenJohnCurtis,found,931614483050414080,Senator John Curtis,United States Senator proudly serving Utah.,2017-11-17T20:06:16.000Z
+2026-11-18T20:12:30-05:00,9,JohnCurtisUT,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,senatorcurtis,found,274872387,NJ Curtis,This is Nicholas Curtis. Here is my political science account. I discuss current events and politics.,2011-03-31T05:34:51.000Z
+2026-11-18T20:12:30-05:00,9,RepJohnMannion,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,Johnmannion,found,2059213855838887936,John Mannion,,2026-05-26T10:07:45.000Z
+2026-11-18T20:12:30-05:00,9,MannionForNY,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,DarlineGraham,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,SenDarGraham,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,RepChrisSmithNJ,not_found:Forbidden,,,,
+2026-11-18T20:12:30-05:00,9,RepSmithNJ,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,ChrisSmithNJ,found,2508425863,Chris Smith - not,"New Jersey's 4th Congressional District. Parody account. (R, NJ)",2014-05-19T20:49:55.000Z
+2026-11-18T20:12:30-05:00,9,RepMichaelCloud,found,1039879658400112640,Rep. Michael Cloud,"America-First Representative for the people of the 27th Congressional District of Texas. Serving on @HouseAppropsGOP, @GOPOversight",2018-09-12T14:13:25.000Z
+2026-11-18T20:12:30-05:00,9,MichaelCloudTX,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,RepCloud,found,3445896711,Rep Cloud,,2015-08-26T10:22:11.000Z
+2026-11-18T20:12:30-05:00,9,RepMoylan,found,1603050607367028736,Rep. James Moylan,"Father, veteran, former senator, and now proudly representing Guam in the 119th United States Congress",2022-12-14T15:34:19.000Z
+2026-11-18T20:12:30-05:00,9,JimMoylan,found,16387811,JimMoylan,One of Australia most widely ignored cultural commentators,2008-09-21T05:08:54.000Z
+2026-11-18T20:12:30-05:00,9,SenArmstrongOK,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,alanarmstrong,found,20175877,Alan Armstrong,Artist and curator based in Nottingham & Lincoln. @Lincolnartprog & @Mistaken_presence,2009-02-05T19:11:21.000Z
+2026-11-18T20:12:30-05:00,9,SenArmstrong,found,2036489677956587523,Alan Armstrong,US Senator for Oklahoma | 3rd Generation Oklahoman,2026-03-24T17:05:59.000Z
+2026-11-18T20:12:30-05:00,9,ArmstrongOK,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,RepMikeLevin,found,1072134139560620033,Rep. Mike Levin,"Proud husband/dad, SoCal native, clean energy advocate, environmental attorney, Stanford/Duke alum. U.S. Representative for CA-49. Official account.",2018-12-10T14:21:12.000Z
+2026-11-18T20:12:30-05:00,9,SenSlotkin,not_found:Forbidden,,,,
+2026-11-18T20:12:30-05:00,9,SenGallegoAZ,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,SenRubenGallego,found,2966570782,Senator Ruben Gallego,Proud United States Senator from Arizona. Husband. Father. Veteran.,2015-01-07T19:31:08.000Z
+2026-11-18T20:12:30-05:00,9,RepRuizMD,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,SenWelch,not_found:Not Found Error,,,,
+2026-11-18T20:12:30-05:00,9,SenPeterWelch,found,1410590874,Senator Peter Welch,U.S. Senator proudly serving all Vermonters. ⛰️ Husband to Margaret. Hiking and skiing when I can.,2013-05-07T16:10:47.000Z
+2026-11-18T20:12:30-05:00,9,RepChuckEdwards,found,1602748099792879616,Congressman Chuck Edwards,Proudly Representing the people of NC-11 | Fixing how Washington works 🔧 | @HouseAppropsGOP @HouseBudgetGOP | social media policy: https://t.co/GbGiMaBoCk,2022-12-13T19:36:07.000Z
+2026-11-18T20:12:30-05:00,9,SenGrahamSC,not_found:Not Found Error,,,,

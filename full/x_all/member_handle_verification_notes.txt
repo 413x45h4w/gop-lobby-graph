@@ -1,0 +1,1 @@
+2026-11-18T20:10:49-05:00,note,batch 0 rows logged at first pass were all 'not_found:missing' due to a parser bug (truncated write_to_file view); superseded by the re-parse rows that follow; use latest checked_at per handle

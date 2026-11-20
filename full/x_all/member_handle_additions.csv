@@ -1,0 +1,19 @@
+added_at_ET,bioguide,member,handle,x_user_id,evidence,accepted,reason
+2026-11-18T20:14:00-05:00,C001101,Katherine M. Clark,WhipKClark,2293131060,"profile: 'Democratic Whip of the U.S. House of Representatives ... representing the people of #MA5'",1,profile name+role match
+2026-11-18T20:14:00-05:00,B001299,Jim Banks,Jim_Banks,14836282,"profile: 'U.S. Senator for the great state of Indiana!'",1,profile name+role match
+2026-11-18T20:14:00-05:00,B001299,Jim Banks,SenatorBanks,816131319033950208,"profile: 'Senator Jim Banks ... U.S. Senator for Indiana'",1,profile name+role match
+2026-11-18T20:14:00-05:00,B001299,Jim Banks,SenJimBanks,1625239870166691845,"profile name 'Jim', empty bio",0,unverifiable (no role/name evidence)
+2026-11-18T20:14:00-05:00,C001114,John R. Curtis,SenJohnCurtis,931614483050414080,"profile: 'Senator John Curtis, United States Senator proudly serving Utah'",1,profile name+role match
+2026-11-18T20:14:00-05:00,C001114,John R. Curtis,senatorcurtis,274872387,"profile: 'This is Nicholas Curtis'",0,different person
+2026-11-18T20:14:00-05:00,C001115,Michael Cloud,RepMichaelCloud,1039879658400112640,"profile: 'Representative for ... 27th Congressional District of Texas'",1,profile name+role match
+2026-11-18T20:14:00-05:00,C001115,Michael Cloud,RepCloud,3445896711,"profile 'Rep Cloud', empty bio",0,unverifiable
+2026-11-18T20:14:00-05:00,M001219,James C. Moylan,RepMoylan,1603050607367028736,"profile: 'Rep. James Moylan ... representing Guam in the 119th United States Congress'",1,profile name+role match
+2026-11-18T20:14:00-05:00,M001219,James C. Moylan,JimMoylan,16387811,"profile: Australian cultural commentator",0,different person
+2026-11-18T20:14:00-05:00,A000383,Alan Armstrong,SenArmstrong,2036489677956587523,"profile: 'Alan Armstrong, US Senator for Oklahoma'",1,profile name+role match
+2026-11-18T20:14:00-05:00,A000383,Alan Armstrong,alanarmstrong,20175877,"profile: artist and curator in Nottingham",0,different person
+2026-11-18T20:14:00-05:00,M001231,John W. Mannion,Johnmannion,2059213855838887936,"profile 'John Mannion', empty bio, created 2026-05",0,unverifiable
+2026-11-18T20:14:00-05:00,S000522,Christopher H. Smith,ChrisSmithNJ,2508425863,"profile: 'Parody account'",0,parody
+2026-11-18T20:14:00-05:00,L000593,Mike Levin,RepMikeLevin,1072134139560620033,"profile: 'U.S. Representative for CA-49. Official account.'",1,replaces dead wikidata MikeLevinCA
+2026-11-18T20:14:00-05:00,G000574,Ruben Gallego,SenRubenGallego,2966570782,"profile: 'Proud United States Senator from Arizona'",1,official yaml handle RepRubenGallego dead
+2026-11-18T20:14:00-05:00,W000800,Peter Welch,SenPeterWelch,1410590874,"profile: 'U.S. Senator proudly serving all Vermonters'",1,official yaml handle PeterWelch dead
+2026-11-18T20:14:00-05:00,E000246,Chuck Edwards,RepChuckEdwards,1602748099792879616,"profile: 'Proudly Representing the people of NC-11'",1,official yaml handle RepEdwards dead
