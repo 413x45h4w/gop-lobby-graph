@@ -1,0 +1,1 @@
+{"title": "error", "detail": "X's search_posts_all needs query, so this call was not sent to X and used no X read. It accepts end_time, expansions, max_results, media.fields, next_token, pagination_token, place.fields, poll.fields, post.fields, query, since_id, sort_order, start_time, until_id, user.fields (required: query). Fix"}

@@ -1,0 +1,65 @@
+2093756010011717924|121859|accept|shoutout|"great meeting with Matt Forck, Ameren's VP of Federal Affairs" at Callaway Energy Center; LD-2 confirms AMEREN SERVICES; text (video not reviewed)
+1864396477843321172|17444|accept|photo_together|joined @mnmed forum "with Todd Askew of the @AmerMedicalAssn"; LD-2 confirms AMERICAN MEDICAL ASSOCIATION; text + photo (posted as member-elect)
+1851372751145103711|63883|accept|photo_together|Kenworth Chillicothe tour, "special thank you to ... Paul Feenstra"; LD-2 confirms PACCAR INC (Kenworth parent); text + photo
+2070152919312187669|152159|accept|photo_mention_unclear|thanks industry panelists incl. "Mike Carr from @sema_coalition"; LD-2 confirms Mission Strategies client SOLAR ENERGY MANUFACTURERS FOR AMERICA COALITION; photos not reviewed for faces
+1850244635056283739|60075|accept|shoutout|"knocking doors ... with former Congressman Dennis Cardoza" (campaign, pre-membership); LDA covered position Member of Congress 2003-2012 confirms identity; text (video not reviewed)
+1656290062538010624|46310|accept|photo_mention_unclear|congratulates Jameel Aalim-Johnson on Revenue Authority Board, cites "experience with Nasdaq"; LD-2 confirms NASDAQ in-house; posted as County Executive (pre-Senate)
+1973441782127218759|148935|accept|not_relationship|political commentary defending Roger Stone (same person, registered via Drake Ventures); no relationship evidence
+1921350314097098850|148935|accept|not_relationship|hostile commentary about Roger Stone; no relationship
+1863951085683331495|148935|accept|not_relationship|commentary listing Trump pardons; pre-lobbying era
+1671367427592994819|148935|accept|not_relationship|commentary reply; pre-lobbying era
+1671366709536595969|148935|accept|not_relationship|commentary reply; pre-lobbying era
+1671363740850089986|148935|accept|not_relationship|commentary reply; pre-lobbying era
+1671259965733085186|148935|accept|not_relationship|commentary reply; pre-lobbying era
+1671258894092435458|148935|accept|not_relationship|commentary; pre-lobbying era
+1671257593296060421|148935|accept|not_relationship|commentary; pre-lobbying era
+1797769685225935176|148935|accept|not_relationship|commentary on Stone pardon; pre-lobbying era
+1671223731497074695|148935|accept|not_relationship|commentary on Stone taxes; pre-lobbying era
+1752736027754586141|138107|reject||namesake: Chris Evans of the @ASP team; lobbyist is RELX in-house (Christine Evans)
+2038716544184725770|71287|reject||namesake: David Pearce is UCM GR director; lobbyist is APCIA in-house
+1803835895256355146|92875|reject||namesake: comedy host "Sylvester Joe Britton"; lobbyist is Pioneer Public Affairs (ex-Heinrich CoS)
+1964373296973013133|117045|reject||namesake: Jen Fox is Spiral Brewery owner / MN House 41B candidate; lobbyist is FINSECA in-house
+1850259702271361131|117045|reject||namesake: Jen Fox, MN House 41B candidate
+1843070559703482780|117045|reject||namesake: Jen Fox, MN House candidate
+2111497216976179261|117045|reject||namesake: Jen Fox, MN House candidate
+1840108683834884165|117045|reject||namesake: Jen Fox, MN House 41B candidate
+1831842494189089200|117045|reject||namesake: Jen Fox, MN House 41B candidate
+1828976081497395609|117045|reject||namesake: Jen Fox, MN House 41B candidate
+1823116687538888953|117045|reject||namesake: Jen Fox, MN House 41B candidate
+2111891366779224330|117045|reject||namesake: Jen Fox, MN House 41B candidate
+1848143934192763006|61966|reject||namesake: Oregon State Rep. John Lively; lobbyist is AT&T in-house
+1838317750483325403|61966|reject||namesake: Oregon State Rep. John Lively
+1843490471156560155|61966|reject||namesake: Oregon State Rep. John Lively
+1843301187484799294|147400|reject||namesake: Michael Henry, NY Attorney General candidate; lobbyist is Acorn Consulting
+2112943504691257561|148347|reject||namesake: Thomas West, Ohio State Senate candidate; lobbyist is Capitol Tax Partners
+2110118897919619508|148347|reject||namesake: Thomas West, Ohio State Senate candidate
+1794210087915131200|62822|reject||namesake: Utah state Rep./Maj. Gen. Jeff Burton; lobbyist is Burton Strategy Group (ex-Conaway CoS)
+2092621527439012203|24056|reject||namesake: Joel Rubin the foreign-policy commentator; lobbyist is CFM (ex-Baird LD, Pacific NW local clients)
+2092621222165029000|24056|reject||namesake: Joel Rubin the foreign-policy commentator
+1917980660326621504|137906|reject||namesake: Deputy NSA Alex Wong; lobbyists are Coupang / Hanwha Aerospace in-house
+2086155374126661759|44098|reject||namesake: NJ centenarian Anthony Russo (Union Twp.)
+2001049317646163982|154695|reject||namesake: Walter Javier Martinez, murder suspect
+1628118881725472768|154695|reject||namesake: NM House Speaker Javier Martinez
+2053174914190831791|73511|reject||namesake: Bobby Cox, Braves manager
+2117020798661579210|64569|reject||namesake: Tiffany Moore Russell, Orange County mayoral candidate
+1676231436557271043|58218|reject||namesake: Kevin Michael McCarthy, crime victim
+1939685540640485417|46324|reject||namesake: Rep. Rick Crawford (member of Congress)
+1765459981527105593|67394|reject||namesake: William Fox Elementary School
+1976407561223143660|57211|reject||namesake: Zach Williams, Christian music singer
+2090932035665735860|59363|reject||namesake: Alex James Barnett, murder suspect
+2072152844677816340|105860|reject||identity not confirmed (MD Del. Adrian Boafo in a list of Democratic nominees; lobbyist is Oracle in-house); no lobbying context
+1987845453321281629|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+1908279687555522882|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+2118419914793042196|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+2112062917986353420|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+2100338029420233138|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+2043153382396031452|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+2041733158828400984|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+1978811799374888993|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+1948253720002646053|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+1942997370662228165|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+1894952881536561411|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+1866497126005670118|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+1866834327889125439|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+1866544957819064488|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
+1780337388851442020|147862|reject||namesake: AAG for Civil Rights Harmeet Dhillon; lobbyist 147862 is GSK in-house (filings overlap her DOJ tenure)
