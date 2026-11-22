@@ -16,7 +16,7 @@ def tc(s):
         core=w.strip('(),;.')
         if core in ACR or '&' in w: o.append(w)
         elif w.startswith('('): o.append('('+w[1:].capitalize())
-        else: o.append(w.capitalize())
+        else: o.append('-'.join(p.capitalize() for p in w.split('-')))
     return ' '.join(o)
 def mcfix(s):
     import re
