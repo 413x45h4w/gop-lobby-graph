@@ -1,4 +1,4 @@
-# Legislative layer (built 2026-11-22T21:13:50-05:00)
+# Legislative layer (built 2026-11-22T21:14:37-05:00)
 
 Sources (all public, no keys):
 - GovInfo BILLSTATUS bulk XML, 118th + 119th Congress, all 8 bill/resolution types (https://www.govinfo.gov/bulkdata/BILLSTATUS/<congress>/<type>/BILLSTATUS-<congress>-<type>.zip, fetched 2026-11-22 ET; govinfo last-modified 2026-11-22 00:18 for 119 hr).
@@ -80,3 +80,4 @@ Row counts
 - 2026-11-22T20:35:36-05:00: rebuilt; counts above.
 - 2026-11-22T21:13:40-05:00: rebuilt; counts above.
 - 2026-11-22T21:13:50-05:00: rebuilt; counts above.
+- 2026-11-22T21:14:38-05:00: rebuilt; counts above.

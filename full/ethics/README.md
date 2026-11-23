@@ -1,4 +1,4 @@
-# Ethics layer (built 2026-11-22T21:13:50-05:00)
+# Ethics layer (built 2026-11-22T21:14:37-05:00)
 
 Sources
 - House Clerk financial disclosure index `<year>FD.zip` (2023-2026) and electronic periodic transaction report PDFs
@@ -28,27 +28,27 @@ Stats
 {
  "house_tx": 16165,
  "house_tx_bioguide": 16150,
- "house_tx_org": 3631,
+ "house_tx_org": 3485,
  "senate_tx": 3986,
  "senate_tx_bioguide": 3986,
- "senate_tx_org": 970,
+ "senate_tx_org": 954,
  "house_travel": 7206,
  "house_travel_bioguide": 7193,
- "house_travel_org": 775,
+ "house_travel_org": 748,
  "house_fd_assets": 31981,
- "house_fd_assets_org": 3908,
+ "house_fd_assets_org": 3678,
  "house_fd_H": 346,
  "house_fd_G": 18,
  "house_annual_holdings_rows": 31981,
  "house_annual_gift_travel_rows": 364,
- "member_company_holding_edges": 2136,
+ "member_company_holding_edges": 2000,
  "stock_tx_rows": 20151,
  "member_company_edges": 8814,
  "senate_holdings": 36916,
  "senate_gifts": 36,
  "senate_travel": 100,
  "travel_sponsor_edges": 4427,
- "built_at": "2026-11-22T20:58:50-05:00"
+ "built_at": "2026-11-22T21:14:34-05:00"
 }
 ```
 
@@ -68,7 +68,7 @@ Match keys used across all four folders
 Row counts
 | file | rows |
 |---|---|
-| `edges_member_company_holdings.csv` | 2,136 |
+| `edges_member_company_holdings.csv` | 2,000 |
 | `edges_member_company_trades.csv` | 8,814 |
 | `edges_travel_sponsor_to_member.csv` | 5,116 |
 | `house_annual_gifts_travel.csv` | 364 |
@@ -90,3 +90,4 @@ Row counts
 - 2026-11-22T20:35:36-05:00: rebuilt; counts above.
 - 2026-11-22T21:13:40-05:00: rebuilt; counts above.
 - 2026-11-22T21:13:50-05:00: rebuilt; counts above.
+- 2026-11-22T21:14:38-05:00: rebuilt; counts above.

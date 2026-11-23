@@ -1,4 +1,4 @@
-# State-level and events layer (built 2026-11-22T21:13:50-05:00)
+# State-level and events layer (built 2026-11-22T21:14:38-05:00)
 
 Built
 - `member_caucus_edges.csv` caucus memberships: links inside the members sections of English Wikipedia caucus articles (revision ids in `source_ref`),
@@ -47,3 +47,4 @@ Row counts
 - 2026-11-22T20:35:36-05:00: rebuilt; counts above.
 - 2026-11-22T21:13:40-05:00: rebuilt; counts above.
 - 2026-11-22T21:13:50-05:00: rebuilt; counts above.
+- 2026-11-22T21:14:38-05:00: rebuilt; counts above.
