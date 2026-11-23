@@ -11,7 +11,7 @@ def org_match(name):
   k=dclib.norm_org(n)
   if len(k)<3: return '',''
   if k in OI: return k,'exact_norm'
-  if len(k.split())>=2:
+  if False:  # prefix matching disabled 2026-11-22: produced false positives (e.g. 'Commercial Real Estate', 'Blackstone Energy')
     i=bisect.bisect_left(OIkeys,k+' '); C=[]
     while i<len(OIkeys) and OIkeys[i].startswith(k+' '): C.append(OIkeys[i]); i+=1
     if C: return max(C,key=lambda c:OI[c]['n_filings']),'prefix_norm'

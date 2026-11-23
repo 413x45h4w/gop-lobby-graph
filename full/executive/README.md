@@ -1,4 +1,4 @@
-# Executive-branch layer (built 2026-11-22T21:14:37-05:00)
+# Executive-branch layer (built 2026-11-22T21:14:56-05:00)
 
 Sources
 - OIRA EO 12866 meetings, reginfo.gov public calendar (completed meetings 2023-01 .. 2026-11; detail pages with requestor + attendee list + org): `raw/oira_meetings.jsonl`.
@@ -90,3 +90,4 @@ Row counts
 - 2026-11-22T21:13:40-05:00: rebuilt; counts above.
 - 2026-11-22T21:13:50-05:00: rebuilt; counts above.
 - 2026-11-22T21:14:38-05:00: rebuilt; counts above.
+- 2026-11-22T21:14:56-05:00: rebuilt; counts above.

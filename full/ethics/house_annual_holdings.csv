@@ -13,7 +13,7 @@ A000055,Robert B. Aderholt,R,10067693,2024,Bankfirst,,BA,"$1,001 - $15,000",1001
 A000055,Robert B. Aderholt,R,10067693,2024,Bankfirst,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10067693,2024,Bankfirst - Armadale Properties LLC,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10067693,2024,Bankfirst - IRA,,IH,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
-A000055,Robert B. Aderholt,R,10067693,2024,Capital One NA (Savings),,BA,"$1,001 - $15,000",1001,15000,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
+A000055,Robert B. Aderholt,R,10067693,2024,Capital One NA (Savings),,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10067693,2024,Coca-Cola Company (KO),KO,ST,"$1,001 - $15,000",1001,15000,COCA COLA,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10067693,2024,Congressional Federal Credit Union,,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10067693,2024,Devon Energy Corporation Common Stock (DVN),DVN,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
@@ -29,7 +29,7 @@ A000055,Robert B. Aderholt,R,10067693,2024,Haleon plc American Depositary Shares
 A000055,Robert B. Aderholt,R,10067693,2024,"Lucid Group, Inc. (LCID)",LCID,ST,"$1 - $1,000",1,1000,LUCID,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10067693,2024,Navistar International Corporation (NAV),NAV,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10067693,2024,New York Life Insurance Company,,WU,None,,,NEW YORK LIFE INSURANCE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
-A000055,Robert B. Aderholt,R,10067693,2024,Northwestern Mutual,,WU,None,,,NORTHWESTERN MUTUAL LIFE INSURANCE,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
+A000055,Robert B. Aderholt,R,10067693,2024,Northwestern Mutual,,WU,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10067693,2024,NY Life Securities LLC - IRA,,IH,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10067693,2024,(OPY),OPY,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10067693,2024,"Rivian Automotive, Inc. - Class A (RIVN)",RIVN,ST,"$1 - $1,000",1,1000,RIVIAN AUTOMOTIVE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067693.pdf,first+last+state
@@ -217,7 +217,7 @@ A000372,Rick W. Allen,R,10071878,2024,Abbott Laboratories (ABT),ABT,ST,"$15,001 
 A000372,Rick W. Allen,R,10071878,2024,AbbVie Inc. (ABBV),ABBV,ST,,,,ABBVIE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071878.pdf,first+last+state
 A000372,Rick W. Allen,R,10071878,2024,Alphabet Inc. - Class A (GOOGL),GOOGL,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071878.pdf,first+last+state
 A000372,Rick W. Allen,R,10071878,2024,"Amazon.com, Inc. (AMZN)",AMZN,ST,None,,,AMAZON COM,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071878.pdf,first+last+state
-A000372,Rick W. Allen,R,10071878,2024,"American Water Works Company, Inc. (AWK)",AWK,ST,"$15,001 - $50,000",15001,50000,AMERICAN WATER WORKS ASSOCIATION,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071878.pdf,first+last+state
+A000372,Rick W. Allen,R,10071878,2024,"American Water Works Company, Inc. (AWK)",AWK,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071878.pdf,first+last+state
 A000372,Rick W. Allen,R,10071878,2024,"Ameriprise Financial, Inc. Common Stock (AMP)",AMP,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071878.pdf,first+last+state
 A000372,Rick W. Allen,R,10071878,2024,Amgen Inc. (AMGN),AMGN,ST,,,,AMGEN,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071878.pdf,first+last+state
 A000372,Rick W. Allen,R,10071878,2024,"BlackRock, Inc. (BLK)",BLK,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071878.pdf,first+last+state
@@ -845,7 +845,7 @@ B001281,Joyce Beatty,D,10068996,2024,JP Morgan Chase & Co. Common Stock (JPM),JP
 B001281,Joyce Beatty,D,10068996,2024,"Meta Platforms, Inc. - Class A Common Stock (META)",META,ST,$1 - $200,1,200,META PLATFORMS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068996.pdf,first+last+state
 B001281,Joyce Beatty,D,10068996,2024,Microsoft Corporation (MSFT),MSFT,ST,"$1,001 - $15,000",1001,15000,MICROSOFT,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068996.pdf,first+last+state
 B001281,Joyce Beatty,D,10068996,2024,End Fund (QQQX),QQQX,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068996.pdf,first+last+state
-B001281,Joyce Beatty,D,10068996,2024,Ohio Credit,,BA,"$1,001 - $15,000",1001,15000,OHIO CREDIT UNION LEAGUE,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068996.pdf,first+last+state
+B001281,Joyce Beatty,D,10068996,2024,Ohio Credit,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068996.pdf,first+last+state
 B001281,Joyce Beatty,D,10068996,2024,PNC (Pittsburg National Corp Bank),,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068996.pdf,first+last+state
 B001281,Joyce Beatty,D,10068996,2024,"Source Capital, Inc",,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068996.pdf,first+last+state
 B001281,Joyce Beatty,D,10068996,2024,Touchstone Flexible Income Fund,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068996.pdf,first+last+state
@@ -1946,7 +1946,7 @@ C001068,Steve Cohen,D,10067445,2024,Amgen Inc. (AMGN),AMGN,ST,,,,AMGEN,exact_nor
 C001068,Steve Cohen,D,10067445,2024,AT&T Inc. (T),T,ST,"$15,001 - $50,000",15001,50000,AT T,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,"AutoZone, Inc. (AZO)",AZO,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,Preferred Stock (OZKAP),OZKAP,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
-C001068,Steve Cohen,D,10067445,2024,Barrick Gold Corporation (ABX),ABX,ST,,,,BARRICK GOLD NORTH,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
+C001068,Steve Cohen,D,10067445,2024,Barrick Gold Corporation (ABX),ABX,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,Berkshire Hathaway Inc. New (BRK.B),BRK.B,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,"BRADLEY CNTY TENN GO REF BDS 2019 3.000% 06/01/27                                                   $1,000",,GS,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,Charles Schwab bank CD 4.75,,BA,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
@@ -1974,7 +1974,7 @@ C001068,Steve Cohen,D,10067445,2024,International Business Machines Corporation 
 C001068,Steve Cohen,D,10067445,2024,Invesco Variable Rate Preferred,,EF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,iShares Preferred and Income Securities ETF (PFF),PFF,EF,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,RFG & IMPT MED CTR,,GS,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
-C001068,Steve Cohen,D,10067445,2024,UNIVERSITY HEALTH,,CS,"$15,001 - $50,000",15001,50000,UNIVERSITY HEALTH SYSTEM,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
+C001068,Steve Cohen,D,10067445,2024,UNIVERSITY HEALTH,,CS,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,REV REF-COVENANT HLTH,,GS,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,REV RFDG-COVENANT HLTH SER A OPT ERP,,GS,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,Marriott International - Class A (MAR),MAR,ST,,,,MARRIOTT INTERNATIONAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
@@ -2010,7 +2010,7 @@ C001068,Steve Cohen,D,10067445,2024,AMT NON ACE-ISSUE 4B REVENUE ERP OPT/MAN,,GS
 C001068,Steve Cohen,D,10067445,2024,AMT NON ACE-SER 2B REV BONDS ERP OPTIONAL,,GS,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,ISSUE 3 REV BDS ERP OPT/MAND,,GS,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,ISSUE 3 REVENUE BONDS ERP MANDATORY,,CS,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
-C001068,Steve Cohen,D,10067445,2024,Toyota Motor Corporation (TM),TM,ST,"$15,001 - $50,000",15001,50000,TOYOTA MOTOR NORTH,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
+C001068,Steve Cohen,D,10067445,2024,Toyota Motor Corporation (TM),TM,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,Vaneck Morningstar Durable Dividend,,EF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,VanEck Preferred Securities ex Financials ETF (PFXF),PFXF,EF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,Virtus Real Asset Income,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
@@ -2034,7 +2034,7 @@ C001068,Steve Cohen,D,10067445,2024,Fidelity Dividend ETF for Rising Rates,,EF,"
 C001068,Steve Cohen,D,10067445,2024,NON CUM PERP PFD 6.10% S/A DIV,,CS,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,First Horizon National Corporation (FHN),FHN,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,First Trust Enhanced Short Maturity ETF (FTSM),FTSM,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
-C001068,Steve Cohen,D,10067445,2024,"Healthpeak Properties, Inc. (PEAK)",PEAK,ST,"$15,001 - $50,000",15001,50000,HEALTHPEAK PROPERTIES FKA PHYSICIANS REALTY TRUST,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
+C001068,Steve Cohen,D,10067445,2024,"Healthpeak Properties, Inc. (PEAK)",PEAK,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,"Host Hotels & Resorts, Inc. (HST)",HST,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,International Business Machines Corporation (IBM),IBM,ST,,,,INTERNATIONAL BUSINESS MACHINES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,"LORD ABBETT SHORT DURATION INCOME FUND CLASS F                    $100,000",,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
@@ -2047,7 +2047,7 @@ C001068,Steve Cohen,D,10067445,2024,Schlumberger N.V. (SLB),SLB,ST,"$1,001 - $15
 C001068,Steve Cohen,D,10067445,2024,Short-Term Bond Fund of America - Class F-3 (FSBTX),FSBTX,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,Sony Corporation (SNE),SNE,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,THORNBURG LIMITED-TERM INCOME FUND CLASS I,,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
-C001068,Steve Cohen,D,10067445,2024,Toyota Motor Corporation (TM),TM,ST,"$1,001 - $15,000",1001,15000,TOYOTA MOTOR NORTH,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
+C001068,Steve Cohen,D,10067445,2024,Toyota Motor Corporation (TM),TM,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,Walt Disney Company (DIS),DIS,ST,"$15,001 - $50,000",15001,50000,WALT DISNEY,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,WESTERN SHORT TERM BOND FUND CLASS IS,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
 C001068,Steve Cohen,D,10067445,2024,Tennessee Stable Value Fund,,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067445.pdf,first+last+state
@@ -3140,8 +3140,8 @@ D000032,Byron Donalds,R,10071583,2024,FactSet Research Systems Inc. (FDS),FDS,ST
 D000032,Byron Donalds,R,10071583,2024,FactSet Research Systems Inc. (FDS),FDS,ST,"$1,001 - $15,000",1001,15000,FACTSET RESEARCH SYSTEMS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071583.pdf,first+last+state
 D000032,Byron Donalds,R,10071583,2024,"Gartner, Inc. Common Stock (IT)",IT,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071583.pdf,first+last+state
 D000032,Byron Donalds,R,10071583,2024,"Gartner, Inc. Common Stock (IT)",IT,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071583.pdf,first+last+state
-D000032,Byron Donalds,R,10071583,2024,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071583.pdf,first+last+state
-D000032,Byron Donalds,R,10071583,2024,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071583.pdf,first+last+state
+D000032,Byron Donalds,R,10071583,2024,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071583.pdf,first+last+state
+D000032,Byron Donalds,R,10071583,2024,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071583.pdf,first+last+state
 D000032,Byron Donalds,R,10071583,2024,Intuit Inc. (INTU),INTU,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071583.pdf,first+last+state
 D000032,Byron Donalds,R,10071583,2024,Intuit Inc. (INTU),INTU,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071583.pdf,first+last+state
 D000032,Byron Donalds,R,10071583,2024,JP Morgan Chase & Co. Common Stock (JPM),JPM,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071583.pdf,first+last+state
@@ -3378,7 +3378,7 @@ E000296,Dwight Evans,D,10068372,2024,each representing one Ordinary share (BABA)
 E000296,Dwight Evans,D,10068372,2024,Alphabet Inc. - Class A (GOOGL),GOOGL,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068372.pdf,first+last+state
 E000296,Dwight Evans,D,10068372,2024,AlphaCentric LifeSci Healthcare Fund Class I (LYFIX),LYFIX,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068372.pdf,first+last+state
 E000296,Dwight Evans,D,10068372,2024,AMERICAN TOWER CORP,,RE,"$1,001 - $15,000",1001,15000,AMERICAN TOWER,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068372.pdf,first+last+state
-E000296,Dwight Evans,D,10068372,2024,"American Water Works Company, Inc. (AWK)",AWK,ST,"$1,001 - $15,000",1001,15000,AMERICAN WATER WORKS ASSOCIATION,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068372.pdf,first+last+state
+E000296,Dwight Evans,D,10068372,2024,"American Water Works Company, Inc. (AWK)",AWK,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068372.pdf,first+last+state
 E000296,Dwight Evans,D,10068372,2024,(ETHO),ETHO,EF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068372.pdf,first+last+state
 E000296,Dwight Evans,D,10068372,2024,"Apollo Global Management, Inc. Class A (APO)",APO,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068372.pdf,first+last+state
 E000296,Dwight Evans,D,10068372,2024,Apple Inc. (AAPL),AAPL,ST,"$1,001 - $15,000",1001,15000,APPLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068372.pdf,first+last+state
@@ -3421,7 +3421,7 @@ E000296,Dwight Evans,D,10068372,2024,Thermo Fisher Scientific Inc (TMO),TMO,ST,"
 E000296,Dwight Evans,D,10068372,2024,VICTORY INCORE FUND FOR INCOME,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068372.pdf,first+last+state
 E000296,Dwight Evans,D,10068372,2024,"Williams Companies, Inc. (WMB)",WMB,ST,"$1,001 - $15,000",1001,15000,WILLIAMS COMPANIES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068372.pdf,first+last+state
 E000235,Mike Ezell,R,10066916,2024,First Federal Of Pascagoula,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066916.pdf,last+state
-E000235,Mike Ezell,R,10066916,2024,Credit Union),,BA,"$1,001 - $15,000",1001,15000,CREDIT UNION NATIONAL ASSOCIATION DBA S CREDIT UNIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066916.pdf,last+state
+E000235,Mike Ezell,R,10066916,2024,Credit Union),,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066916.pdf,last+state
 E000235,Mike Ezell,R,10066916,2024,Public Employees' Retirement System of Mississippi,,DB,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066916.pdf,last+state
 F000246,Pat Fallon,R,10067945,2024,Chase Bank Accounts,,BA,$1 - $200,1,200,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067945.pdf,first+last+state
 F000246,Pat Fallon,R,10067945,2024,Employee Retirement System of TEXAS,,PE,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067945.pdf,first+last+state
@@ -3776,7 +3776,7 @@ F000474,Mike Flood,R,10067729,2024,Northwestern Mutual Life Insurance,,WU,"$5,00
 F000474,Mike Flood,R,10067729,2024,"Red Beacon Communications, L.L.C.",,OL,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067729.pdf,first+last+state
 F000480,Vince Fong,R,10071961,2024,Bank of America,,BA,"$15,001 - $50,000",15001,50000,BANK,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071961.pdf,first+last+state
 F000480,Vince Fong,R,10071961,2024,Boschma and Sons Dairy,,OL,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071961.pdf,first+last+state
-F000480,Vince Fong,R,10071961,2024,Capital One,,BA,,,,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071961.pdf,first+last+state
+F000480,Vince Fong,R,10071961,2024,Capital One,,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071961.pdf,first+last+state
 F000480,Vince Fong,R,10071961,2024,New York Life,,WU,"$1,001 - $15,000",1001,15000,NEW YORK LIFE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071961.pdf,first+last+state
 F000480,Vince Fong,R,10071961,2024,"Residential Rental Property located in Bakersfield 93308 SP                $250,001 -         Rent           $15,001 -",,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071961.pdf,first+last+state
 F000480,Vince Fong,R,10071961,2024,"Residential Rental Property located in Bakersfield 93314                   $250,001 -         Rent           $15,001 -",,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071961.pdf,first+last+state
@@ -4147,7 +4147,7 @@ G000597,Andrew R. Garbarino,R,10066789,2024,Class (ADNCX),ADNCX,MF,"$15,001 - $5
 G000597,Andrew R. Garbarino,R,10066789,2024,AT&T Inc. (T),T,ST,"$1 - $1,000",1,1000,AT T,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066789.pdf,first+last+state
 G000597,Andrew R. Garbarino,R,10066789,2024,Intel Corporation - Common Stock (INTC),INTC,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066789.pdf,first+last+state
 G000597,Andrew R. Garbarino,R,10066789,2024,"MDU Resources Group, Inc. Common Stock (MDU)",MDU,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066789.pdf,first+last+state
-G000597,Andrew R. Garbarino,R,10066789,2024,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066789.pdf,first+last+state
+G000597,Andrew R. Garbarino,R,10066789,2024,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066789.pdf,first+last+state
 G000597,Andrew R. Garbarino,R,10066789,2024,The Growth Fund of America Class A Shares (AGTHX),AGTHX,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066789.pdf,first+last+state
 G000597,Andrew R. Garbarino,R,10066789,2024,Virtus KAR Mid-Cap Core Fund C (VMCCX),VMCCX,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066789.pdf,first+last+state
 G000597,Andrew R. Garbarino,R,10066789,2024,Zoetis Inc. Class A Common Stock (ZTS),ZTS,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066789.pdf,first+last+state
@@ -4363,10 +4363,10 @@ G000585,Jimmy Gomez,D,10065973,2024,Bank of America,,BA,$1 - $200,1,200,BANK,exa
 G000585,Jimmy Gomez,D,10065973,2024,Bank of America,,BA,$1 - $200,1,200,BANK,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
 G000585,Jimmy Gomez,D,10065973,2024,Bank of America,,BA,"$1,001 - $15,000",1001,15000,BANK,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
 G000585,Jimmy Gomez,D,10065973,2024,Bank of America,,BA,"$1,001 - $15,000",1001,15000,BANK,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
-G000585,Jimmy Gomez,D,10065973,2024,Capital One,,BA,"$15,001 - $50,000",15001,50000,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
-G000585,Jimmy Gomez,D,10065973,2024,Capital One,,BA,"$201 - $1,000",201,1000,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
-G000585,Jimmy Gomez,D,10065973,2024,Capital One,,BA,"$201 - $1,000",201,1000,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
-G000585,Jimmy Gomez,D,10065973,2024,Capital One (SP),SP,BA,$1 - $200,1,200,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
+G000585,Jimmy Gomez,D,10065973,2024,Capital One,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
+G000585,Jimmy Gomez,D,10065973,2024,Capital One,,BA,"$201 - $1,000",201,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
+G000585,Jimmy Gomez,D,10065973,2024,Capital One,,BA,"$201 - $1,000",201,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
+G000585,Jimmy Gomez,D,10065973,2024,Capital One (SP),SP,BA,$1 - $200,1,200,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
 G000585,Jimmy Gomez,D,10065973,2024,(MXAPX),MXAPX,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
 G000585,Jimmy Gomez,D,10065973,2024,H&K Properties,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
 G000585,Jimmy Gomez,D,10065973,2024,Morningstar Lifetime Moderate,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
@@ -4375,8 +4375,8 @@ G000585,Jimmy Gomez,D,10065973,2024,Prudential Jennison Growth Fund,,MF,"$1,001 
 G000585,Jimmy Gomez,D,10065973,2024,Prudential Jennison Mid-Cap Growth,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10065973.pdf,first+last+state
 G000594,Tony Gonzales,R,10071965,2024,Frost Bank,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071965.pdf,first+last+state
 G000594,Tony Gonzales,R,10071965,2024,NFCU,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071965.pdf,first+last+state
-G000594,Tony Gonzales,R,10071965,2024,Real Estate,,RP,None,,,REAL ESTATE ROUNDTABLE,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071965.pdf,first+last+state
-G000594,Tony Gonzales,R,10071965,2024,Real Estate,,RP,None,,,REAL ESTATE ROUNDTABLE,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071965.pdf,first+last+state
+G000594,Tony Gonzales,R,10071965,2024,Real Estate,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071965.pdf,first+last+state
+G000594,Tony Gonzales,R,10071965,2024,Real Estate,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071965.pdf,first+last+state
 G000594,Tony Gonzales,R,10071965,2024,Sweep Account,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071965.pdf,first+last+state
 G000594,Tony Gonzales,R,10071965,2024,Victory 500 Index Fund Member Shares (USSPX),USSPX,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071965.pdf,first+last+state
 G000594,Tony Gonzales,R,10071965,2024,Victory Nasdaq-100 Index Fund Shares (USNQX),USNQX,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10071965.pdf,first+last+state
@@ -4439,7 +4439,7 @@ G000583,Josh Gottheimer,D,10066210,2024,AT&T Inc. (T),T,ST,"$1,001 - $15,000",10
 G000583,Josh Gottheimer,D,10066210,2024,Coty Inc. Class A (COTY),COTY,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
 G000583,Josh Gottheimer,D,10066210,2024,"Darden Restaurants, Inc. (DRI)",DRI,ST,"$15,001 - $50,000",15001,50000,DARDEN RESTAURANTS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
 G000583,Josh Gottheimer,D,10066210,2024,Dell Technologies Inc. Class V (DVMT),DVMT,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
-G000583,Josh Gottheimer,D,10066210,2024,"Dollar Tree, Inc. (DLTR)",DLTR,ST,"$1,001 - $15,000",1001,15000,DOLLAR TREE MANAGEMENT,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
+G000583,Josh Gottheimer,D,10066210,2024,"Dollar Tree, Inc. (DLTR)",DLTR,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
 G000583,Josh Gottheimer,D,10066210,2024,Eli Lilly and Company (LLY),LLY,ST,"$15,001 - $50,000",15001,50000,ELI LILLY,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
 G000583,Josh Gottheimer,D,10066210,2024,"Fidelity National Information Services, Inc. (FIS)",FIS,ST,"$1,001 - $15,000",1001,15000,FIDELITY NATIONAL INFORMATION SERVICES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
 G000583,Josh Gottheimer,D,10066210,2024,Ford Motor Company (F),F,ST,"$15,001 - $50,000",15001,50000,FORD MOTOR,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
@@ -4628,7 +4628,7 @@ G000583,Josh Gottheimer,D,10066210,2024,"ICU Medical, Inc. (ICUI)",ICUI,ST,"$1,0
 G000583,Josh Gottheimer,D,10066210,2024,"IDACORP, Inc. (IDA)",IDA,ST,"$1,001 - $15,000",1001,15000,IDACORP,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
 G000583,Josh Gottheimer,D,10066210,2024,"Independence Realty Trust, Inc. Common Stock (IRT)",IRT,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
 G000583,Josh Gottheimer,D,10066210,2024,Independent Bank Corp. (INDB),INDB,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
-G000583,Josh Gottheimer,D,10066210,2024,Infineon Technologies AG (IFNNY),IFNNY,ST,"$1,001 - $15,000",1001,15000,INFINEON TECHNOLOGIES AMERICAS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
+G000583,Josh Gottheimer,D,10066210,2024,Infineon Technologies AG (IFNNY),IFNNY,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
 G000583,Josh Gottheimer,D,10066210,2024,Insmed Incorporated (INSM),INSM,ST,"$1,001 - $15,000",1001,15000,INSMED,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
 G000583,Josh Gottheimer,D,10066210,2024,"Intapp, Inc. - Common Stock (INTA)",INTA,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
 G000583,Josh Gottheimer,D,10066210,2024,Integra LifeSciences Holdings Corporation (IART),IART,ST,None,,,INTEGRA LIFESCIENCES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066210.pdf,first+last+state
@@ -6129,7 +6129,7 @@ J000304,Ronny Jackson,R,10067504,2024,ConocoPhillips (COP),COP,ST,"$1,001 - $15,
 J000304,Ronny Jackson,R,10067504,2024,Exxon Mobil Corporation (XOM),XOM,ST,"$1,001 - $15,000",1001,15000,EXXON MOBIL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067504.pdf,first+last+state
 J000304,Ronny Jackson,R,10067504,2024,Ford Motor Company (F),F,ST,"$1,001 - $15,000",1001,15000,FORD MOTOR,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067504.pdf,first+last+state
 J000304,Ronny Jackson,R,10067504,2024,General Motors Company (GM),GM,ST,"$1,001 - $15,000",1001,15000,GENERAL MOTORS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067504.pdf,first+last+state
-J000304,Ronny Jackson,R,10067504,2024,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067504.pdf,first+last+state
+J000304,Ronny Jackson,R,10067504,2024,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067504.pdf,first+last+state
 J000304,Ronny Jackson,R,10067504,2024,"JFB Construction Holdings - Class A Common Stock (JFB)           JT        $1 - $1,000         Dividends           $1 - $200",JFB,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067504.pdf,first+last+state
 J000304,Ronny Jackson,R,10067504,2024,Navy Federal Credit Union Active Duty Checking Account,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067504.pdf,first+last+state
 J000304,Ronny Jackson,R,10067504,2024,Navy Federal Credit Union Membership Savings Account,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067504.pdf,first+last+state
@@ -6643,7 +6643,7 @@ K000009,Marcy Kaptur,D,10067506,2024,PNC Bank CD,,BA,None,,,,,https://disclosure
 K000009,Marcy Kaptur,D,10067506,2024,Primis Bank,,BA,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067506.pdf,first+last+state
 K000009,Marcy Kaptur,D,10067506,2024,Rivard Rd,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067506.pdf,first+last+state
 K000009,Marcy Kaptur,D,10067506,2024,Schwab Money Market,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067506.pdf,first+last+state
-K000009,Marcy Kaptur,D,10067506,2024,United Fidelity,,BA,None,,,UNITED FIDELITY FUNDING,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067506.pdf,first+last+state
+K000009,Marcy Kaptur,D,10067506,2024,United Fidelity,,BA,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067506.pdf,first+last+state
 K000009,Marcy Kaptur,D,10067506,2024,US Savings Bonds,,GS,"$50,001 - $100,000",50001,100000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067506.pdf,first+last+state
 K000009,Marcy Kaptur,D,10067506,2024,Vanguard Total Bond Market ETF (BND),BND,EF,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067506.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,DoForms Inc,,PS,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
@@ -6735,7 +6735,7 @@ K000398,"Thomas H. Kean, Jr.",R,10066042,2024,"Amentum Holdings, Inc. Common Sto
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Aon plc Class A Ordinary Shares (AON),AON,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Apple Inc. (AAPL),AAPL,ST,,,,APPLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,AT&T Inc. (T),T,ST,"$1,001 - $15,000",1001,15000,AT T,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
-K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Berkshire Hathaway Inc. (BRK.A),BRK.A,ST,None,,,BERKSHIRE HATHAWAY ENERGY,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
+K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Berkshire Hathaway Inc. (BRK.A),BRK.A,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Cash,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Chubb Limited (CB),CB,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,"Citigroup, Inc. (C)",C,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
@@ -6748,7 +6748,7 @@ K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Intercontinental Exchange Inc. (IC
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,iShares Core U.S. Aggregate Bond ETF (AGG),AGG,EF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Jacobs Solutions Inc. Common Stock (J),J,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Johnson & Johnson (JNJ),JNJ,ST,,,,JOHNSON JOHNSON,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
-K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Liberty Global plc - Class C Ordinary Shares (LBTYK),LBTYK,ST,"$1,001 - $15,000",1001,15000,LIBERTY GLOBAL LOGISTICS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
+K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Liberty Global plc - Class C Ordinary Shares (LBTYK),LBTYK,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Stock (LLYVA),LLYVA,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Liberty Media Corporation - Series C Liberty Braves (BATRK),BATRK,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Stock (LLYVK),LLYVK,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
@@ -6780,7 +6780,7 @@ K000398,"Thomas H. Kean, Jr.",R,10066042,2024,"Charter Communications, Inc. - Cl
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Colgate-Palmolive Company (CL),CL,ST,"$1,001 - $15,000",1001,15000,COLGATE PALMOLIVE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,ConocoPhillips (COP),COP,ST,"$15,001 - $50,000",15001,50000,CONOCOPHILLIPS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,"Heartland Express, Inc. (HTLD)",HTLD,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
-K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Howmet Aerospace Inc. (HWM),HWM,ST,"$15,001 - $50,000",15001,50000,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
+K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Howmet Aerospace Inc. (HWM),HWM,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,International Business Machines Corporation (IBM),IBM,ST,"$1,001 - $15,000",1001,15000,INTERNATIONAL BUSINESS MACHINES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Jacobs Solutions Inc. Common Stock (J),J,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10066042,2024,Johnson & Johnson (JNJ),JNJ,ST,"$15,001 - $50,000",15001,50000,JOHNSON JOHNSON,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066042.pdf,first+last+state
@@ -7119,7 +7119,7 @@ K000392,David Kustoff,R,10066003,2024,AMERICA NEW PERSPECTIVE CLASS A,,MF,"$1,00
 K000392,David Kustoff,R,10066003,2024,AMERICAN CAPITAL INCOME BUILDER CL A,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066003.pdf,first+last+state
 K000392,David Kustoff,R,10066003,2024,AMERICAN EUROPACIFIC GROWTH CLASS A,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066003.pdf,first+last+state
 K000392,David Kustoff,R,10066003,2024,AMERICAN GROWTH FUND OF AMERICA CLASS A,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066003.pdf,first+last+state
-K000392,David Kustoff,R,10066003,2024,AMERICAN INVESTMENT CO OF AMERICA,,MF,"$1,001 - $15,000",1001,15000,AMERICAN INVESTMENT COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066003.pdf,first+last+state
+K000392,David Kustoff,R,10066003,2024,AMERICAN INVESTMENT CO OF AMERICA,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066003.pdf,first+last+state
 K000392,David Kustoff,R,10066003,2024,AMERICAN WASHNTN MUTUAL INVESTRS CL A,,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066003.pdf,first+last+state
 K000392,David Kustoff,R,10066003,2024,FIDELITY GOVERNMENT CASH,,BA,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066003.pdf,first+last+state
 K000392,David Kustoff,R,10066003,2024,Alphabet Inc. - Class A (GOOGL),GOOGL,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066003.pdf,first+last+state
@@ -7180,7 +7180,7 @@ L000585,Darin LaHood,R,10068136,2024,Franklin Income CL (FKINX),FKINX,IH,"$15,00
 L000585,Darin LaHood,R,10068136,2024,Franklin Mutual Global Discovery CL (TEDIX),TEDIX,IH,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068136.pdf,first+last+state
 L000585,Darin LaHood,R,10068136,2024,GE Aerospace (GE),GE,IH,"$1 - $1,000",1,1000,GE AEROSPACE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068136.pdf,first+last+state
 L000585,Darin LaHood,R,10068136,2024,"GE Healthcare Technologies, Inc. (GEHC)",GEHC,IH,"$1 - $1,000",1,1000,GE HEALTHCARE TECHNOLOGIES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068136.pdf,first+last+state
-L000585,Darin LaHood,R,10068136,2024,GE Vernova (GEV),GEV,IH,"$1 - $1,000",1,1000,GE VERNOVA INTERNATIONAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068136.pdf,first+last+state
+L000585,Darin LaHood,R,10068136,2024,GE Vernova (GEV),GEV,IH,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068136.pdf,first+last+state
 L000585,Darin LaHood,R,10068136,2024,General Electric Co. (GE),GE,CS,"$1,001 - $15,000",1001,15000,GENERAL ELECTRIC,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068136.pdf,first+last+state
 L000585,Darin LaHood,R,10068136,2024,Norfolk Southern Corp. (NSC),NSC,CS,"$1,001 - $15,000",1001,15000,NORFOLK SOUTHERN,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068136.pdf,first+last+state
 L000585,Darin LaHood,R,10068136,2024,"Orion Office Reit, Inc. (ONL)",ONL,CS,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068136.pdf,first+last+state
@@ -7335,7 +7335,7 @@ L000560,Rick Larsen,D,10066875,2024,Institutional (DVHIX),DVHIX,MF,"$1,001 - $15
 L000560,Rick Larsen,D,10066875,2024,NYLI Cushing MLP Premier Fund Class I (CSHZX),CSHZX,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066875.pdf,first+last+state
 L000560,Rick Larsen,D,10066875,2024,"NYLI MacKay Strategic Muni Allocation Fund Class I (MTFGX)                                                                $1,000",MTFGX,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066875.pdf,first+last+state
 L000560,Rick Larsen,D,10066875,2024,PGIM Jennison MLP Fund Class Z (PRPZX),PRPZX,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066875.pdf,first+last+state
-L000560,Rick Larsen,D,10066875,2024,"American Water Works Company, Inc. (AWK)",AWK,ST,"$1,001 - $15,000",1001,15000,AMERICAN WATER WORKS ASSOCIATION,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066875.pdf,first+last+state
+L000560,Rick Larsen,D,10066875,2024,"American Water Works Company, Inc. (AWK)",AWK,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066875.pdf,first+last+state
 L000560,Rick Larsen,D,10066875,2024,Market,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066875.pdf,first+last+state
 L000560,Rick Larsen,D,10066875,2024,Amgen Inc. (AMGN),AMGN,ST,"$1,001 - $15,000",1001,15000,AMGEN,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066875.pdf,first+last+state
 L000560,Rick Larsen,D,10066875,2024,Apple Inc. (AAPL),AAPL,ST,"$1,001 - $15,000",1001,15000,APPLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066875.pdf,first+last+state
@@ -7799,7 +7799,7 @@ L000582,Ted Lieu,D,10068523,2024,Wells Fargo Account for Austin Lieu,,BA,"$15,00
 L000582,Ted Lieu,D,10068523,2024,Wells Fargo PMA Bank Accounts,,BA,$1 - $200,1,200,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068523.pdf,first+last+state
 L000397,Zoe Lofgren,D,10066636,2024,California Public Employee Retirement System,,DB,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066636.pdf,first+last+state
 L000397,Zoe Lofgren,D,10066636,2024,Deskworks Inc.,,PS,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066636.pdf,first+last+state
-L000397,Zoe Lofgren,D,10066636,2024,First Citizens Bank,,BA,"$15,001 - $50,000",15001,50000,FIRST CITIZENS BANK TRUST,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066636.pdf,first+last+state
+L000397,Zoe Lofgren,D,10066636,2024,First Citizens Bank,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066636.pdf,first+last+state
 L000397,Zoe Lofgren,D,10066636,2024,"John Marshall Collins PC, 100% Interest",,OL,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066636.pdf,first+last+state
 L000397,Zoe Lofgren,D,10066636,2024,Residential Rental Property,,RP,"$201 - $1,000",201,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066636.pdf,first+last+state
 L000397,Zoe Lofgren,D,10066636,2024,"Bonds, Ser. D",,GS,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10066636.pdf,first+last+state
@@ -7997,7 +7997,7 @@ M000317,Nicole Malliotakis,R,10068082,2024,Boeing Company (BA),BA,ST,"$15,001 - 
 M000317,Nicole Malliotakis,R,10068082,2024,"Caterpillar, Inc. (CAT)",CAT,ST,"$15,001 - $50,000",15001,50000,CATERPILLAR,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068082.pdf,first+last+state
 M000317,Nicole Malliotakis,R,10068082,2024,Chase Savings & CD,,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068082.pdf,first+last+state
 M000317,Nicole Malliotakis,R,10068082,2024,"Chipotle Mexican Grill, Inc. Common Stock (CMG)",CMG,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068082.pdf,first+last+state
-M000317,Nicole Malliotakis,R,10068082,2024,"Consolidated Edison, Inc. (ED)",ED,ST,"$15,001 - $50,000",15001,50000,CONSOLIDATED EDISON NEW YORK,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068082.pdf,first+last+state
+M000317,Nicole Malliotakis,R,10068082,2024,"Consolidated Edison, Inc. (ED)",ED,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068082.pdf,first+last+state
 M000317,Nicole Malliotakis,R,10068082,2024,Exxon Mobil Corporation (XOM),XOM,ST,"$15,001 - $50,000",15001,50000,EXXON MOBIL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068082.pdf,first+last+state
 M000317,Nicole Malliotakis,R,10068082,2024,"Flagstar Financial, Inc. Common Stock (FLG)",FLG,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068082.pdf,first+last+state
 M000317,Nicole Malliotakis,R,10068082,2024,Ford Motor Credit Note,,CS,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068082.pdf,first+last+state
@@ -9200,7 +9200,7 @@ M001217,Jared Moskowitz,D,10072022,2024,"PNC Financial Services Group, Inc. (PNC
 M001217,Jared Moskowitz,D,10072022,2024,Procter & Gamble Company (PG),PG,ST,"$1,001 - $15,000",1001,15000,PROCTER GAMBLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,Public Service Enterprise Group Incorporated (PEG),PEG,ST,"$1,001 - $15,000",1001,15000,PUBLIC SERVICE ENTERPRISE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,QUALCOMM Incorporated (QCOM),QCOM,ST,"$1,001 - $15,000",1001,15000,QUALCOMM,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
-M001217,Jared Moskowitz,D,10072022,2024,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
+M001217,Jared Moskowitz,D,10072022,2024,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,RPM International Inc. (RPM),RPM,ST,"$1,001 - $15,000",1001,15000,RPM INTERNATIONAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,S&P Global Inc. (SPGI),SPGI,ST,"$15,001 - $50,000",15001,50000,S P GLOBAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,"Salesforce, Inc. (CRM)",CRM,ST,"$1,001 - $15,000",1001,15000,SALESFORCE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
@@ -9297,7 +9297,7 @@ M001217,Jared Moskowitz,D,10072022,2024,"PNC Financial Services Group, Inc. (PNC
 M001217,Jared Moskowitz,D,10072022,2024,Procter & Gamble Company (PG),PG,ST,"$1,001 - $15,000",1001,15000,PROCTER GAMBLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,Public Service Enterprise Group Incorporated (PEG),PEG,ST,"$1,001 - $15,000",1001,15000,PUBLIC SERVICE ENTERPRISE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,QUALCOMM Incorporated (QCOM),QCOM,ST,"$1,001 - $15,000",1001,15000,QUALCOMM,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
-M001217,Jared Moskowitz,D,10072022,2024,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
+M001217,Jared Moskowitz,D,10072022,2024,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,RPM International Inc. (RPM),RPM,ST,"$1,001 - $15,000",1001,15000,RPM INTERNATIONAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,S&P Global Inc. (SPGI),SPGI,ST,"$1,001 - $15,000",1001,15000,S P GLOBAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,(SBCF),SBCF,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
@@ -9365,7 +9365,7 @@ M001217,Jared Moskowitz,D,10072022,2024,"PNC Financial Services Group, Inc. (PNC
 M001217,Jared Moskowitz,D,10072022,2024,Procter & Gamble Company (PG),PG,ST,"$1,001 - $15,000",1001,15000,PROCTER GAMBLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,Public Service Enterprise Group Incorporated (PEG),PEG,ST,"$1,001 - $15,000",1001,15000,PUBLIC SERVICE ENTERPRISE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,QUALCOMM Incorporated (QCOM),QCOM,ST,"$1,001 - $15,000",1001,15000,QUALCOMM,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
-M001217,Jared Moskowitz,D,10072022,2024,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
+M001217,Jared Moskowitz,D,10072022,2024,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,RPM International Inc. (RPM),RPM,ST,"$1,001 - $15,000",1001,15000,RPM INTERNATIONAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,S&P Global Inc. (SPGI),SPGI,ST,"$1,001 - $15,000",1001,15000,S P GLOBAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
 M001217,Jared Moskowitz,D,10072022,2024,(SBCF),SBCF,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072022.pdf,first+last+state
@@ -9584,7 +9584,7 @@ N000026,Troy E. Nehls,R,10072372,2024,Brazos Valley Credit Union,,BA,"$1,001 - $
 N000026,Troy E. Nehls,R,10072372,2024,Brazos Valley Credit Union,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072372.pdf,first+last+state
 N000026,Troy E. Nehls,R,10072372,2024,Brazos Valley Credit Union,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072372.pdf,first+last+state
 N000026,Troy E. Nehls,R,10072372,2024,Brazos Valley Credit Union,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072372.pdf,first+last+state
-N000026,Troy E. Nehls,R,10072372,2024,Capital One,,BA,"$1,001 - $15,000",1001,15000,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072372.pdf,first+last+state
+N000026,Troy E. Nehls,R,10072372,2024,Capital One,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072372.pdf,first+last+state
 N000026,Troy E. Nehls,R,10072372,2024,"FIMM Treasury Portfolio: Institutional Class (FRBXX)          SP        $15,001 - $50,000 Dividends             $201 - $1,000",FRBXX,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072372.pdf,first+last+state
 N000026,Troy E. Nehls,R,10072372,2024,Great American fixed annuity,,FN,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072372.pdf,first+last+state
 N000026,Troy E. Nehls,R,10072372,2024,Mass Mutual Ascend Universal Life Ins,,OT,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10072372.pdf,first+last+state
@@ -10275,7 +10275,7 @@ P000197,Nancy Pelosi,D,10066169,2024,Wells Fargo Bank - Checking Account,,BA,"$1
 P000605,Scott Perry,R,10068827,2024,Adams County National Bank,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068827.pdf,first+last+state
 P000605,Scott Perry,R,10068827,2024,Commonwealth of PA SERS,,DB,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068827.pdf,first+last+state
 P000605,Scott Perry,R,10068827,2024,Members First Credit Union,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068827.pdf,first+last+state
-P000605,Scott Perry,R,10068827,2024,Northwestern Mutual,,WU,"$15,001 - $50,000",15001,50000,NORTHWESTERN MUTUAL LIFE INSURANCE,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068827.pdf,first+last+state
+P000605,Scott Perry,R,10068827,2024,Northwestern Mutual,,WU,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068827.pdf,first+last+state
 P000605,Scott Perry,R,10068827,2024,Pennsylvania State Employees Credit Union,,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068827.pdf,first+last+state
 P000605,Scott Perry,R,10068827,2024,"Residential Rental - Dillsburg, PA",,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068827.pdf,first+last+state
 P000605,Scott Perry,R,10068827,2024,"Residential Rental - Harrisburg, PA",,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068827.pdf,first+last+state
@@ -10536,7 +10536,7 @@ R000606,Jamie Raskin,D,10068086,2024,(VBIRX),VBIRX,MF,"$1,001 - $15,000",1001,15
 R000606,Jamie Raskin,D,10068086,2024,Vanguard Small-Cap ETF (VB),VB,EF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068086.pdf,first+last+state
 R000606,Jamie Raskin,D,10068086,2024,AT&T Inc. (T),T,ST,None,,,AT T,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068086.pdf,first+last+state
 R000606,Jamie Raskin,D,10068086,2024,BANK OF AMERICA NA,,BA,$1 - $200,1,200,BANK,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068086.pdf,first+last+state
-R000606,Jamie Raskin,D,10068086,2024,CAPITAL ONE NA,,BA,"$201 - $1,000",201,1000,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068086.pdf,first+last+state
+R000606,Jamie Raskin,D,10068086,2024,CAPITAL ONE NA,,BA,"$201 - $1,000",201,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068086.pdf,first+last+state
 R000606,Jamie Raskin,D,10068086,2024,HarperCollins Publishers LLC,,OT,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068086.pdf,first+last+state
 R000606,Jamie Raskin,D,10068086,2024,Harvard University Employees Credit Union,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068086.pdf,first+last+state
 R000606,Jamie Raskin,D,10068086,2024,i(X) Net Zero PLC,X,OT,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068086.pdf,first+last+state
@@ -11659,7 +11659,7 @@ S001185,Terri A. Sewell,D,10068080,2024,Amer Funds Amcap,,MF,"$15,001 - $50,000"
 S001185,Terri A. Sewell,D,10068080,2024,Amer Funds Washington,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068080.pdf,first+last+state
 S001185,Terri A. Sewell,D,10068080,2024,American Euro Pacific,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068080.pdf,first+last+state
 S001185,Terri A. Sewell,D,10068080,2024,American Growth Fund,,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068080.pdf,first+last+state
-S001185,Terri A. Sewell,D,10068080,2024,American Investment Co.,,MF,,,,AMERICAN INVESTMENT COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068080.pdf,first+last+state
+S001185,Terri A. Sewell,D,10068080,2024,American Investment Co.,,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068080.pdf,first+last+state
 S001185,Terri A. Sewell,D,10068080,2024,Columbia Large Cap,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068080.pdf,first+last+state
 S001185,Terri A. Sewell,D,10068080,2024,Eaton Vance Income Fund,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068080.pdf,first+last+state
 S001185,Terri A. Sewell,D,10068080,2024,Money Mkt Fund Rsrvs CL1,,IH,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10068080.pdf,first+last+state
@@ -12892,7 +12892,7 @@ W000816,Roger Williams,R,10067032,2024,Chevron Corporation (CVX),CVX,ST,None,,,C
 W000816,Roger Williams,R,10067032,2024,"Diamondback Energy, Inc. - Commmon Stock (FANG)",FANG,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067032.pdf,first+last+state
 W000816,Roger Williams,R,10067032,2024,Personal Cash Account Edward,,BA,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067032.pdf,first+last+state
 W000816,Roger Williams,R,10067032,2024,"American Airlines Group, Inc. (AAL)",AAL,ST,None,,,AMERICAN AIRLINES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067032.pdf,first+last+state
-W000816,Roger Williams,R,10067032,2024,Berkshire Hathaway Inc. (BRK.A),BRK.A,ST,None,,,BERKSHIRE HATHAWAY ENERGY,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067032.pdf,first+last+state
+W000816,Roger Williams,R,10067032,2024,Berkshire Hathaway Inc. (BRK.A),BRK.A,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067032.pdf,first+last+state
 W000816,Roger Williams,R,10067032,2024,"ChargePoint Holdings, Inc. (CHPT)",CHPT,ST,None,,,CHARGEPOINT,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067032.pdf,first+last+state
 W000816,Roger Williams,R,10067032,2024,Chevron Corporation (CVX),CVX,ST,None,,,CHEVRON,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067032.pdf,first+last+state
 W000816,Roger Williams,R,10067032,2024,Wealth Shares (PCOXX),PCOXX,MF,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/10067032.pdf,first+last+state
@@ -13196,7 +13196,7 @@ A000055,Robert B. Aderholt,R,10078366,2025,GSK plc American Depositary Shares (G
 A000055,Robert B. Aderholt,R,10078366,2025,Haleon plc American Depositary Shares (HLN),HLN,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078366.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10078366,2025,"Listerhill Credit Union (Growth Checking) - ****2223       JT        $50,001 -          Interest           $1,001 - $2,500",,BA,"$1,001 - $2,500",1001,2500,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078366.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10078366,2025,Navistar International Corporation (NAV),NAV,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078366.pdf,first+last+state
-A000055,Robert B. Aderholt,R,10078366,2025,Northwestern Mutual,,WU,None,,,NORTHWESTERN MUTUAL LIFE INSURANCE,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078366.pdf,first+last+state
+A000055,Robert B. Aderholt,R,10078366,2025,Northwestern Mutual,,WU,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078366.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10078366,2025,NY Life Securities LLC - IRA,,IH,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078366.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10078366,2025,(OPY),OPY,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078366.pdf,first+last+state
 A000055,Robert B. Aderholt,R,10078366,2025,Vanguard S&P 500 ETF (VOO),VOO,EF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078366.pdf,first+last+state
@@ -13495,7 +13495,7 @@ A000372,Rick W. Allen,R,10074380,2025,Abbott Laboratories (ABT),ABT,ST,"$15,001 
 A000372,Rick W. Allen,R,10074380,2025,AbbVie Inc. (ABBV),ABBV,ST,,,,ABBVIE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074380.pdf,first+last+state
 A000372,Rick W. Allen,R,10074380,2025,Alphabet Inc. - Class A (GOOGL),GOOGL,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074380.pdf,first+last+state
 A000372,Rick W. Allen,R,10074380,2025,"Amazon.com, Inc. (AMZN)",AMZN,ST,None,,,AMAZON COM,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074380.pdf,first+last+state
-A000372,Rick W. Allen,R,10074380,2025,"American Water Works Company, Inc. (AWK)",AWK,ST,,,,AMERICAN WATER WORKS ASSOCIATION,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074380.pdf,first+last+state
+A000372,Rick W. Allen,R,10074380,2025,"American Water Works Company, Inc. (AWK)",AWK,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074380.pdf,first+last+state
 A000372,Rick W. Allen,R,10074380,2025,"Ameriprise Financial, Inc. Common Stock (AMP)",AMP,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074380.pdf,first+last+state
 A000372,Rick W. Allen,R,10074380,2025,Amgen Inc. (AMGN),AMGN,ST,,,,AMGEN,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074380.pdf,first+last+state
 A000372,Rick W. Allen,R,10074380,2025,Atmos Energy Corporation Common Stock (ATO),ATO,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074380.pdf,first+last+state
@@ -14173,7 +14173,7 @@ B001281,Joyce Beatty,D,10076774,2025,JP Morgan Chase & Co. Common Stock (JPM),JP
 B001281,Joyce Beatty,D,10076774,2025,"Meta Platforms, Inc. - Class A Common Stock (META)",META,ST,$1 - $200,1,200,META PLATFORMS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076774.pdf,first+last+state
 B001281,Joyce Beatty,D,10076774,2025,Microsoft Corporation (MSFT),MSFT,ST,"$1,001 - $15,000",1001,15000,MICROSOFT,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076774.pdf,first+last+state
 B001281,Joyce Beatty,D,10076774,2025,End Fund (QQQX),QQQX,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076774.pdf,first+last+state
-B001281,Joyce Beatty,D,10076774,2025,Ohio Credit,,BA,"$1,001 - $15,000",1001,15000,OHIO CREDIT UNION LEAGUE,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076774.pdf,first+last+state
+B001281,Joyce Beatty,D,10076774,2025,Ohio Credit,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076774.pdf,first+last+state
 B001281,Joyce Beatty,D,10076774,2025,PNC (Pittsburg National Corp Bank),,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076774.pdf,first+last+state
 B001281,Joyce Beatty,D,10076774,2025,"Source Capital, Inc",,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076774.pdf,first+last+state
 B001281,Joyce Beatty,D,10076774,2025,Touchstone Flexible Income Fund,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076774.pdf,first+last+state
@@ -14577,7 +14577,7 @@ B001325,Sheri Biggs,R,10075607,2025,"TRB Manufacturing Holdings, Corp.",,OT,Unde
 B001325,Sheri Biggs,R,10075607,2025,USAA Bank,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075607.pdf,first+last+state
 B001325,Sheri Biggs,R,10075607,2025,(PBRNX),PBRNX,RF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075607.pdf,first+last+state
 B001325,Sheri Biggs,R,10075607,2025,Bank of Nova Scotia,,CS,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075607.pdf,first+last+state
-B001325,Sheri Biggs,R,10075607,2025,BNP PARIBAS,,CS,None,,,BNP PARIBAS RCC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075607.pdf,first+last+state
+B001325,Sheri Biggs,R,10075607,2025,BNP PARIBAS,,CS,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075607.pdf,first+last+state
 B001325,Sheri Biggs,R,10075607,2025,Canadian Imperial Bank of Commerce,,CS,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075607.pdf,first+last+state
 B001325,Sheri Biggs,R,10075607,2025,KKR REAL ESTATE SELECT TRUST (KRSOX),KRSOX,RF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075607.pdf,first+last+state
 B001325,Sheri Biggs,R,10075607,2025,UBS AG,,CS,None,,,UBS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075607.pdf,first+last+state
@@ -15013,7 +15013,7 @@ B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,Regions Financial Corporation
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,"Republic Services, Inc. Common Stock (RSG)",RSG,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,ResMed Inc. Common Stock (RMD),RMD,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,"Rollins, Inc. Common Stock (ROL)",ROL,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
-B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
+B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,"Ross Stores, Inc. - Common Stock (ROST)",ROST,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,Royal Caribbean Cruises Ltd. Common Stock (RCL),RCL,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,RTX Corporation Common Stock (RTX),RTX,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
@@ -15346,7 +15346,7 @@ B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,"O'Reilly Automotive, Inc. - 
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,Oracle Corporation Common Stock (ORCL),ORCL,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,PIMCO Income Fund Class I-2 (PONPX),PONPX,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,ResMed Inc. Common Stock (RMD),RMD,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
-B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
+B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,Sherwin-Williams Company (SHW),SHW,ST,"$1,001 - $15,000",1001,15000,SHERWIN WILLIAMS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,Snap-On Incorporated Common Stock (SNA),SNA,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
 B001327,"Robert P. Bresnahan, Jr.",R,10075331,2025,State Street SPDR S&P 500 ETF Trust (SPY),SPY,EF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075331.pdf,last+state
@@ -16204,7 +16204,7 @@ C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Deckers Outdoor Corporation 
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Deere & Company (DE),DE,ST,"$15,001 - $50,000",15001,50000,DEERE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Digital Realty Trust, Inc. (DLR)",DLR,ST,"$1,001 - $15,000",1001,15000,DIGITAL REALTY TRUST,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Dollar General Corporation (DG),DG,ST,"$1,001 - $15,000",1001,15000,DOLLAR GENERAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
-C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Dollar Tree, Inc. (DLTR)",DLTR,ST,"$15,001 - $50,000",15001,50000,DOLLAR TREE MANAGEMENT,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
+C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Dollar Tree, Inc. (DLTR)",DLTR,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"DoorDash, Inc. - Common Stock (DASH)",DASH,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Dover Corporation (DOV),DOV,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Dow Inc. (DOW),DOW,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
@@ -16281,7 +16281,7 @@ C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Honeywell International Inc.
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Horace Mann Educators Corporation (HMN),HMN,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Host Hotels & Resorts, Inc. (HST)",HST,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Houlihan Lokey, Inc. Class A (HLI)",HLI,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
-C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
+C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,HP Inc. (HPQ),HPQ,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Humana Inc. Common Stock (HUM),HUM,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Huntington Bancshares Incorporated (HBAN),HBAN,ST,"$1,001 - $15,000",1001,15000,HUNTINGTON BANCSHARES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
@@ -16438,7 +16438,7 @@ C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Revvity, Inc. (RVTY)",RVTY,
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Rheinmetall Ag Ordinary Shares (RNMBF),RNMBF,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Robinhood Markets, Inc. - Class A Common Stock (HOOD)",HOOD,ST,"$1,001 - $15,000",1001,15000,ROBINHOOD MARKETS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Rockwell Automation, Inc. (ROK)",ROK,ST,"$1,001 - $15,000",1001,15000,ROCKWELL AUTOMATION,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
-C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$15,001 - $50,000",15001,50000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
+C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Ross Stores, Inc. (ROST)",ROST,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Royal Caribbean Cruises Ltd. Common Stock (RCL),RCL,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,RTX Corporation Common Stock (RTX),RTX,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
@@ -16472,7 +16472,7 @@ C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"SS&C Technologies Holdings,
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"Stag Industrial, Inc. (STAG)",STAG,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,"StandardAero, Inc. Common Stock (SARO)",SARO,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,Starbucks Corporation (SBUX),SBUX,ST,"$1,001 - $15,000",1001,15000,STARBUCKS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
-C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,State Street Corporation (STT),STT,ST,"$1,001 - $15,000",1001,15000,STATE STREET STRATEGIES DBA ONE STRATEGIES,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
+C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,State Street Corporation (STT),STT,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,State Street Financial Select Sector SPDR ETF (XLF),XLF,EF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,State Street Technology Select Sector SPDR ETF (XLK),XLK,EF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
 C001123,"Gilbert Ray Cisneros, Jr.",D,10074952,2025,STERIS plc (STE),STE,ST,"$15,001 - $50,000",15001,50000,STERIS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074952.pdf,first+last+state
@@ -16827,7 +16827,7 @@ C001068,Steve Cohen,D,10074620,2025,Amgen Inc. (AMGN),AMGN,ST,,,,AMGEN,exact_nor
 C001068,Steve Cohen,D,10074620,2025,AT&T Inc. (T),T,ST,"$15,001 - $50,000",15001,50000,AT T,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,"AutoZone, Inc. (AZO)",AZO,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,Preferred Stock (OZKAP),OZKAP,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
-C001068,Steve Cohen,D,10074620,2025,Barrick Gold Corporation (ABX),ABX,ST,,,,BARRICK GOLD NORTH,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
+C001068,Steve Cohen,D,10074620,2025,Barrick Gold Corporation (ABX),ABX,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,Berkshire Hathaway Inc. New (BRK.B),BRK.B,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,"BRADLEY CNTY TENN GO REF BDS 2019 3.000% 06/01/27                                                     $1,000",,GS,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,Capital Group Municipal Income ETF (CGMU),CGMU,EF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
@@ -16852,7 +16852,7 @@ C001068,Steve Cohen,D,10074620,2025,International Business Machines Corporation 
 C001068,Steve Cohen,D,10074620,2025,Invesco Variable Rate Preferred,,EF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,iShares Preferred and Income Securities ETF (PFF),PFF,EF,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,RFG & IMPT MED CTR,,GS,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
-C001068,Steve Cohen,D,10074620,2025,UNIVERSITY HEALTH,,CS,"$15,001 - $50,000",15001,50000,UNIVERSITY HEALTH SYSTEM,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
+C001068,Steve Cohen,D,10074620,2025,UNIVERSITY HEALTH,,CS,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,REV REF-COVENANT HLTH,,GS,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,REV RFDG-COVENANT HLTH SER A OPT ERP,,GS,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,Marriott International - Class A (MAR),MAR,ST,,,,MARRIOTT INTERNATIONAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
@@ -16885,7 +16885,7 @@ C001068,Steve Cohen,D,10074620,2025,AMT NON ACE-ISSUE 4B REVENUE ERP OPT/MAN,,GS
 C001068,Steve Cohen,D,10074620,2025,AMT NON ACE-SER 2B REV BONDS ERP OPTIONAL,,GS,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,ISSUE 3 REV BDS ERP OPT/MAND,,GS,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,ISSUE 3 REVENUE BONDS ERP MANDATORY,,CS,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
-C001068,Steve Cohen,D,10074620,2025,Toyota Motor Corporation (TM),TM,ST,"$15,001 - $50,000",15001,50000,TOYOTA MOTOR NORTH,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
+C001068,Steve Cohen,D,10074620,2025,Toyota Motor Corporation (TM),TM,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,United States Treas Bills Maturity 11/13/2025,,GS,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,United States Treas Bills Maturity 8/21/2025,,GS,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,US Treas Bill Mat 5/14/2026,,GS,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
@@ -16912,7 +16912,7 @@ C001068,Steve Cohen,D,10074620,2025,"FEDERATED HERMES ULTRASHORT BOND FUND CLASS
 C001068,Steve Cohen,D,10074620,2025,Fidelity Dividend ETF for Rising Rates,,EF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,First Horizon National Corporation (FHN),FHN,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,First Trust Enhanced Short Maturity ETF (FTSM),FTSM,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
-C001068,Steve Cohen,D,10074620,2025,"Healthpeak Properties, Inc. (PEAK)",PEAK,ST,"$15,001 - $50,000",15001,50000,HEALTHPEAK PROPERTIES FKA PHYSICIANS REALTY TRUST,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
+C001068,Steve Cohen,D,10074620,2025,"Healthpeak Properties, Inc. (PEAK)",PEAK,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,International Business Machines Corporation (IBM),IBM,ST,,,,INTERNATIONAL BUSINESS MACHINES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,"LORD ABBETT SHORT DURATION INCOME FUND CLASS F                  $100,000",,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,Microsoft Corporation (MSFT),MSFT,ST,,,,MICROSOFT,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
@@ -16925,7 +16925,7 @@ C001068,Steve Cohen,D,10074620,2025,Short-Term Bond Fund of America - Class F-3 
 C001068,Steve Cohen,D,10074620,2025,Sony Corporation (SNE),SNE,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,SONY FINL GROUP INC U/ADR (SFGYY),SFGYY,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,THORNBURG LIMITED-TERM INCOME FUND CLASS I,,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
-C001068,Steve Cohen,D,10074620,2025,Toyota Motor Corporation (TM),TM,ST,"$15,001 - $50,000",15001,50000,TOYOTA MOTOR NORTH,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
+C001068,Steve Cohen,D,10074620,2025,Toyota Motor Corporation (TM),TM,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,Walt Disney Company (DIS),DIS,ST,"$15,001 - $50,000",15001,50000,WALT DISNEY,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,WESTERN SHORT TERM BOND FUND CLASS IS,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
 C001068,Steve Cohen,D,10074620,2025,Tennessee Stable Value Fund,,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074620.pdf,first+last+state
@@ -18226,8 +18226,8 @@ D000032,Byron Donalds,R,10075306,2025,"Comfort Systems USA, Inc. Common Stock (F
 D000032,Byron Donalds,R,10075306,2025,"Comfort Systems USA, Inc. Common Stock (FIX)",FIX,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075306.pdf,first+last+state
 D000032,Byron Donalds,R,10075306,2025,"Fortinet, Inc. - Common Stock (FTNT)",FTNT,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075306.pdf,first+last+state
 D000032,Byron Donalds,R,10075306,2025,"Fortinet, Inc. - Common Stock (FTNT)",FTNT,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075306.pdf,first+last+state
-D000032,Byron Donalds,R,10075306,2025,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075306.pdf,first+last+state
-D000032,Byron Donalds,R,10075306,2025,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075306.pdf,first+last+state
+D000032,Byron Donalds,R,10075306,2025,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075306.pdf,first+last+state
+D000032,Byron Donalds,R,10075306,2025,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075306.pdf,first+last+state
 D000032,Byron Donalds,R,10075306,2025,"IDEXX Laboratories, Inc. - Common Stock (IDXX)",IDXX,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075306.pdf,first+last+state
 D000032,Byron Donalds,R,10075306,2025,"IDEXX Laboratories, Inc. - Common Stock (IDXX)",IDXX,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075306.pdf,first+last+state
 D000032,Byron Donalds,R,10075306,2025,Intuit Inc. (INTU),INTU,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075306.pdf,first+last+state
@@ -18559,7 +18559,7 @@ E000300,Gabe Evans,R,10078293,2025,Fidelity Contrafund K6 (FLCNX),FLCNX,MF,,,,,,
 E000300,Gabe Evans,R,10078293,2025,Fidelity Freedom Blend 2050 Fund (FHAPX),FHAPX,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078293.pdf,last+state
 E000300,Gabe Evans,R,10078293,2025,PERA defined contribution retirement,,IH,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078293.pdf,last+state
 E000235,Mike Ezell,R,10075579,2025,First Federal Of Pascagoula,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075579.pdf,last+state
-E000235,Mike Ezell,R,10075579,2025,Credit Union),,BA,"$1,001 - $15,000",1001,15000,CREDIT UNION NATIONAL ASSOCIATION DBA S CREDIT UNIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075579.pdf,last+state
+E000235,Mike Ezell,R,10075579,2025,Credit Union),,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075579.pdf,last+state
 E000235,Mike Ezell,R,10075579,2025,Public Employees' Retirement System of Mississippi,,DB,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075579.pdf,last+state
 F000246,Pat Fallon,R,10073345,2025,Chase Bank Accounts,,BA,$1 - $200,1,200,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10073345.pdf,first+last+state
 F000246,Pat Fallon,R,10073345,2025,Employee Retirement System of TEXAS,,PE,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10073345.pdf,first+last+state
@@ -18693,7 +18693,7 @@ F000482,Julie Fedorchak,R,10077206,2025,Dimensional US Real Estate ETF (DFAR),DF
 F000482,Julie Fedorchak,R,10077206,2025,"Dimensional World ex U.S. Core Equity 2 ETF (DFAX)                     $500,000",DFAX,EF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10077206.pdf,first+last+state
 F000482,Julie Fedorchak,R,10077206,2025,"Dimensional World ex U.S. Core Equity 2 ETF (DFAX)                     $500,000",DFAX,EF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10077206.pdf,first+last+state
 F000482,Julie Fedorchak,R,10077206,2025,Checking,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10077206.pdf,first+last+state
-F000482,Julie Fedorchak,R,10077206,2025,Commercial Real Estate,,RP,,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10077206.pdf,first+last+state
+F000482,Julie Fedorchak,R,10077206,2025,Commercial Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10077206.pdf,first+last+state
 F000482,Julie Fedorchak,R,10077206,2025,Farmland,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10077206.pdf,first+last+state
 F000482,Julie Fedorchak,R,10077206,2025,Mineral Rights,,MO,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10077206.pdf,first+last+state
 F000482,Julie Fedorchak,R,10077206,2025,Nuveen Lifecycle 2030 Fund Retirement (TCLNX),TCLNX,MF,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10077206.pdf,first+last+state
@@ -19131,7 +19131,7 @@ F000474,Mike Flood,R,10077878,2025,Northwestern Mutual Life Insurance,,WU,"$5,00
 F000474,Mike Flood,R,10077878,2025,"Red Beacon Communications, L.L.C.",,OL,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10077878.pdf,first+last+state
 F000480,Vince Fong,R,10076689,2025,Bank of America,,BA,$1 - $200,1,200,BANK,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076689.pdf,first+last+state
 F000480,Vince Fong,R,10076689,2025,Boschma and Sons Dairy,,OL,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076689.pdf,first+last+state
-F000480,Vince Fong,R,10076689,2025,Capital One,,BA,"$2,501 - $5,000",2501,5000,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076689.pdf,first+last+state
+F000480,Vince Fong,R,10076689,2025,Capital One,,BA,"$2,501 - $5,000",2501,5000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076689.pdf,first+last+state
 F000480,Vince Fong,R,10076689,2025,New York Life,,WU,"$1,001 - $15,000",1001,15000,NEW YORK LIFE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076689.pdf,first+last+state
 F000480,Vince Fong,R,10076689,2025,"Residential Rental Property located in Bakersfield 93308 SP                $250,001 -         Rent           $15,001 -",,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076689.pdf,first+last+state
 F000480,Vince Fong,R,10076689,2025,Residential Rental Property located in Bakersfield 93314                   None               None,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076689.pdf,first+last+state
@@ -19528,7 +19528,7 @@ G000597,Andrew R. Garbarino,R,10076832,2025,Class (ADNCX),ADNCX,MF,"$15,001 - $5
 G000597,Andrew R. Garbarino,R,10076832,2025,AT&T Inc. (T),T,ST,"$1 - $1,000",1,1000,AT T,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076832.pdf,first+last+state
 G000597,Andrew R. Garbarino,R,10076832,2025,Intel Corporation - Common Stock (INTC),INTC,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076832.pdf,first+last+state
 G000597,Andrew R. Garbarino,R,10076832,2025,"MDU Resources Group, Inc. Common Stock (MDU)",MDU,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076832.pdf,first+last+state
-G000597,Andrew R. Garbarino,R,10076832,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076832.pdf,first+last+state
+G000597,Andrew R. Garbarino,R,10076832,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076832.pdf,first+last+state
 G000597,Andrew R. Garbarino,R,10076832,2025,The Growth Fund of America Class A Shares (AGTHX),AGTHX,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076832.pdf,first+last+state
 G000597,Andrew R. Garbarino,R,10076832,2025,Virtus KAR Mid-Cap Core Fund C (VMCCX),VMCCX,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076832.pdf,first+last+state
 G000597,Andrew R. Garbarino,R,10076832,2025,Zoetis Inc. Class A Common Stock (ZTS),ZTS,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076832.pdf,first+last+state
@@ -19772,10 +19772,10 @@ G000585,Jimmy Gomez,D,10076526,2025,Bank of America,,BA,"$15,001 - $50,000",1500
 G000585,Jimmy Gomez,D,10076526,2025,Bank of America,,BA,"$1,001 - $15,000",1001,15000,BANK,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
 G000585,Jimmy Gomez,D,10076526,2025,Bank of America,,BA,"$1,001 - $15,000",1001,15000,BANK,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
 G000585,Jimmy Gomez,D,10076526,2025,Bank of America,,BA,$1 - $200,1,200,BANK,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
-G000585,Jimmy Gomez,D,10076526,2025,Capital One,,BA,,,,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
-G000585,Jimmy Gomez,D,10076526,2025,Capital One,,BA,,,,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
-G000585,Jimmy Gomez,D,10076526,2025,Capital One,,BA,"$15,001 - $50,000",15001,50000,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
-G000585,Jimmy Gomez,D,10076526,2025,Capital One (SP),SP,BA,$1 - $200,1,200,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
+G000585,Jimmy Gomez,D,10076526,2025,Capital One,,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
+G000585,Jimmy Gomez,D,10076526,2025,Capital One,,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
+G000585,Jimmy Gomez,D,10076526,2025,Capital One,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
+G000585,Jimmy Gomez,D,10076526,2025,Capital One (SP),SP,BA,$1 - $200,1,200,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
 G000585,Jimmy Gomez,D,10076526,2025,"Empower Aggressive Profile Fund - Investor Class (MXAPX)                         $50,001 -               Tax-Deferred",MXAPX,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
 G000585,Jimmy Gomez,D,10076526,2025,Morningstar Lifetime Moderate,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
 G000585,Jimmy Gomez,D,10076526,2025,Prudential Jennison Equity Opportunity,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076526.pdf,first+last+state
@@ -19839,7 +19839,7 @@ G000604,Maggie Goodlander,D,10076838,2025,Activity Center,,RP,"$1,001 - $15,000"
 G000604,Maggie Goodlander,D,10076838,2025,Bank of America Account,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076838.pdf,first+last+state
 G000604,Maggie Goodlander,D,10076838,2025,Clubhouse Complex,,RP,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076838.pdf,first+last+state
 G000604,Maggie Goodlander,D,10076838,2025,CVS Building,,RP,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076838.pdf,first+last+state
-G000604,Maggie Goodlander,D,10076838,2025,Golf Course,,RP,"$1,001 - $15,000",1001,15000,GOLF COURSE SUPERINTENDENTS ASSOCIATION,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076838.pdf,first+last+state
+G000604,Maggie Goodlander,D,10076838,2025,Golf Course,,RP,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076838.pdf,first+last+state
 G000604,Maggie Goodlander,D,10076838,2025,Land Held for Development,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076838.pdf,first+last+state
 G000604,Maggie Goodlander,D,10076838,2025,Maintenance Building,,RP,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076838.pdf,first+last+state
 G000604,Maggie Goodlander,D,10076838,2025,Sales Office,,RP,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076838.pdf,first+last+state
@@ -19936,7 +19936,7 @@ G000583,Josh Gottheimer,D,10074410,2025,AT&T Inc. (T),T,ST,"$1,001 - $15,000",10
 G000583,Josh Gottheimer,D,10074410,2025,Coty Inc. Class A (COTY),COTY,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
 G000583,Josh Gottheimer,D,10074410,2025,"Darden Restaurants, Inc. (DRI)",DRI,ST,"$15,001 - $50,000",15001,50000,DARDEN RESTAURANTS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
 G000583,Josh Gottheimer,D,10074410,2025,Dell Technologies Inc. Class V (DVMT),DVMT,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
-G000583,Josh Gottheimer,D,10074410,2025,"Dollar Tree, Inc. (DLTR)",DLTR,ST,"$15,001 - $50,000",15001,50000,DOLLAR TREE MANAGEMENT,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
+G000583,Josh Gottheimer,D,10074410,2025,"Dollar Tree, Inc. (DLTR)",DLTR,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
 G000583,Josh Gottheimer,D,10074410,2025,Eli Lilly and Company (LLY),LLY,ST,,,,ELI LILLY,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
 G000583,Josh Gottheimer,D,10074410,2025,"Fidelity National Information Services, Inc. (FIS)",FIS,ST,None,,,FIDELITY NATIONAL INFORMATION SERVICES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
 G000583,Josh Gottheimer,D,10074410,2025,Ford Motor Company (F),F,ST,"$15,001 - $50,000",15001,50000,FORD MOTOR,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
@@ -20094,7 +20094,7 @@ G000583,Josh Gottheimer,D,10074410,2025,"ICU Medical, Inc. (ICUI)",ICUI,ST,"$1,0
 G000583,Josh Gottheimer,D,10074410,2025,"IDACORP, Inc. (IDA)",IDA,ST,"$1,001 - $15,000",1001,15000,IDACORP,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
 G000583,Josh Gottheimer,D,10074410,2025,"Independence Realty Trust, Inc. Common Stock (IRT)",IRT,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
 G000583,Josh Gottheimer,D,10074410,2025,Independent Bank Corp. (INDB),INDB,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
-G000583,Josh Gottheimer,D,10074410,2025,Infineon Technologies AG (IFNNY),IFNNY,ST,None,,,INFINEON TECHNOLOGIES AMERICAS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
+G000583,Josh Gottheimer,D,10074410,2025,Infineon Technologies AG (IFNNY),IFNNY,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
 G000583,Josh Gottheimer,D,10074410,2025,Insmed Incorporated (INSM),INSM,ST,"$1,001 - $15,000",1001,15000,INSMED,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
 G000583,Josh Gottheimer,D,10074410,2025,"Intapp, Inc. - Common Stock (INTA)",INTA,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
 G000583,Josh Gottheimer,D,10074410,2025,Intercontinental Exchange Inc. Common Stock (ICE),ICE,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074410.pdf,first+last+state
@@ -21954,7 +21954,7 @@ J000304,Ronny Jackson,R,10075233,2025,ConocoPhillips (COP),COP,ST,"$1,001 - $15,
 J000304,Ronny Jackson,R,10075233,2025,Exxon Mobil Corporation (XOM),XOM,ST,"$1,001 - $15,000",1001,15000,EXXON MOBIL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075233.pdf,first+last+state
 J000304,Ronny Jackson,R,10075233,2025,Ford Motor Company (F),F,ST,"$1,001 - $15,000",1001,15000,FORD MOTOR,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075233.pdf,first+last+state
 J000304,Ronny Jackson,R,10075233,2025,General Motors Company (GM),GM,ST,"$1,001 - $15,000",1001,15000,GENERAL MOTORS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075233.pdf,first+last+state
-J000304,Ronny Jackson,R,10075233,2025,Howmet Aerospace Inc. (HWM),HWM,ST,"$15,001 - $50,000",15001,50000,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075233.pdf,first+last+state
+J000304,Ronny Jackson,R,10075233,2025,Howmet Aerospace Inc. (HWM),HWM,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075233.pdf,first+last+state
 J000304,Ronny Jackson,R,10075233,2025,"JFB Construction Holdings - Class A Common Stock (JFB)           JT        $1 - $1,000         Dividends           $1 - $200",JFB,ST,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075233.pdf,first+last+state
 J000304,Ronny Jackson,R,10075233,2025,Navy Federal Credit Union Active Duty Checking Account,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075233.pdf,first+last+state
 J000304,Ronny Jackson,R,10075233,2025,Navy Federal Credit Union Membership Savings Account,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075233.pdf,first+last+state
@@ -22319,7 +22319,7 @@ J000310,Julie Johnson,D,10075196,2025,Gen Digital Inc. - Common Stock (GEN),GEN,
 J000310,Julie Johnson,D,10075196,2025,Genuine Parts Company Common Stock (GPC),GPC,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,"HCA Healthcare, Inc. (HCA)",HCA,ST,None,,,HCA HEALTHCARE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Honeywell International Inc. (HON),HON,ST,None,,,HONEYWELL INTERNATIONAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
-J000310,Julie Johnson,D,10075196,2025,Howmet Aerospace Inc. (HWM),HWM,ST,None,,,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
+J000310,Julie Johnson,D,10075196,2025,Howmet Aerospace Inc. (HWM),HWM,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Intercontinental Exchange Inc. Common Stock (ICE),ICE,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,International Paper Company Common Stock (IP),IP,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Intuit Inc. (INTU),INTU,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
@@ -22457,7 +22457,7 @@ J000310,Julie Johnson,D,10075196,2025,Coca-Cola Company (KO),KO,ST,"$1,001 - $15
 J000310,Julie Johnson,D,10075196,2025,Comcast Corporation - Class A (CMCSA),CMCSA,ST,None,,,COMCAST,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Comerica Incorporated (CMA),CMA,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,"ConAgra Brands, Inc. (CAG)",CAG,ST,None,,,CONAGRA BRANDS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
-J000310,Julie Johnson,D,10075196,2025,"Consolidated Edison, Inc. (ED)",ED,ST,"$1,001 - $15,000",1001,15000,CONSOLIDATED EDISON NEW YORK,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
+J000310,Julie Johnson,D,10075196,2025,"Consolidated Edison, Inc. (ED)",ED,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Corning Incorporated Common Stock (GLW),GLW,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,"Corpay, Inc. Common Stock (CPAY)",CPAY,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,"Corteva, Inc. (CTVA)",CTVA,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
@@ -22497,7 +22497,7 @@ J000310,Julie Johnson,D,10075196,2025,Hewlett Packard Enterprise Company (HPE),H
 J000310,Julie Johnson,D,10075196,2025,Hilton Worldwide Holdings Inc. (HLT),HLT,ST,"$1,001 - $15,000",1001,15000,HILTON WORLDWIDE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,"Home Depot, Inc. (HD)",HD,ST,"$1,001 - $15,000",1001,15000,HOME DEPOT,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Honeywell International Inc. (HON),HON,ST,None,,,HONEYWELL INTERNATIONAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
-J000310,Julie Johnson,D,10075196,2025,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
+J000310,Julie Johnson,D,10075196,2025,Howmet Aerospace Inc. (HWM),HWM,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Illinois Tool Works Inc. (ITW),ITW,ST,"$1,001 - $15,000",1001,15000,ILLINOIS TOOL WORKS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Intercontinental Exchange Inc. (ICE),ICE,ST,"$1,001 - $15,000",1001,15000,INTERCONTINENTAL EXCHANGE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,International Business Machines Corporation (IBM),IBM,ST,"$1,001 - $15,000",1001,15000,INTERNATIONAL BUSINESS MACHINES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
@@ -22560,7 +22560,7 @@ J000310,Julie Johnson,D,10075196,2025,"Raymond James Financial, Inc. Common Stoc
 J000310,Julie Johnson,D,10075196,2025,Regions Financial Corporation Common Stock (RF),RF,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,"Republic Services, Inc. (RSG)",RSG,ST,"$1,001 - $15,000",1001,15000,REPUBLIC SERVICES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,ResMed Inc. (RMD),RMD,ST,"$1,001 - $15,000",1001,15000,RESMED,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
-J000310,Julie Johnson,D,10075196,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
+J000310,Julie Johnson,D,10075196,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Royal Caribbean Cruises Ltd. (RCL),RCL,ST,"$15,001 - $50,000",15001,50000,ROYAL CARIBBEAN CRUISES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,RTX Corporation (RTX),RTX,ST,"$1,001 - $15,000",1001,15000,RTX,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,S&P Global Inc. (SPGI),SPGI,ST,"$1,001 - $15,000",1001,15000,S P GLOBAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
@@ -22568,7 +22568,7 @@ J000310,Julie Johnson,D,10075196,2025,"Salesforce, Inc. (CRM)",CRM,ST,,,,SALESFO
 J000310,Julie Johnson,D,10075196,2025,"Simon Property Group, Inc. (SPG)",SPG,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Southern Company (SO),SO,ST,"$1,001 - $15,000",1001,15000,SOUTHERN,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Starbucks Corporation (SBUX),SBUX,ST,None,,,STARBUCKS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
-J000310,Julie Johnson,D,10075196,2025,State Street Corporation (STT),STT,ST,"$1,001 - $15,000",1001,15000,STATE STREET STRATEGIES DBA ONE STRATEGIES,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
+J000310,Julie Johnson,D,10075196,2025,State Street Corporation (STT),STT,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Synchrony Financial Common Stock (SYF),SYF,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Sysco Corporation Common Stock (SYY),SYY,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,"T-Mobile US, Inc. (TMUS)",TMUS,ST,"$1,001 - $15,000",1001,15000,T MOBILE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
@@ -22576,7 +22576,7 @@ J000310,Julie Johnson,D,10075196,2025,"Tapestry, Inc. Common Stock (TPR)",TPR,ST
 J000310,Julie Johnson,D,10075196,2025,Tax Efficient Core Cash Account,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,"Tesla, Inc. (TSLA)",TSLA,ST,None,,,TESLA,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Texas Instruments Incorporated (TXN),TXN,ST,"$1,001 - $15,000",1001,15000,TEXAS INSTRUMENTS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
-J000310,Julie Johnson,D,10075196,2025,"The Travelers Companies, Inc. (TRV)",TRV,ST,"$1,001 - $15,000",1001,15000,TRAVELERS COMPANIES SUBSIDIARIES,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
+J000310,Julie Johnson,D,10075196,2025,"The Travelers Companies, Inc. (TRV)",TRV,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Thermo Fisher Scientific Inc (TMO),TMO,ST,"$1,001 - $15,000",1001,15000,THERMO FISHER SCIENTIFIC,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,"TJX Companies, Inc. (TJX)",TJX,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
 J000310,Julie Johnson,D,10075196,2025,Truist Financial Corporation (TFC),TFC,ST,"$1,001 - $15,000",1001,15000,TRUIST FINANCIAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075196.pdf,first+last+state
@@ -22998,7 +22998,7 @@ K000398,"Thomas H. Kean, Jr.",R,10075136,2025,"Amentum Holdings, Inc. Common Sto
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Aon plc Class A Ordinary Shares (AON),AON,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Apple Inc. (AAPL),AAPL,ST,,,,APPLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,AT&T Inc. (T),T,ST,"$1,001 - $15,000",1001,15000,AT T,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
-K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Berkshire Hathaway Inc. (BRK.A),BRK.A,ST,None,,,BERKSHIRE HATHAWAY ENERGY,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
+K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Berkshire Hathaway Inc. (BRK.A),BRK.A,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Cash,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Chubb Limited (CB),CB,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,"Citigroup, Inc. (C)",C,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
@@ -23011,7 +23011,7 @@ K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Intercontinental Exchange Inc. (IC
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,iShares Core U.S. Aggregate Bond ETF (AGG),AGG,EF,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Jacobs Solutions Inc. Common Stock (J),J,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Johnson & Johnson (JNJ),JNJ,ST,,,,JOHNSON JOHNSON,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
-K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Liberty Global plc - Class C Ordinary Shares (LBTYK),LBTYK,ST,"$1,001 - $15,000",1001,15000,LIBERTY GLOBAL LOGISTICS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
+K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Liberty Global plc - Class C Ordinary Shares (LBTYK),LBTYK,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Stock (LLYVA),LLYVA,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Liberty Media Corporation - Series C Liberty Braves (BATRK),BATRK,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Stock (LLYVK),LLYVK,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
@@ -23045,7 +23045,7 @@ K000398,"Thomas H. Kean, Jr.",R,10075136,2025,"Charter Communications, Inc. - Cl
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Colgate-Palmolive Company (CL),CL,ST,"$1,001 - $15,000",1001,15000,COLGATE PALMOLIVE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,ConocoPhillips (COP),COP,ST,"$15,001 - $50,000",15001,50000,CONOCOPHILLIPS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,"Heartland Express, Inc. (HTLD)",HTLD,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
-K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Howmet Aerospace Inc. (HWM),HWM,ST,None,,,HOWMET AEROSPACE FORMALLY KNOWN AS ARCONIC,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
+K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Howmet Aerospace Inc. (HWM),HWM,ST,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,International Business Machines Corporation (IBM),IBM,ST,"$1,001 - $15,000",1001,15000,INTERNATIONAL BUSINESS MACHINES,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Jacobs Solutions Inc. Common Stock (J),J,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
 K000398,"Thomas H. Kean, Jr.",R,10075136,2025,Johnson & Johnson (JNJ),JNJ,ST,"$15,001 - $50,000",15001,50000,JOHNSON JOHNSON,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075136.pdf,first+last+state
@@ -23511,7 +23511,7 @@ K000392,David Kustoff,R,10076393,2025,AMERICA NEW PERSPECTIVE CLASS A,,MF,"$1,00
 K000392,David Kustoff,R,10076393,2025,AMERICAN CAPITAL INCOME BUILDER CL A,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076393.pdf,first+last+state
 K000392,David Kustoff,R,10076393,2025,American Funds EuroPacific Growth A (AEPGX),AEPGX,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076393.pdf,first+last+state
 K000392,David Kustoff,R,10076393,2025,AMERICAN GROWTH FUND OF AMERICA CLASS A,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076393.pdf,first+last+state
-K000392,David Kustoff,R,10076393,2025,AMERICAN INVESTMENT CO OF AMERICA,,MF,"$1,001 - $15,000",1001,15000,AMERICAN INVESTMENT COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076393.pdf,first+last+state
+K000392,David Kustoff,R,10076393,2025,AMERICAN INVESTMENT CO OF AMERICA,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076393.pdf,first+last+state
 K000392,David Kustoff,R,10076393,2025,AMERICAN WASHNTN MUTUAL INVESTRS CL A,,MF,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076393.pdf,first+last+state
 K000392,David Kustoff,R,10076393,2025,FIDELITY GOVERNMENT CASH,,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076393.pdf,first+last+state
 K000392,David Kustoff,R,10076393,2025,Alphabet Inc. - Class A (GOOGL),GOOGL,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076393.pdf,first+last+state
@@ -23752,7 +23752,7 @@ L000560,Rick Larsen,D,10075151,2025,Abbott Laboratories Common Stock (ABT),ABT,S
 L000560,Rick Larsen,D,10075151,2025,Alphabet Inc. - Class A Common Stock (GOOGL),GOOGL,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075151.pdf,first+last+state
 L000560,Rick Larsen,D,10075151,2025,"American Electric Power Company, Inc. (AEP)",AEP,ST,"$1,001 - $15,000",1001,15000,AMERICAN ELECTRIC POWER,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075151.pdf,first+last+state
 L000560,Rick Larsen,D,10075151,2025,American Express Company Common Stock (AXP),AXP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075151.pdf,first+last+state
-L000560,Rick Larsen,D,10075151,2025,"American Water Works Company, Inc. (AWK)",AWK,ST,"$1,001 - $15,000",1001,15000,AMERICAN WATER WORKS ASSOCIATION,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075151.pdf,first+last+state
+L000560,Rick Larsen,D,10075151,2025,"American Water Works Company, Inc. (AWK)",AWK,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075151.pdf,first+last+state
 L000560,Rick Larsen,D,10075151,2025,Market,,BA,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075151.pdf,first+last+state
 L000560,Rick Larsen,D,10075151,2025,Amgen Inc. (AMGN),AMGN,ST,"$1,001 - $15,000",1001,15000,AMGEN,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075151.pdf,first+last+state
 L000560,Rick Larsen,D,10075151,2025,Apple Inc. (AAPL),AAPL,ST,"$1,001 - $15,000",1001,15000,APPLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075151.pdf,first+last+state
@@ -24429,7 +24429,7 @@ L000582,Ted Lieu,D,10078282,2025,Wells Fargo Account for Austin Lieu,,BA,"$1,001
 L000582,Ted Lieu,D,10078282,2025,Wells Fargo PMA Bank Accounts,,BA,$1 - $200,1,200,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078282.pdf,first+last+state
 L000397,Zoe Lofgren,D,10074949,2025,California Public Employee Retirement System,,DB,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074949.pdf,first+last+state
 L000397,Zoe Lofgren,D,10074949,2025,Deskworks Inc.,,PS,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074949.pdf,first+last+state
-L000397,Zoe Lofgren,D,10074949,2025,First Citizens Bank,,BA,None,,,FIRST CITIZENS BANK TRUST,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074949.pdf,first+last+state
+L000397,Zoe Lofgren,D,10074949,2025,First Citizens Bank,,BA,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074949.pdf,first+last+state
 L000397,Zoe Lofgren,D,10074949,2025,"John Marshall Collins PC, 100% Interest",,OL,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074949.pdf,first+last+state
 L000397,Zoe Lofgren,D,10074949,2025,Residential Rental Property,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074949.pdf,first+last+state
 L000397,Zoe Lofgren,D,10074949,2025,Ser. D,,GS,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074949.pdf,first+last+state
@@ -24632,7 +24632,7 @@ M000317,Nicole Malliotakis,R,10076820,2025,Bank of America Corporation (BAC),BAC
 M000317,Nicole Malliotakis,R,10076820,2025,Boeing Company (BA),BA,ST,"$15,001 - $50,000",15001,50000,BOEING,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076820.pdf,first+last+state
 M000317,Nicole Malliotakis,R,10076820,2025,"Caterpillar, Inc. (CAT)",CAT,ST,"$15,001 - $50,000",15001,50000,CATERPILLAR,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076820.pdf,first+last+state
 M000317,Nicole Malliotakis,R,10076820,2025,Chase Savings & CD,,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076820.pdf,first+last+state
-M000317,Nicole Malliotakis,R,10076820,2025,"Consolidated Edison, Inc. (ED)",ED,ST,"$15,001 - $50,000",15001,50000,CONSOLIDATED EDISON NEW YORK,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076820.pdf,first+last+state
+M000317,Nicole Malliotakis,R,10076820,2025,"Consolidated Edison, Inc. (ED)",ED,ST,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076820.pdf,first+last+state
 M000317,Nicole Malliotakis,R,10076820,2025,Exxon Mobil Corporation (XOM),XOM,ST,"$15,001 - $50,000",15001,50000,EXXON MOBIL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076820.pdf,first+last+state
 M000317,Nicole Malliotakis,R,10076820,2025,Ford Motor Credit Note,,CS,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076820.pdf,first+last+state
 M000317,Nicole Malliotakis,R,10076820,2025,Franklin Dynatech,,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076820.pdf,first+last+state
@@ -24925,7 +24925,7 @@ M001208,Lucy McBath,D,10074842,2025,QUALCOMM Incorporated - Common Stock (QCOM),
 M001208,Lucy McBath,D,10074842,2025,"Regeneron Pharmaceuticals, Inc. - Common Stock (REGN)",REGN,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074842.pdf,last+state
 M001208,Lucy McBath,D,10074842,2025,"Republic Services, Inc. Common Stock (RSG)",RSG,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074842.pdf,last+state
 M001208,Lucy McBath,D,10074842,2025,ResMed Inc. Common Stock (RMD),RMD,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074842.pdf,last+state
-M001208,Lucy McBath,D,10074842,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,,,,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074842.pdf,last+state
+M001208,Lucy McBath,D,10074842,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074842.pdf,last+state
 M001208,Lucy McBath,D,10074842,2025,RTX Corporation Common Stock (RTX),RTX,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074842.pdf,last+state
 M001208,Lucy McBath,D,10074842,2025,S&P Global Inc. Common Stock (SPGI),SPGI,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074842.pdf,last+state
 M001208,Lucy McBath,D,10074842,2025,"Salesforce, Inc. Common Stock (CRM)",CRM,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074842.pdf,last+state
@@ -26142,9 +26142,9 @@ M001205,Carol D. Miller,R,10076025,2025,EuroPacific Growth Fund Cl R-6 (RERGX),R
 M001205,Carol D. Miller,R,10076025,2025,Fidelity Small Cap Index Fund (FSSNX),FSSNX,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
 M001205,Carol D. Miller,R,10076025,2025,"T. Rowe Price Mid-Cap Growth Fund, Inc. (RPMGX)",RPMGX,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
 M001205,Carol D. Miller,R,10076025,2025,Vanguard Growth Index Fd Admiral Shs (VIGAX),VIGAX,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,None,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
 M001205,Carol D. Miller,R,10076025,2025,Residential Real Estate,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
 M001205,Carol D. Miller,R,10076025,2025,Residential Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
 M001205,Carol D. Miller,R,10076025,2025,"Dutch Miller of Wytheville, LLC",,OL,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
@@ -26152,15 +26152,15 @@ M001205,Carol D. Miller,R,10076025,2025,Proteon Corporation,,OL,None,,,,,https:/
 M001205,Carol D. Miller,R,10076025,2025,"Dutch Miller Acquisition Company II, LLC",,OL,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
 M001205,Carol D. Miller,R,10076025,2025,"Dutch Miller Acquisition Company III, LLC",,OL,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
 M001205,Carol D. Miller,R,10076025,2025,"Dutch Miller Acquisition Company, LLC",,OL,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,None,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
-M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,None,,,COMMERCIAL REAL ESTATE FINANCE COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
+M001205,Carol D. Miller,R,10076025,2025,Commercial Real Estate,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
 M001205,Carol D. Miller,R,10076025,2025,"Hilltop Investment Group, LLC",,OL,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
 M001205,Carol D. Miller,R,10076025,2025,Residential Real Estate,,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
 M001205,Carol D. Miller,R,10076025,2025,Residential Real Estate,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076025.pdf,first+last+state
@@ -26948,7 +26948,7 @@ M001217,Jared Moskowitz,D,10074897,2025,"Pepsico, Inc. (PEP)",PEP,ST,None,,,PEPS
 M001217,Jared Moskowitz,D,10074897,2025,Procter & Gamble Company (PG),PG,ST,"$1,001 - $15,000",1001,15000,PROCTER GAMBLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,Public Service Enterprise Group Incorporated (PEG),PEG,ST,"$15,001 - $50,000",15001,50000,PUBLIC SERVICE ENTERPRISE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,QUALCOMM Incorporated (QCOM),QCOM,ST,"$15,001 - $50,000",15001,50000,QUALCOMM,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
-M001217,Jared Moskowitz,D,10074897,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
+M001217,Jared Moskowitz,D,10074897,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,RPM International Inc. (RPM),RPM,ST,"$15,001 - $50,000",15001,50000,RPM INTERNATIONAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,S&P Global Inc. (SPGI),SPGI,ST,"$15,001 - $50,000",15001,50000,S P GLOBAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,"Salesforce, Inc. (CRM)",CRM,ST,None,,,SALESFORCE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
@@ -27036,7 +27036,7 @@ M001217,Jared Moskowitz,D,10074897,2025,"Pepsico, Inc. (PEP)",PEP,ST,None,,,PEPS
 M001217,Jared Moskowitz,D,10074897,2025,Procter & Gamble Company (PG),PG,ST,"$1,001 - $15,000",1001,15000,PROCTER GAMBLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,Public Service Enterprise Group Incorporated (PEG),PEG,ST,"$1,001 - $15,000",1001,15000,PUBLIC SERVICE ENTERPRISE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,QUALCOMM Incorporated (QCOM),QCOM,ST,"$1,001 - $15,000",1001,15000,QUALCOMM,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
-M001217,Jared Moskowitz,D,10074897,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
+M001217,Jared Moskowitz,D,10074897,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,RPM International Inc. (RPM),RPM,ST,"$1,001 - $15,000",1001,15000,RPM INTERNATIONAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,S&P Global Inc. (SPGI),SPGI,ST,"$1,001 - $15,000",1001,15000,S P GLOBAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,Sherwin-Williams Company (SHW),SHW,ST,"$1,001 - $15,000",1001,15000,SHERWIN WILLIAMS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
@@ -27095,7 +27095,7 @@ M001217,Jared Moskowitz,D,10074897,2025,Oracle Corporation Common Stock (ORCL),O
 M001217,Jared Moskowitz,D,10074897,2025,Procter & Gamble Company (PG),PG,ST,"$1,001 - $15,000",1001,15000,PROCTER GAMBLE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,Public Service Enterprise Group Incorporated (PEG),PEG,ST,"$1,001 - $15,000",1001,15000,PUBLIC SERVICE ENTERPRISE,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,QUALCOMM Incorporated (QCOM),QCOM,ST,"$1,001 - $15,000",1001,15000,QUALCOMM,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
-M001217,Jared Moskowitz,D,10074897,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,ROPER TECHNOLOGIES O B O DAT SOLUTIONS,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
+M001217,Jared Moskowitz,D,10074897,2025,"Roper Technologies, Inc. (ROP)",ROP,ST,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,RPM International Inc. (RPM),RPM,ST,"$1,001 - $15,000",1001,15000,RPM INTERNATIONAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,S&P Global Inc. (SPGI),SPGI,ST,"$1,001 - $15,000",1001,15000,S P GLOBAL,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
 M001217,Jared Moskowitz,D,10074897,2025,Sherwin-Williams Company (SHW),SHW,ST,None,,,SHERWIN WILLIAMS,exact_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074897.pdf,first+last+state
@@ -27317,7 +27317,7 @@ N000026,Troy E. Nehls,R,10081643,2025,Brazos Valley Credit Union,,BA,"$1,001 - $
 N000026,Troy E. Nehls,R,10081643,2025,Brazos Valley Credit Union,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081643.pdf,first+last+state
 N000026,Troy E. Nehls,R,10081643,2025,Brazos Valley Credit Union,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081643.pdf,first+last+state
 N000026,Troy E. Nehls,R,10081643,2025,Brazos Valley Credit Union,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081643.pdf,first+last+state
-N000026,Troy E. Nehls,R,10081643,2025,Capital One,,BA,"$1,001 - $15,000",1001,15000,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081643.pdf,first+last+state
+N000026,Troy E. Nehls,R,10081643,2025,Capital One,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081643.pdf,first+last+state
 N000026,Troy E. Nehls,R,10081643,2025,"FIMM Treasury Portfolio: Institutional Class (FRBXX)          SP        $15,001 - $50,000 Dividends             $201 - $1,000",FRBXX,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081643.pdf,first+last+state
 N000026,Troy E. Nehls,R,10081643,2025,Great American fixed annuity,,FN,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081643.pdf,first+last+state
 N000026,Troy E. Nehls,R,10081643,2025,Mass Mutual Ascend Universal Life Ins,,OT,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081643.pdf,first+last+state
@@ -28280,7 +28280,7 @@ P000197,Nancy Pelosi,D,10075701,2025,Wells Fargo Bank - Checking Account,,BA,"$1
 P000605,Scott Perry,R,10075876,2025,Adams County National Bank,,BA,"$1 - $1,000",1,1000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075876.pdf,first+last+state
 P000605,Scott Perry,R,10075876,2025,Commonwealth of PA SERS,,DB,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075876.pdf,first+last+state
 P000605,Scott Perry,R,10075876,2025,Members First Credit Union,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075876.pdf,first+last+state
-P000605,Scott Perry,R,10075876,2025,Northwestern Mutual,,WU,"$15,001 - $50,000",15001,50000,NORTHWESTERN MUTUAL LIFE INSURANCE,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075876.pdf,first+last+state
+P000605,Scott Perry,R,10075876,2025,Northwestern Mutual,,WU,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075876.pdf,first+last+state
 P000605,Scott Perry,R,10075876,2025,Pennsylvania State Employees Credit Union,,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075876.pdf,first+last+state
 P000605,Scott Perry,R,10075876,2025,"Residential Rental - Dillsburg, PA",,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075876.pdf,first+last+state
 P000605,Scott Perry,R,10075876,2025,"Residential Rental - Harrisburg, PA",,RP,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10075876.pdf,first+last+state
@@ -28561,7 +28561,7 @@ R000621,Emily Randall,D,10076237,2025,State of Washington - Department of Retire
 R000621,Emily Randall,D,10076237,2025,2050 Retirement Strategy Fund,,OT,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076237.pdf,first+last+state
 R000606,Jamie Raskin,D,10076353,2025,"Bank of America, N.A. - Checking",,BA,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076353.pdf,first+last+state
 R000606,Jamie Raskin,D,10076353,2025,"Bank of America, N.A. - Checking",,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076353.pdf,first+last+state
-R000606,Jamie Raskin,D,10076353,2025,"Capital One, N.A.",,BA,,,,CAPITAL ONE FINANCIAL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076353.pdf,first+last+state
+R000606,Jamie Raskin,D,10076353,2025,"Capital One, N.A.",,BA,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076353.pdf,first+last+state
 R000606,Jamie Raskin,D,10076353,2025,Citibank - 5-Year Retirement CD - Matures 4/12/2026,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076353.pdf,first+last+state
 R000606,Jamie Raskin,D,10076353,2025,HarperCollins Publishers LLC,,IP,Undetermined,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076353.pdf,first+last+state
 R000606,Jamie Raskin,D,10076353,2025,Harvard University Employees Credit Union,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10076353.pdf,first+last+state
@@ -30036,7 +30036,7 @@ S001185,Terri A. Sewell,D,10081495,2025,Amer Funds Amcap,,MF,"$15,001 - $50,000"
 S001185,Terri A. Sewell,D,10081495,2025,Amer Funds Washington,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081495.pdf,first+last+state
 S001185,Terri A. Sewell,D,10081495,2025,American Euro Pacific,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081495.pdf,first+last+state
 S001185,Terri A. Sewell,D,10081495,2025,American Growth Fund,,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081495.pdf,first+last+state
-S001185,Terri A. Sewell,D,10081495,2025,American Investment Co.,,MF,,,,AMERICAN INVESTMENT COUNCIL,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081495.pdf,first+last+state
+S001185,Terri A. Sewell,D,10081495,2025,American Investment Co.,,MF,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081495.pdf,first+last+state
 S001185,Terri A. Sewell,D,10081495,2025,Columbia Large Cap,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081495.pdf,first+last+state
 S001185,Terri A. Sewell,D,10081495,2025,Eaton Vance Income Fund,,MF,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081495.pdf,first+last+state
 S001185,Terri A. Sewell,D,10081495,2025,Money Mkt Fund Rsrvs CL1,,IH,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10081495.pdf,first+last+state
@@ -31148,7 +31148,7 @@ T000482,Lori Trahan,D,10075586,2025,"Residential Property Located in Washington,
 T000491,Derek Tran,D,10074943,2025,Bank of America bank account,,BA,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074943.pdf,first+last+state
 T000491,Derek Tran,D,10074943,2025,Chase bank account,,BA,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074943.pdf,first+last+state
 T000491,Derek Tran,D,10074943,2025,"Nguyen Win, Inc.",,OL,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074943.pdf,first+last+state
-T000491,Derek Tran,D,10074943,2025,Pacific Life (fixed annuity),,FN,,,,PACIFIC LIFE INSURANCE,prefix_norm,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074943.pdf,first+last+state
+T000491,Derek Tran,D,10074943,2025,Pacific Life (fixed annuity),,FN,,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074943.pdf,first+last+state
 T000491,Derek Tran,D,10074943,2025,Residential real property,,RP,None,,,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074943.pdf,first+last+state
 T000491,Derek Tran,D,10074943,2025,"The Tran Firm, Inc.",,OL,"$15,001 - $50,000",15001,50000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074943.pdf,first+last+state
 T000491,Derek Tran,D,10074943,2025,USAA bank account,,BA,"$1,001 - $15,000",1001,15000,,,https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10074943.pdf,first+last+state

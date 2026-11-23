@@ -107,7 +107,7 @@ Sources
 Files
 - `stock_transactions.csv` House + Senate STOCK Act transactions: member, owner, asset, ticker, type, dates, amount range (min/max), LD-2 org match for the company.
 - `edges_member_company_trades.csv` member -> asset (ticker), counts, purchase/sale split, summed range bounds, LD-2 org (company that lobbies).
-  Company->LD-2 match: exact normalized name, else the most-filed LD-2 org whose key starts with the company key (prefix_norm, medium).
+  Company->LD-2 match: exact normalized name only (prefix matching was tried and disabled because it produced false positives).
 - `senate_annual_holdings.csv` Senate annual-report Part 3 assets (holdings) with LD-2 org match; `senate_annual_gifts.csv` (Part 5),
   `senate_annual_travel_reimbursements.csv` (Part 6).
 - `house_privately_funded_travel.csv` each trip: member office, traveler (member or staff), destination, dates, sponsor, LD-2 org match.

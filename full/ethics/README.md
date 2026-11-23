@@ -1,4 +1,4 @@
-# Ethics layer (built 2026-11-22T21:14:37-05:00)
+# Ethics layer (built 2026-11-22T21:14:56-05:00)
 
 Sources
 - House Clerk financial disclosure index `<year>FD.zip` (2023-2026) and electronic periodic transaction report PDFs
@@ -11,7 +11,7 @@ Sources
 Files
 - `stock_transactions.csv` House + Senate STOCK Act transactions: member, owner, asset, ticker, type, dates, amount range (min/max), LD-2 org match for the company.
 - `edges_member_company_trades.csv` member -> asset (ticker), counts, purchase/sale split, summed range bounds, LD-2 org (company that lobbies).
-  Company->LD-2 match: exact normalized name, else the most-filed LD-2 org whose key starts with the company key (prefix_norm, medium).
+  Company->LD-2 match: exact normalized name only (prefix matching was tried and disabled because it produced false positives).
 - `senate_annual_holdings.csv` Senate annual-report Part 3 assets (holdings) with LD-2 org match; `senate_annual_gifts.csv` (Part 5),
   `senate_annual_travel_reimbursements.csv` (Part 6).
 - `house_privately_funded_travel.csv` each trip: member office, traveler (member or staff), destination, dates, sponsor, LD-2 org match.
@@ -28,27 +28,27 @@ Stats
 {
  "house_tx": 16165,
  "house_tx_bioguide": 16150,
- "house_tx_org": 3485,
+ "house_tx_org": 3435,
  "senate_tx": 3986,
  "senate_tx_bioguide": 3986,
- "senate_tx_org": 954,
+ "senate_tx_org": 947,
  "house_travel": 7206,
  "house_travel_bioguide": 7193,
- "house_travel_org": 748,
+ "house_travel_org": 720,
  "house_fd_assets": 31981,
- "house_fd_assets_org": 3678,
+ "house_fd_assets_org": 3574,
  "house_fd_H": 346,
  "house_fd_G": 18,
  "house_annual_holdings_rows": 31981,
  "house_annual_gift_travel_rows": 364,
- "member_company_holding_edges": 2000,
+ "member_company_holding_edges": 1942,
  "stock_tx_rows": 20151,
  "member_company_edges": 8814,
  "senate_holdings": 36916,
  "senate_gifts": 36,
  "senate_travel": 100,
  "travel_sponsor_edges": 4427,
- "built_at": "2026-11-22T21:14:34-05:00"
+ "built_at": "2026-11-22T21:14:53-05:00"
 }
 ```
 
@@ -68,7 +68,7 @@ Match keys used across all four folders
 Row counts
 | file | rows |
 |---|---|
-| `edges_member_company_holdings.csv` | 2,000 |
+| `edges_member_company_holdings.csv` | 1,942 |
 | `edges_member_company_trades.csv` | 8,814 |
 | `edges_travel_sponsor_to_member.csv` | 5,116 |
 | `house_annual_gifts_travel.csv` | 364 |
@@ -91,3 +91,4 @@ Row counts
 - 2026-11-22T21:13:40-05:00: rebuilt; counts above.
 - 2026-11-22T21:13:50-05:00: rebuilt; counts above.
 - 2026-11-22T21:14:38-05:00: rebuilt; counts above.
+- 2026-11-22T21:14:56-05:00: rebuilt; counts above.
