@@ -1,0 +1,15 @@
+{
+ "computed_at": "2026-11-22T20:37:49-05:00",
+ "companies": 198,
+ "with_def14a": 180,
+ "board_edges": 2212,
+ "by_conf": {
+  "high_form345_and_proxy": 1999,
+  "medium_form345_only": 175,
+  "medium_form345_no_proxy_text": 38
+ },
+ "lobbyist_matched": 0,
+ "member_matched": 6,
+ "interlocks": 216,
+ "ambiguous": 81
+}

@@ -1,0 +1,5 @@
+raw/
+*.log
+edges_org_to_org_grants.csv
+irs527_contributions_2023_26.csv
+irs527_expenditures_2023_26.csv

@@ -1,0 +1,26 @@
+{
+ "computed_at": "2026-11-22T20:36:13-05:00",
+ "filings_parsed": 1463,
+ "filing_errors": 0,
+ "orgs": 1463,
+ "people_rows": 41144,
+ "people_lobbyist_matched": 1018,
+ "people_lobbyist_by_conf": {
+  "medium_unique": 360,
+  "high_org_link": 658
+ },
+ "people_member_matched": 87,
+ "people_member_by_conf": {
+  "medium_name_former_member": 87
+ },
+ "ambiguous": 1510,
+ "grant_rows": 122674,
+ "grant_usd": 34777514075,
+ "grant_usd_ok": 34173587471,
+ "grants_flagged": 26,
+ "grants_to_990_set": 3483,
+ "related_rows": 13285,
+ "schedC_527_rows": 2887,
+ "schedC_527_fec_matched": 282,
+ "nonprofit_to_superpac_rows": 512
+}

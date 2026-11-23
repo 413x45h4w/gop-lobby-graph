@@ -1,0 +1,17 @@
+{
+ "computed_at": "2026-11-22T20:10:14-05:00",
+ "raw_rows": 124850,
+ "dedup_rows": 104907,
+ "rows_to_current_members": 34209,
+ "usd_all_ok": 7695289978,
+ "excluded_rows": 37,
+ "excluded_usd": 81437536728,
+ "usd_to_current_members": 1989127770,
+ "by_cycle_member_usd": {
+  "2024": 898682087,
+  "2026": 1090445682
+ },
+ "edges": 3541,
+ "members": 404,
+ "spenders": 780
+}

@@ -1,0 +1,18 @@
+{
+ "computed_at": "2026-11-22T20:29:40-05:00",
+ "stats": {
+  "rows": 28103904,
+  "client_org_rows": 4227,
+  "memo_skipped": 32514,
+  "client_employee_rows": 273498,
+  "name_hit": 185493,
+  "rej_no_evidence": 180954,
+  "conduit_skipped": 19755808,
+  "high_employer_matches_registrant": 2967,
+  "low_dc_area_professional": 941,
+  "ambiguous": 286,
+  "medium_lobbying_occupation": 345,
+  "registrant_org_rows": 62,
+  "pre2023": 1608
+ }
+}

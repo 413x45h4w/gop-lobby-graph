@@ -1,0 +1,82 @@
+kind,candidates,basis,director_name,company
+lobbyist,117138,"name match only, common surname",Davis Robert Matthews,"ALTRIA GROUP, INC."
+lobbyist,139695,"name match only, common surname",Smith Gordon,COMCAST CORP
+member,S001142,former member name but common surname (140 lobbyist name keys),Smith Gordon,COMCAST CORP
+member,W000789,former member name but common surname (47 lobbyist name keys),Wilson Heather A,LOCKHEED MARTIN CORP
+lobbyist,142560,"name match only, common surname",Taylor Teresa,"T-Mobile US, Inc."
+lobbyist,152478,"name match only, common surname",ROGERS BRIAN C,RTX Corp
+lobbyist,17652|57469,2 same-name lobbyists,SMITH JAMES C,PFIZER INC
+lobbyist,150570|7215,2 same-name lobbyists,Richardson John M,BOEING CO
+lobbyist,29160,"name match only, common surname",SLATER RODNEY E,VERIZON COMMUNICATIONS INC
+lobbyist,79433,"name match only, common surname",COOK TIMOTHY D,Apple Inc.
+lobbyist,65518|73017,2 same-name lobbyists,SMITH WILLIAM G JR,SOUTHERN CO
+lobbyist,46279,"name match only, common surname",STANTON JOHN W,MICROSOFT CORP
+lobbyist,139478,"name match only, common surname",BAKER DOUGLAS M JR,"Merck & Co., Inc."
+lobbyist,117138,"name match only, common surname",Davis Robert M,"Merck & Co., Inc."
+lobbyist,116662,"name match only, common surname",FLYNN TIMOTHY PATRICK,UNITEDHEALTH GROUP INC
+lobbyist,145995,"name match only, common surname",ROSE MATTHEW K,AT&T INC.
+lobbyist,60201,"name match only, common surname",BURKE KEVIN,HONEYWELL INTERNATIONAL INC
+lobbyist,116662,"name match only, common surname",FLYNN TIMOTHY PATRICK,Walmart Inc.
+lobbyist,107358,"name match only, common surname",Ross Kimberly A.,Cigna Group
+lobbyist,117138,"name match only, common surname",Davis Robert M,Duke Energy CORP
+lobbyist,1057,unique name in lobbyist universe; surname shared by 3 lobbyist name keys; no org link,CAHILL JOHN T,American Airlines Group Inc.
+lobbyist,54178,"name match only, common surname",Smith Gregory D,American Airlines Group Inc.
+lobbyist,139404|62338,2 same-name lobbyists,HART MATTHEW J,American Airlines Group Inc.
+member,C001068,name equals a CURRENT member with no congressional context (likely namesake),Cohen Stephen Andrew,Palantir Technologies Inc.
+lobbyist,56429,"name match only, common surname",Pease Robert W,Phillips 66
+lobbyist,39553,"name match only, common surname",Adams Gary Kramer,Phillips 66
+lobbyist,54178,"name match only, common surname",Smith Gregory D,INTEL CORP
+lobbyist,71445,"name match only, common surname",Burck William A,Fox Corp
+lobbyist,67304,"name match only, common surname",Ryan Paul D,Fox Corp
+member,R000570,former member name but common surname (30 lobbyist name keys),Ryan Paul D,Fox Corp
+lobbyist,139695,"name match only, common surname",Smith Gordon,HUMANA INC
+member,S001142,former member name but common surname (140 lobbyist name keys),Smith Gordon,HUMANA INC
+lobbyist,155175,unique name in lobbyist universe; surname shared by 2 lobbyist name keys; no org link,WEINBERG DAVID B,COCA COLA CO
+lobbyist,141629,"name match only, common surname",Davis Christopher C,COCA COLA CO
+lobbyist,138365,"name match only, common surname",Bailey Jennifer,PEPSICO INC
+lobbyist,67266,unique name in lobbyist universe; surname shared by 2 lobbyist name keys; no org link,Dahlberg Gregory R,"Leidos Holdings, Inc."
+lobbyist,144927,"name match only, common surname",MCKEON BRIAN P,Alkermes plc.
+lobbyist,121845,"name match only, common surname",SULLIVAN ANDREW F,PRUDENTIAL FINANCIAL INC
+lobbyist,58218,"name match only, common surname",MCCARTHY MICHAEL R,UNION PACIFIC CORP
+lobbyist,145995,"name match only, common surname",ROSE MATTHEW K,FLUOR CORP
+lobbyist,66601,unique name in lobbyist universe; surname shared by 2 lobbyist name keys; no org link,Mulligan John J,MCDONALDS CORP
+lobbyist,145587,"name match only, common surname",OBRIEN JAMES J /KY,EASTMAN CHEMICAL CO
+lobbyist,49725,"name match only, common surname",Portman Robert Jones,PROCTER & GAMBLE Co
+lobbyist,149760|153244|64122|68946,4 same-name lobbyists,Jones Christopher T,NORFOLK SOUTHERN CORP
+lobbyist,18071,"name match only, common surname",Clyburn William Jr.,NORFOLK SOUTHERN CORP
+lobbyist,33497,"name match only, common surname",CAMPBELL JEFFREY C,Marathon Petroleum Corp
+lobbyist,144559,"name match only, common surname",Rodgers Richard J,"ARDELYX, INC."
+lobbyist,67545,"name match only, common surname",Stone John H,CUMMINS INC
+lobbyist,71558,"name match only, common surname",MILLER WILLIAM I,CUMMINS INC
+lobbyist,141021,"name match only, common surname",LYNCH THOMAS J,CUMMINS INC
+lobbyist,66077,"name match only, common surname",Fisher Daniel William,CUMMINS INC
+lobbyist,154932,"name match only, common surname",BURGESS ROBERT K,NVIDIA CORP
+lobbyist,145188,"name match only, common surname",SMITH PATRICK W,"AXON ENTERPRISE, INC."
+lobbyist,147618,"name match only, common surname",Kennedy Patrick,Jazz Pharmaceuticals plc
+member,K000113,former member name but common surname (21 lobbyist name keys),Kennedy Patrick,Jazz Pharmaceuticals plc
+lobbyist,123695|56449|61411,3 same-name lobbyists,Smith Mark Douglas,Jazz Pharmaceuticals plc
+lobbyist,149760|153244|64122|68946,4 same-name lobbyists,Jones Christopher Ian Montague,BECTON DICKINSON & CO
+lobbyist,146983|68238,2 same-name lobbyists,Brown William M,BECTON DICKINSON & CO
+lobbyist,152478,"name match only, common surname",ROGERS BRIAN C,LOWES COMPANIES INC
+lobbyist,46019,"name match only, common surname",Riley H Sanford,MOLSON COORS BEVERAGE CO
+lobbyist,79433,"name match only, common surname",COOK TIMOTHY D,"NIKE, Inc."
+lobbyist,141287|147450,2 same-name lobbyists,Henry Peter B.,"NIKE, Inc."
+lobbyist,149133|59746,2 same-name lobbyists,JOHNSON JENNIFER M,THERMO FISHER SCIENTIFIC INC.
+lobbyist,66054,"name match only, common surname",MULLEN JAMES C,THERMO FISHER SCIENTIFIC INC.
+lobbyist,139829,"name match only, common surname",BROWN GREGORY Q,"Motorola Solutions, Inc."
+lobbyist,60356,"name match only, common surname",Rice Brian S,"Albertsons Companies, Inc."
+lobbyist,60990,"name match only, common surname",Williams Steven W,Alcoa Corp
+lobbyist,139247|63233,2 same-name lobbyists,BROWN MICHAEL S,"REGENERON PHARMACEUTICALS, INC."
+lobbyist,66672,unique name in lobbyist universe; surname shared by 3 lobbyist name keys; no org link,KEARNEY CHRISTOPHER J,NUCOR CORP
+lobbyist,141688|3649|65463,3 same-name lobbyists,MILLER JEFFREY A,"ServiceNow, Inc."
+member,M001144,former member name but common surname (99 lobbyist name keys),MILLER JEFFREY A,"ServiceNow, Inc."
+lobbyist,146523|73301,2 same-name lobbyists,ROGERS WILLIAM H JR,TRUIST FINANCIAL CORP
+lobbyist,139719,"name match only, common surname",SIMON DAVID,"Apollo Global Management, Inc."
+lobbyist,139478,"name match only, common surname",BAKER DOUGLAS M JR,TARGET CORP
+member,F000261|F000262,2 legislators share the name,Ford Harold Eugene Jr.,CME GROUP INC.
+lobbyist,153078|155526|72596,3 same-name lobbyists,Johnson James C,AMEREN CORP
+lobbyist,137542,"name match only, common surname",SMITH ELIZABETH A,BROWN FORMAN CORP
+lobbyist,139431,"name match only, common surname",Brown Elizabeth M,BROWN FORMAN CORP
+lobbyist,145587,"name match only, common surname",OBRIEN JAMES J /KY,ALBEMARLE CORP
+member,A000383,name equals a CURRENT member with no congressional context (likely namesake),ARMSTRONG ALAN S,"WILLIAMS COMPANIES, INC."
+lobbyist,138385|139043|149456|152274,4 same-name lobbyists,Urban David,Science Applications International Corp
