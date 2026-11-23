@@ -1,0 +1,18 @@
+{
+ "house_tx": 16165,
+ "house_tx_bioguide": 16150,
+ "house_tx_org": 3631,
+ "senate_tx": 3986,
+ "senate_tx_bioguide": 3986,
+ "senate_tx_org": 970,
+ "house_travel": 7206,
+ "house_travel_bioguide": 7193,
+ "house_travel_org": 775,
+ "stock_tx_rows": 20151,
+ "member_company_edges": 8814,
+ "senate_holdings": 3493,
+ "senate_gifts": 11,
+ "senate_travel": 11,
+ "travel_sponsor_edges": 4427,
+ "built_at": "2026-11-22T20:27:37-05:00"
+}

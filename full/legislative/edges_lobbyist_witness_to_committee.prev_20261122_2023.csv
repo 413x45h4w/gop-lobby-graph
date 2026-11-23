@@ -1,0 +1,1214 @@
+lobbyist_person_ids,lobbyist,witness_name_as_listed,lda_org_key,hearing_id,date,committee_code,match_type,confidence
+144819,JOSHUA NASSAR,Mr. Josh Nassar,,house:115170,2022-09-29,HSCN,name_only_unique,low
+140883,SAMANTHA SLOAN,Ms. Samantha Sloan,FIRST SOLAR,house:115170,2022-09-29,HSCN,name+org_in_lda,high
+65618,MICHAEL PLUNKETT,Mr. Michael Plunkett,,house:115186,2022-11-16,HSGO24,name_only_unique,low
+66645,HEATHER ANSLEY,Ms. Heather Ansley,PARALYZED VETERANS,house:115198,2022-11-17,HSPW05,name+org_in_lda,high
+152774,ANNE KELLY,Dr. Anne Kelly,,house:115205,2022-12-06,HSSY,name_only_unique,low
+150009,STEVE BERG,Ms. Steve Berg,NATIONAL ALLIANCE TO END HOMELESSNESS,house:115209,2022-12-06,HSVR10,name+org_in_lda,high
+143860,KAITLYNNE YANCY,Ms. Kaitlynne Yancy,IRAQ AFGHANISTAN VETERANS,house:115209,2022-12-06,HSVR10,name+org_in_lda,high
+115461,DANA JOHNSON,Ms. Dana Johnson,,house:115211,2022-12-06,HSCN,name_only_unique,low
+146084,ALEJANDRA CASTILLO,The Honorable Alejandra Castillo,,house:115219,2022-12-14,HSSY15,name_only_unique,low
+96158,MARK PAOLETTA,Mr. Mark R. Paoletta,SCHAERR JAFFE,house:115220,2022-12-08,HSJU,name+org_in_lda,high
+145613,DANIEL DIAZ,Daniel Garcia-Diaz,,house:115225,2022-12-06,HSBA13,name_only_unique,low
+25904,PAUL KIM,Dr. Paul Kim,,house:115235,2022-12-13,HSVR,name_only_unique,low
+67296,JOHN RAY,John J. Ray III,,house:115246,2022-12-13,HSBA,name_only_unique,low
+55807,NICHOLAS CALIO,Mr. Nicholas E. Calio,AIRLINES FOR,house:115255,2022-02-03,HSPW05,name_only_unique,low
+72819,CLETE WILLEMS,Mr. Clete Willems,,house:115279,2023-02-07,HSBA,name_only_unique,low
+84028,ERIK MILITO,Mr. Erik Milito,NATIONAL OCEAN INDUSTRIES ASSOCIATION,house:115287,2023-02-08,HSII,name+org_in_lda,high
+115461,DANA JOHNSON,Ms. Dana Johnson,,house:115287,2023-02-08,HSII,name_only_unique,low
+140245,RENITA MARCELLIN,Ms. Renita Marcellin,AMERICANS FOR FINANCIAL REFORM,house:115290,2023-02-08,HSBA20,name+org_in_lda,high
+71787,MARK WILLIAMS,Mr. Mark Williams,,house:115291,2023-02-08,HSPW02,name_only_unique,low
+144823,SUSAN BODINE,Ms. Susan Parker Bodine,,house:115291,2023-02-08,HSPW02,name_only_unique,low
+61396,MATTHEW PAXTON,Mr. Matthew Paxton,SHIPBUILDERS COUNCIL,house:115292,2023-02-08,HSAS,name+org_in_lda,high
+66337,ELLIOT WILLIAMS,Mr. Elliot Williams,RABEN,house:115294,2023-02-09,HSFD,name+org_in_lda,high
+148147,AARON MINTZES,Mr. Aaron Mintzes,EARTHWORKS,house:115298,2023-02-09,HSII15,name+org_in_lda,high
+153618,BERNARD MCNAMEE,The Honorable Bernard McNamee,,house:115306,2023-02-07,HSIF,name_only_unique,low
+65050,WILLIAM RICHARDSON,Mr. William Richardson,,house:115337,2023-02-08,HSIF16,name_only_unique,low
+137766,JACK MCMANUS,Mr. Jack McManus,VIETNAM VETERANS,house:115358,2023-03-01,HSVR,name+org_in_lda,high
+30928,PETER FRIEDMANN,Mr. Peter Friedmann,AGRICULTURE TRANSPORTATION COALITION,house:115364,2023-02-28,HSAG,name+org_in_lda,high
+71453,CORY TITUS,Mr. Cory Titus,MILITARY OFFICERS ASSOCIATION,house:115370,2023-03-08,HSVR,name+org_in_lda,high
+140763,BRIAN JOHNSON,Mr. Brian Johnson,,house:115384,2023-03-09,HSBA20,name_only_unique,low
+152234,LARRY BUCSHON,The Honorable Larry Bucshon,,house:115399,2023-03-08,HSHA,name_only_unique,low
+50158,AURENE MARTIN,Aurene Martin,,house:115411,2023-03-08,HSAP06,name_only_unique,low
+65518,WILLIAM SMITH,William Smith,,house:115413,2023-03-09,HSAP06,name_only_unique,low
+65161,JOE DAVIS,Joe Davis,HOOPA VALLEY TRIBE,house:115414,2023-03-09,HSAP06,name_only_unique,low
+151847,TRISTAN BROWN,Mr. Tristan Brown,,house:115415,2023-03-08,HSPW14,name_only_unique,low
+50525,ANDREW BLACK,Mr. Andrew Black,LIQUID ENERGY PIPELINE ASSOCIATION,house:115415,2023-03-08,HSPW14,name+org_in_lda,high
+140796,JAMIESON GREER,Mr. Jamieson Greer,KING SPALDING,house:115441,2023-03-08,HSJU03,name+org_in_lda,high
+152044,JAMES RODRIGUEZ,Mr. James Rodriguez,,house:115444,2023-03-09,HSVR10,name_only_unique,low
+149015,KEVIN HOLLINGER,Mr. Kevin C. Hollinger,,house:115444,2023-03-09,HSVR10,name_only_unique,low
+61731,DANIEL SCHUMAN,Daniel Schuman,,house:115451,2023-03-24,HSAP24,name_only_unique,low
+119967,MICHAEL STERN,Michael Stern,,house:115451,2023-03-24,HSAP24,name_only_unique,low
+43195,JAMES ASSEY,James Assey,,house:115463,2023-03-10,HSIF16,name_only_unique,low
+151554,MICHAEL WILSON,Mr. Michael Wilson,,house:115483,2023-03-28,HSSM27,name_only_unique,low
+154157,JARED BASS,Mr. Jared C. Bass,,house:115507,2023-03-23,HSAP07,name_only_unique,low
+140323,KATHERINE MCGUIRE,Ms. Katherine Brunett McGuire,AMERICAN PSYCHOLOGICAL ASSOCIATION SERVICES,house:115507,2023-03-23,HSAP07,name_only_unique,low
+69946,LISA ELLMAN,Ms. Lisa Ellman,COMMERCIAL DRONE ALLIANCE,house:115517,2023-03-23,HSSY,name+org_in_lda,high
+30414,SHARON PINKERTON,Ms. Sharon Pinkerton,AIRLINES FOR,house:115520,2023-03-23,HSPW05,name_only_unique,low
+55839,JOSHUA SEWELL,Mr. Joshua Sewell,,house:115524,2023-03-28,HSII13,name_only_unique,low
+152178,BRYAN NEWLAND,The Honorable Bryan Newland,,house:115538,2023-03-24,HSII24,name_only_unique,low
+150199,KRISTINA KEENAN,Ms. Kristina J. Keenan,VETERANS FOREIGN WARS UNITED STATES,house:115547,2023-03-29,HSVR09,name+org_in_lda,high
+68880,SHANE LIERMANN,Mr. Shane Liermann,DISABLED AMERICAN VETERANS,house:115547,2023-03-29,HSVR09,name+org_in_lda,high
+70842,LAWRENCE MONTREUIL,Mr. Lawrence Montreuil,AMERICAN LEGION,house:115547,2023-03-29,HSVR09,name+org_in_lda,high
+15722,KAREN KERRIGAN,Ms. Karen Kerrigan,SMALL BUSINESS ENTREPRENEURSHIP COUNCIL,house:115552,2023-03-23,HSWM02,name+org_in_lda,high
+71342,MORGAN BROWN,Mr. Morgan Brown,PARALYZED VETERANS,house:115553,2023-03-29,HSVR03,name+org_in_lda,high
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,house:115553,2023-03-29,HSVR03,name+org_in_lda,high
+153181,MICHAEL REGAN,The Honorable Michael Regan,,house:115554,2023-03-28,HSAP06,name_only_unique,low
+144370,WILLIAM ALLEN,"Mr. William H. ""Buddy"" Allen",AMERICAN COTTON SHIPPERS ASSOCIATION,house:115559,2023-03-28,HSPW07,name+org_in_lda,high
+70199,JOSEPH GARCIA,Mr. Joseph Garcia,,house:115560,2023-03-30,HSVR10,name_only_unique,low
+141116,TAMMY BARLET,Ms. Tammy Barlet,STUDENT VETERANS,house:115560,2023-03-30,HSVR10,name+org_in_lda,high
+143111,MATTHEW BRENNAN,Mr. Matthew Brennan,AMERICAN LEGION,house:115560,2023-03-30,HSVR10,name+org_in_lda,high
+143270,PATRICK MURRAY,Mr. Patrick Murray,,house:115560,2023-03-30,HSVR10,name_only_unique,low
+154061,JOHN RAPP,Mr. John Rapp,,house:115589,2023-03-30,HSAP01,name_only_unique,low
+148694,ROBERTO ZULETA RODRIGUEZ,The Honorable Roberto Rodriguez,POLICY DEVELOPMENT,house:115601,2023-03-29,HSJU13,name_only_unique,low
+147876,CHRIS WHITE,Mr. Chris White,SAN JOAQUIN RIVER EXCHANGE CONTRACTORS WATER AUTHORITY,house:115646,2023-04-11,HSII13,name_only_unique,low
+153214,THOMAS SAUER,Mr. Thomas B. Sauer,MIRAMAR HEALTH,house:115655,2023-04-18,HSVR03,name_only_unique,low
+148986,ANDREW BREMBERG,The Honorable Andrew Bremberg,,house:115671,2023-04-20,HSFA06,name_only_unique,low
+139931,DONALD DAVIS,The Honorable Donald G. Davis,,house:115682,2023-04-18,HSPW,name_only_unique,low
+153181,MICHAEL REGAN,The Honorable Michael S. Regan,,house:115684,2023-04-19,HSAG,name_only_unique,low
+134766,TROY MILLER,Mr. Troy Miller,,house:115692,2023-04-19,HSAP15,name_only_unique,low
+404,KEVIN O'CONNOR,Mr. Kevin B. O'Connor,INTERNATIONAL ASSOCIATION FIRE FIGHTERS,house:115736,2023-05-11,HSSY15,name+org_in_lda,high
+142578,MICHAEL SAPERSTEIN,Mr. Michael Saperstein,WIRELESS INFRASTRUCTURE ASSOCIATION,house:115750,2023-04-19,HSIF16,name+org_in_lda,high
+87065,LOUIS FINKEL,Mr. Louis Finkel,NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION,house:115750,2023-04-19,HSIF16,name+org_in_lda,high
+144885,ERNESTO FALCON,Mr. Ernesto Falcon,ELECTRONIC FRONTIER FOUNDATION,house:115750,2023-04-19,HSIF16,name+org_in_lda,high
+139133,ROY HOUSEMAN,Mr. Roy Houseman,UNITED STEELWORKERS,house:115766,2023-04-18,,name_only_unique,low
+17987,JOEL WHITE,Mr. Joel White,COUNCIL FOR AFFORDABLE HEALTH COVERAGE,house:115795,2023-04-26,HSED02,name+org_in_lda,high
+9533,ASHLEY THOMPSON,Ms. Ashley Thompson,AMERICAN HOSPITAL ASSOCIATION,house:115801,2023-04-26,HSIF14,name+org_in_lda,high
+50530,KRISTIN BASS,Ms. Kristin Bass,PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION,house:115801,2023-04-26,HSIF14,name+org_in_lda,high
+61060,BRIAN CONNELL,Mr. Brian Connell,,house:115801,2023-04-26,HSIF14,name_only_unique,low
+68192,ILYSE SCHUMAN,Ms. Ilyse Schuman,AMERICAN BENEFITS COUNCIL,house:115801,2023-04-26,HSIF14,name+org_in_lda,high
+49283,ANDREW MOORE,Mr. Andrew Moore,CANOLA ASSOCIATION,house:115802,2023-04-26,HSAG16,name_only_unique,low
+145658,ASHLEY NUNES,Dr. Ashley Nunes,BREAKTHROUGH INSTITUTE,house:115807,2023-04-26,HSIF18,name_only_unique,low
+149124,DANIEL SIMMONS,The Honorable Daniel R. Simmons,,house:115807,2023-04-26,HSIF18,name_only_unique,low
+139307,ANNE REINKE,Ms. Anne Reinke,TRANSPORTATION INTERMEDIARIES ASSOCIATION,house:115824,2023-05-10,HSPW12,name+org_in_lda,high
+150245|63347,DAVID FIALKOV,Mr. David Fialkov,NATSO,house:115824,2023-05-10,HSPW12,name+org_in_lda,high
+140343,COLE SCANDAGLIA,Mr. Cole Scandaglia,INTERNATIONAL BROTHERHOOD TEAMSTERS,house:115824,2023-05-10,HSPW12,name+org_in_lda,high
+73272,CHRIS JAHN,Mr. Chris Jahn,AMERICAN CHEMISTRY COUNCIL,house:115825,2023-05-11,HSPW14,name+org_in_lda,high
+143418,BRANDON FARRIS,Mr. Brandon Farris,NATIONAL ASSOCIATION MANUFACTURERS,house:115826,2023-05-16,HSPW02,name+org_in_lda,high
+55094,AMANDA JEZEK,Ms. Amanda Jezek,INFECTIOUS DISEASES SOCIETY,house:115850,2023-04-28,HSIF02,name+org_in_lda,high
+146434,SATYA THALLAM,Mr. Satya Thallam,,house:115858,2023-05-24,HSPW13,name_only_unique,low
+147862,HARMEET DHILLON,Ms. Harmeet K. Dhillon,DHILLON LAW,house:115880,2023-05-11,HSHA,name_only_unique,low
+150079,JESSICA LEWIS,The Honorable Jessica Lewis,,house:115884,2023-05-24,HSFA,name_only_unique,low
+143570,NAZAK NIKAKHTAR,The Honorable Nazak Nikakhtar,WILEY REIN,house:115902,2023-05-11,HSFA17,name+org_in_lda,high
+153181,MICHAEL REGAN,The Honorable Michael S. Regan,,house:115912,2023-05-10,HSIF18,name_only_unique,low
+71304,EDWARD DEMARCO,Mr. Edward J. DeMarco,HOUSING POLICY COUNCIL,house:115954,2023-05-17,HSBA04,name+org_in_lda,high
+152178,BRYAN NEWLAND,The Honorable Bryan Newland,,house:115957,2023-05-25,HSII24,name_only_unique,low
+80278,CARYN SCHENEWERK,Ms. Caryn Schenewerk,,house:115993,2023-07-13,HSSY,name_only_unique,low
+142754,KAREN HARNED,Karen Harned,HARNED STRATEGIES,house:116008,2023-05-24,HSBU,name+org_in_lda,high
+106092,JEFFREY BROWN,Mr. Jeffrey Brown,,house:116013,2023-05-24,HSWM01,name_only_unique,low
+148794,MARK ROSEN,Mr. Mark Rosen,INTERNATIONAL MONETARY FUND,house:116016,2023-05-25,HSBA10,name_only_unique,low
+142413,MICHAEL STUMO,Mr. Michael Stumo,COALITION FOR A PROSPEROUS,house:116018,2023-05-25,HSWM04,name+org_in_lda,high
+152178,BRYAN NEWLAND,The Honorable Bryan Newland,,house:116040,2023-06-07,HSII24,name_only_unique,low
+148871,MICHAEL NASI,Mr. Michael J. Nasi,,house:116048,2023-06-06,HSIF18,name_only_unique,low
+72805,TODD SNITCHLER,Mr. Todd Snitchler,ELECTRIC POWER SUPPLY ASSOCIATION,house:116048,2023-06-06,HSIF18,name+org_in_lda,high
+71535,CHARLES SPIES,Mr. Charles Spies,DICKINSON WRIGHT,house:116050,2023-06-07,HSHA,name+org_in_lda,high
+70219,ILEANA ROS-LEHTINEN,The Honorable Ileana Ros-Lehtinen,,house:116058,2023-06-07,,name_only_unique,low
+139510,PETER KING,The Honorable Peter King,,house:116058,2023-06-07,,name_only_unique,low
+71535,CHARLES SPIES,Mr. Charles Spies,DICKINSON WRIGHT,house:116064,2023-06-07,HSGO,name+org_in_lda,high
+71035,ROSCOE BUTLER,Mr. Roscoe Butler,PARALYZED VETERANS,house:116067,2023-06-13,HSVR03,name+org_in_lda,high
+153500,MICHAEL BRAIN,Mr. Michael Brain,,house:116079,2023-06-14,HSII13,name_only_unique,low
+147639,DEBRA NESBITT,Mrs. Debra Nesbitt,,house:116095,2023-06-13,HSAG22,name_only_unique,low
+104455,JESSICA BOWMAN,Ms. Jessica Bowman,,house:116095,2023-06-13,HSAG22,name_only_unique,low
+70199,JOSEPH GARCIA,Mr. Joseph Garcia,,house:116100,2023-06-14,HSVR10,name_only_unique,low
+152044,JAMES RODRIGUEZ,Mr. James Rodriguez,,house:116100,2023-06-14,HSVR10,name_only_unique,low
+149015,KEVIN HOLLINGER,Mr. Kevin Hollinger,,house:116100,2023-06-14,HSVR10,name_only_unique,low
+143270,PATRICK MURRAY,Mr. Patrick Murray,,house:116100,2023-06-14,HSVR10,name_only_unique,low
+56482,WILLIAM TIMMONS,The Honorable William R. Timmons,,house:116101,2023-06-22,HSVR,name_only_unique,low
+144750,ANTHONY CAMPAU,Mr. Anthony Campau,CLARK HILL PUBLIC STRATEGIES,house:116105,2023-06-14,HSGO,name+org_in_lda,high
+154204,COLE LYLE,Mr. Cole Lyle,,house:116113,2023-06-21,HSVR03,name_only_unique,low
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,house:116113,2023-06-21,HSVR03,name+org_in_lda,high
+404,KEVIN O'CONNOR,Mr. Kevin O'Connor,INTERNATIONAL ASSOCIATION FIRE FIGHTERS,house:116121,2023-06-14,HSIF14,name+org_in_lda,high
+72629,ANDREW BAILEY,The Honorable Andrew Bailey,,house:116126,2023-06-21,HSVC,name_only_unique,low
+43195,JAMES ASSEY,Mr. James Assey,NCTA INTERNET TELEVISION ASSOCIATION,house:116129,2023-06-21,HSAG,name+org_in_lda,high
+155780,DAVID ZUMWALT,Mr. David Zumwalt,WIRELESS INTERNET SERVICE PROVIDERS ASSOCIATION,house:116129,2023-06-21,HSAG,name_only_unique,low
+36264,SARA KENDALL,Ms. Sara Kendall,WESTERN ORGANIZATION RESOURCE COUNCILS,house:116134,2023-07-12,HSII06,name+org_in_lda,high
+152601,ZEPHRANIE BUETOW,The Honorable Zephranie Buetow,,house:116140,2023-06-22,HSJU13,name_only_unique,low
+72102,BRETT TOLMAN,Mr. Brett Tolman,,house:116141,2023-06-22,HSJU08,name_only_unique,low
+38294,GENEVIEVE CULLEN,Ms. Genevieve Cullen,ELECTRIC DRIVE TRANSPORTATION ASSOCIATION,house:116147,2023-06-22,HSIF18,name+org_in_lda,high
+62304,CHET THOMPSON,Mr. Chet Thompson,AMERICAN FUEL PETROCHEMICAL MANUFACTURERS,house:116147,2023-06-22,HSIF18,name+org_in_lda,high
+70619,GARRETT LEVIN,Mr. Garrett Levin,,house:116155,2023-06-27,HSJU03,name_only_unique,low
+140720,AISHA PITTMAN,Ms. Aisha Pittman,NATIONAL ASSOCIATION ACOS,house:116159,2023-06-22,HSIF02,name_only_unique,low
+143270,PATRICK MURRAY,Mr. Patrick Murray,,house:116186,2023-07-12,HSVR08,name_only_unique,low
+70199,JOSEPH GARCIA,Mr. Joseph Garcia,,house:116188,2023-07-13,HSVR10,name_only_unique,low
+150598,TED ALLEN,Mr. Ted Allen,SOCIETY FOR CORPORATE GOVERNANCE,house:116194,2023-07-12,HSBA,name_only_unique,low
+154204,COLE LYLE,Mr. Cole Lyle,MISSION ROLL CALL,house:116202,2023-07-18,HSVR,name_only_unique,low
+150199,KRISTINA KEENAN,Mr. Kristina Keenan,VETERANS FOREIGN WARS UNITED STATES,house:116202,2023-07-18,HSVR,name+org_in_lda,high
+73839,JONATHAN BERRY,Mr. Jonathan Berry,,house:116207,2023-07-13,HSBA,name_only_unique,low
+73839,JONATHAN BERRY,Mr. Jonathan Berry,,house:116207,2023-07-13,HSBA16,name_only_unique,low
+72547,GENE SCHAERR,Mr. Gene Schaerr,PROJECT FOR PRIVACY SURVEILLANCE ACCOUNTABILITY,house:116211,2023-07-14,HSJU08,name+org_in_lda,high
+147648,JEREMY VILLANUEVA,Mr. Jeremy Villanueva,WOUNDED WARRIOR PROJECT,house:116216,2023-07-20,HSII10,name_only_unique,low
+137944,GARY KALMAN,Mr. Gary Kalman,TRANSPARENCY INTERNATIONAL,house:116236,2023-07-18,HSBA10,name+org_in_lda,high
+70512,MICHAEL PARRISH,Mr. Michael Parrish,,house:116249,2023-07-20,HSVR11,name_only_unique,low
+62576,JEFFREY MERRIFIELD,The Honorable Jeffrey S. Merrifield,,house:116255,2023-07-18,HSIF03,name_only_unique,low
+140342,ANNE GORDON,Ms. Anne Gordon,NATIONAL FOREIGN TRADE COUNCIL,house:116256,2023-07-19,HSWM05,name+org_in_lda,high
+142720,EMMA MORRIS,Ms. Emma-Jo Morris,,house:116258,2023-07-20,HSFD,name_only_unique,low
+139504,MAYA WILEY,Ms. Maya Wiley,,house:116258,2023-07-20,HSFD,name_only_unique,low
+92480,JOHN BOZZELLA,Mr. John Bozzella,ALLIANCE FOR AUTOMOTIVE INNOVATION,house:116277,2023-07-26,HSIF17,name+org_in_lda,high
+47219,JOHN LYNCH,Dr. John Lynch,,house:116287,2023-07-27,HSVC,name_only_unique,low
+62324,JONATHAN MILLER,Mr. Jonathan S. Miller,HEMP ROUNDTABLE,house:116289,2023-07-27,HSGO27,name+org_in_lda,high
+138425,FRANCISCO SANCHEZ,Mr. Francisco Sánchez,,house:116300,2023-08-10,HSGO24,name_only_unique,low
+153959,SEAN COOKSEY,The Honorable Sean J. Cooksey,,house:116301,2023-09-20,HSHA,name_only_unique,low
+70199,JOSEPH GARCIA,Mr. Joseph Garcia,,house:116307,2023-09-20,HSVR10,name_only_unique,low
+66644,ANNE MEEHAN,Mrs. Anne Meehan,AMERICAN COUNCIL ON EDUCATION,house:116307,2023-09-20,HSVR10,name+org_in_lda,high
+153273,SEAN PRIBYL,Mr. Sean Pribyl,,house:116313,2023-09-19,HSPW07,name_only_unique,low
+111171,MICHAEL JOHNSON,Mr. Michael Johnson,SEA MACHINES ROBOTICS,house:116313,2023-09-19,HSPW07,name_only_unique,low
+52321,CORY SMITH,The Honorable Cory Smith,,house:116326,2023-09-19,HSII10,name_only_unique,low
+55757,CURTIS LEGEYT,Mr. Curtis LeGeyt,NATIONAL ASSOCIATION BROADCASTERS,house:116330,2023-09-13,HSIF16,name+org_in_lda,high
+140267,GRANT SPELLMEYER,Mr. Grant Spellmeyer,,house:116330,2023-09-13,HSIF16,name_only_unique,low
+65637,JONATHAN SCHWANTES,Mr. Jonathan Schwantes,CONSUMER REPORTS,house:116330,2023-09-13,HSIF16,name+org_in_lda,high
+115550,ANNE BASHAM,Ms. Anne Basham,,house:116344,2023-09-13,HSJU08,name_only_unique,low
+148135,JOHN PIZZURO,Mr. John Pizzuro,RAVEN,house:116344,2023-09-13,HSJU08,name+org_in_lda,high
+144640,FRANK RUSSO,Mr. Frank Russo,AMERICAN CONSERVATIVE UNION,house:116344,2023-09-13,HSJU08,name+org_in_lda,high
+84028,ERIK MILITO,Mr. Erik Milito,NATIONAL OCEAN INDUSTRIES ASSOCIATION,house:116346,2023-09-13,HSGO,name+org_in_lda,high
+46034,KEVIN MESSNER,Mr. Kevin Messner,ASSOCIATION HOME APPLIANCE MANUFACTURERS,house:116351,2023-09-13,HSIF03,name+org_in_lda,high
+67118,JENNIFER PODKUL,Ms. Jennifer Podkul,KIDS IN NEED DEFENSE,house:116353,2023-09-14,HSFA06,name+org_in_lda,high
+17987,JOEL WHITE,Mr. Joel White,COUNCIL FOR AFFORDABLE HEALTH COVERAGE,house:116357,2023-09-14,HSGO27,name+org_in_lda,high
+72016,MARIO LOYOLA,Mr. Mario Loyola,,house:116361,2023-09-14,HSII15,name_only_unique,low
+151109,JOSEPH BORELLI,The Honorable Joseph C. Borelli,,house:116364,2023-09-20,HSHM,name_only_unique,low
+43527,JEANETTE THORNTON,Ms. Jeanette Thornton,S HEALTH INSURANCE PLANS,house:116371,2023-09-19,HSWM,name+org_in_lda,high
+66451,CRAIG BURTON,Mr. Craig Burton,ASSOCIATION FOR ACCESSIBLE MEDICINES,house:116373,2023-09-19,HSGO,name+org_in_lda,high
+18361,LORI REILLY,Ms. Lori Reilly,PHRMA,house:116373,2023-09-19,HSGO,name_only_unique,low
+70512,MICHAEL PARRISH,Mr. Michael D. Parrish,,house:116374,2023-09-20,HSVR08,name_only_unique,low
+149408,MELISSA BARBER,"Dr. Melissa Barber, PhD",,house:116376,2023-09-14,HSIF14,name_only_unique,low
+154755,CHESTER DAVIS,"Mr. Chester ""Chip"" Davis, Jr., JD",HEALTHCARE DISTRIBUTION ALLIANCE,house:116376,2023-09-14,HSIF14,name+org_in_lda,high
+66109,DAVID GAUGH,Mr. David Gaugh,ASSOCIATION FOR ACCESSIBLE MEDICINES,house:116376,2023-09-14,HSIF14,name+org_in_lda,high
+153181,MICHAEL REGAN,The Honorable Michael S. Regan,,house:116377,2023-09-27,HSSY,name_only_unique,low
+71861,CHAD WHITEMAN,Mr. Chad Whiteman,CHAMBER COMMERCE,house:116378,2023-09-20,HSSY21,name_only_unique,low
+139931,DONALD DAVIS,The Honorable Donald G. Davis,,house:116379,2023-09-19,HSIF,name_only_unique,low
+72006,JOHN BRENNAN,Dr. John Brennan,SCALE AI,house:116383,2023-10-19,HSJU03,name_only_unique,low
+139133,ROY HOUSEMAN,Mr. Roy Houseman,,house:116386,2023-09-20,HSWM04,name_only_unique,low
+94450,GLENN HAMER,Mr. Glenn Hamer,TEXAS ASSOCIATION BUSINESS,house:116395,2023-09-19,HSIF18,name+org_in_lda,high
+122001,THOMAS SMITH,Mr. Thomas P. Smith,,house:116396,2023-09-20,HSIF03,name_only_unique,low
+68848,ROBERT ANDERSON,Mr. Robert Anderson,,house:116399,2023-09-27,HSII,name_only_unique,low
+141695,ANTHONY CARROLL,Mr. Anthony Carroll,JOHNS HOPKINS UNIVERSITY,house:116405,2023-09-27,HSFA16,name_only_unique,low
+149222,YOUNG KI KIM,The Honorable Young Kim,,house:116437,2023-11-02,HSII,name_only_unique,low
+70199,JOSEPH GARCIA,Mr. Joseph Garcia,,house:116445,2023-11-02,HSVR10,name_only_unique,low
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,,house:116445,2023-11-02,HSVR10,name_only_unique,low
+72326,MARQUIS BAREFIELD,Mr. Marquis Barefield,DISABLED AMERICAN VETERANS,house:116445,2023-11-02,HSVR10,name+org_in_lda,high
+141116,TAMMY BARLET,Ms. Tammy Barlet,STUDENT VETERANS,house:116445,2023-11-02,HSVR10,name+org_in_lda,high
+71312,SAMANTHA FEINSTEIN,Ms. Samantha Feinstein,GOVERNMENT ACCOUNTABILITY PROJECT,house:116446,2023-11-02,HSVR08,name+org_in_lda,high
+68880,SHANE LIERMANN,Mr. Shane Liermann,DISABLED AMERICAN VETERANS,house:116450,2023-11-08,HSVR09,name+org_in_lda,high
+144549,BRYAN BASHUR,Mr. Bryan Bashur,AMERICANS FOR TAX REFORM,house:116461,2023-10-24,HSBA20,name+org_in_lda,high
+140245,RENITA MARCELLIN,Ms. Renita Marcellin,,house:116461,2023-10-24,HSBA20,name_only_unique,low
+48036,ROBERT GORDON,Mr. Robert Gordon,AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION,house:116462,2023-10-24,HSBA04,name+org_in_lda,high
+61271,MATTHEW HALLER,Mr. Matthew Haller,INTERNATIONAL FRANCHISE ASSOCIATION,house:116467,2023-10-18,HSED02,name+org_in_lda,high
+151680,PAUL RAY,Mr. Paul J Ray,,house:116483,2023-10-19,HSSM,name_only_unique,low
+71910,KIMBERLY GLAS,Ms. Kimberly Glas,NATIONAL COUNCIL TEXTILE ORGANIZATIONS,house:116488,2023-10-19,HSHM09,name+org_in_lda,high
+142413,MICHAEL STUMO,Mr. Michael Stumo,COALITION FOR A PROSPEROUS,house:116488,2023-10-19,HSHM09,name+org_in_lda,high
+73272,CHRIS JAHN,Mr. Chris Jahn,AMERICAN CHEMISTRY COUNCIL,house:116492,2023-10-18,HSIF18,name+org_in_lda,high
+150332,ERIC JACOBSTEIN,Mr. Eric Jacobstein,,house:116502,2023-10-25,HSFA07,name_only_unique,low
+151383|142356,DAVID CAMP,David Camp,NATIONAL ORGANIZATION SOCIAL SECURITY CLAIMANTS REPRESENTATIVES,house:116515,2023-10-26,HSWM01,name+org_in_lda,high
+145401,JACQUELINE RUSSELL,Jacqueline Russell,,house:116515,2023-10-26,HSWM01,name_only_unique,low
+48036,ROBERT GORDON,Mr. Robert Gordon,AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION,house:116528,2023-11-02,HSBA04,name+org_in_lda,high
+149222,YOUNG KI KIM,The Honorable Young Kim,,house:116529,2023-11-14,HSII10,name_only_unique,low
+149222,YOUNG KI KIM,The Honorable Young Kim,,house:116534,2023-11-03,HSJU,name_only_unique,low
+152178,BRYAN NEWLAND,The Honorable Bryan Newland,,house:116535,2023-11-14,HSII24,name_only_unique,low
+144549,BRYAN BASHUR,Mr. Bryan Bashur,AMERICANS FOR TAX REFORM,house:116543,2023-11-07,HSBA20,name+org_in_lda,high
+140245,RENITA MARCELLIN,Ms. Renita Marcellin,AMERICANS FOR FINANCIAL REFORM,house:116543,2023-11-07,HSBA20,name+org_in_lda,high
+80292,PRESTON RUTLEDGE,The Honorable Preston Rutledge,RUTLEDGE POLICY,house:116548,2023-11-07,HSWM,name+org_in_lda,high
+40845,MARK MIX,Mr. Mark Mix,NATIONAL RIGHT TO WORK COMMITTEE,house:116554,2023-11-30,HSED02,name+org_in_lda,high
+68880,SHANE LIERMANN,Mr. Shane Liermann,DISABLED AMERICAN VETERANS,house:116596,2023-11-29,HSVR09,name+org_in_lda,high
+64941,DIANE RAUBER,Ms. Diane Boyd Rauber,NATIONAL ORGANIZATION VETERANS ADVOCATES,house:116596,2023-11-29,HSVR09,name+org_in_lda,high
+138425,FRANCISCO SANCHEZ,Mr. Francisco Sánchez Jr.,,house:116597,2023-11-28,HSHM12,name_only_unique,low
+153502,ANNA CARLA PIERRE GOMEZ,The Honorable Anna M. Gomez,,house:116602,2023-11-30,HSIF16,name_only_unique,low
+139379,AMANDA EVERSOLE,Ms. Amanda Eversole,AMERICAN PETROLEUM INSTITUTE,house:116603,2023-11-29,HSIF18,name+org_in_lda,high
+56482,WILLIAM TIMMONS,The Honorable William R. Timmons,,house:116624,2023-12-06,HSBU,name_only_unique,low
+143326,LINDSAY SLATER,Mr. Lindsay Slater,TROUT UNLIMITED,house:116632,2023-12-12,HSII13,name+org_in_lda,high
+144585,SETH APPLETON,Mr. Seth Appleton,MORTGAGE INSURERS,house:116635,2023-12-06,HSBA04,name+org_in_lda,high
+152881,FATIMA GRAVES,Ms. Fatima Goss Graves,NATIONAL WOMEN S LAW CENTER,house:116641,2023-12-05,HSGO27,name+org_in_lda,high
+149222,YOUNG KI KIM,The Honorable Young Kim,,house:116646,2023-12-06,HSHM,name_only_unique,low
+26262,GROVER NORQUIST,Grover Norquist,AMERICANS FOR TAX REFORM,house:116649,2023-12-06,HSWM05,name+org_in_lda,high
+57045,JAMES THOMPSON,Mr. James (Randy) R Thompson,,house:116665,2023-12-12,HSSM,name_only_unique,low
+61271,MATTHEW HALLER,Mr. Matthew Haller,INTERNATIONAL FRANCHISE ASSOCIATION,house:116672,2023-12-13,HSED02,name+org_in_lda,high
+146789,STEWART WHITSON,Stewart Whitson,,house:116679,2023-12-13,HSWM06,name_only_unique,low
+148347,THOMAS WEST,Thomas West,,house:116684,2024-01-11,HSFA13,name_only_unique,low
+149222,YOUNG KI KIM,The Honorable Young Kim,,house:116692,2024-01-31,HSII10,name_only_unique,low
+72629,ANDREW BAILEY,The Honorable Andrew Bailey,,house:116706,2024-01-10,HSHM,name_only_unique,low
+39174,JONATHAN GOLD,Mr. Jonathan Gold,NATIONAL RETAIL FEDERATION,house:116717,2024-01-30,HSPW07,name+org_in_lda,high
+140892,BRADFORD CAMPBELL,Mr. Bradford Campbell,,house:116725,2024-01-10,HSBA16,name_only_unique,low
+9119,MARC CADIN,Mr. Marc Cadin,FINSECA,house:116725,2024-01-10,HSBA16,name+org_in_lda,high
+149209,WILLIAM RUSSELL,Mr. William Russell,,house:116736,2024-01-17,HSSY16,name_only_unique,low
+147575,MICHAEL GRIFFIN,Dr. Michael D. Griffin,,house:116736,2024-01-17,HSSY16,name_only_unique,low
+68793,CHARLES CRAIN,Mr. Charles Crain,NATIONAL ASSOCIATION MANUFACTURERS,house:116744,2024-01-18,HSBA09,name+org_in_lda,high
+150332,ERIC JACOBSTEIN,Mr. Eric Jacobstein,,house:116747,2024-01-18,HSFA07,name_only_unique,low
+151847,TRISTAN BROWN,Mr. Tristan Brown,,house:116758,2024-01-18,HSIF03,name_only_unique,low
+50525,ANDREW BLACK,Mr. Andrew Black,LIQUID ENERGY PIPELINE ASSOCIATION,house:116758,2024-01-18,HSIF03,name+org_in_lda,high
+45926,DAVE SCHRYVER,Mr. Dave Schryver,AMERICAN PUBLIC GAS ASSOCIATION,house:116758,2024-01-18,HSIF03,name+org_in_lda,high
+154688,THOMAS FEDDO,The Honorable Thomas Feddo,RUBICON ADVISORS,house:116767,2024-01-30,HSBA10,name_only_unique,low
+139316,MEGAN SALRIN,Ms. Megan Salrin,UNITED STEELWORKERS,house:116770,2024-02-15,HSPW12,name_only_unique,low
+144549,BRYAN BASHUR,Mr. Bryan Bashur,AMERICANS FOR TAX REFORM,house:116775,2024-01-31,HSBA20,name+org_in_lda,high
+52660,JOHN BUTLER,Mr. John S. Butler,INTERNATIONAL ASSOCIATION FIRE CHIEFS,house:116782,2024-02-15,HSHM12,name_only_unique,low
+15613,THOMAS ROBERTS,Mr. Thomas Roberts,,house:116796,2024-02-15,HSED02,name_only_unique,low
+147515,KEVIN MORLEY,Dr. Kevin Morley,AMERICAN WATER WORKS ASSOCIATION,house:116802,2024-02-06,HSHM08,name+org_in_lda,high
+150263,KELLY ANN SHAW,Kelly Ann Shaw,HOGAN LOVELLS,house:116803,2024-02-07,HSWM04,name_only_unique,low
+71304,EDWARD DEMARCO,Mr. Edward J. DeMarco,HOUSING POLICY COUNCIL,house:116827,2024-02-15,HSVR10,name+org_in_lda,high
+107298,MARY DITTMAR,Dr. Mary Lynn Dittmar,AXIOM SPACE,house:116829,2024-02-14,HSSY16,name+org_in_lda,high
+143418,BRANDON FARRIS,Mr. Brandon Farris,NATIONAL ASSOCIATION MANUFACTURERS,house:116835,2024-02-14,HSSM,name+org_in_lda,high
+147428,WILLIAM NELSON,Mr. William Nelson,BANK POLICY INSTITUTE,house:116860,2024-02-15,HSBA20,name_only_unique,low
+19065,SETH JOHNSON,Mr. Seth Johnson,EARTHJUSTICE,house:116862,2024-02-15,HSIF18,name_only_unique,low
+67113,CHRIS NETRAM,Mr. Chris Netram,NATIONAL ASSOCIATION MANUFACTURERS,house:116862,2024-02-15,HSIF18,name+org_in_lda,high
+147482,SCOTT WEAVER,Dr. Scott Weaver,,house:116873,2024-03-06,HSSY18,name_only_unique,low
+152178,BRYAN NEWLAND,The Honorable Bryan Newland,,house:116884,2024-03-06,HSII24,name_only_unique,low
+152178,BRYAN NEWLAND,The Honorable Bryan Newland,,house:116885,2024-03-20,HSII24,name_only_unique,low
+143270,PATRICK MURRAY,Mr. Patrick Murray,,house:116899,2024-03-06,HSVR,name_only_unique,low
+61547,ROBERT THOMAS,Mr. Robert Thomas,PARALYZED VETERANS,house:116899,2024-03-06,HSVR,name_only_unique,low
+778,JOY ILEM,Ms. Joy Ilem,DISABLED AMERICAN VETERANS,house:116900,2024-03-07,HSVR,name+org_in_lda,high
+70841,CHANIN NUNTAVONG,Mr. Chanin Nuntavong,AMERICAN LEGION,house:116901,2024-03-13,HSVR,name+org_in_lda,high
+144102,JULIA MATHIS,Ms. Julia Mathis,AMERICAN LEGION,house:116901,2024-03-13,HSVR,name+org_in_lda,high
+137766,JACK MCMANUS,Mr. Jack McManus,VIETNAM VETERANS,house:116901,2024-03-13,HSVR,name+org_in_lda,high
+139942,CAMILLE COOPER,Ms. Camille Cooper,TIM TEBOW FOUNDATION,house:116913,2024-03-06,HSJU08,name_only_unique,low
+148986,ANDREW BREMBERG,The Honorable Andrew Bremberg,,house:116914,2024-03-06,HSFA06,name_only_unique,low
+147862,HARMEET DHILLON,Ms. Harmeet Dhillon,,house:116919,2024-04-16,HSJU10,name_only_unique,low
+145774,JAMES MURPHY,Dr. James Murphy,,house:116922,2024-03-07,HSED13,name_only_unique,low
+140638,LINDSEY JOHNSON,Ms. Lindsey Johnson,CONSUMER BANKERS ASSOCIATION,house:116927,2024-03-07,HSBA20,name+org_in_lda,high
+107283,JAMES DUNLAP,Mr. James Dunlap,,house:116933,2024-03-20,HSHM,name_only_unique,low
+143623,JEFFREY NADANER,Dr. Jeffrey Nadaner,,house:116950,2024-03-12,HSBA10,name_only_unique,low
+73843,TRAVIS FISHER,Mr. Travis Fisher,,house:116952,2024-03-12,HSGO05,name_only_unique,low
+53683,CARL SZABO,Mr. Carl Szabo,NETCHOICE,house:116953,2024-03-12,HSGO12,name+org_in_lda,high
+140763,BRIAN JOHNSON,Mr. Brian Johnson,,house:116956,2024-03-13,HSBA21,name_only_unique,low
+84028,ERIK MILITO,Mr. Erik Milito,NATIONAL OCEAN INDUSTRIES ASSOCIATION,house:116958,2024-03-20,HSII06,name+org_in_lda,high
+152044,JAMES RODRIGUEZ,Mr. James Rodriguez,,house:116962,2024-03-20,HSVR10,name_only_unique,low
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,,house:116962,2024-03-20,HSVR10,name_only_unique,low
+72326,MARQUIS BAREFIELD,Mr. Marquis Barefield,DISABLED AMERICAN VETERANS,house:116962,2024-03-20,HSVR10,name+org_in_lda,high
+14074,BRIAN GRIFFIN,Mr. Brian Griffin,,house:116963,2024-03-20,HSVR09,name_only_unique,low
+68880,SHANE LIERMANN,Mr. Shane Liermann,DISABLED AMERICAN VETERANS,house:116963,2024-03-20,HSVR09,name+org_in_lda,high
+64941,DIANE RAUBER,Ms. Diane Boyd Rauber,NATIONAL ORGANIZATION VETERANS ADVOCATES,house:116963,2024-03-20,HSVR09,name+org_in_lda,high
+151847,TRISTAN BROWN,Mr. Tristan Brown,,house:116970,2024-05-07,HSPW14,name_only_unique,low
+71833,CHRISTINA SAMES,Ms. Christina Sames,AMERICAN GAS ASSOCIATION,house:116970,2024-05-07,HSPW14,name+org_in_lda,high
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,house:116976,2024-03-21,HSVR03,name+org_in_lda,high
+71035,ROSCOE BUTLER,Mr. Roscoe Butler,PARALYZED VETERANS,house:116976,2024-03-21,HSVR03,name+org_in_lda,high
+154061,JOHN RAPP,Mr. John Rapp,,house:116978,2024-03-21,HSAP01,name_only_unique,low
+54961,NOVA DALY,Mr. Nova Daly,,house:116993,2024-03-20,HSAG,name_only_unique,low
+154777,MARTIN O'MALLEY,Martin O'Malley,,house:117007,2024-03-21,HSWM01,name_only_unique,low
+139358,SUSAN VAN METER,Ms. Susan Van Meter,AMERICAN CLINICAL LABORATORY ASSOCIATION,house:117011,2024-03-21,HSIF14,name_only_unique,low
+73843,TRAVIS FISHER,Mr. Travis Fisher,,house:117031,2024-04-11,HSII24,name_only_unique,low
+60423,ERIC ZIMMERMAN,Mr. Eric Zimmerman,LLOG EXPLORATION,house:117037,2024-04-18,HSII06,name_only_unique,low
+137944,GARY KALMAN,Mr. Gary Kalman,TRANSPARENCY INTERNATIONAL,house:117063,2024-04-30,HSSM,name+org_in_lda,high
+46161,BRETT PALMER,Mr. Brett Palmer,SMALL BUSINESS INVESTOR ALLIANCE,house:117064,2024-04-16,HSSM27,name+org_in_lda,high
+64140,JERE GLOVER,Mr. Jere W. Glover,,house:117064,2024-04-16,HSSM27,name_only_unique,low
+70512,MICHAEL PARRISH,Mr. Michael D. Parrish,,house:117066,2024-04-09,HSVR11,name_only_unique,low
+71035,ROSCOE BUTLER,Mr. Roscoe Butler,PARALYZED VETERANS,house:117071,2024-04-11,HSVR,name+org_in_lda,high
+68880,SHANE LIERMANN,Mr. Shane Liermann,DISABLED AMERICAN VETERANS,house:117071,2024-04-11,HSVR,name+org_in_lda,high
+143270,PATRICK MURRAY,Mr. Patrick Murray,,house:117071,2024-04-11,HSVR,name_only_unique,low
+148986,ANDREW BREMBERG,The Honorable Andrew Bremberg,,house:117086,2024-04-10,HSFA06,name_only_unique,low
+61731,DANIEL SCHUMAN,Mr. Daniel Schuman,,house:117122,2024-04-17,HSAP24,name_only_unique,low
+153500,MICHAEL BRAIN,Mr. Michael Brain,,house:117123,2024-04-17,HSAP10,name_only_unique,low
+140763,BRIAN JOHNSON,Mr. Brian Johnson,,house:117128,2024-04-16,HSBA20,name_only_unique,low
+146522,WILLIAM BARR,The Honorable William Barr,,house:117142,2024-04-16,HSZS,name_only_unique,low
+139510,PETER KING,The Honorable Peter King,,house:117159,2024-04-17,,name_only_unique,low
+55015,MICHAEL CHAPMAN,The Honorable Michael L. Chapman,,house:117188,2024-05-15,HSHM,name_only_unique,low
+72102,BRETT TOLMAN,Mr. Brett Tolman,,house:117202,2024-04-30,HSJU08,name_only_unique,low
+153181,MICHAEL REGAN,The Honorable Michael S. Regan,,house:117203,2024-04-30,HSAP06,name_only_unique,low
+134766,TROY MILLER,Mr. Troy Miller,,house:117209,2024-04-30,HSAP15,name_only_unique,low
+40789,JEFFREY DEBOER,Mr. Jeffrey DeBoer,REAL ESTATE ROUNDTABLE,house:117215,2024-04-30,HSGO27,name+org_in_lda,high
+92480,JOHN BOZZELLA,Mr. John Bozzella,ALLIANCE FOR AUTOMOTIVE INNOVATION,house:117216,2024-04-30,HSIF17,name+org_in_lda,high
+155869,JASON MILLER,The Honorable Jason Miller,,house:117218,2024-04-30,HSGO,name_only_unique,low
+152044,JAMES RODRIGUEZ,Mr. James Rodriguez,,house:117233,2024-05-07,HSVR10,name_only_unique,low
+151680,PAUL RAY,The Honorable Paul J Ray,,house:117239,2024-05-22,HSSM,name_only_unique,low
+142738,ROBERT SMITH,Mr. Robert T. Smith,,house:117239,2024-05-22,HSSM,name_only_unique,low
+152601,ZEPHRANIE BUETOW,The Honorable Zephranie Buetow,,house:117256,2024-05-07,HSJU13,name_only_unique,low
+22103,JULIE KIRCHNER,Julie Kirchner,FEDERATION FOR AMERICAN IMMIGRATION REFORM,house:117257,2024-05-08,HSBU,name+org_in_lda,high
+50158,AURENE MARTIN,Aurene Martin,,house:117270,2024-05-08,HSAP06,name_only_unique,low
+65518,WILLIAM SMITH,William F. Smith,,house:117270,2024-05-08,HSAP06,name_only_unique,low
+152178,BRYAN NEWLAND,The Honorable Bryan Newland,,house:117275,2024-05-08,HSII24,name_only_unique,low
+144592,JAMES ERWIN,Mr. James Erwin,AMERICANS FOR TAX REFORM,house:117276,2024-05-08,HSIF02,name+org_in_lda,high
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,house:117298,2024-05-16,HSVR08,name+org_in_lda,high
+153181,MICHAEL REGAN,The Honorable Michael S. Regan,,house:117300,2024-05-15,HSIF18,name_only_unique,low
+115946,EVAN DAVIS,Mr. Evan Davis,INTERNATIONAL ASSOCIATION FIRE FIGHTERS,house:117315,2024-06-04,HSHM12,name+org_in_lda,high
+106071,AMY FISCHER,Ms. Amy Fischer,AMNESTY INTERNATIONAL,house:117354,2024-06-13,HSII15,name+org_in_lda,high
+44703,TIMOTHY RICHARDSON,"Dr. Timothy Richardson, MD",,house:117355,2024-05-23,HSWM02,name_only_unique,low
+146789,STEWART WHITSON,Mr. Stewart Whitson,,house:117375,2024-06-04,HSSM,name_only_unique,low
+153181,MICHAEL REGAN,The Honorable Michael S. Regan,,house:117394,2024-06-05,HSGO,name_only_unique,low
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,house:117397,2024-06-11,HSVR11,name+org_in_lda,high
+72326,MARQUIS BAREFIELD,Mr. Marquis Barefield,DISABLED AMERICAN VETERANS,house:117407,2024-06-12,HSVR09,name+org_in_lda,high
+61547,ROBERT THOMAS,Mr. Robert Thomas,PARALYZED VETERANS,house:117408,2024-06-13,HSVR,name_only_unique,low
+72326,MARQUIS BAREFIELD,Mr. Marquis Barefield,DISABLED AMERICAN VETERANS,house:117409,2024-06-12,HSVR10,name+org_in_lda,high
+140316,ELIZABETH FOLEY,Mrs. Elizabeth Price Foley,,house:117426,2024-06-13,HSJU,name_only_unique,low
+72629,ANDREW BAILEY,Mr. Andrew Bailey,,house:117426,2024-06-13,HSJU,name_only_unique,low
+55757,CURTIS LEGEYT,Mr. Curtis LeGeyt,NATIONAL ASSOCIATION BROADCASTERS,house:117457,2024-06-26,HSJU03,name+org_in_lda,high
+150332,ERIC JACOBSTEIN,Mr. Eric Jacobstein,,house:117469,2024-06-27,HSFA07,name_only_unique,low
+73839,JONATHAN BERRY,Jonathan Berry,,house:117470,2024-06-27,HSGO,name_only_unique,low
+139504,MAYA WILEY,Maya Wiley,LEADERSHIP CONFERENCE ON CIVIL HUMAN RIGHTS,house:117470,2024-06-27,HSGO,name+org_in_lda,high
+150316|53738,BEN BRUBECK,Mr. Ben Brubeck,ASSOCIATED BUILDERS CONTRACTORS,house:117472,2024-06-27,HSGO12,name+org_in_lda,high
+148402,CHRISTOPHER MILLER,Dr. Christopher Miller,,house:117481,2024-06-26,HSZS,name_only_unique,low
+152178,BRYAN NEWLAND,The Honorable Bryan Newland,,house:117483,2024-07-23,HSII13,name_only_unique,low
+152178,BRYAN NEWLAND,The Honorable Bryan Newland,,house:117485,2024-07-23,HSII15,name_only_unique,low
+19441,LESLEY WITTER,Ms. Lesley Witter,NATIONAL FUNERAL DIRECTORS ASSOCIATION,house:117492,2024-07-10,HSVR09,name_only_unique,low
+153143,JEFF DUNCAN,The Honorable Jeff Duncan,,house:117498,2024-07-24,HSII10,name_only_unique,low
+37355,ERIC KEBER,Mr. Eric Keber,,house:117498,2024-07-24,HSII10,name_only_unique,low
+149058,JONATHAN FAHEY,Mr. Jonathan Fahey,,house:117501,2024-07-09,HSFD,name_only_unique,low
+155410,ANDREW FERGUSON,The Honorable Andrew N. Ferguson,,house:117504,2024-07-09,HSIF17,name_only_unique,low
+153502,ANNA CARLA PIERRE GOMEZ,The Honorable Anna M. Gomez,,house:117505,2024-07-09,HSIF16,name_only_unique,low
+153181,MICHAEL REGAN,The Honorable Michael S. Regan,,house:117511,2024-07-10,HSGO,name_only_unique,low
+121753,AMY O'DONNELL ROBERTI,Ms. Amy Roberti,STRIPE,house:117514,2024-07-12,HSBA20,name+org_in_lda,high
+65518,WILLIAM SMITH,Mr. William Smith,,house:117525,2024-07-24,HSII24,name_only_unique,low
+151847,TRISTAN BROWN,Mr. Tristan Brown,,house:117530,2024-07-23,HSPW14,name_only_unique,low
+151680,PAUL RAY,The Honorable Paul Ray,,house:117531,2024-07-23,HSHA,name_only_unique,low
+146434,SATYA THALLAM,Mr. Satya Thallam,AMERICANS FOR RESPONSIBLE INNOVATION,house:117531,2024-07-23,HSHA,name+org_in_lda,high
+152178,BRYAN NEWLAND,The Honorable Bryan Newland,,house:117535,2024-07-23,,name_only_unique,low
+141493,CHRISTOPHER SMITH,Mr. Christopher Smith,,house:117543,2024-07-23,HSFA14,name_only_unique,low
+6907,FELICIA WATSON,Ms. Felicia Watson,,house:117546,2024-07-24,HSED10,name_only_unique,low
+26353,LINDA COUCH,Ms. Linda Couch,LEADINGAGE,house:117547,2024-07-24,HSBA04,name+org_in_lda,high
+89058,DYLAN HEDTLER-GAUDETTE,Dylan Hedtler-Gaudette,PROJECT ON GOVERNMENT OVERSIGHT,house:117551,2024-07-24,HSGO06,name+org_in_lda,high
+80347,MOSHE SCHWARTZ,Mr. Moshe Schwartz,,house:117551,2024-07-24,HSGO06,name_only_unique,low
+139062,EDWARD MURRAY,Mr. Edward J. Murray,,house:117557,2024-09-10,HSVR,name_only_unique,low
+138425,FRANCISCO SANCHEZ,"Mr. Francisco Sánchez, Jr.",,house:117589,2024-09-04,HSGO24,name_only_unique,low
+152044,JAMES RODRIGUEZ,Mr. James Rodriguez,,house:117590,2024-09-10,HSVR10,name_only_unique,low
+64423,BRIAN DEMPSEY,Mr. Brian Dempsey,WOUNDED WARRIOR PROJECT,house:117591,2024-09-11,HSVR03,name+org_in_lda,high
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,house:117591,2024-09-11,HSVR03,name+org_in_lda,high
+119541,COURTNEY BRIGGS,Ms. Courtney Briggs,WATERS ADVOCACY COALITION,house:117592,2024-09-11,HSPW02,name_only_unique,low
+55015,MICHAEL CHAPMAN,The Honorable Michael L. Chapman,,house:117605,2024-12-10,HSHM12,name_only_unique,low
+60241,ANDREA SENTENO,Ms. Andrea Senteno,MEXICAN AMERICAN LEGAL DEFENSE EDUCATIONAL FUND,house:117612,2024-09-10,HSJU10,name+org_in_lda,high
+68192,ILYSE SCHUMAN,Ms. Ilyse Schuman,AMERICAN BENEFITS COUNCIL,house:117615,2024-09-10,HSED02,name+org_in_lda,high
+144696,MARK HAYS,Mr. Mark Allen Hays,AMERICANS FOR FINANCIAL REFORM,house:117620,2024-09-10,HSBA21,name+org_in_lda,high
+68793,CHARLES CRAIN,Mr. Charles Crain,NATIONAL ASSOCIATION MANUFACTURERS,house:117621,2024-09-10,HSBA09,name+org_in_lda,high
+147606,JESSE ROACH,Dr. Jesse Roach,NATIONAL KIDNEY FOUNDATION,house:117624,2024-09-11,HSIF02,name+org_in_lda,high
+73843,TRAVIS FISHER,Mr. Travis Fisher,,house:117628,2024-09-11,HSIF03,name_only_unique,low
+146136,THOMAS WICKHAM,Mr. Thomas Wickham Jr.,,house:117653,2024-09-18,HSHA27,name_only_unique,low
+113094,EVANGELOS RAZIS,Evangelos Razis,WORKDAY,house:117675,2024-09-20,HSWM04,name+org_in_lda,high
+70199,JOSEPH GARCIA,Mr. Joseph Garcia,,house:117681,2024-09-26,HSVR10,name_only_unique,low
+52220,KENNETH BENTSEN,"Mr. Kenneth E. Bentsen, Jr.,",SIFMA,house:117690,2024-09-25,HSBA20,name_only_unique,low
+17987,JOEL WHITE,Mr. Joel White,COUNCIL FOR AFFORDABLE HEALTH COVERAGE,house:117700,2024-09-26,HSGO27,name+org_in_lda,high
+19441,LESLEY WITTER,Ms. Lesley Witter,NATIONAL FUNERAL DIRECTORS ASSOCIATION,house:117712,2024-11-13,HSVR09,name_only_unique,low
+152178,BRYAN NEWLAND,Bryan Newland,,house:117713,2024-11-20,HSAP06,name_only_unique,low
+154777,MARTIN O'MALLEY,The Honorable Martin O'Malley,,house:117727,2024-11-20,HSAP07,name_only_unique,low
+68213,JOSE RAMOS,Mr. Jose Ramos,WOUNDED WARRIOR PROJECT,house:117730,2024-11-20,HSVR03,name+org_in_lda,high
+141405,ASHLIE WHITE,Ms. Ashlie White,AMPUTEE COALITION,house:117730,2024-11-20,HSVR03,name+org_in_lda,high
+139062,EDWARD MURRAY,Mrs. Edward Murray,,house:117741,2024-12-05,HSVR,name_only_unique,low
+139962,BRIAN KENNEDY,Mr. Brian V. Kennedy,INTERNATIONAL UNION BRICKLAYERS ALLIED CRAFTWORKERS,house:117745,2024-12-04,HSED14,name+org_in_lda,high
+111430,JULIE HOWELL,Ms. Julie Howell,PARALYZED VETERANS,house:117750,2024-12-11,HSVR10,name+org_in_lda,high
+70219,ILEANA ROS-LEHTINEN,The Honorable Ileana Ros-Lehtinen,,house:117755,2024-12-11,HSFA06,name_only_unique,low
+154204,COLE LYLE,Mr. Cole Lyle,AMERICAN LEGION,house:117761,2024-12-17,HSVR03,name+org_in_lda,high
+143270,PATRICK MURRAY,Mr. Patrick Murray,,house:117761,2024-12-17,HSVR03,name_only_unique,low
+154777,MARTIN O'MALLEY,Mr. Martin O'Malley,,house:117775,2025-01-15,HSGO,name_only_unique,low
+149222,YOUNG KI KIM,The Honorable Young Kim,,house:117818,2025-01-22,HSWM,name_only_unique,low
+56482,WILLIAM TIMMONS,The Honorable William R. Timmons,,house:117818,2025-01-22,HSWM,name_only_unique,low
+68830,MATTHEW COLVIN,Mr. Matthew Colvin,TRANSPORTATION TRADES DEPARTMENT AFL CIO,house:117819,2025-01-22,HSPW12,name+org_in_lda,high
+54942,BRIAN SCHOENEMAN,Mr. Brian Schoeneman,,house:117821,2025-02-05,HSPW07,name_only_unique,low
+69946,LISA ELLMAN,Ms. Lisa Ellman,COMMERCIAL DRONE ALLIANCE,house:117822,2025-02-06,HSPW05,name+org_in_lda,high
+79397,MICHAEL HANSON,Mr. Michael Hanson,,house:117824,2025-02-12,HSPW12,name_only_unique,low
+50525,ANDREW BLACK,Mr. Andrew J. Black,LIQUID ENERGY PIPELINE ASSOCIATION,house:117825,2025-02-25,HSPW14,name+org_in_lda,high
+148233,RICHARD ENGLER,Dr. Richard Engler,,house:117835,2025-01-22,HSIF18,name_only_unique,low
+73272,CHRIS JAHN,Mr. Chris Jahn,AMERICAN CHEMISTRY COUNCIL,house:117835,2025-01-22,HSIF18,name+org_in_lda,high
+54647,MICHAEL POWELL,Michael Powell,NCTA INTERNET TELEVISION ASSOCIATION,house:117838,2025-01-23,HSIF16,name+org_in_lda,high
+154987,JAMES MCCORMICK,Mr. James McCormick,,house:117839,2025-01-23,HSVR09,name_only_unique,low
+68802,REBECA ROMERO RAINEY,Ms. Rebeca Romero Rainey,INDEPENDENT COMMUNITY BANKERS,house:117855,2025-02-05,HSBA,name+org_in_lda,high
+147618,PATRICK KENNEDY,"Mr. Patrick J. Kennedy, Jr.",,house:117855,2025-02-05,HSBA,name_only_unique,low
+42525,ELIZABETH BAKER,Ms. Elizabeth Baker,PHYSICIANS COMMITTEE FOR RESPONSIBLE MEDICINE,house:117863,2025-02-06,HSGO12,name_only_unique,low
+65506,JUSTIN GOODMAN,Mr. Justin Goodman,WHITE COAT WASTE PROJECT,house:117863,2025-02-06,HSGO12,name+org_in_lda,high
+139379,AMANDA EVERSOLE,Ms. Amanda Eversole,AMERICAN PETROLEUM INSTITUTE,house:117867,2025-02-05,HSIF03,name+org_in_lda,high
+143923,TYLER O'CONNOR,Mr. Tyler O'Connor,CROWELL MORING,house:117867,2025-02-05,HSIF03,name+org_in_lda,high
+145188,PATRICK SMITH,Mr. Patrick Smith,AXON ENTERPRISE,house:117869,2025-02-11,HSJU05,name_only_unique,low
+64797,JOHN NEWTON,Dr. John Newton,TERRAIN,house:117871,2025-02-11,HSAG,name_only_unique,low
+140840,JONATHAN JACHYM,Mr. Jonathan Jachym,,house:117872,2025-02-11,HSBA21,name_only_unique,low
+8810,PETE SEPP,Pete Sepp,NATIONAL TAXPAYERS UNION,house:117877,2025-02-11,HSWM06,name+org_in_lda,high
+149905,ROSANNA MAIETTA,Ms. Rosanna Maietta,AMERICAN HOTEL LODGING ASSOCIATION,house:117886,2025-02-26,HSED,name+org_in_lda,high
+89058,DYLAN HEDTLER-GAUDETTE,Mr. Dylan Hedtler-Gaudette,PROJECT ON GOVERNMENT OVERSIGHT,house:117887,2025-02-12,HSGO16,name+org_in_lda,high
+146789,STEWART WHITSON,Stewart Whitson,,house:117887,2025-02-12,HSGO16,name_only_unique,low
+778,JOY ILEM,Ms. Joy Ilem,DISABLED AMERICAN VETERANS,house:117897,2025-02-25,HSVR,name+org_in_lda,high
+137766,JACK MCMANUS,Mr. Jack McManus,VIETNAM VETERANS,house:117897,2025-02-25,HSVR,name+org_in_lda,high
+101344,WILLIAM HUBBARD,Mr. William Hubbard,VETERANS EDUCATION SUCCESS,house:117897,2025-02-25,HSVR,name+org_in_lda,high
+144102,JULIA MATHIS,Ms. Julia Mathis,AMERICAN LEGION,house:117898,2025-02-26,HSVR,name+org_in_lda,high
+154204,COLE LYLE,Mr. Cole Lyle,AMERICAN LEGION,house:117898,2025-02-26,HSVR,name+org_in_lda,high
+143270,PATRICK MURRAY,Mr. Patrick Murray,,house:117899,2025-02-25,HSVR,name_only_unique,low
+142770,MAX ROSE,The Honorable Max Rose,,house:117899,2025-02-25,HSVR,name_only_unique,low
+134663,RYAN RUSCHE,Ryan Rusche,,house:117914,2025-02-25,HSAP06,name_only_unique,low
+152912,ANNA MILLER,Anna Miller,GRAND TRAVERSE BAND OTTAWA CHIPPEWA INDIANS,house:117917,2025-02-26,HSAP06,name_only_unique,low
+143908,AHNIWAKE ROSE,Ahniwake Rose,AMERICAN INDIAN HIGHER EDUCATION CONSORTIUM,house:117918,2025-02-27,HSAP06,name+org_in_lda,high
+50158,AURENE MARTIN,Aurene Martin,,house:117918,2025-02-27,HSAP06,name_only_unique,low
+145358,CHARLES COOPER,Mr. Charles J. Cooper,,house:117923,2025-02-25,HSJU10,name_only_unique,low
+149058,JONATHAN FAHEY,Mr. Jonathan L. Fahey,,house:117924,2025-02-25,HSJU13,name_only_unique,low
+64140,JERE GLOVER,Mr. Jere Glover,,house:117926,2025-02-26,HSSM,name_only_unique,low
+143270,PATRICK MURRAY,Mr. Patrick Murray,,house:117931,2025-03-04,HSVR,name_only_unique,low
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,,house:117931,2025-03-04,HSVR,name_only_unique,low
+61547,ROBERT THOMAS,Mr. Robert Thomas,PARALYZED VETERANS,house:117931,2025-03-04,HSVR,name_only_unique,low
+149472,GRETA PEISCH,Greta Peisch,WILEY REIN,house:117932,2025-02-25,HSWM04,name+org_in_lda,high
+107288,KEVIN ROSENBAUM,Kevin Rosenbaum,INTERNATIONAL INTELLECTUAL PROPERTY ALLIANCE,house:117932,2025-02-25,HSWM04,name+org_in_lda,high
+55807,NICHOLAS CALIO,Mr. Nicholas E. Calio,AIRLINES FOR,house:117936,2025-03-04,HSPW05,name_only_unique,low
+140343,COLE SCANDAGLIA,Mr. Cole Scandaglia,INTERNATIONAL BROTHERHOOD TEAMSTERS,house:117941,2025-03-26,HSPW12,name+org_in_lda,high
+114578,SCOTT PACE,Dr. Scott Pace,GEORGE WASHINGTON UNIVERSITY,house:117949,2025-02-26,HSSY16,name_only_unique,low
+114578,SCOTT PACE,Dr. Scott Pace,GEORGE WASHINGTON UNIVERSITY,house:117949,2025-02-26,HSSY20,name_only_unique,low
+115550,ANNE BASHAM,Ms. Anne Basham,,house:117951,2025-02-27,HSJU08,name_only_unique,low
+139942,CAMILLE COOPER,Ms. Camille Cooper,TIM TEBOW FOUNDATION,house:117951,2025-02-27,HSJU08,name_only_unique,low
+61396,MATTHEW PAXTON,Mr. Matthew Paxton,SHIPBUILDERS COUNCIL,house:117953,2025-02-26,HSAS,name+org_in_lda,high
+64941,DIANE RAUBER,Ms. Diane Boyd Rauber,NATIONAL ORGANIZATION VETERANS ADVOCATES,house:117964,2025-03-05,HSVR09,name+org_in_lda,high
+140316,ELIZABETH FOLEY,Ms. Elizabeth Price Foley,,house:117974,2025-03-04,HSJU10,name_only_unique,low
+55203,NOEL BLACK,Mr. Noel W. Black,SOUTHERN,house:117979,2025-03-05,HSIF03,name+org_in_lda,high
+145865,ASIM HAQUE,Mr. Asim Haque,PJM INTERCONNECTION,house:117979,2025-03-05,HSIF03,name+org_in_lda,high
+140267,GRANT SPELLMEYER,Grant Spellmeyer,,house:117982,2025-03-05,HSIF16,name_only_unique,low
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,,house:117985,2025-03-11,HSVR10,name_only_unique,low
+111430,JULIE HOWELL,Ms. Julie Howell,PARALYZED VETERANS,house:117985,2025-03-11,HSVR10,name+org_in_lda,high
+64423,BRIAN DEMPSEY,Mr. Brian Dempsey,WOUNDED WARRIOR PROJECT,house:117987,2025-03-11,HSVR03,name+org_in_lda,high
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,house:117987,2025-03-11,HSVR03,name+org_in_lda,high
+145587,JAMES OBRIEN,The Honorable James O’Brien,,house:117998,2025-03-11,HSFA14,name_only_unique,low
+145095,JENNIFER WAGNER,Ms. Jennifer Wagner,CENTER ON BUDGET POLICY PRIORITIES,house:118002,2025-03-11,HSGO24,name_only_unique,low
+84028,ERIK MILITO,Mr. Erik Milito,NATIONAL OCEAN INDUSTRIES ASSOCIATION,house:118016,2025-03-25,HSII13,name+org_in_lda,high
+50816,ANDREW ROSENBERG,"Dr. Andrew Rosenberg, M.D.",,house:118027,2025-03-24,HSVR11,name_only_unique,low
+50836,JOHN GREEN,Mr. John Green,,house:118028,2025-03-25,HSVR10,name_only_unique,low
+149222,YOUNG KI KIM,The Honorable Young Kim,,house:118034,2025-03-26,HSVR09,name_only_unique,low
+64941,DIANE RAUBER,Ms. Diane Boyd Rauber,NATIONAL ORGANIZATION VETERANS ADVOCATES,house:118034,2025-03-26,HSVR09,name+org_in_lda,high
+19441,LESLEY WITTER,Ms. Lesley Witter,NATIONAL FUNERAL DIRECTORS ASSOCIATION,house:118034,2025-03-26,HSVR09,name_only_unique,low
+45926,DAVE SCHRYVER,Mr. Dave Schryver,AMERICAN PUBLIC GAS ASSOCIATION,house:118038,2025-03-25,HSAG,name+org_in_lda,high
+58249,DE'ANA DOW,Mrs. De'Ana Dow,CAPITOL COUNSEL,house:118038,2025-03-25,HSAG,name+org_in_lda,high
+46412,DAVID POMMEREHN,Mr. David Pommerehn,CONSUMER BANKERS ASSOCIATION,house:118049,2025-03-26,HSBA20,name+org_in_lda,high
+146789,STEWART WHITSON,Mr. Stewart Whitson,,house:118055,2025-04-02,HSJU13,name_only_unique,low
+72737,YIOTA SOURAS,Ms. Yiota Souras,NATIONAL CENTER FOR MISSING EXPLOITED CHILDREN,house:118066,2025-03-26,HSIF17,name+org_in_lda,high
+48335,JENNIFER CERVANTES,Ms. Jennifer Cervantes,RIO GRANDE VALLEY SUGAR GROWERS,house:118075,2025-04-02,HSAP04,name+org_in_lda,high
+39384,DOUGLAS TROUTMAN,Mr. Douglas Troutman,AMERICAN CLEANING INSTITUTE,house:118079,2025-04-01,HSIF14,name+org_in_lda,high
+56114,SCOTT FABER,Mr. Scott Faber,ENVIRONMENTAL WORKING,house:118079,2025-04-01,HSIF14,name+org_in_lda,high
+46161,BRETT PALMER,Mr. Brett Palmer,,house:118082,2025-04-02,HSSM,name_only_unique,low
+141935,PHILIP KIKO,Mr. Philip Kiko,WILLIAMS JENSEN,house:118101,2025-04-08,HSJU08,name+org_in_lda,high
+72547,GENE SCHAERR,Mr. Gene Schaerr,PROJECT FOR PRIVACY SURVEILLANCE ACCOUNTABILITY,house:118101,2025-04-08,HSJU08,name+org_in_lda,high
+62981,TODD YOUNG,The Honorable Todd Young,,house:118105,2025-04-08,HSAS35,name_only_unique,low
+73558,GREGORY ALLEN,Mr. Gregory Allen,,house:118111,2025-04-08,HSSY15,name_only_unique,low
+145690,JESSE SHIREK,Mr. Jesse Shirek,NATIONAL FEDERATION BLIND,house:118124,2025-04-09,HSAP24,name+org_in_lda,high
+61731,DANIEL SCHUMAN,Mr. Daniel Schuman,,house:118124,2025-04-09,HSAP24,name_only_unique,low
+119967,MICHAEL STERN,Mr. Michael Stern,,house:118124,2025-04-09,HSAP24,name_only_unique,low
+155175,DAVID WEINBERG,Dr. David Andrew Weinberg,,house:118124,2025-04-09,HSAP24,name_only_unique,low
+139030,TIFFANY SMITH,Ms. Tiffany J. Smith,WILMERHALE,house:118125,2025-04-09,HSBA21,name_only_unique,low
+63068,RJ HAUMAN,Mr. RJ Hauman,,house:118126,2025-04-09,HSJU01,name_only_unique,low
+140796,JAMIESON GREER,The Honorable Jamieson Greer,,house:118129,2025-04-09,HSWM,name_only_unique,low
+62324,JONATHAN MILLER,Mr. Jonathan Miller,HEMP ROUNDTABLE,house:118131,2025-04-09,HSGO,name+org_in_lda,high
+68793,CHARLES CRAIN,Mr. Charles Crain,NATIONAL ASSOCIATION MANUFACTURERS,house:118146,2025-04-29,HSBA16,name+org_in_lda,high
+68793,CHARLES CRAIN,Mr. Charles Crain,NATIONAL ASSOCIATION MANUFACTURERS,house:118155,2025-04-30,HSED02,name+org_in_lda,high
+72805,TODD SNITCHLER,Mr. Todd Snitchler,ELECTRIC POWER SUPPLY ASSOCIATION,house:118171,2025-04-30,HSIF03,name+org_in_lda,high
+51645,ROBERT THOMPSON,Mr. Robert (Bob) Thompson,ENVIRONMENT,house:118172,2025-05-14,HSAS03,name_only_unique,low
+144637,NICHOLAS ANDERSON,Mr. Nicholas Anderson,,house:118204,2025-05-07,HSJU03,name_only_unique,low
+65440,CHRISTOPHER MOHR,Mr. Christopher Mohr,SOFTWARE INFORMATION INDUSTRY ASSOCIATION,house:118204,2025-05-07,HSJU03,name+org_in_lda,high
+72102,BRETT TOLMAN,Mr. Brett Tolman,,house:118207,2025-05-07,HSJU08,name_only_unique,low
+152881,FATIMA GRAVES,Ms. Fatima Goss Graves,NATIONAL WOMEN S LAW CENTER,house:118215,2025-05-07,HSGO16,name+org_in_lda,high
+142709,JOSEPH MOORE,Dr. Joseph Moore,SALT LAKE CITY UT,house:118222,2025-05-12,HSII06,name_only_unique,low
+155410,ANDREW FERGUSON,The Honorable Andrew Ferguson,,house:118225,2025-05-15,HSAP23,name_only_unique,low
+140812,DAVID GRIFFITH,Mr. David Griffith,,house:118239,2025-05-14,HSED14,name_only_unique,low
+72360,SEAN DUFFY,The Honorable Sean Duffy,,house:118247,2025-05-14,HSAP20,name_only_unique,low
+141611,DOUGLAS COLLINS,The Honorable Douglas Collins,,house:118249,2025-05-15,HSVR,name_only_unique,low
+137944,GARY KALMAN,Mr. Gary Kalman,TRANSPARENCY INTERNATIONAL,house:118254,2025-05-15,HSSM,name+org_in_lda,high
+6907,FELICIA WATSON,Ms. Felicia Watson,,house:118255,2025-05-15,HSED10,name_only_unique,low
+50859,DONALD BARNES,The Honorable Donald Barnes,,house:118264,2025-05-21,HSHM12,name_only_unique,low
+143468,NATHAN MEHRENS,Mr. Nathan Mehrens,AMERICAN TRUCKING ASSOCIATIONS,house:118267,2025-05-20,HSED10,name+org_in_lda,high
+45988,MICHAEL PETERS,Mr. Michael Peters,,house:118272,2025-05-20,HSPW13,name_only_unique,low
+111430,JULIE HOWELL,Ms. Julie Howell,PARALYZED VETERANS,house:118278,2025-05-21,HSVR10,name+org_in_lda,high
+142508,LAURA CHADWICK,Ms. Laura Chadwick,,house:118281,2025-05-20,HSGO12,name_only_unique,low
+32528,SEAN HEATHER,Mr. Sean Heather,CHAMBER COMMERCE,house:118288,2025-05-21,HSIF17,name_only_unique,low
+144891,CASEY HAMMOND,Mr. Casey Hammond,CAPITOL PILLAR,house:118291,2025-05-21,HSIF02,name+org_in_lda,high
+147249,TYSON BERTONE-RIGGS,Mr. Tyson Bertone-Riggs,,house:118309,2025-06-26,HSII10,name_only_unique,low
+56333,BARTLETT NAYLOR,Mr. Bartlett Collins Naylor,PUBLIC CITIZEN,house:118320,2025-06-04,HSBA,name+org_in_lda,high
+137911,SCOTT TALBOTT,Mr. Scott Talbott,ELECTRONIC TRANSACTIONS ASSOCIATION,house:118324,2025-06-05,HSBA20,name+org_in_lda,high
+142742,BENJAMIN GOLDSTEIN-SMITH,Mr. Benjamin Smith,,house:118327,2025-06-05,HSAP06,name_only_unique,low
+59870,CHIP PICKERING,Chip Pickering,INCOMPAS,house:118333,2025-06-04,HSIF16,name_only_unique,low
+151285,JAMES HARRIS,Mr. James C. Harris III,,house:118341,2025-06-10,HSHM07,name_only_unique,low
+56286,JULIE FISHMAN RAYMAN,Ms. Julie Fishman Rayman,AMERICAN JEWISH COMMITTEE,house:118343,2025-06-11,HSHM05,name+org_in_lda,high
+114207,LIZ CLARK,Dr. Liz Clark,,house:118365,2025-06-11,HSVR10,name_only_unique,low
+148335,JOHN MURPHY,"Mr. John Murphy, III",ASSOCIATION FOR ACCESSIBLE MEDICINES,house:118366,2025-06-11,HSIF14,name+org_in_lda,high
+80347,MOSHE SCHWARTZ,Mr. Moshe Schwartz,,house:118371,2025-06-11,HSGO06,name_only_unique,low
+100796,ERIC SNELGROVE,Mr. Eric Snelgrove,,house:118371,2025-06-11,HSGO06,name_only_unique,low
+149209,WILLIAM RUSSELL,Mr. William Russell,,house:118372,2025-06-12,HSBA10,name_only_unique,low
+139507,CODY CARBONE,Mr. Cody Carbone,DIGITAL CHAMBER,house:118374,2025-06-11,HSVR08,name+org_in_lda,high
+154204,COLE LYLE,Mr. Cole T. Lyle,AMERICAN LEGION,house:118374,2025-06-11,HSVR08,name+org_in_lda,high
+154204,COLE LYLE,Mr. Cole Lyle,AMERICAN LEGION,house:118376,2025-06-12,HSVR03,name+org_in_lda,high
+147042,DAVID GARCIA,Mr. David Garcia,,house:118377,2025-06-12,HSBA04,name_only_unique,low
+71861,CHAD WHITEMAN,Mr. Chad Whiteman,CHAMBER COMMERCE,house:118385,2025-06-11,HSIF18,name_only_unique,low
+69955,PAMELA BONDI,The Honorable Pamela Bondi,,house:118399,2025-06-23,HSAP19,name_only_unique,low
+150027,CELIA SIMS,Ms. Celia Hartman Sims,ABECEDARIAN,house:118406,2025-06-24,HSED14,name+org_in_lda,high
+60052,TIMOTHY KENNEDY,The Honorable Timothy M. Kennedy,,house:118409,2025-06-24,HSVR09,name_only_unique,low
+79370,JIM COCHRANE,Mr. Jim Cochrane,PACKAGE SHIPPERS ASSOCIATION,house:118417,2025-06-24,HSGO24,name+org_in_lda,high
+48036,ROBERT GORDON,The Honorable Robert Gordon,GEORGETOWN UNIVERSITY,house:118420,2025-06-25,HSBU,name_only_unique,low
+68793,CHARLES CRAIN,Mr. Charles Crain,NATIONAL ASSOCIATION MANUFACTURERS,house:118422,2025-06-25,HSJU05,name+org_in_lda,high
+63031,KEVIN DONNELLY,Dr. Kevin Donnelly,KANSAS STATE UNIVERSITY,house:118427,2025-06-26,HSAG16,name_only_unique,low
+150041,MARK BEALL,Mr. Mark Beall Jr.,AI POLICY NETWORK,house:118428,2025-06-25,HSZS,name+org_in_lda,high
+92480,JOHN BOZZELLA,Mr. John Bozzella,ALLIANCE FOR AUTOMOTIVE INNOVATION,house:118433,2025-06-26,HSIF17,name+org_in_lda,high
+58681,CATHERINE CHASE,Ms. Catherine Chase,ADVOCATES FOR HIGHWAY AUTO SAFETY,house:118433,2025-06-26,HSIF17,name+org_in_lda,high
+145658,ASHLEY NUNES,Dr. Ashley Nunes,HARVARD UNIVERSITY,house:118437,2025-06-26,HSSY21,name_only_unique,low
+144978,CHURCH HUTTON,Mr. Church Hutton,AEROVIRONMENT,house:118442,2025-07-15,HSHM07,name+org_in_lda,high
+143990,BRETT FEDDERSEN,Mr. Brett J. Feddersen,D FEND SOLUTIONS,house:118442,2025-07-15,HSHM07,name+org_in_lda,high
+149137,TATYANA BOLTON,Ms. Tatyana Bolton,,house:118444,2025-07-22,HSHM08,name_only_unique,low
+50525,ANDREW BLACK,Mr. Andrew Black,LIQUID ENERGY PIPELINE ASSOCIATION,house:118463,2025-07-08,HSIF03,name+org_in_lda,high
+151206,ERIN KURILLA,Ms. Erin Kurilla,AMERICAN PUBLIC GAS ASSOCIATION,house:118463,2025-07-08,HSIF03,name+org_in_lda,high
+148119,SARAH MILLER,Ms. Sarah Miller,GPA MIDSTREAM ASSOCIATION,house:118463,2025-07-08,HSIF03,name_only_unique,low
+72360,SEAN DUFFY,The Honorable Sean Duffy,,house:118483,2025-07-16,HSPW,name_only_unique,low
+44859,DAVID RICHARDSON,Mr. David Richardson,,house:118485,2025-07-23,HSPW13,name_only_unique,low
+140638,LINDSEY JOHNSON,Mrs. Lindsey Johnson,CONSUMER BANKERS ASSOCIATION,house:118488,2025-07-15,HSBA,name+org_in_lda,high
+105951,JONATHAN SAMFORD,Mr. Jonathan Samford,GLOBAL BUSINESS ALLIANCE,house:118489,2025-07-16,HSBA10,name+org_in_lda,high
+152696,KYLEANNE HUNTER,Dr. Kyleanne Hunter,IRAQ AFGHANISTAN VETERANS,house:118495,2025-07-15,HSVR03,name+org_in_lda,high
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,,house:118495,2025-07-15,HSVR03,name_only_unique,low
+73271,ROSS EISENBERG,Mr. Ross Eisenberg,,house:118510,2025-07-16,HSIF18,name_only_unique,low
+54980,LARS GOLUMBIC,Mr. Lars Golumbic,,house:118512,2025-07-22,HSED02,name_only_unique,low
+138452,HOLLY COOK,Ms. Holly Cook,NATIONAL PORK PRODUCERS COUNCIL,house:118529,2025-07-23,HSAG,name_only_unique,low
+70419,TRAVIS CUSHMAN,Mr. Travis Cushman,,house:118529,2025-07-23,HSAG,name_only_unique,low
+50525,ANDREW BLACK,Mr. Andrew J. Black,LIQUID ENERGY PIPELINE ASSOCIATION,house:118531,2025-07-22,HSIF03,name+org_in_lda,high
+148119,SARAH MILLER,Ms. Sarah Miller,GPA MIDSTREAM ASSOCIATION,house:118531,2025-07-22,HSIF03,name_only_unique,low
+31143,JAY TIMMONS,Jay Timmons,NATIONAL ASSOCIATION MANUFACTURERS,house:118541,2025-07-26,HSWM,name+org_in_lda,high
+31204,AUTUMN HANNA,Ms. Autumn Hanna,TAXPAYERS FOR COMMON SENSE,house:118557,2025-09-09,HSII15,name+org_in_lda,high
+138153,DUSTIN SHERER,Mr. Dustin Sherer,,house:118558,2025-09-03,HSII13,name_only_unique,low
+57773,CLARK MATHER,Mr. Clark Mather,NORTHWEST RIVERPARTNERS,house:118558,2025-09-03,HSII13,name_only_unique,low
+56163,HUGH CARNEY,Mr. Hugh Carney,AMERICAN BANKERS ASSOCIATION,house:118576,2025-09-09,HSBA20,name+org_in_lda,high
+52846,KARA RINALDI,Ms. Kara Saul-Rinaldi,,house:118590,2025-09-09,HSIF03,name_only_unique,low
+143990,BRETT FEDDERSEN,Mr. Brett Feddersen,,house:118608,2025-09-16,HSJU08,name_only_unique,low
+149299,JENNIFER CLEARY,Ms. Jennifer Cleary,ASSOCIATION HOME APPLIANCE MANUFACTURERS,house:118615,2025-09-16,HSIF03,name+org_in_lda,high
+56273,GEORGE LOWE,Mr. George Lowe,AMERICAN GAS ASSOCIATION,house:118615,2025-09-16,HSIF03,name+org_in_lda,high
+73427,STACI PIES,Ms. Staci Pies,INCOMPAS,house:118628,2025-09-18,HSIF16,name_only_unique,low
+41619,MICHAEL WOODY,Mr. MIchael Woody,,house:118642,2025-09-29,HSJU13,name_only_unique,low
+48303,JAMES RYAN,Mr. James Ryan,,house:118656,2025-11-18,HSBA,name_only_unique,low
+26262,GROVER NORQUIST,Mr. Grover Norquist,AMERICANS FOR TAX REFORM,house:118656,2025-11-18,HSBA,name+org_in_lda,high
+56322,JOHN DILLON,Mr. John Dillon,GRAND CANYON RIVER OUTFITTERS ASSOCIATION,house:118667,2025-12-11,HSII10,name+org_in_lda,high
+151031,MICHAEL HUGHES,Mr. Michael Hughes,FEDERAL LAW ENFORCEMENT OFFICERS ASSOCIATION,house:118672,2025-12-03,HSHM,name_only_unique,low
+42115,DANIEL HODGES,Mr. Daniel Hodges,,house:118672,2025-12-03,HSHM,name_only_unique,low
+61060,BRIAN CONNELL,Mr. Brian Connell,BLOOD CANCER UNITED,house:118675,2025-11-19,HSWM02,name+org_in_lda,high
+145475,ALEXANDER BOTTING,Mr. Alexander Botting,VENABLE,house:118676,2025-11-20,HSHM07,name+org_in_lda,high
+68793,CHARLES CRAIN,Mr. Charles Crain,NATIONAL ASSOCIATION MANUFACTURERS,house:118677,2025-11-20,HSSM,name+org_in_lda,high
+114736,CARLOS TRUJILLO,The Honorable Carlos Trujillo,,house:118684,2025-11-20,HSFA07,name_only_unique,low
+73169,ROBERT ROSE,Robert Rose,RELIABLE ROBOTICS,house:118687,2025-12-03,HSPW05,name_only_unique,low
+149905,ROSANNA MAIETTA,Ms. Rosanna Maietta,AMERICAN HOTEL LODGING ASSOCIATION,house:118693,2025-11-20,HSIF17,name+org_in_lda,high
+147575,MICHAEL GRIFFIN,Dr. Michael D. Griffin,,house:118699,2025-12-04,HSSY16,name_only_unique,low
+56482,WILLIAM TIMMONS,The Honorable William R. Timmons,,house:118700,2025-12-03,HSBU,name_only_unique,low
+41902,LYNN DUDLEY,Mrs. Lynn Dudley,AMERICAN BENEFITS COUNCIL,house:118704,2025-12-02,HSED02,name+org_in_lda,high
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,,house:118705,2025-12-03,HSVR,name_only_unique,low
+114067,PAUL LEKAS,Mr. Paul Lekas,SOFTWARE INFORMATION INDUSTRY ASSOCIATION,house:118714,2025-12-02,HSIF17,name+org_in_lda,high
+146328,MATT SHARP,Mr. Matt Sharp,ALLIANCE DEFENDING FREEDOM,house:118717,2025-12-03,HSED14,name_only_unique,low
+142742,BENJAMIN GOLDSTEIN-SMITH,Mr. Benjamin Smith,,house:118725,2025-12-11,HSII24,name_only_unique,low
+151739,JOSHUA BRANCH,Mr. Joshua Branch,PUBLIC CITIZEN,house:118735,2025-12-10,HSBA,name+org_in_lda,high
+72102,BRETT TOLMAN,Mr. Brett Tolman,,house:118740,2025-12-11,HSJU,name_only_unique,low
+72547,GENE SCHAERR,Mr. Gene Schaerr,PROJECT FOR PRIVACY SURVEILLANCE ACCOUNTABILITY,house:118740,2025-12-11,HSJU,name+org_in_lda,high
+151998,AMANDA EVERSOLE,Mrs. Amanda Eversole,FINANCIAL SERVICES FORUM,house:118741,2025-12-11,HSBA20,name+org_in_lda,high
+139931,DONALD DAVIS,The Honorable Donald G. Davis,,house:118747,2025-12-12,HSIF,name_only_unique,low
+144823,SUSAN BODINE,Ms. Susan Bodine,,house:118784,2025-12-18,HSIF18,name_only_unique,low
+149222,YOUNG KI KIM,The Honorable Young Kim,,house:118789,2026-01-14,HSII10,name_only_unique,low
+139358,SUSAN VAN METER,Ms. Susan Van Meter,AMERICAN CLINICAL LABORATORY ASSOCIATION,house:118798,2026-01-08,HSIF14,name_only_unique,low
+59656,THOMAS RYAN,Mr. Thomas Ryan,AMERICAN ASSOCIATION FOR HOMECARE,house:118798,2026-01-08,HSIF14,name+org_in_lda,high
+149968,AMY MATSUI,Ms. Amy K. Matsui,NATIONAL WOMEN S LAW CENTER,house:118804,2026-01-13,HSED14,name_only_unique,low
+139931,DONALD DAVIS,The Honorable Donald G. Davis,,house:118810,2026-01-14,HSPW,name_only_unique,low
+49273,JOHN ROSE,The Honorable John W. Rose,,house:118810,2026-01-14,HSPW,name_only_unique,low
+152696,KYLEANNE HUNTER,Dr. Kyleanne Hunter,IRAQ AFGHANISTAN VETERANS,house:118820,2026-01-14,HSVR09,name+org_in_lda,high
+153502,ANNA CARLA PIERRE GOMEZ,The Honorable Anna M. Gomez,,house:118825,2026-01-14,HSIF16,name_only_unique,low
+84028,ERIK MILITO,Mr. Erik Milito,NATIONAL OCEAN INDUSTRIES ASSOCIATION,house:118830,2026-01-22,HSII06,name+org_in_lda,high
+17987,JOEL WHITE,Mr. Joel White,COUNCIL FOR AFFORDABLE HEALTH COVERAGE,house:118867,2026-01-21,HSBU,name+org_in_lda,high
+146630,SARAH TROUTMAN,Ms. Sarah Troutman,,house:118868,2026-01-22,HSFA16,name_only_unique,low
+111430,JULIE HOWELL,Ms. Julie Howell,PARALYZED VETERANS,house:118869,2026-01-21,HSVR10,name+org_in_lda,high
+89058,DYLAN HEDTLER-GAUDETTE,Mr. Dylan Hedtler-Gaudette,PROJECT ON GOVERNMENT OVERSIGHT,house:118871,2026-01-21,HSJU08,name+org_in_lda,high
+114214,WAYNE PALMER,The Honorable Wayne Palmer,,house:118880,2026-01-22,HSED10,name_only_unique,low
+67682,DIMITRIOS KARAKITSOS,Dimitrios Karakitsos,HOLLAND KNIGHT,house:118897,2026-01-22,HSIF18,name+org_in_lda,high
+139383,KIMBERLY WHITE,Dr. Kimberly Wise White,AMERICAN CHEMISTRY COUNCIL,house:118897,2026-01-22,HSIF18,name+org_in_lda,high
+154987,JAMES MCCORMICK,Mr. James McCormick,VIETNAM VETERANS,house:118907,2026-02-03,HSVR09,name+org_in_lda,high
+48036,ROBERT GORDON,Mr. Robert Gordon,AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION,house:118913,2026-02-03,HSII10,name+org_in_lda,high
+101344,WILLIAM HUBBARD,Mr. William Hubbard,VETERANS EDUCATION SUCCESS,house:118920,2026-02-04,HSVR11,name+org_in_lda,high
+70888,MARK COMPTON,Mr. Mark Compton,AMERICAN EXPLORATION MINING ASSOCIATION,house:118947,2026-02-24,HSII06,name+org_in_lda,high
+141611,DOUGLAS COLLINS,The Honorable Douglas A. Collins,,house:118948,2026-02-11,HSVR,name_only_unique,low
+69955,PAMELA BONDI,The Honorable Pamela J. Bondi,,house:118951,2026-02-11,HSJU,name_only_unique,low
+18361,LORI REILLY,"Lori M. Reilly, Esq.",PHRMA,house:118954,2026-02-11,HSIF14,name_only_unique,low
+148335,JOHN MURPHY,John Murphy,ASSOCIATION FOR ACCESSIBLE MEDICINES,house:118954,2026-02-11,HSIF14,name+org_in_lda,high
+153596,DAVID MARIN,David Marin,PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION,house:118954,2026-02-11,HSIF14,name+org_in_lda,high
+154755,CHESTER DAVIS,"Chester “Chip” Davis, Jr.",HEALTHCARE DISTRIBUTION ALLIANCE,house:118954,2026-02-11,HSIF14,name+org_in_lda,high
+65033,JAMES GELFAND,James Gelfand,ERISA INDUSTRY COMMITTEE,house:118954,2026-02-11,HSIF14,name+org_in_lda,high
+141042,JON RETZER,Jon Retzer,DISABLED AMERICAN VETERANS,house:118975,2026-02-24,HSVR,name+org_in_lda,high
+143640,BRIAN KELLY,Brian T. Kelly,MILITARY OFFICERS ASSOCIATION,house:118975,2026-02-24,HSVR,name+org_in_lda,high
+150199,KRISTINA KEENAN,Kristina Keenan,,house:118976,2026-03-03,HSVR,name_only_unique,low
+141116,TAMMY BARLET,Tammy Barlet,STUDENT VETERANS,house:118976,2026-03-03,HSVR,name+org_in_lda,high
+149048,LEA ROWE,Lea Rowe,BLINDED VETERANS ASSOCIATION,house:118976,2026-03-03,HSVR,name+org_in_lda,high
+152696,KYLEANNE HUNTER,Kyleanne Hunter,IRAQ AFGHANISTAN VETERANS,house:118976,2026-03-03,HSVR,name+org_in_lda,high
+150142,MARIO MARQUEZ,Mario Marquez,AMERICAN LEGION,house:118977,2026-03-04,HSVR,name+org_in_lda,high
+154204,COLE LYLE,Cole Lyle,AMERICAN LEGION,house:118977,2026-03-04,HSVR,name+org_in_lda,high
+61547,ROBERT THOMAS,Robert Thomas,PARALYZED VETERANS,house:118977,2026-03-04,HSVR,name_only_unique,low
+58399,ALLYSON KNOX,Mrs. Allyson Knox,MICROSOFT,house:118980,2026-02-24,HSED14,name+org_in_lda,high
+143523,MAX FENKELL,Mr. Max Fenkell,SCALE AI,house:118982,2026-03-17,HSHM08,name+org_in_lda,high
+59487,ERIK OLSON,Mr. Erik D. Olson,NATURAL RESOURCES DEFENSE COUNCIL,house:118992,2026-02-24,HSIF18,name_only_unique,low
+141493,CHRISTOPHER SMITH,The Honorable Christopher H. Smith,,house:119007,2026-03-05,HSAP07,name_only_unique,low
+68975,SARAH (BEATTY) ROGERS,The Honorable Sarah B. Rogers,,house:119022,2026-03-05,HSFA,name_only_unique,low
+63671,FAITH WILLIAMS,Ms. Faith Williams,PROJECT ON GOVERNMENT OVERSIGHT,house:119028,2026-03-25,HSII15,name_only_unique,low
+110626,TONY RICE,Mr. Tony Rice,NATIONAL MILK PRODUCERS FEDERATION,house:119042,2026-03-17,HSJU05,name+org_in_lda,high
+61686,NATHAN TAYLOR,Mr. Nathan Taylor,MORRISON FOERSTER,house:119049,2026-03-17,HSBA,name+org_in_lda,high
+101816,MICHAEL SULLIVAN,Mr. Michael G. Sullivan,,house:119052,2026-03-17,HSAP24,name_only_unique,low
+69294,JOSEPH EANNELLO,Mr. Joseph Eannello,,house:119053,2026-03-17,HSAP24,name_only_unique,low
+61731,DANIEL SCHUMAN,Mr. Daniel Schuman,,house:119053,2026-03-17,HSAP24,name_only_unique,low
+119967,MICHAEL STERN,Mr. Michael Stern,,house:119053,2026-03-17,HSAP24,name_only_unique,low
+144735|62982,SEAN VITKA,Mr. Sean Vitka,DEMAND PROGRESS ACTION,house:119053,2026-03-17,HSAP24,name+org_in_lda,high
+143908,AHNIWAKE ROSE,Ahniwake Rose (Cherokee & Muscogee),AMERICAN INDIAN HIGHER EDUCATION CONSORTIUM,house:119059,2026-03-17,HSAP06,name+org_in_lda,high
+50158,AURENE MARTIN,Aurene Martin,,house:119059,2026-03-17,HSAP06,name_only_unique,low
+65161,JOE DAVIS,Joe Davis,HOOPA VALLEY TRIBE,house:119061,2026-03-18,HSAP06,name_only_unique,low
+67863,MICHAEL MILLER,Mr. Michael F. Miller,,house:119062,2026-03-17,HSFA,name_only_unique,low
+107267,KIMBERLY BRANDT,Ms. Kimberly Brandt,,house:119065,2026-03-17,HSIF02,name_only_unique,low
+150263,KELLY ANN SHAW,Ms. Kelly Ann Shaw,,house:119066,2026-03-17,HSWM04,name_only_unique,low
+139325,PETER BACHMANN,Mr. Peter Bachmann,RICE FEDERATION,house:119066,2026-03-17,HSWM04,name+org_in_lda,high
+143750,ROBERT JOHNSON,Mr. Robert Johnson,SEDGWICK GOVERNMENT SOLUTIONS,house:119068,2026-03-18,HSED10,name_only_unique,low
+53408,THOMAS SAENZ,Mr. Thomas A. Saenz,,house:119069,2026-03-18,HSJU10,name_only_unique,low
+139825,DANIEL ZIMMERMAN,The Honorable Daniel Zimmerman,,house:119071,2026-03-18,HSAS,name_only_unique,low
+56590,ROBERT TAYLOR,Dr. Robert Taylor M.D.,,house:119076,2026-03-18,HSWM02,name_only_unique,low
+52660,JOHN BUTLER,Mr. John P. Butler,AKEBIA THERAPEUTICS,house:119076,2026-03-18,HSWM02,name_only_unique,low
+155468,SEAN MURPHY,Mr. Sean Murphy,,house:119087,2026-03-25,HSSM,name_only_unique,low
+50158,AURENE MARTIN,Aurene Martin,,house:119093,2026-03-26,HSAP07,name_only_unique,low
+95480,TAYLOR JORDAN,The Honorable Taylor Jordan,,house:119094,2026-03-25,HSAP19,name_only_unique,low
+12703,DANIEL NAATZ,Mr. Daniel Naatz,INDEPENDENT PETROLEUM ASSOCIATION,house:119099,2026-03-25,HSII06,name+org_in_lda,high
+154204,COLE LYLE,Mr. Cole Lyle,AMERICAN LEGION,house:119102,2026-03-25,HSVR08,name+org_in_lda,high
+52220,KENNETH BENTSEN,"The Honorable Kenneth Bentsen, Jr.",SIFMA,house:119103,2026-03-25,HSBA,name_only_unique,low
+150763,SUMMER MERSINGER,The Honorable Summer Mersinger,BLOCKCHAIN ASSOCIATION,house:119103,2026-03-25,HSBA,name+org_in_lda,high
+155570,JONATHAN BURKS,Mr. Jonathan Burks,,house:119105,2026-03-26,HSBU,name_only_unique,low
+59870,CHIP PICKERING,The Honorable Chip Pickering,INCOMPAS,house:119115,2026-03-26,HSIF16,name_only_unique,low
+60052,TIMOTHY KENNEDY,The Honorable Timothy M. Kennedy,,house:119129,2026-04-15,HSAS,name_only_unique,low
+133521,JAMES WALKINSHAW,The Honorable James R. Walkinshaw,,house:119129,2026-04-15,HSAS,name_only_unique,low
+69780,JOHN JONES,Mr. John Jones,,house:119132,2026-04-16,HSII13,name_only_unique,low
+141629,CHRISTOPHER DAVIS,Dr. Christopher Davis,,house:119135,2026-04-14,HSWM02,name_only_unique,low
+105918,CHATRANE BIRBAL,Ms. Chatrane Birbal,CHRO ASSOCIATION,house:119139,2026-04-15,HSED10,name+org_in_lda,high
+141098,CARL MAXWELL,Mr. Carl Maxwell,,house:119140,2026-04-15,HSSY21,name_only_unique,low
+149539,KATE TRAVIS,Ms. Kate Travis,,house:119140,2026-04-15,HSSY21,name_only_unique,low
+140796,JAMIESON GREER,The Honorable Jamieson Greer,,house:119150,2026-04-16,HSAP19,name_only_unique,low
+111430,JULIE HOWELL,Ms. Julie Howell,PARALYZED VETERANS,house:119158,2026-04-22,HSII10,name+org_in_lda,high
+111430,JULIE HOWELL,Ms. Julie Howell,PARALYZED VETERANS,house:119164,2026-04-16,HSVR10,name+org_in_lda,high
+8272,JONATHAN BAND,Mr. Jonathan Band,,house:119195,2026-04-21,HSJU03,name_only_unique,low
+65033,JAMES GELFAND,Mr. James Gelfand,ERISA INDUSTRY COMMITTEE,house:119202,2026-04-22,HSED02,name+org_in_lda,high
+140796,JAMIESON GREER,The Honorable Jamieson Greer,,house:119207,2026-04-22,HSWM,name_only_unique,low
+114578,SCOTT PACE,Dr. Scott Pace,GEORGE WASHINGTON UNIVERSITY,house:119230,2026-04-29,HSFA14,name_only_unique,low
+56114,SCOTT FABER,"Mr. Scott Faber, JD",ENVIRONMENTAL WORKING,house:119246,2026-04-29,HSIF14,name+org_in_lda,high
+141493,CHRISTOPHER SMITH,Mr. Christopher Smith,,house:119257,2026-05-14,HSFA14,name_only_unique,low
+65307,MARK MILLER,Mr. Mark Miller,PACIFIC LEGAL FOUNDATION,house:119263,2026-05-21,HSII10,name_only_unique,low
+107572,SEAN KENNEDY,Mr. Sean Kennedy,,house:119272,2026-05-14,HSJU01,name_only_unique,low
+139825,DANIEL ZIMMERMAN,The Honorable Daniel Zimmerman,,house:119289,2026-05-19,HSAS,name_only_unique,low
+72360,SEAN DUFFY,The Honorable Sean Duffy,,house:119292,2026-05-21,HSAP20,name_only_unique,low
+139177,JESSICA KRAMER,The Honorable Jessica Kramer,,house:119293,2026-05-20,HSIF02,name_only_unique,low
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,,house:119305,2026-05-20,HSVR,name_only_unique,low
+154204,COLE LYLE,Mr. Cole Lyle,AMERICAN LEGION,house:119305,2026-05-20,HSVR,name+org_in_lda,high
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,house:119305,2026-05-20,HSVR,name+org_in_lda,high
+71342,MORGAN BROWN,Mr. Morgan Brown,PARALYZED VETERANS,house:119305,2026-05-20,HSVR,name+org_in_lda,high
+72547,GENE SCHAERR,Mr. Gene Schaerr,SCHAERR JAFFE,house:119310,2026-05-21,HSJU03,name+org_in_lda,high
+139504,MAYA WILEY,Ms. Maya Wiley,LEADERSHIP CONFERENCE ON CIVIL HUMAN RIGHTS,house:119311,2026-05-20,HSJU,name+org_in_lda,high
+80347,MOSHE SCHWARTZ,Mr. Moshe Schwartz,,house:119337,2026-06-03,HSSM,name_only_unique,low
+151047,LAURA DIBELLA,The Honorable Laura DiBella,,house:119340,2026-06-03,HSPW07,name_only_unique,low
+56306,JACQUELINE GELB,Ms. Jacqueline Gelb,,house:119343,2026-06-03,HSIF18,name_only_unique,low
+154960,TYLER BRIDEGAN,Tyler R. Bridegan,,house:119345,2026-06-03,HSIF17,name_only_unique,low
+64759,KRISTA CARVER,Ms. Krista Hessler Carver,COVINGTON BURLING,house:119346,2026-06-04,HSJU03,name+org_in_lda,high
+145774,JAMES MURPHY,The Honorable James R. Murphy,,house:119349,2026-06-04,HSED02,name_only_unique,low
+143423,LISA DYER,Ms. Lisa Dyer,GPS INNOVATION ALLIANCE,house:119351,2026-06-04,HSIF16,name+org_in_lda,high
+62576,JEFFREY MERRIFIELD,The Honorable Jeffrey Merrifield,,house:119367,2026-06-09,HSIF03,name_only_unique,low
+150713,JASON SOMENSATTO,Mr. Jason Somensatto,COIN CENTER,house:119368,2026-06-09,HSWM,name+org_in_lda,high
+55757,CURTIS LEGEYT,Mr. Curtis LeGeyt,NATIONAL ASSOCIATION BROADCASTERS,house:119369,2026-06-10,HSJU05,name+org_in_lda,high
+153502,ANNA CARLA PIERRE GOMEZ,Ms. Anna Gomez,,house:119369,2026-06-10,HSJU05,name_only_unique,low
+52659,KRISTEN SAWIN,Mrs. Kristen Sawin,WEYERHAEUSER,house:119371,2026-06-10,HSAG,name+org_in_lda,high
+35185,CHRISTOPHER FOX,The Honorable Christopher Fox,,house:119388,2026-06-24,HSIG,name_only_unique,low
+153836,TARA FLYNN,Ms. Tara Flynn,NATIONAL COMMUNITY REINVESTMENT COALITION,house:119399,2026-06-24,HSBA,name+org_in_lda,high
+19441,LESLEY WITTER,Ms. Lesley Witter,NATIONAL FUNERAL DIRECTORS ASSOCIATION,house:119403,2026-06-25,HSVR09,name_only_unique,low
+154204,COLE LYLE,Mr. Cole Lyle,AMERICAN LEGION,house:119403,2026-06-25,HSVR09,name+org_in_lda,high
+140972,JOHN CONNOLLY,John Connolly,,house:119405,2026-06-25,HSIF02,name_only_unique,low
+65440,CHRISTOPHER MOHR,Mr. Christopher Mohr,SOFTWARE INFORMATION INDUSTRY ASSOCIATION,house:119417,2026-06-30,HSJU03,name+org_in_lda,high
+154204,COLE LYLE,Mr. Cole Lyle,AMERICAN LEGION,house:119422,2026-06-30,HSVR09,name+org_in_lda,high
+65033,JAMES GELFAND,Mr. James Gelfand,ERISA INDUSTRY COMMITTEE,house:119427,2026-07-01,HSED02,name+org_in_lda,high
+147648,JEREMY VILLANUEVA,Mr. Jeremy Villanueva,PARALYZED VETERANS,house:119443,2026-07-13,HSVR11,name+org_in_lda,high
+144850,SARAH ABERG,Ms. Sarah Aberg,NOVA LABS,house:119461,2026-07-17,HSBA21,name+org_in_lda,high
+150713,JASON SOMENSATTO,Mr. Jason Somensatto,COIN CENTER,house:119461,2026-07-17,HSBA21,name+org_in_lda,high
+95480,TAYLOR JORDAN,The Honorable Taylor Jordan,,house:119467,2026-07-15,HSSY16,name_only_unique,low
+140217,RYAN DONOVAN,Mr. Ryan Donovan,COUNCIL FEDERAL HOME LOAN BANKS,house:119477,2026-07-21,HSBA04,name_only_unique,low
+67272,CHRISTOPHER CYLKE,Mr. Christopher Cylke,AMERICAN GAMING ASSOCIATION,house:119478,2026-07-21,HSAG22,name+org_in_lda,high
+151735,JEFFREY ANDERSON,Dr. Jeffrey H. Anderson,,house:119486,2026-07-22,HSHA,name_only_unique,low
+138424,JOHN HEWITT,John Hewitt,CONSUMER BRANDS ASSOCIATION,house:119489,2026-07-22,HSIF17,name+org_in_lda,high
+145618,KATHLEEN KRANINGER,The Honorable Kathleen Kraninger,FLORIDA BANKERS ASSOCIATION,house:119522,2026-09-02,HSBA,name+org_in_lda,high
+141018,JEFF GRUBBE,The Honorable Jeff Grubbe,AGUA CALIENTE BAND CAHUILLA INDIANS,house:119529,2026-09-16,HSII13,name_only_unique,low
+60293,NAUREEN SHAH,Ms. Naureen Shah,AMERICAN CIVIL LIBERTIES UNION,house:119542,2026-09-15,HSJU01,name+org_in_lda,high
+63943,AKASH CHOUGULE,Mr. Akash Chougule,,house:119544,2026-09-15,HSED02,name_only_unique,low
+59715,ADAM JACOBS-DEAN,Dr. Adam Dean,GEORGE WASHINGTON UNIVERSITY,house:119544,2026-09-15,HSED02,name_only_unique,low
+154884,JOHN GALE,Mr. John Gale,PANO AI,house:119556,2026-09-15,HSSY,name+org_in_lda,high
+149548,TOMMY BROWN,Mr. Tommy Brown,,house:119558,2026-09-16,HSED13,name_only_unique,low
+55470,PATRICK JOHNSON,Mr. Patrick Johnson,,house:119559,2026-09-16,HSAG,name_only_unique,low
+151357,AIDAN JOHNSTON,Mr. Aidan Johnston,GUN OWNERS,house:119594,2026-11-18,HSGO33,name+org_in_lda,high
+66337,ELLIOT WILLIAMS,Elliot Williams,RABEN,chrg:CHRG-118hhrg51365,2023-02-09,HSJU,name+org_in_lda,high
+151554,MICHAEL WILSON,Mr. Michael Wilson,,chrg:CHRG-118hhrg51443,2023-03-28,HSSM,name_only_unique,low
+140796,JAMIESON GREER,Jamieson Greer,KING SPALDING,chrg:CHRG-118hhrg51492,2023-03-08,HSJU,name+org_in_lda,high
+152044,JAMES RODRIGUEZ,Mr. James Rodriguez,,chrg:CHRG-118hhrg51537,2023-03-09,HSVR,name_only_unique,low
+149015,KEVIN HOLLINGER,Mr. Kevin Hollinger,,chrg:CHRG-118hhrg51537,2023-03-09,HSVR,name_only_unique,low
+71787,MARK WILLIAMS,Mark Williams,,chrg:CHRG-118hhrg51661,2023-02-08,HSPW,name_only_unique,low
+144823,SUSAN BODINE,Susan Parker Bodine,,chrg:CHRG-118hhrg51661,2023-02-08,HSPW,name_only_unique,low
+69946,LISA ELLMAN,Ms. Lisa Ellman,COMMERCIAL DRONE ALLIANCE,chrg:CHRG-118hhrg51879,2023-03-23,HSSY,name+org_in_lda,high
+70842,LAWRENCE MONTREUIL,Mr. Lawrence Montreuil,AMERICAN LEGION,chrg:CHRG-118hhrg51950,2023-03-29,HSVR,name+org_in_lda,high
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,VETERANS FOREIGN WARS UNITED STATES,chrg:CHRG-118hhrg51950,2023-03-29,HSVR,name+org_in_lda,high
+71342,MORGAN BROWN,Mr. Morgan Brown,PARALYZED VETERANS,chrg:CHRG-118hhrg51951,2023-03-29,HSVR,name+org_in_lda,high
+70199,JOSEPH GARCIA,Mr. Joseph Garcia,,chrg:CHRG-118hhrg51952,2023-03-30,HSVR,name_only_unique,low
+54729,PATRICK KELLY,Hon. Patrick Kelly,,chrg:CHRG-118hhrg52168,2023-05-10,HSSM,name_only_unique,low
+404,KEVIN O'CONNOR,Mr. Kevin B. O'Connor,INTERNATIONAL ASSOCIATION FIRE FIGHTERS,chrg:CHRG-118hhrg52174,2023-05-11,HSSY,name+org_in_lda,high
+153618,BERNARD MCNAMEE,Bernard McNamee,,chrg:CHRG-118hhrg52299,2023-02-07,HSIF,name_only_unique,low
+144750,ANTHONY CAMPAU,Mr. Anthony Campau,CLARK HILL PUBLIC STRATEGIES,chrg:CHRG-118hhrg52639,2023-06-14,HSGO,name+org_in_lda,high
+72629,ANDREW BAILEY,The Honorable Andrew Bailey,,chrg:CHRG-118hhrg52641,2023-06-21,HSGO,name_only_unique,low
+30414,SHARON PINKERTON,Sharon Pinkerton,AIRLINES FOR,chrg:CHRG-118hhrg52648,2023-03-23,HSPW,name_only_unique,low
+146434,SATYA THALLAM,Satya Thallam,,chrg:CHRG-118hhrg52652,2023-05-24,HSPW,name_only_unique,low
+73272,CHRIS JAHN,Chris Jahn,AMERICAN CHEMISTRY COUNCIL,chrg:CHRG-118hhrg52653,2023-05-11,HSPW,name+org_in_lda,high
+80278,CARYN SCHENEWERK,Ms. Caryn Schenewerk,,chrg:CHRG-118hhrg52767,2023-07-13,HSSY,name_only_unique,low
+65050,WILLIAM RICHARDSON,William R. Richardson,,chrg:CHRG-118hhrg52838,2023-02-08,HSIF,name_only_unique,low
+72102,BRETT TOLMAN,Brett Tolman,,chrg:CHRG-118hhrg52866,2023-06-22,HSJU,name_only_unique,low
+70619,GARRETT LEVIN,Garrett Levin,,chrg:CHRG-118hhrg52954,2023-06-27,HSJU,name_only_unique,low
+15722,KAREN KERRIGAN,Karen Kerrigan,SMALL BUSINESS ENTREPRENEURSHIP COUNCIL,chrg:CHRG-118hhrg53009,2023-03-23,HSWM,name+org_in_lda,high
+47219,JOHN LYNCH,Dr. John Lynch,,chrg:CHRG-118hhrg53025,2023-07-27,HSGO,name_only_unique,low
+62324,JONATHAN MILLER,Mr. Jonathan S. Miller,HEMP ROUNDTABLE,chrg:CHRG-118hhrg53026,2023-07-27,HSGO,name+org_in_lda,high
+72547,GENE SCHAERR,Gene Schaerr,PROJECT FOR PRIVACY SURVEILLANCE ACCOUNTABILITY,chrg:CHRG-118hhrg53045,2023-07-14,HSJU,name+org_in_lda,high
+70199,JOSEPH GARCIA,Mr. Joseph Garcia,,chrg:CHRG-118hhrg53109,2023-07-13,HSVR,name_only_unique,low
+142720,EMMA MORRIS,Emma-Jo Morris,,chrg:CHRG-118hhrg53145,2023-07-20,HSJU,name_only_unique,low
+139504,MAYA WILEY,Maya Wiley,,chrg:CHRG-118hhrg53145,2023-07-20,HSJU,name_only_unique,low
+70512,MICHAEL PARRISH,Mr. Michael Parrish,,chrg:CHRG-118hhrg53172,2023-07-20,HSVR,name_only_unique,low
+140796,JAMIESON GREER,Jamieson Greer,KING SPALDING,chrg:CHRG-118hhrg53242,2023-04-18,HSWM,name+org_in_lda,high
+138425,FRANCISCO SANCHEZ,Mr. Francisco Sanchez,,chrg:CHRG-118hhrg53368,2023-08-10,HSGO,name_only_unique,low
+84028,ERIK MILITO,Mr. Erik Milito,NATIONAL OCEAN INDUSTRIES ASSOCIATION,chrg:CHRG-118hhrg53369,2023-09-13,HSGO,name+org_in_lda,high
+17987,JOEL WHITE,Mr. Joel White,COUNCIL FOR AFFORDABLE HEALTH COVERAGE,chrg:CHRG-118hhrg53383,2023-09-14,HSGO,name+org_in_lda,high
+43195,JAMES ASSEY,James Assey,,chrg:CHRG-118hhrg53393,2023-03-10,HSIF,name_only_unique,low
+153181,MICHAEL REGAN,The Honorable Michael S. Regan,,chrg:CHRG-118hhrg53426,2023-09-27,HSSY,name_only_unique,low
+71861,CHAD WHITEMAN,Mr. Chad Whiteman,CHAMBER COMMERCE,chrg:CHRG-118hhrg53476,2023-09-20,HSSY,name_only_unique,low
+148135,JOHN PIZZURO,John Pizzuro,RAVEN,chrg:CHRG-118hhrg53506,2023-09-13,HSJU,name+org_in_lda,high
+115550,ANNE BASHAM,Anne Basham,,chrg:CHRG-118hhrg53506,2023-09-13,HSJU,name_only_unique,low
+71002,JUAN SCOTT,Mr. Juan Carlos ``JC'' Scott,PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION,chrg:CHRG-118hhrg53520,2023-09-19,HSGO,name+org_in_lda,high
+18361,LORI REILLY,Ms. Lori Reilly,PHRMA,chrg:CHRG-118hhrg53520,2023-09-19,HSGO,name_only_unique,low
+66451,CRAIG BURTON,Mr. Craig Burton,ASSOCIATION FOR ACCESSIBLE MEDICINES,chrg:CHRG-118hhrg53520,2023-09-19,HSGO,name+org_in_lda,high
+72006,JOHN BRENNAN,Dr. John Brennan,SCALE AI,chrg:CHRG-118hhrg53827,2023-10-19,HSJU,name_only_unique,low
+58681,CATHERINE CHASE,Catherine Chase,ADVOCATES FOR HIGHWAY AUTO SAFETY,chrg:CHRG-118hhrg53915,2023-09-13,HSPW,name+org_in_lda,high
+151847,TRISTAN BROWN,Tristan Brown,,chrg:CHRG-118hhrg54072,2023-03-08,HSPW,name_only_unique,low
+50525,ANDREW BLACK,Andrew J. Black,LIQUID ENERGY PIPELINE ASSOCIATION,chrg:CHRG-118hhrg54072,2023-03-08,HSPW,name+org_in_lda,high
+151680,PAUL RAY,Mr. Paul J. Ray,,chrg:CHRG-118hhrg54099,2023-10-19,HSSMOO,name_only_unique,low
+147427,MICHAEL COX,Mr. Michael Cox,,chrg:CHRG-118hhrg54104,2023-05-16,HSHM,name_only_unique,low
+70199,JOSEPH GARCIA,Mr. Joseph Garcia,,chrg:CHRG-118hhrg54152,2023-09-20,HSVR,name_only_unique,low
+70512,MICHAEL PARRISH,Mr. Michael D. Parrish,,chrg:CHRG-118hhrg54153,2023-09-20,HSVR,name_only_unique,low
+152881,FATIMA GRAVES,Ms. Fatima Goss Graves (Minority Witness),NATIONAL WOMEN S LAW CENTER,chrg:CHRG-118hhrg54311,2023-12-05,HSGO,name+org_in_lda,high
+70199,JOSEPH GARCIA,Mr. Joseph Garcia,,chrg:CHRG-118hhrg54319,2023-11-02,HSVR,name_only_unique,low
+106092,JEFFREY BROWN,Jeffrey Brown,,chrg:CHRG-118hhrg54359,2023-05-24,HSWM,name_only_unique,low
+43527,JEANETTE THORNTON,Jeanette Thornton,S HEALTH INSURANCE PLANS,chrg:CHRG-118hhrg54360,2023-09-19,HSWM,name+org_in_lda,high
+149209,WILLIAM RUSSELL,Mr. William Russell,,chrg:CHRG-118hhrg54502,2024-01-17,HSSY,name_only_unique,low
+147575,MICHAEL GRIFFIN,Dr. Michael D. Griffin,,chrg:CHRG-118hhrg54502,2024-01-17,HSSY,name_only_unique,low
+57045,JAMES THOMPSON,Mr. James R. Thompson,,chrg:CHRG-118hhrg54517,2023-12-12,HSSM,name_only_unique,low
+107298,MARY DITTMAR,Dr. Mary Lynne Dittmar,AXIOM SPACE,chrg:CHRG-118hhrg54732,2024-02-14,HSSY,name+org_in_lda,high
+143418,BRANDON FARRIS,Mr. Brandon Farris,NATIONAL ASSOCIATION MANUFACTURERS,chrg:CHRG-118hhrg54743,2024-02-14,HSSM,name+org_in_lda,high
+65440,CHRISTOPHER MOHR,Christopher A. Mohr,SOFTWARE INFORMATION INDUSTRY ASSOCIATION,chrg:CHRG-118hhrg54845,2024-02-02,HSJU,name+org_in_lda,high
+144370,WILLIAM ALLEN,William H. ``Buddy'' Allen,AMERICAN COTTON SHIPPERS ASSOCIATION,chrg:CHRG-118hhrg54882,2023-03-28,HSPW,name+org_in_lda,high
+151109,JOSEPH BORELLI,Mr. Joseph C. Borelli,,chrg:CHRG-118hhrg54895,2023-09-20,HSHM,name_only_unique,low
+140342,ANNE GORDON,Anne Gordon,NATIONAL FOREIGN TRADE COUNCIL,chrg:CHRG-118hhrg54908,2023-07-19,HSWM,name+org_in_lda,high
+147482,SCOTT WEAVER,Dr. Scott Weaver,,chrg:CHRG-118hhrg55002,2024-03-06,HSSY,name_only_unique,low
+139942,CAMILLE COOPER,Camille Cooper,TIM TEBOW FOUNDATION,chrg:CHRG-118hhrg55050,2024-03-06,HSJU,name_only_unique,low
+73843,TRAVIS FISHER,Travis Fisher,,chrg:CHRG-118hhrg55180,2024-03-12,HSGO,name_only_unique,low
+53683,CARL SZABO,Mr. Carl Szabo,NETCHOICE,chrg:CHRG-118hhrg55181,2024-03-12,HSGO,name+org_in_lda,high
+142578,MICHAEL SAPERSTEIN,Michael Saperstein,WIRELESS INFRASTRUCTURE ASSOCIATION,chrg:CHRG-118hhrg55203,2023-04-19,HSIF,name+org_in_lda,high
+144885,ERNESTO FALCON,Ernesto Falcon,ELECTRONIC FRONTIER FOUNDATION,chrg:CHRG-118hhrg55203,2023-04-19,HSIF,name+org_in_lda,high
+87065,LOUIS FINKEL,Louis Finkel,NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION,chrg:CHRG-118hhrg55203,2023-04-19,HSIF,name+org_in_lda,high
+46161,BRETT PALMER,Mr. Brett Palmer,SMALL BUSINESS INVESTOR ALLIANCE,chrg:CHRG-118hhrg55251,2024-04-16,HSSM,name+org_in_lda,high
+64140,JERE GLOVER,Mr. Jere W. Glover,,chrg:CHRG-118hhrg55251,2024-04-16,HSSM,name_only_unique,low
+137944,GARY KALMAN,Mr. Gary Kalman,TRANSPARENCY INTERNATIONAL,chrg:CHRG-118hhrg55252,2024-04-30,HSSM,name+org_in_lda,high
+9533,ASHLEY THOMPSON,Ashley Thompson,AMERICAN HOSPITAL ASSOCIATION,chrg:CHRG-118hhrg55326,2023-04-26,HSIF,name+org_in_lda,high
+50530,KRISTIN BASS,Kristin Bass,PHARMACEUTICAL CARE MANAGEMENT ASSOCIATION,chrg:CHRG-118hhrg55326,2023-04-26,HSIF,name+org_in_lda,high
+61060,BRIAN CONNELL,Brian Connell,,chrg:CHRG-118hhrg55326,2023-04-26,HSIF,name_only_unique,low
+68192,ILYSE SCHUMAN,Ilyse Schuman,AMERICAN BENEFITS COUNCIL,chrg:CHRG-118hhrg55326,2023-04-26,HSIF,name+org_in_lda,high
+39174,JONATHAN GOLD,Jonathan Gold,NATIONAL RETAIL FEDERATION,chrg:CHRG-118hhrg55435,2024-01-30,HSPW,name+org_in_lda,high
+147862,HARMEET DHILLON,Harmeet K. Dhillon,,chrg:CHRG-118hhrg55436,2024-04-16,HSJU,name_only_unique,low
+150263,KELLY ANN SHAW,Kelly Ann Shaw,HOGAN LOVELLS,chrg:CHRG-118hhrg55470,2024-02-07,HSWM,name_only_unique,low
+145658,ASHLEY NUNES,Ashley Nunes,BREAKTHROUGH INSTITUTE,chrg:CHRG-118hhrg55477,2023-04-26,HSIF,name_only_unique,low
+149124,DANIEL SIMMONS,Daniel R. Simmons,SIMMONS ENERGY ENVIRONMENTAL STRATEGIES,chrg:CHRG-118hhrg55477,2023-04-26,HSIF,name+org_in_lda,high
+151680,PAUL RAY,Mr. Paul J. Ray,,chrg:CHRG-118hhrg55530,2024-05-22,HSSM,name_only_unique,low
+142738,ROBERT SMITH,Mr. Robert T. Smith,,chrg:CHRG-118hhrg55530,2024-05-22,HSSM,name_only_unique,low
+155869,JASON MILLER,The Honorable Jason Miller,,chrg:CHRG-118hhrg55546,2024-04-30,HSGO,name_only_unique,low
+40789,JEFFREY DEBOER,Mr. Jeffrey DeBoer,REAL ESTATE ROUNDTABLE,chrg:CHRG-118hhrg55547,2024-04-30,HSGO,name+org_in_lda,high
+139307,ANNE REINKE,Anne Reinke,TRANSPORTATION INTERMEDIARIES ASSOCIATION,chrg:CHRG-118hhrg55550,2023-05-10,HSPW,name+org_in_lda,high
+150245|63347,DAVID FIALKOV,David H. Fialkov,NATSO,chrg:CHRG-118hhrg55550,2023-05-10,HSPW,name+org_in_lda,high
+140343,COLE SCANDAGLIA,Cole Scandaglia,INTERNATIONAL BROTHERHOOD TEAMSTERS,chrg:CHRG-118hhrg55550,2023-05-10,HSPW,name+org_in_lda,high
+72102,BRETT TOLMAN,Brett Tolman,,chrg:CHRG-118hhrg55574,2024-04-30,HSJU,name_only_unique,low
+70512,MICHAEL PARRISH,Mr. Michael D. Parrish,,chrg:CHRG-118hhrg55603,2024-04-09,HSVR,name_only_unique,low
+55094,AMANDA JEZEK,Amanda Jezek,INFECTIOUS DISEASES SOCIETY,chrg:CHRG-118hhrg55668,2023-04-28,HSIF,name+org_in_lda,high
+153181,MICHAEL REGAN,Michael S. Regan,,chrg:CHRG-118hhrg55732,2023-05-10,HSIF,name_only_unique,low
+146789,STEWART WHITSON,Stewart Whitson,,chrg:CHRG-118hhrg55787,2023-12-13,HSWM,name_only_unique,low
+153959,SEAN COOKSEY,Sean J. Cooksey,,chrg:CHRG-118hhrg55865,2023-09-20,HSHA,name_only_unique,low
+145401,JACQUELINE RUSSELL,Jacqueline Russell,,chrg:CHRG-118hhrg55929,2023-10-26,HSWM,name_only_unique,low
+151383|142356,DAVID CAMP,David Camp,NATIONAL ORGANIZATION SOCIAL SECURITY CLAIMANTS REPRESENTATIVES,chrg:CHRG-118hhrg55929,2023-10-26,HSWM,name+org_in_lda,high
+146789,STEWART WHITSON,Mr. Stewart Whitson,,chrg:CHRG-118hhrg55972,2024-06-04,HSSM,name_only_unique,low
+9119,MARC CADIN,Mr. Marc Cadin,FINSECA,chrg:CHRG-118hhrg55999,2024-01-10,HSBA,name+org_in_lda,high
+140892,BRADFORD CAMPBELL,Mr. Bradford Campbell,,chrg:CHRG-118hhrg55999,2024-01-10,HSBA,name_only_unique,low
+140316,ELIZABETH FOLEY,Elizabeth Price Foley,FLORIDA INTERNATIONAL UNIVERSITY,chrg:CHRG-118hhrg56097,2024-06-13,HSJU,name_only_unique,low
+143418,BRANDON FARRIS,Brandon Farris,NATIONAL ASSOCIATION MANUFACTURERS,chrg:CHRG-118hhrg56144,2023-05-16,HSPW,name+org_in_lda,high
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,chrg:CHRG-118hhrg56195,2024-05-16,HSVR,name+org_in_lda,high
+72326,MARQUIS BAREFIELD,Mr. Marquis Barefield,DISABLED AMERICAN VETERANS,chrg:CHRG-118hhrg56198,2024-06-12,HSVR,name+org_in_lda,high
+55757,CURTIS LEGEYT,Curtis LeGeyt,NATIONAL ASSOCIATION BROADCASTERS,chrg:CHRG-118hhrg56209,2024-06-26,HSJU,name+org_in_lda,high
+147862,HARMEET DHILLON,Harmeet K. Dhillon,DHILLON LAW,chrg:CHRG-118hhrg56213,2023-05-11,HSHA,name_only_unique,low
+71910,KIMBERLY GLAS,Ms. Kimberly Glas,NATIONAL COUNCIL TEXTILE ORGANIZATIONS,chrg:CHRG-118hhrg56220,2023-10-19,HSHM,name+org_in_lda,high
+142413,MICHAEL STUMO,Mr. Michael Stumo,COALITION FOR A PROSPEROUS,chrg:CHRG-118hhrg56220,2023-10-19,HSHM,name+org_in_lda,high
+61547,ROBERT THOMAS,Mr. Robert Thomas,PARALYZED VETERANS,chrg:CHRG-118hhrg56243,2024-06-13,HSVR,name_only_unique,low
+154688,THOMAS FEDDO,Hon. Thomas Feddo,RUBICON ADVISORS,chrg:CHRG-118hhrg56257,2024-01-30,HSBA,name_only_unique,low
+144549,BRYAN BASHUR,Mr. Bryan Bashur,AMERICANS FOR TAX REFORM,chrg:CHRG-118hhrg56258,2024-01-31,HSBA,name+org_in_lda,high
+147862,HARMEET DHILLON,Harmeet K. Dhillon,DHILLON LAW,chrg:CHRG-118hhrg56269,2023-05-11,HSHA,name_only_unique,low
+147428,WILLIAM NELSON,Mr. William Nelson,BANK POLICY INSTITUTE,chrg:CHRG-118hhrg56280,2024-02-15,HSBA,name_only_unique,low
+149058,JONATHAN FAHEY,Jonathan Fahey,,chrg:CHRG-118hhrg56300,2024-07-09,HSJU,name_only_unique,low
+73839,JONATHAN BERRY,Jonathan Berry,,chrg:CHRG-118hhrg56320,2024-06-27,HSGO,name_only_unique,low
+139504,MAYA WILEY,Maya Wiley,LEADERSHIP CONFERENCE ON CIVIL HUMAN RIGHTS,chrg:CHRG-118hhrg56320,2024-06-27,HSGO,name+org_in_lda,high
+150316|53738,BEN BRUBECK,Mr. Ben Brubeck,ASSOCIATED BUILDERS CONTRACTORS,chrg:CHRG-118hhrg56321,2024-06-27,HSGO,name+org_in_lda,high
+153181,MICHAEL REGAN,The Honorable Michael S. Regan,,chrg:CHRG-118hhrg56322,2024-07-10,HSGO,name_only_unique,low
+72805,TODD SNITCHLER,Todd Snitchler,ELECTRIC POWER SUPPLY ASSOCIATION,chrg:CHRG-118hhrg56340,2023-06-06,HSIF,name+org_in_lda,high
+148871,MICHAEL NASI,Michael J. Nasi,,chrg:CHRG-118hhrg56340,2023-06-06,HSIF,name_only_unique,low
+140638,LINDSEY JOHNSON,Ms. Lindsey Johnson,CONSUMER BANKERS ASSOCIATION,chrg:CHRG-118hhrg56349,2024-03-07,HSBA,name+org_in_lda,high
+44703,TIMOTHY RICHARDSON,Dr. Timothy Richardson,,chrg:CHRG-118hhrg56472,2024-05-23,HSWM,name_only_unique,low
+154777,MARTIN O'MALLEY,Martin O'Malley,,chrg:CHRG-118hhrg56478,2024-03-21,HSWM,name_only_unique,low
+138425,FRANCISCO SANCHEZ,Mr. Francisco Sanchez Jr,,chrg:CHRG-118hhrg56494,2023-11-28,HSHM,name_only_unique,low
+80347,MOSHE SCHWARTZ,Mr. Moshe Schwartz,,chrg:CHRG-118hhrg56567,2024-07-24,HSGO,name_only_unique,low
+151847,TRISTAN BROWN,Tristan Brown,,chrg:CHRG-118hhrg56572,2024-05-07,HSPW,name_only_unique,low
+71833,CHRISTINA SAMES,Christina Sames,AMERICAN GAS ASSOCIATION,chrg:CHRG-118hhrg56572,2024-05-07,HSPW,name+org_in_lda,high
+151680,PAUL RAY,Paul J. Ray,,chrg:CHRG-118hhrg56595,2024-07-23,HSHA,name_only_unique,low
+146434,SATYA THALLAM,Satya Thallam,AMERICANS FOR RESPONSIBLE INNOVATION,chrg:CHRG-118hhrg56595,2024-07-23,HSHA,name+org_in_lda,high
+144151,PAMELA MEREDITH,Ms. Pamela L. Meredith,KMA ZUCKERT,chrg:CHRG-118hhrg56688,2024-09-10,HSSY,name+org_in_lda,high
+50504,PHYLLIS ARTHUR,Phyllis Arthur,BIOTECHNOLOGY INNOVATION ORGANIZATION,chrg:CHRG-118hhrg56718,2023-06-13,HSIF,name+org_in_lda,high
+149222,YOUNG KI KIM,Hon. Young Kim,,chrg:CHRG-118hhrg56733,2023-12-06,HSHM,name_only_unique,low
+60241,ANDREA SENTENO,Andrea E. Senteno,MEXICAN AMERICAN LEGAL DEFENSE EDUCATIONAL FUND,chrg:CHRG-118hhrg56763,2024-09-10,HSJU,name+org_in_lda,high
+146136,THOMAS WICKHAM,Thomas Wickham,,chrg:CHRG-118hhrg56814,2024-09-18,HSHA,name_only_unique,low
+67118,JENNIFER PODKUL,Jennifer Podkul,KIDS IN NEED DEFENSE,chrg:CHRG-118hhrg56816,2023-09-14,HSFA,name+org_in_lda,high
+19441,LESLEY WITTER,Ms. Lesley Witter,NATIONAL FUNERAL DIRECTORS ASSOCIATION,chrg:CHRG-118hhrg56848,2024-07-10,HSVR,name_only_unique,low
+138425,FRANCISCO SANCHEZ,Mr. Francisco Sanchez,,chrg:CHRG-118hhrg56883,2024-09-04,HSGO,name_only_unique,low
+121753,AMY O'DONNELL ROBERTI,Ms. Amy Roberti,STRIPE,chrg:CHRG-118hhrg56908,2024-07-12,HSBA,name+org_in_lda,high
+72629,ANDREW BAILEY,Mr. Andrew Bailey,,chrg:CHRG-118hhrg57059,2024-01-10,HSHM,name_only_unique,low
+152044,JAMES RODRIGUEZ,Mr. James Rodriguez,,chrg:CHRG-118hhrg57072,2024-09-10,HSVR,name_only_unique,low
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,chrg:CHRG-118hhrg57073,2024-09-11,HSVR,name+org_in_lda,high
+26353,LINDA COUCH,Ms. Linda Couch,LEADINGAGE,chrg:CHRG-118hhrg57120,2024-07-24,HSBA,name+org_in_lda,high
+144696,MARK HAYS,Mr. Mark Allen Hays,AMERICANS FOR FINANCIAL REFORM,chrg:CHRG-118hhrg57121,2024-09-10,HSBA,name+org_in_lda,high
+68793,CHARLES CRAIN,Mr. Charles Crain,NATIONAL ASSOCIATION MANUFACTURERS,chrg:CHRG-118hhrg57122,2024-09-10,HSBA,name+org_in_lda,high
+404,KEVIN O'CONNOR,Kevin O'Connor,INTERNATIONAL ASSOCIATION FIRE FIGHTERS,chrg:CHRG-118hhrg57131,2023-06-14,HSIF,name+org_in_lda,high
+113094,EVANGELOS RAZIS,Evangelos Razis,WORKDAY,chrg:CHRG-118hhrg57161,2024-09-20,HSWM,name+org_in_lda,high
+52220,KENNETH BENTSEN,Mr. Kenneth E. Bentsen,SIFMA,chrg:CHRG-118hhrg57174,2024-09-25,HSBA,name_only_unique,low
+147515,KEVIN MORLEY,Mr. Kevin M. Morley,AMERICAN WATER WORKS ASSOCIATION,chrg:CHRG-118hhrg57219,2024-02-06,HSHM,name+org_in_lda,high
+153171,JONATHAN BLUM,Jonathan Blum,,chrg:CHRG-118hhrg57378,2023-06-21,HSIF,name_only_unique,low
+107283,JAMES DUNLAP,Mr. James Dunlap,,chrg:CHRG-118hhrg57450,2024-03-20,HSHM,name_only_unique,low
+62304,CHET THOMPSON,Chet Thompson,AMERICAN FUEL PETROCHEMICAL MANUFACTURERS,chrg:CHRG-118hhrg57716,2023-06-22,HSIF,name+org_in_lda,high
+38294,GENEVIEVE CULLEN,Genevieve Cullen,ELECTRIC DRIVE TRANSPORTATION ASSOCIATION,chrg:CHRG-118hhrg57716,2023-06-22,HSIF,name+org_in_lda,high
+141405,ASHLIE WHITE,Ms. Ashlie White,AMPUTEE COALITION,chrg:CHRG-118hhrg57945,2024-11-20,HSVR,name+org_in_lda,high
+140720,AISHA PITTMAN,Aisha Pittman,NATIONAL ASSOCIATION ACOS,chrg:CHRG-118hhrg58105,2023-06-22,HSIF,name_only_unique,low
+119541,COURTNEY BRIGGS,Courtney Briggs,WATERS ADVOCACY COALITION,chrg:CHRG-118hhrg58131,2024-09-11,HSPW,name_only_unique,low
+143270,PATRICK MURRAY,Mr. Patrick Murray,VETERANS FOREIGN WARS UNITED STATES,chrg:CHRG-118hhrg58137,2024-12-17,HSVR,name+org_in_lda,high
+55015,MICHAEL CHAPMAN,Mr. Michael Chapman,LOUDOUN COUNTY VIRGINIA,chrg:CHRG-118hhrg58257,2024-05-15,HSHM,name_only_unique,low
+144741,PHILIP BELL,Philip K. Bell,STEEL MANUFACTURERS ASSOCIATION,chrg:CHRG-118hhrg58690,2024-07-24,HSPW,name+org_in_lda,high
+139316,MEGAN SALRIN,Megan Salrin,UNITED STEELWORKERS,chrg:CHRG-118hhrg58808,2024-02-15,HSPW,name_only_unique,low
+115946,EVAN DAVIS,Mr. Evan Davis,INTERNATIONAL ASSOCIATION FIRE FIGHTERS,chrg:CHRG-118hhrg58845,2024-06-04,HSHM,name+org_in_lda,high
+62576,JEFFREY MERRIFIELD,Jeffrey S. Merrifield,,chrg:CHRG-118hhrg60201,2023-07-18,HSIF,name_only_unique,low
+55015,MICHAEL CHAPMAN,Mr. Michael L. Chapman,,chrg:CHRG-118hhrg60303,2024-12-10,HSHM,name_only_unique,low
+92480,JOHN BOZZELLA,John Bozzella,ALLIANCE FOR AUTOMOTIVE INNOVATION,chrg:CHRG-118hhrg62819,2023-07-26,HSIF,name+org_in_lda,high
+46034,KEVIN MESSNER,Kevin Messner,ASSOCIATION HOME APPLIANCE MANUFACTURERS,chrg:CHRG-118hhrg62820,2023-09-13,HSIF,name+org_in_lda,high
+55757,CURTIS LEGEYT,Curtis Legeyt,NATIONAL ASSOCIATION BROADCASTERS,chrg:CHRG-118hhrg63377,2023-09-13,HSIF,name+org_in_lda,high
+140267,GRANT SPELLMEYER,Grant B. Spellmeyer,,chrg:CHRG-118hhrg63377,2023-09-13,HSIF,name_only_unique,low
+65637,JONATHAN SCHWANTES,Jonathan Schwantes,CONSUMER REPORTS,chrg:CHRG-118hhrg63377,2023-09-13,HSIF,name+org_in_lda,high
+122001,THOMAS SMITH,Thomas P. Smith,,chrg:CHRG-118hhrg64183,2023-09-20,HSIF,name_only_unique,low
+71535,CHARLES SPIES,Mr. Charles Spies,DICKINSON WRIGHT,chrg:CHRG-118jhrg52637,2023-06-07,HSGO,name+org_in_lda,high
+71535,CHARLES SPIES,Mr. Charles Spies,DICKINSON WRIGHT,chrg:CHRG-118jhrg52637,2023-06-07,HSHA,name+org_in_lda,high
+94859,JARED GENSER,Jared Genser,,chrg:CHRG-118jhrg53898,2023-10-25,JCSE,name_only_unique,low
+69482,GEOFF COOPER,Geoff Cooper,RENEWABLE FUELS ASSOCIATION,chrg:CHRG-118shrg52175,2023-02-15,SSEV,name+org_in_lda,high
+121915,CINDY SMITH,Hon. Cindy Hyde-Smith,,chrg:CHRG-118shrg52251,2023-02-28,SSJU,name_only_unique,low
+140316,ELIZABETH FOLEY,Elizabeth Price Foley,,chrg:CHRG-118shrg52251,2023-02-28,SSJU,name_only_unique,low
+148135,JOHN PIZZURO,John Pizzuro,RAVEN,chrg:CHRG-118shrg52253,2023-02-14,SSJU,name+org_in_lda,high
+153278,JOHN GOODMAN,John C. Goodman,,chrg:CHRG-118shrg52496,2023-03-22,SSGA,name_only_unique,low
+155869,JASON MILLER,Hon. Jason S. Miller,,chrg:CHRG-118shrg52514,2023-03-29,SLIN,name_only_unique,low
+152178,BRYAN NEWLAND,Hon. Bryan Newland,,chrg:CHRG-118shrg52563,2023-03-29,SLIA,name_only_unique,low
+121845,ANDREW SULLIVAN,Andrew Sullivan,INTERNET SOCIETY,chrg:CHRG-118shrg52654,2023-03-08,SSJU,name_only_unique,low
+54277,MICHAEL MUKASEY,Hon. Michael B Mukasey,,chrg:CHRG-118shrg52656,2023-05-02,SSJU,name_only_unique,low
+115550,ANNE BASHAM,Anne Basham,,chrg:CHRG-118shrg52710,2023-06-14,SSJU,name_only_unique,low
+146328,MATT SHARP,Matt Sharp,ALLIANCE DEFENDING FREEDOM,chrg:CHRG-118shrg52891,2023-06-21,SSJU,name_only_unique,low
+153181,MICHAEL REGAN,Hon. Michael S Regan,,chrg:CHRG-118shrg53001,2023-03-22,SSEV,name_only_unique,low
+48523,PATRICK KILBRIDE,Patrick Kilbride,CHAMBER COMMERCE,chrg:CHRG-118shrg53114,2023-04-18,SSJU,name_only_unique,low
+154794,BRYAN SIEVERS,Mr. Bryan Sievers,,chrg:CHRG-118shrg53197,2023-06-07,SSBU,name_only_unique,low
+155869,JASON MILLER,Hon. Jason Miller,,chrg:CHRG-118shrg53256,2023-05-17,SSEV,name_only_unique,low
+152178,BRYAN NEWLAND,Hon. Bryan Newland,,chrg:CHRG-118shrg53481,2023-05-03,SLIA,name_only_unique,low
+153176,ERIC BREWER,Eric Brewer,,chrg:CHRG-118shrg53528,2023-03-09,SSEV,name_only_unique,low
+48521,MARK WRIGHT,Dr. Mark Wright,,chrg:CHRG-118shrg53542,2023-08-18,SSSB,name_only_unique,low
+152178,BRYAN NEWLAND,Hon. Bryan Newland,,chrg:CHRG-118shrg53617,2023-07-12,SLIA,name_only_unique,low
+141687,WILLIAM ROBERTS,William Roberts,,chrg:CHRG-118shrg53707,2023-09-14,SSGA,name_only_unique,low
+73558,GREGORY ALLEN,Gregory C. Allen,,chrg:CHRG-118shrg53708,2023-09-19,SSGA,name_only_unique,low
+137766,JACK MCMANUS,Jack McManus,VIETNAM VETERANS,chrg:CHRG-118shrg53729,2023-03-01,HSVR,name+org_in_lda,high
+137766,JACK MCMANUS,Jack McManus,VIETNAM VETERANS,chrg:CHRG-118shrg53729,2023-03-01,SSVA,name+org_in_lda,high
+63030,CHRIS FETZER,Chris Fetzer,,chrg:CHRG-118shrg53731,2023-06-21,SSEV,name_only_unique,low
+70199,JOSEPH GARCIA,Joseph Garcia,,chrg:CHRG-118shrg53981,2023-04-26,SSVA,name_only_unique,low
+68880,SHANE LIERMANN,Shane Liermann,DISABLED AMERICAN VETERANS,chrg:CHRG-118shrg53981,2023-04-26,SSVA,name+org_in_lda,high
+141116,TAMMY BARLET,Tammy Barlet,STUDENT VETERANS,chrg:CHRG-118shrg53981,2023-04-26,SSVA,name+org_in_lda,high
+64941,DIANE RAUBER,Diane Boyd Rauber,NATIONAL ORGANIZATION VETERANS ADVOCATES,chrg:CHRG-118shrg53981,2023-04-26,SSVA,name+org_in_lda,high
+29849,RICHARD ROSSI,Richard Rossi,,chrg:CHRG-118shrg53993,2023-08-21,SSGA,name_only_unique,low
+71342,MORGAN BROWN,Morgan Brown,PARALYZED VETERANS,chrg:CHRG-118shrg54222,2023-05-17,SSVA,name+org_in_lda,high
+68880,SHANE LIERMANN,Shane Liermann,DISABLED AMERICAN VETERANS,chrg:CHRG-118shrg54222,2023-05-17,SSVA,name+org_in_lda,high
+143270,PATRICK MURRAY,Patrick Murray,,chrg:CHRG-118shrg54222,2023-05-17,SSVA,name_only_unique,low
+40845,MARK MIX,Mark Mix,,chrg:CHRG-118shrg54462,2023-03-08,SSHR,name_only_unique,low
+44698,ROBERT DIETZ,Robert Dietz,NATIONAL ASSOCIATION HOME BUILDERS,chrg:CHRG-118shrg54466,2023-02-09,SSBK,name+org_in_lda,high
+153171,JONATHAN BLUM,Jonathan Blum,,chrg:CHRG-118shrg54470,2023-06-07,SSVA,name_only_unique,low
+141147,NAOMI MATHIS,Naomi Mathis,DISABLED AMERICAN VETERANS,chrg:CHRG-118shrg54471,2023-06-14,SSVA,name+org_in_lda,high
+152178,BRYAN NEWLAND,Hon. Bryan Newland,,chrg:CHRG-118shrg54473,2023-09-27,SLIA,name_only_unique,low
+142742,BENJAMIN GOLDSTEIN-SMITH,Benjamin Smith,,chrg:CHRG-118shrg54473,2023-09-27,SLIA,name_only_unique,low
+141042,JON RETZER,Jon Retzer,DISABLED AMERICAN VETERANS,chrg:CHRG-118shrg54600,2023-07-12,SSVA,name+org_in_lda,high
+107711,JOHN SAWYER,John D. Sawyer,,chrg:CHRG-118shrg54761,2023-10-18,SSAS,name_only_unique,low
+107711,JOHN SAWYER,John D. Sawyer,,chrg:CHRG-118shrg54761,2023-10-18,SSVA,name_only_unique,low
+139133,ROY HOUSEMAN,Mr. Roy Houseman,UNITED STEELWORKERS,chrg:CHRG-118shrg54922,2024-01-17,SSBU,name_only_unique,low
+47867,TODD WALKER,Dr. Todd Walker,INDIANA UNIVERSITY,chrg:CHRG-118shrg54924,2024-01-31,SSBU,name_only_unique,low
+86120,ELIZABETH BISER,Hon. Elizabeth Biser,,chrg:CHRG-118shrg54997,2023-09-07,SSEV,name_only_unique,low
+55470,PATRICK JOHNSON,Patrick Johnson,NATIONAL COTTON COUNCIL,chrg:CHRG-118shrg55132,2023-05-02,SSAF,name_only_unique,low
+144823,SUSAN BODINE,Susan Bodine,,chrg:CHRG-118shrg55476,2023-10-18,SSEV,name_only_unique,low
+145866,JASON STANEK,Jason M Stanek,,chrg:CHRG-118shrg55570,2023-07-26,SSEG,name_only_unique,low
+84028,ERIK MILITO,Erik G Milito,NATIONAL OCEAN INDUSTRIES ASSOCIATION,chrg:CHRG-118shrg55570,2023-07-26,SSEG,name+org_in_lda,high
+138182,ANDREW WHEELER,Andrew Wheeler,HEWLETT PACKARD ENTERPRISE,chrg:CHRG-118shrg55571,2023-09-07,SSEG,name_only_unique,low
+153500,MICHAEL BRAIN,Michael Brain,,chrg:CHRG-118shrg55572,2023-09-20,SSEG,name_only_unique,low
+111430,JULIE HOWELL,Julie Howell,PARALYZED VETERANS,chrg:CHRG-118shrg55576,2024-04-10,SSVA,name+org_in_lda,high
+141147,NAOMI MATHIS,Naomi Mathis,DISABLED AMERICAN VETERANS,chrg:CHRG-118shrg55576,2024-04-10,SSVA,name+org_in_lda,high
+150199,KRISTINA KEENAN,Kristina Keenan,,chrg:CHRG-118shrg55728,2024-05-01,SSVA,name_only_unique,low
+71035,ROSCOE BUTLER,Roscoe Butler,PARALYZED VETERANS,chrg:CHRG-118shrg55728,2024-05-01,SSVA,name+org_in_lda,high
+68880,SHANE LIERMANN,Shane Liermann,DISABLED AMERICAN VETERANS,chrg:CHRG-118shrg55728,2024-05-01,SSVA,name+org_in_lda,high
+141042,JON RETZER,Jon Retzer,DISABLED AMERICAN VETERANS,chrg:CHRG-118shrg55729,2024-05-15,SSVA,name+org_in_lda,high
+70888,MARK COMPTON,Mark Compton,AMERICAN EXPLORATION MINING ASSOCIATION,chrg:CHRG-118shrg55812,2023-09-28,SSEG,name+org_in_lda,high
+62576,JEFFREY MERRIFIELD,Hon. Jeffrey S Merrifield,PILLSBURY WINTHROP SHAW PITTMAN,chrg:CHRG-118shrg55843,2023-11-30,SSEG,name+org_in_lda,high
+121622,KAREN ONARAN,Karen Onaran,ELECTRICITY CONSUMERS RESOURCE COUNCIL,chrg:CHRG-118shrg55900,2024-05-21,SSEG,name+org_in_lda,high
+146434,SATYA THALLAM,Satya Thallam,FOUNDATION FOR AMERICAN INNOVATION,chrg:CHRG-118shrg55977,2024-05-22,SSGA,name_only_unique,low
+139646,KEVIN RICHARDS,Mr. Kevin Richards,,chrg:CHRG-118shrg55998,2024-05-22,SSBU,name_only_unique,low
+56997,MICHAEL CASTELLANO,Dr. Michael Castellano,IOWA STATE UNIVERSITY,chrg:CHRG-118shrg55998,2024-05-22,SSBU,name_only_unique,low
+149968,AMY MATSUI,Amy K. Matsui,NATIONAL WOMEN S LAW CENTER,chrg:CHRG-118shrg56153,2023-03-07,SSBK,name_only_unique,low
+71942,SHANNON ANGIELSKI,Shannon Angielski,CLEAN HYDROGEN FUTURE COALITION,chrg:CHRG-118shrg56397,2023-11-15,SSEV,name+org_in_lda,high
+144739,CARRIE WOLINETZ,Carrie D. Wolinetz,LEWIS BURKE ASSOCIATES,chrg:CHRG-118shrg56403,2024-07-11,SSGA,name+org_in_lda,high
+144841,PALMER SCHOENING,Mr. Palmer Schoening,FAMILY BUSINESS COALITION,chrg:CHRG-118shrg56455,2024-01-24,SSSB,name+org_in_lda,high
+143813,JOHN PICKEL,John Pickel,NATIONAL FOREIGN TRADE COUNCIL,chrg:CHRG-118shrg56649,2023-02-16,SSFI,name+org_in_lda,high
+152178,BRYAN NEWLAND,Hon. Bryan Newland,,chrg:CHRG-118shrg56749,2024-05-01,SLIA,name_only_unique,low
+152178,BRYAN NEWLAND,Hon. Bryan Newland,,chrg:CHRG-118shrg56888,2024-06-12,SLIA,name_only_unique,low
+154777,MARTIN O'MALLEY,The Honorable Martin O'Malley,,chrg:CHRG-118shrg56945,2024-09-11,SSBU,name_only_unique,low
+68270,BRYAN RILEY,Bryan Riley,NATIONAL TAXPAYERS UNION,chrg:CHRG-118shrg57032,2024-09-24,SSGA,name+org_in_lda,high
+152178,BRYAN NEWLAND,Hon. Bryan Newland,,chrg:CHRG-118shrg57060,2024-05-22,SLIA,name_only_unique,low
+62446,DANIELLE COFFEY,Danielle Coffey,,chrg:CHRG-118shrg57061,2024-01-10,SSJU,name_only_unique,low
+55757,CURTIS LEGEYT,Curtis LeGeyt,,chrg:CHRG-118shrg57061,2024-01-10,SSJU,name_only_unique,low
+49728,THOMAS QUAADMAN,Thomas Quaadman,CHAMBER COMMERCE,chrg:CHRG-118shrg57080,2023-05-04,SSBK,name_only_unique,low
+50836,JOHN GREEN,John Green,,chrg:CHRG-118shrg57196,2023-07-11,SSBK,name_only_unique,low
+150697,MICHAL FREEDHOFF,Hon. Michal Freedhoff,,chrg:CHRG-118shrg57203,2024-01-24,SSEV,name_only_unique,low
+140763,BRIAN JOHNSON,Brian Johnson,,chrg:CHRG-118shrg57229,2023-07-26,SSBK,name_only_unique,low
+63601,DAVID BRADLEY,David Bradley,,chrg:CHRG-118shrg57242,2024-06-12,SSHR,name_only_unique,low
+148978,GIGI SOHN,Gigi B. Sohn,,chrg:CHRG-118shrg57390,2023-02-14,SSCM,name_only_unique,low
+30414,SHARON PINKERTON,Sharon Pinkerton,AIRLINES FOR,chrg:CHRG-118shrg57391,2023-02-09,SSCM,name_only_unique,low
+66645,HEATHER ANSLEY,Heather Ansley,GOVERNMENT RELATIONS,chrg:CHRG-118shrg57732,2023-03-23,SSCM,name_only_unique,low
+58667,ANGIE KRONENBERG,Angie Kronenberg,INCOMPAS,chrg:CHRG-118shrg58143,2023-05-11,SSCM,name_only_unique,low
+139961,GREG GUICE,Greg Guice,PUBLIC KNOWLEDGE,chrg:CHRG-118shrg58143,2023-05-11,SSCM,name+org_in_lda,high
+72936,BRIAN BEALL,Brian Beall,,chrg:CHRG-118shrg58146,2023-06-13,SSCM,name_only_unique,low
+152178,BRYAN NEWLAND,Hon. Bryan Newland,,chrg:CHRG-118shrg58426,2024-09-25,SLIA,name_only_unique,low
+28666,VICTOR SCHWARTZ,Victor E Schwartz,,chrg:CHRG-118shrg58756,2024-04-09,SSJU,name_only_unique,low
+42973,STEVE LAMAR,Steve Lamar,,chrg:CHRG-118shrg58970,2023-10-03,SSJU,name_only_unique,low
+146401,GRAHAM DAVIES,Graham Davies,,chrg:CHRG-118shrg59363,2024-04-30,SSJU,name_only_unique,low
+139656,JOCELYN ULRICH,Jocelyn Ulrich,,chrg:CHRG-118shrg59430,2024-05-21,SSJU,name_only_unique,low
+8810,PETE SEPP,Pete Sepp,NATIONAL TAXPAYERS UNION,chrg:CHRG-118shrg59784,2023-05-16,SSFI,name+org_in_lda,high
+80278,CARYN SCHENEWERK,Caryn Schenewerk,,chrg:CHRG-118shrg59861,2023-10-18,SSCM,name_only_unique,low
+149124,DANIEL SIMMONS,Hon. Daniel R Simmons,SIMMONS ENERGY ENVIRONMENTAL STRATEGIES,chrg:CHRG-118shrg60342,2023-05-18,SSFI,name+org_in_lda,high
+153502,ANNA CARLA PIERRE GOMEZ,Anna Gomez,,chrg:CHRG-118shrg60394,2023-06-22,SSCM,name_only_unique,low
+155410,ANDREW FERGUSON,Andrew N. Ferguson,,chrg:CHRG-118shrg60396,2023-09-20,SSCM,name_only_unique,low
+70608,LAMAR SMITH,Hon. Lamar Smith,,chrg:CHRG-118shrg60433,2023-11-08,SSJU,name_only_unique,low
+149968,AMY MATSUI,Amy K Matsui,NATIONAL WOMEN S LAW CENTER,chrg:CHRG-118shrg60759,2023-06-14,SSFI,name_only_unique,low
+40936,WILLIAM DOMBI,William A Dombi,NATIONAL ASSOCIATION FOR HOME CARE HOSPICE,chrg:CHRG-118shrg61308,2023-09-19,SSFI,name_only_unique,low
+115461,DANA JOHNSON,Dana Johnson,,chrg:CHRG-118shrg61391,2023-04-26,SSEV,name_only_unique,low
+31143,JAY TIMMONS,Jay Timmons,NATIONAL ASSOCIATION MANUFACTURERS,chrg:CHRG-118shrg61391,2023-04-26,SSEV,name+org_in_lda,high
+147184,DAVID FISCHER,David B Fischer,KELLER HECKMAN,chrg:CHRG-118shrg61696,2024-07-31,SSEV,name+org_in_lda,high
+86120,ELIZABETH BISER,Hon. Elizabeth Biser,,chrg:CHRG-118shrg61832,2024-05-22,SSEV,name_only_unique,low
+46075,JACOB NELSON,Jacob Nelson,AMERICAN AUTOMOBILE ASSOCIATION,chrg:CHRG-118shrg61852,2024-05-21,SSCM,name+org_in_lda,high
+113511,STEFAN TURKHEIMER,Stefan Turkheimer,RAPE ABUSE INCEST NATIONAL NETWORK,chrg:CHRG-118shrg61870,2024-06-26,SSCM,name+org_in_lda,high
+143104,REED WESTCOTT,Reed C. Westcott,NATIONAL SMALL BUSINESS ASSOCIATION,chrg:CHRG-118shrg61873,2024-07-30,SSCM,name+org_in_lda,high
+73205,SUSAN COLLINS,Susan Collins,,chrg:CHRG-118shrg61949,2023-09-28,SSEV,name_only_unique,low
+64687,CHRISTY PLUMER,Christy Plumer,THEODORE ROOSEVELT CONSERVATION PARTNERSHIP,chrg:CHRG-118shrg62278,2023-05-16,SSEV,name+org_in_lda,high
+56114,SCOTT FABER,Scott Faber,ENVIRONMENTAL WORKING,chrg:CHRG-118shrg62511,2024-03-20,SSEV,name+org_in_lda,high
+153181,MICHAEL REGAN,The Honorable Michael Regan,,chrg:CHRG-118shrg62535,2024-05-08,SSEV,name_only_unique,low
+59059,ANNA FENDLEY,Anna Fendley,UNITED STEELWORKERS,chrg:CHRG-118shrg62599,2024-03-12,SSFI,name_only_unique,low
+24275,CARL BENTZEL,Hon. Carl W. Bentzel,,chrg:CHRG-118shrg63644,2024-09-25,SSCM,name_only_unique,low
+143813,JOHN PICKEL,John Pickel,NATIONAL FOREIGN TRADE COUNCIL,chrg:CHRG-118shrg64101,2024-05-21,SSFI,name+org_in_lda,high
+69727,JOHN DRAKE,John Drake,CHAMBER COMMERCE,chrg:CHRG-118shrg64101,2024-05-21,SSFI,name_only_unique,low
+65506,JUSTIN GOODMAN,Mr. Justin Goodman,WHITE COAT WASTE PROJECT,chrg:CHRG-119hhrg58804,2025-02-06,HSGO,name+org_in_lda,high
+42525,ELIZABETH BAKER,Ms. Elizabeth Baker (Minority Witness),PHYSICIANS COMMITTEE FOR RESPONSIBLE MEDICINE,chrg:CHRG-119hhrg58804,2025-02-06,HSGO,name_only_unique,low
+146789,STEWART WHITSON,Mr. Stewart Whitson,,chrg:CHRG-119hhrg58806,2025-02-12,HSGO,name_only_unique,low
+89058,DYLAN HEDTLER-GAUDETTE,Mr. Dylan Hedtler-Gaudette (Minority Witness),PROJECT ON GOVERNMENT OVERSIGHT,chrg:CHRG-119hhrg58806,2025-02-12,HSGO,name+org_in_lda,high
+145188,PATRICK SMITH,"Patrick ""Rick"" Smith",AXON ENTERPRISE,chrg:CHRG-119hhrg58807,2025-02-11,HSJU,name_only_unique,low
+73272,CHRIS JAHN,Chris Jahn,AMERICAN CHEMISTRY COUNCIL,chrg:CHRG-119hhrg58842,2025-01-22,HSIF,name+org_in_lda,high
+148233,RICHARD ENGLER,Richard E. Engler,,chrg:CHRG-119hhrg58842,2025-01-22,HSIF,name_only_unique,low
+54647,MICHAEL POWELL,Michael K. Powell,NCTA INTERNET TELEVISION ASSOCIATION,chrg:CHRG-119hhrg58876,2025-01-23,HSIF,name+org_in_lda,high
+114578,SCOTT PACE,Dr. Scott Pace,GEORGE WASHINGTON UNIVERSITY,chrg:CHRG-119hhrg58904,2025-02-26,HSSY,name_only_unique,low
+64140,JERE GLOVER,Mr. Jere Glover,,chrg:CHRG-119hhrg58905,2025-02-26,HSSM,name_only_unique,low
+139379,AMANDA EVERSOLE,Amanda Eversole,AMERICAN PETROLEUM INSTITUTE,chrg:CHRG-119hhrg58962,2025-02-05,HSIF,name+org_in_lda,high
+143923,TYLER O'CONNOR,Tyler O'Connor,CROWELL MORING,chrg:CHRG-119hhrg58962,2025-02-05,HSIF,name+org_in_lda,high
+145358,CHARLES COOPER,Charles J. Cooper,,chrg:CHRG-119hhrg59353,2025-02-25,HSJU,name_only_unique,low
+149058,JONATHAN FAHEY,Jonathan L. Fahey,,chrg:CHRG-119hhrg59420,2025-02-25,HSJU,name_only_unique,low
+115550,ANNE BASHAM,Anne Basham,,chrg:CHRG-119hhrg59437,2025-02-27,HSJU,name_only_unique,low
+139942,CAMILLE COOPER,Camille Cooper,TIM TEBOW FOUNDATION,chrg:CHRG-119hhrg59437,2025-02-27,HSJU,name_only_unique,low
+140316,ELIZABETH FOLEY,Elizabeth Price Foley,,chrg:CHRG-119hhrg59556,2025-03-04,HSJU,name_only_unique,low
+147618,PATRICK KENNEDY,Mr. Patrick J. Kennedy,,chrg:CHRG-119hhrg59597,2025-02-05,HSBA,name_only_unique,low
+68802,REBECA ROMERO RAINEY,Ms. Rebeca Romero Rainey,INDEPENDENT COMMUNITY BANKERS,chrg:CHRG-119hhrg59597,2025-02-05,HSBA,name+org_in_lda,high
+140840,JONATHAN JACHYM,Mr. Jonathan Jachym,,chrg:CHRG-119hhrg59599,2025-02-11,HSBA,name_only_unique,low
+145095,JENNIFER WAGNER,Ms. Jennifer Wagner (Minority Witness),CENTER ON BUDGET POLICY PRIORITIES,chrg:CHRG-119hhrg59604,2025-03-11,HSGO,name_only_unique,low
+149222,YOUNG KI KIM,Hon. Young Kim,,chrg:CHRG-119hhrg59657,2025-01-22,HSWM,name_only_unique,low
+56482,WILLIAM TIMMONS,Hon. William Timmons,,chrg:CHRG-119hhrg59657,2025-01-22,HSWM,name_only_unique,low
+8810,PETE SEPP,Pete Sepp,NATIONAL TAXPAYERS UNION,chrg:CHRG-119hhrg59659,2025-02-11,HSWM,name+org_in_lda,high
+54942,BRIAN SCHOENEMAN,Brian W. Schoeneman,,chrg:CHRG-119hhrg59733,2025-02-05,HSPW,name_only_unique,low
+46161,BRETT PALMER,Mr. Brett Palmer,SMALL BUSINESS INVESTOR ALLIANCE,chrg:CHRG-119hhrg59818,2025-04-02,HSSM,name+org_in_lda,high
+145865,ASIM HAQUE,Asim Z. Haque,PJM INTERCONNECTION,chrg:CHRG-119hhrg59912,2025-03-05,HSIF,name+org_in_lda,high
+55203,NOEL BLACK,Noel W. Black,SOUTHERN SERVICES,chrg:CHRG-119hhrg59912,2025-03-05,HSIF,name_only_unique,low
+140267,GRANT SPELLMEYER,Grant Spellmeyer,,chrg:CHRG-119hhrg59922,2025-03-05,HSIF,name_only_unique,low
+46412,DAVID POMMEREHN,Mr. David Pommerehn,CONSUMER BANKERS ASSOCIATION,chrg:CHRG-119hhrg59940,2025-03-26,HSBA,name+org_in_lda,high
+146789,STEWART WHITSON,Stewart Whitson,,chrg:CHRG-119hhrg59948,2025-04-02,HSJU,name_only_unique,low
+139030,TIFFANY SMITH,Ms. Tiffany J. Smith,WILMERHALE,chrg:CHRG-119hhrg59987,2025-04-09,HSBA,name_only_unique,low
+62324,JONATHAN MILLER,Mr. Jonathan Miller,HEMP ROUNDTABLE,chrg:CHRG-119hhrg60029,2025-04-09,HSGO,name+org_in_lda,high
+72737,YIOTA SOURAS,Yiota Souras,NATIONAL CENTER FOR MISSING EXPLOITED CHILDREN,chrg:CHRG-119hhrg60034,2025-03-26,HSIF,name+org_in_lda,high
+141935,PHILIP KIKO,Philip G. Kiko,WILLIAMS JENSEN,chrg:CHRG-119hhrg60061,2025-04-08,HSJU,name+org_in_lda,high
+72547,GENE SCHAERR,Gene Schaerr,PROJECT FOR PRIVACY SURVEILLANCE ACCOUNTABILITY,chrg:CHRG-119hhrg60061,2025-04-08,HSJU,name+org_in_lda,high
+79397,MICHAEL HANSON,Michael Hanson,,chrg:CHRG-119hhrg60064,2025-02-12,HSPW,name_only_unique,low
+58681,CATHERINE CHASE,Catherine Chase,ADVOCATES FOR HIGHWAY AUTO SAFETY,chrg:CHRG-119hhrg60064,2025-02-12,HSPW,name+org_in_lda,high
+63068,RJ HAUMAN,RJ Hauman,,chrg:CHRG-119hhrg60069,2025-04-09,HSJU,name_only_unique,low
+39384,DOUGLAS TROUTMAN,Douglas M. Troutman,AMERICAN CLEANING INSTITUTE,chrg:CHRG-119hhrg60082,2025-04-01,HSIF,name+org_in_lda,high
+56114,SCOTT FABER,Scott Faber,ENVIRONMENTAL WORKING,chrg:CHRG-119hhrg60082,2025-04-01,HSIF,name+org_in_lda,high
+50525,ANDREW BLACK,Andrew J. Black,LIQUID ENERGY PIPELINE ASSOCIATION,chrg:CHRG-119hhrg60155,2025-02-25,HSPW,name+org_in_lda,high
+65440,CHRISTOPHER MOHR,Christopher A. Mohr,SOFTWARE INFORMATION INDUSTRY ASSOCIATION,chrg:CHRG-119hhrg60318,2025-05-07,HSJU,name+org_in_lda,high
+144637,NICHOLAS ANDERSON,Nicholas Anderson,,chrg:CHRG-119hhrg60318,2025-05-07,HSJU,name_only_unique,low
+72102,BRETT TOLMAN,Brett Tolman,,chrg:CHRG-119hhrg60319,2025-05-07,HSJU,name_only_unique,low
+72805,TODD SNITCHLER,Todd Snitchler,ELECTRIC POWER SUPPLY ASSOCIATION,chrg:CHRG-119hhrg60382,2025-04-30,HSIF,name+org_in_lda,high
+137944,GARY KALMAN,Mr. Gary Kalman,TRANSPARENCY INTERNATIONAL,chrg:CHRG-119hhrg60425,2025-05-15,HSSM,name+org_in_lda,high
+152881,FATIMA GRAVES,Ms. Fatima Goss Graves (Minority Witness),NATIONAL WOMEN S LAW CENTER,chrg:CHRG-119hhrg60447,2025-05-07,HSGO,name+org_in_lda,high
+142508,LAURA CHADWICK,Ms. Laura Chadwick,,chrg:CHRG-119hhrg60450,2025-05-20,HSGO,name_only_unique,low
+68793,CHARLES CRAIN,Mr. Charles Crain,NATIONAL ASSOCIATION MANUFACTURERS,chrg:CHRG-119hhrg60549,2025-04-29,HSBA,name+org_in_lda,high
+32528,SEAN HEATHER,Sean Heather,CHAMBER COMMERCE,chrg:CHRG-119hhrg60631,2025-05-21,HSIF,name_only_unique,low
+64941,DIANE RAUBER,Ms. Diane Boyd Rauber,NATIONAL ORGANIZATION VETERANS ADVOCATES,chrg:CHRG-119hhrg60669,2025-03-05,HSVR,name+org_in_lda,high
+111430,JULIE HOWELL,Ms. Julie Howell,PARALYZED VETERANS,chrg:CHRG-119hhrg60670,2025-03-11,HSVR,name+org_in_lda,high
+64423,BRIAN DEMPSEY,Mr. Brian Dempsey,WOUNDED WARRIOR PROJECT,chrg:CHRG-119hhrg60671,2025-03-11,HSVR,name+org_in_lda,high
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,chrg:CHRG-119hhrg60671,2025-03-11,HSVR,name+org_in_lda,high
+50816,ANDREW ROSENBERG,Dr. Andrew Rosenberg,,chrg:CHRG-119hhrg60672,2025-03-24,HSVR,name_only_unique,low
+100796,ERIC SNELGROVE,Mr. Eric Snelgrove,,chrg:CHRG-119hhrg60683,2025-06-11,HSGO,name_only_unique,low
+80347,MOSHE SCHWARTZ,Mr. Moshe Schwartz (Minority Witness),,chrg:CHRG-119hhrg60683,2025-06-11,HSGO,name_only_unique,low
+50836,JOHN GREEN,Mr. John Green,,chrg:CHRG-119hhrg60684,2025-03-25,HSVR,name_only_unique,low
+149222,YOUNG KI KIM,The Honorable Young Kim,,chrg:CHRG-119hhrg60686,2025-03-26,HSVR,name_only_unique,low
+64941,DIANE RAUBER,Ms. Diane Boyd Rauber,NATIONAL ORGANIZATION VETERANS ADVOCATES,chrg:CHRG-119hhrg60686,2025-03-26,HSVR,name+org_in_lda,high
+19441,LESLEY WITTER,Ms. Lesley Witter,NATIONAL FUNERAL DIRECTORS ASSOCIATION,chrg:CHRG-119hhrg60686,2025-03-26,HSVR,name_only_unique,low
+114207,LIZ CLARK,Dr. Liz Clark,,chrg:CHRG-119hhrg60782,2025-06-24,HSHA,name_only_unique,low
+79370,JIM COCHRANE,Mr. Jim Cochrane,PACKAGE SHIPPERS ASSOCIATION,chrg:CHRG-119hhrg60815,2025-06-24,HSGO,name+org_in_lda,high
+68793,CHARLES CRAIN,Charles Crain,NATIONAL ASSOCIATION MANUFACTURERS,chrg:CHRG-119hhrg60839,2025-06-25,HSJU,name+org_in_lda,high
+148335,JOHN MURPHY,John Murphy III,ASSOCIATION FOR ACCESSIBLE MEDICINES,chrg:CHRG-119hhrg60898,2025-06-11,HSIF,name+org_in_lda,high
+71861,CHAD WHITEMAN,Chad S. Whiteman,CHAMBER COMMERCE,chrg:CHRG-119hhrg60976,2025-06-11,HSIF,name_only_unique,low
+147042,DAVID GARCIA,Mr. David Garcia,,chrg:CHRG-119hhrg60985,2025-06-12,HSBA,name_only_unique,low
+56333,BARTLETT NAYLOR,Mr. Bartlett Collins Naylor,PUBLIC CITIZEN,chrg:CHRG-119hhrg60986,2025-06-04,HSBA,name+org_in_lda,high
+137911,SCOTT TALBOTT,Mr. Scott Talbott,ELECTRONIC TRANSACTIONS ASSOCIATION,chrg:CHRG-119hhrg60987,2025-06-05,HSBA,name+org_in_lda,high
+149209,WILLIAM RUSSELL,Mr. William Russell,,chrg:CHRG-119hhrg60988,2025-06-12,HSBA,name_only_unique,low
+140638,LINDSEY JOHNSON,Mrs. Lindsey Johnson,CONSUMER BANKERS ASSOCIATION,chrg:CHRG-119hhrg60992,2025-07-15,HSBA,name+org_in_lda,high
+114207,LIZ CLARK,Dr. Liz Clark,,chrg:CHRG-119hhrg61122,2025-06-11,HSVR,name_only_unique,low
+154204,COLE LYLE,Mr. Cole T. Lyle,AMERICAN LEGION,chrg:CHRG-119hhrg61123,2025-06-11,HSVR,name+org_in_lda,high
+139507,CODY CARBONE,Mr. Cody Carbone,DIGITAL CHAMBER,chrg:CHRG-119hhrg61123,2025-06-11,HSVR,name+org_in_lda,high
+154204,COLE LYLE,Mr. Cole Lyle,AMERICAN LEGION,chrg:CHRG-119hhrg61124,2025-06-12,HSVR,name+org_in_lda,high
+105951,JONATHAN SAMFORD,Mr. Jonathan Samford,GLOBAL BUSINESS ALLIANCE,chrg:CHRG-119hhrg61135,2025-07-16,HSBA,name+org_in_lda,high
+141611,DOUGLAS COLLINS,The Honorable Douglas Collins,,chrg:CHRG-119hhrg61163,2025-05-15,HSVR,name_only_unique,low
+111430,JULIE HOWELL,Ms. Julie Howell,PARALYZED VETERANS,chrg:CHRG-119hhrg61165,2025-05-21,HSVR,name+org_in_lda,high
+60052,TIMOTHY KENNEDY,The Honorable Timothy Kennedy,,chrg:CHRG-119hhrg61167,2025-06-24,HSVR,name_only_unique,low
+45988,MICHAEL PETERS,Michael Peters,,chrg:CHRG-119hhrg61277,2025-05-20,HSPW,name_only_unique,low
+50859,DONALD BARNES,Mr. Donald Barnes,,chrg:CHRG-119hhrg61339,2025-05-21,HSHM,name_only_unique,low
+151285,JAMES HARRIS,Mr. James C. Harris,,chrg:CHRG-119hhrg61341,2025-06-10,HSHM,name_only_unique,low
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,VETERANS FOREIGN WARS UNITED STATES,chrg:CHRG-119hhrg61357,2025-07-15,HSVR,name+org_in_lda,high
+152696,KYLEANNE HUNTER,Dr. Kyleanne Hunter,IRAQ AFGHANISTAN VETERANS,chrg:CHRG-119hhrg61357,2025-07-15,HSVR,name+org_in_lda,high
+92480,JOHN BOZZELLA,John Bozzella,ALLIANCE FOR AUTOMOTIVE INNOVATION,chrg:CHRG-119hhrg61378,2025-06-26,HSIF,name+org_in_lda,high
+58681,CATHERINE CHASE,Catherine Chase,ADVOCATES FOR HIGHWAY AUTO SAFETY,chrg:CHRG-119hhrg61378,2025-06-26,HSIF,name+org_in_lda,high
+56286,JULIE FISHMAN RAYMAN,Ms. Julie Fishman Rayman,AMERICAN JEWISH COMMITTEE,chrg:CHRG-119hhrg61402,2025-06-11,HSHM,name+org_in_lda,high
+138833,PAUL HUTTON,Mr. Paul Churchill Hutton,AEROVIRONMENT,chrg:CHRG-119hhrg61404,2025-07-15,HSHM,name_only_unique,low
+143990,BRETT FEDDERSEN,Mr. Brett Feddersen,D FEND SOLUTIONS,chrg:CHRG-119hhrg61404,2025-07-15,HSHM,name+org_in_lda,high
+73271,ROSS EISENBERG,Ross Eisenberg,AMERICAN CHEMISTRY COUNCIL,chrg:CHRG-119hhrg61539,2025-07-16,HSIF,name+org_in_lda,high
+50525,ANDREW BLACK,Andrew J. Black,LIQUID ENERGY PIPELINE ASSOCIATION,chrg:CHRG-119hhrg61637,2025-07-22,HSIF,name+org_in_lda,high
+148119,SARAH MILLER,Sarah C. Miller,GPA MIDSTREAM ASSOCIATION,chrg:CHRG-119hhrg61637,2025-07-22,HSIF,name_only_unique,low
+143990,BRETT FEDDERSEN,Brett Feddersen,,chrg:CHRG-119hhrg61653,2025-09-16,HSJU,name_only_unique,low
+41619,MICHAEL WOODY,Michael Woody,,chrg:CHRG-119hhrg61749,2025-09-29,HSJU,name_only_unique,low
+52846,KARA RINALDI,Kara Saul Rinaldi,,chrg:CHRG-119hhrg61783,2025-09-09,HSIF,name_only_unique,low
+149299,JENNIFER CLEARY,Jennifer Cleary,ASSOCIATION HOME APPLIANCE MANUFACTURERS,chrg:CHRG-119hhrg61790,2025-09-16,HSIF,name+org_in_lda,high
+56273,GEORGE LOWE,George Lowe,AMERICAN GAS ASSOCIATION,chrg:CHRG-119hhrg61790,2025-09-16,HSIF,name+org_in_lda,high
+44859,DAVID RICHARDSON,David Richardson,,chrg:CHRG-119hhrg62144,2025-07-23,HSPW,name_only_unique,low
+149905,ROSANNA MAIETTA,Rosanna Maietta,AMERICAN HOTEL LODGING ASSOCIATION,chrg:CHRG-119hhrg62149,2025-11-20,HSIF,name+org_in_lda,high
+68793,CHARLES CRAIN,Mr. Charles Crain,NATIONAL ASSOCIATION MANUFACTURERS,chrg:CHRG-119hhrg62203,2025-11-20,HSSM,name+org_in_lda,high
+146136,THOMAS WICKHAM,Mr. Thomas Wickham,CHAMBER COMMERCE,chrg:CHRG-119hhrg62204,2025-12-02,HSSM,name_only_unique,low
+114067,PAUL LEKAS,Paul Lekas,SOFTWARE INFORMATION INDUSTRY ASSOCIATION,chrg:CHRG-119hhrg62241,2025-12-02,HSIF,name+org_in_lda,high
+147575,MICHAEL GRIFFIN,Dr. Michael D. Griffin,,chrg:CHRG-119hhrg62279,2025-12-04,HSSY,name_only_unique,low
+72102,BRETT TOLMAN,Brett Tolman,,chrg:CHRG-119hhrg62294,2025-12-11,HSJU,name_only_unique,low
+72547,GENE SCHAERR,Gene Schaerr,PROJECT FOR PRIVACY SURVEILLANCE ACCOUNTABILITY,chrg:CHRG-119hhrg62294,2025-12-11,HSJU,name+org_in_lda,high
+139931,DONALD DAVIS,Hon. Donald G. Davis,,chrg:CHRG-119hhrg62596,2025-12-12,HSIF,name_only_unique,low
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,,chrg:CHRG-119hhrg62618,2025-12-03,HSVR,name_only_unique,low
+149137,TATYANA BOLTON,Ms. Tatyana Bolton,,chrg:CHRG-119hhrg62627,2025-07-22,HSHM,name_only_unique,low
+73169,ROBERT ROSE,Robert W. Rose,RELIABLE ROBOTICS,chrg:CHRG-119hhrg62629,2025-12-03,HSPW,name_only_unique,low
+89058,DYLAN HEDTLER-GAUDETTE,Dylan Hedtler-Gaudette,PROJECT ON GOVERNMENT OVERSIGHT,chrg:CHRG-119hhrg62657,2026-01-21,HSJU,name+org_in_lda,high
+145475,ALEXANDER BOTTING,Mr. Alexander Botting,VENABLE,chrg:CHRG-119hhrg62706,2025-11-20,HSHM,name+org_in_lda,high
+139358,SUSAN VAN METER,Susan Van Meter,AMERICAN CLINICAL LABORATORY ASSOCIATION,chrg:CHRG-119hhrg62884,2026-01-08,HSIF,name_only_unique,low
+56163,HUGH CARNEY,Mr. Hugh Carney,AMERICAN BANKERS ASSOCIATION,chrg:CHRG-119hhrg63033,2025-09-09,HSBA,name+org_in_lda,high
+151031,MICHAEL HUGHES,Mr. Michael Hughes,FEDERAL LAW ENFORCEMENT OFFICERS ASSOCIATION,chrg:CHRG-119hhrg63126,2025-12-03,HSHM,name_only_unique,low
+42115,DANIEL HODGES,Mr. Daniel Hodges,,chrg:CHRG-119hhrg63126,2025-12-03,HSHM,name_only_unique,low
+110626,TONY RICE,Tony Rice,NATIONAL MILK PRODUCERS FEDERATION,chrg:CHRG-119hhrg63145,2026-03-17,HSJU,name+org_in_lda,high
+53408,THOMAS SAENZ,Thomas A. Saenz,,chrg:CHRG-119hhrg63164,2026-03-18,HSJU,name_only_unique,low
+152696,KYLEANNE HUNTER,Dr. Kyleanne Hunter,IRAQ AFGHANISTAN VETERANS,chrg:CHRG-119hhrg63301,2026-01-14,HSVR,name+org_in_lda,high
+111430,JULIE HOWELL,Ms. Julie Howell,PARALYZED VETERANS,chrg:CHRG-119hhrg63302,2026-01-21,HSVR,name+org_in_lda,high
+154987,JAMES MCCORMICK,Mr. James McCormick,VIETNAM VETERANS,chrg:CHRG-119hhrg63303,2026-02-03,HSVR,name+org_in_lda,high
+101344,WILLIAM HUBBARD,Mr. William Hubbard,VETERANS EDUCATION SUCCESS,chrg:CHRG-119hhrg63304,2026-02-04,HSVR,name+org_in_lda,high
+153502,ANNA CARLA PIERRE GOMEZ,Anna M. Gomez,,chrg:CHRG-119hhrg63362,2026-01-14,HSIF,name_only_unique,low
+48303,JAMES RYAN,Mr. James Ryan,,chrg:CHRG-119hhrg63433,2025-11-18,HSBA,name_only_unique,low
+26262,GROVER NORQUIST,Mr. Grover Norquist,AMERICANS FOR TAX REFORM,chrg:CHRG-119hhrg63433,2025-11-18,HSBA,name+org_in_lda,high
+155468,SEAN MURPHY,Mr. Sean Murphy,,chrg:CHRG-119hhrg63520,2026-03-25,HSSM,name_only_unique,low
+8272,JONATHAN BAND,Jonathan Band,,chrg:CHRG-119hhrg63529,2026-04-21,HSJU,name_only_unique,low
+151739,JOSHUA BRANCH,Mr. Joshua Branch,PUBLIC CITIZEN,chrg:CHRG-119hhrg63576,2025-12-10,HSBA,name+org_in_lda,high
+151998,AMANDA EVERSOLE,Mrs. Amanda Eversole,FINANCIAL SERVICES FORUM,chrg:CHRG-119hhrg63577,2025-12-11,HSBA,name+org_in_lda,high
+107572,SEAN KENNEDY,Sean Kennedy,,chrg:CHRG-119hhrg63756,2026-05-14,HSJU,name_only_unique,low
+139504,MAYA WILEY,Maya Wiley,LEADERSHIP CONFERENCE ON CIVIL HUMAN RIGHTS,chrg:CHRG-119hhrg63799,2026-05-20,HSJU,name+org_in_lda,high
+72547,GENE SCHAERR,Gene Schaerr,SCHAERR JAFFE,chrg:CHRG-119hhrg63809,2026-05-21,HSJU,name+org_in_lda,high
+64759,KRISTA CARVER,Krista Hessler Carver,COVINGTON BURLING,chrg:CHRG-119hhrg63912,2026-06-04,HSJU,name+org_in_lda,high
+80347,MOSHE SCHWARTZ,Mr. Moshe Schwartz,POTOMAC,chrg:CHRG-119hhrg63917,2026-06-03,HSSM,name_only_unique,low
+55757,CURTIS LEGEYT,Curtis LeGeyt,NATIONAL ASSOCIATION BROADCASTERS,chrg:CHRG-119hhrg63977,2026-06-10,HSJU,name+org_in_lda,high
+153502,ANNA CARLA PIERRE GOMEZ,Anna M. Gomez,,chrg:CHRG-119hhrg63977,2026-06-10,HSJU,name_only_unique,low
+65440,CHRISTOPHER MOHR,Christopher A. Mohr,SOFTWARE INFORMATION INDUSTRY ASSOCIATION,chrg:CHRG-119hhrg64158,2026-06-30,HSJU,name+org_in_lda,high
+143523,MAX FENKELL,Mr. Max Fenkell,SCALE AI,chrg:CHRG-119hhrg64201,2026-03-17,HSHM,name+org_in_lda,high
+141611,DOUGLAS COLLINS,The Honorable Douglas A. Collins,,chrg:CHRG-119hhrg64342,2026-02-11,HSVR,name_only_unique,low
+59870,CHIP PICKERING,Chip Pickering,INCOMPAS,chrg:CHRG-119hhrg64512,2026-03-26,HSIF,name_only_unique,low
+150199,KRISTINA KEENAN,Ms. Kristina Keenan,VETERANS FOREIGN WARS UNITED STATES,chrg:CHRG-119hhrg64563,2026-05-20,HSVR,name+org_in_lda,high
+154204,COLE LYLE,Mr. Cole Lyle,AMERICAN LEGION,chrg:CHRG-119hhrg64563,2026-05-20,HSVR,name+org_in_lda,high
+141042,JON RETZER,Mr. Jon Retzer,DISABLED AMERICAN VETERANS,chrg:CHRG-119hhrg64563,2026-05-20,HSVR,name+org_in_lda,high
+71342,MORGAN BROWN,Mr. Morgan Brown,PARALYZED VETERANS,chrg:CHRG-119hhrg64563,2026-05-20,HSVR,name+org_in_lda,high
+154204,COLE LYLE,Mr. Cole Lyle,AMERICAN LEGION,chrg:CHRG-119hhrg64565,2026-06-25,HSVR,name+org_in_lda,high
+19441,LESLEY WITTER,Ms. Lesley Witter,NATIONAL FUNERAL DIRECTORS ASSOCIATION,chrg:CHRG-119hhrg64565,2026-06-25,HSVR,name_only_unique,low
+151047,LAURA DIBELLA,Hon. Laura DiBella,,chrg:CHRG-119hhrg65620,2026-06-03,HSPW,name_only_unique,low
+141147,NAOMI MATHIS,Naomi Mathis,DISABLED AMERICAN VETERANS,chrg:CHRG-119shrg58614,2025-01-28,SSVA,name+org_in_lda,high
+137766,JACK MCMANUS,Jack McManus,VIETNAM VETERANS,chrg:CHRG-119shrg59384,2025-02-25,SSVA,name+org_in_lda,high
+101344,WILLIAM HUBBARD,William Hubbard,VETERANS EDUCATION SUCCESS,chrg:CHRG-119shrg59384,2025-02-25,SSVA,name+org_in_lda,high
+48036,ROBERT GORDON,Robert Gordon,AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION,chrg:CHRG-119shrg59496,2025-03-06,SSAF,name+org_in_lda,high
+154204,COLE LYLE,Cole Lyle,AMERICAN LEGION,chrg:CHRG-119shrg59776,2025-03-11,SSVA,name+org_in_lda,high
+143270,PATRICK MURRAY,Patrick Murray,VETERANS FOREIGN WARS UNITED STATES,chrg:CHRG-119shrg59776,2025-03-11,SSVA,name+org_in_lda,high
+65518,WILLIAM SMITH,Hon. William Smith,,chrg:CHRG-119shrg59783,2025-02-12,SLIA,name_only_unique,low
+141611,DOUGLAS COLLINS,The Honorable Douglas Collins,,chrg:CHRG-119shrg60335,2025-05-06,SSVA,name_only_unique,low
+152356,LYNN TJEERDSMA,Lynn Tjeerdsma,,chrg:CHRG-119shrg60405,2025-05-13,SSAF,name_only_unique,low
+143908,AHNIWAKE ROSE,Ahniwake Rose,AMERICAN INDIAN HIGHER EDUCATION CONSORTIUM,chrg:CHRG-119shrg60554,2025-04-02,SLIA,name+org_in_lda,high
+138617,NICOLE RUSSELL,Nicole Russell,NATIONAL ASSOCIATION FEDERALLY IMPACTED SCHOOLS,chrg:CHRG-119shrg60554,2025-04-02,SLIA,name+org_in_lda,high
+71342,MORGAN BROWN,Morgan Brown,PARALYZED VETERANS,chrg:CHRG-119shrg60595,2025-05-21,SSVA,name+org_in_lda,high
+64423,BRIAN DEMPSEY,Brian Dempsey,WOUNDED WARRIOR PROJECT,chrg:CHRG-119shrg60595,2025-05-21,SSVA,name+org_in_lda,high
+141042,JON RETZER,Jon Retzer,DISABLED AMERICAN VETERANS,chrg:CHRG-119shrg60595,2025-05-21,SSVA,name+org_in_lda,high
+143556,NICHOLAS COX,Nicholas B Cox,,chrg:CHRG-119shrg61320,2025-01-15,SSJU,name_only_unique,low
+50859,DONALD BARNES,Donald Barnes,,chrg:CHRG-119shrg61321,2025-02-04,SSJU,name_only_unique,low
+151315,LOUIS SOLA,Hon. Louis E. Sola,,chrg:CHRG-119shrg61333,2025-01-28,SSCM,name_only_unique,low
+143122,JOSEPH KRAMEK,Joseph Kramek,WORLD SHIPPING COUNCIL,chrg:CHRG-119shrg61333,2025-01-28,SSCM,name+org_in_lda,high
+50525,ANDREW BLACK,Andrew J. Black,LIQUID ENERGY PIPELINE ASSOCIATION,chrg:CHRG-119shrg61428,2025-05-15,SSCM,name+org_in_lda,high
+152984,NATHANIEL MAANDIG RICKARD,Nathaniel Maandig Rickard,PICARD KENTZ ROWE,chrg:CHRG-119shrg61519,2025-06-12,SSCM,name+org_in_lda,high
+47525,HUSEIN CUMBER,Husein A. Cumber,BRIGHTLINE,chrg:CHRG-119shrg61521,2025-06-18,SSCM,name_only_unique,low
+635,MITCH GLAZIER,Mitch Glazier,,chrg:CHRG-119shrg61677,2025-05-21,SSJU,name_only_unique,low
+61547,ROBERT THOMAS,Robert L. Thomas Jr,PARALYZED VETERANS,chrg:CHRG-119shrg61681,2025-09-17,SSVA,name_only_unique,low
+65343,JOHN HARRISON,John Harrison,,chrg:CHRG-119shrg61845,2025-06-18,SSJU,name_only_unique,low
+147648,JEREMY VILLANUEVA,Jeremy Villanueva,PARALYZED VETERANS,chrg:CHRG-119shrg61878,2025-10-29,SSVA,name+org_in_lda,high
+141042,JON RETZER,Jon Retzer,DISABLED AMERICAN VETERANS,chrg:CHRG-119shrg61878,2025-10-29,SSVA,name+org_in_lda,high
+71002,JUAN SCOTT,Juan Carlos Scott,,chrg:CHRG-119shrg61884,2025-05-13,SSJU,name_only_unique,low
+71342,MORGAN BROWN,Morgan Brown,PARALYZED VETERANS,chrg:CHRG-119shrg62272,2025-12-10,SSVA,name+org_in_lda,high
+89058,DYLAN HEDTLER-GAUDETTE,Mr. Dylan Hedtler-Gaudette,PROJECT ON GOVERNMENT OVERSIGHT,chrg:CHRG-119shrg62296,2025-12-10,SSSB,name+org_in_lda,high
+137900,MEGAN GARCIA,Megan Garcia,,chrg:CHRG-119shrg62328,2025-09-16,SSJU,name_only_unique,low
+30414,SHARON PINKERTON,Sharon Pinkerton,,chrg:CHRG-119shrg62655,2025-09-30,SSJU,name_only_unique,low
+38402,BEN BARNES,Hon. Ben Barnes,,chrg:CHRG-119shrg62673,2025-11-05,SLIA,name_only_unique,low
+139177,JESSICA KRAMER,Jessica Kramer,,chrg:CHRG-119shrg62698,2025-03-26,SSEV,name_only_unique,low
+72360,SEAN DUFFY,Hon. Sean P Duffy,,chrg:CHRG-119shrg62718,2025-04-02,SSEV,name_only_unique,low
+147962,JIM BRIDENSTINE,Hon. Jim Bridenstine,ARTEMIS,chrg:CHRG-119shrg62738,2025-09-03,SSCM,name+org_in_lda,high
+137542,ELIZABETH SMITH,Elizabeth Smith,,chrg:CHRG-119shrg62740,2026-02-04,SSVA,name_only_unique,low
+111430,JULIE HOWELL,Julie Howell,PARALYZED VETERANS,chrg:CHRG-119shrg62740,2026-02-04,SSVA,name+org_in_lda,high
+95480,TAYLOR JORDAN,Taylor Jordan,,chrg:CHRG-119shrg62766,2025-07-09,SSCM,name_only_unique,low
+42115,DANIEL HODGES,Daniel Hodges,,chrg:CHRG-119shrg62928,2025-10-28,SSJU,name_only_unique,low
+31101,ANDREW LAVIGNE,Andrew LaVigne,,chrg:CHRG-119shrg62935,2025-10-28,SSJU,name_only_unique,low
+141304,SEAN MCMASTER,Sean McMaster,,chrg:CHRG-119shrg62951,2025-05-14,SSEV,name_only_unique,low
+55015,MICHAEL CHAPMAN,The Honorable Michael L. Chapman,,chrg:CHRG-119shrg63061,2026-03-10,SSBU,name_only_unique,low
+155750,KATHERINE SCARLETT,Katherine Scarlett,,chrg:CHRG-119shrg63067,2025-07-23,SSEV,name_only_unique,low
+149048,LEA ROWE,Lea Rowe,BLINDED VETERANS ASSOCIATION,chrg:CHRG-119shrg63115,2026-03-03,SSVA,name+org_in_lda,high
+149048,LEA ROWE,Lea Rowe,BLINDED VETERANS ASSOCIATION,chrg:CHRG-119shrg63115,2026-03-03,HSVR,name+org_in_lda,high
+72492,MARCO SYLVESTER,Marco M Sylvester,,chrg:CHRG-119shrg63168,2025-12-10,SSFR,name_only_unique,low
+86505,MARISA JONES,Marisa Jones,,chrg:CHRG-119shrg63199,2025-07-23,SSEV,name_only_unique,low
+23142,KATHY METCALF,Kathy Metcalf,,chrg:CHRG-119shrg63269,2025-09-10,SSEV,name_only_unique,low
+58456,MARK PATTERSON,Mr. Mark Patterson,,chrg:CHRG-119shrg63309,2026-01-28,SLIA,name_only_unique,low
+46664,WILLIAM KIRK,The Honorable William W. Kirk,,chrg:CHRG-119shrg63360,2026-02-25,SSSB,name_only_unique,low
+65506,JUSTIN GOODMAN,Mr. Justin Goodman,,chrg:CHRG-119shrg63365,2026-03-18,SSSB,name_only_unique,low
+155744,JOSHUA MILLER,Joshua Miller,PUBLIC CITIZEN,chrg:CHRG-119shrg63365,2026-03-18,SSSB,name+org_in_lda,high
+72805,TODD SNITCHLER,Todd Snitchler,ELECTRIC POWER SUPPLY ASSOCIATION,chrg:CHRG-119shrg63410,2026-03-25,SSEG,name+org_in_lda,high
+73843,TRAVIS FISHER,Travis Fisher,,chrg:CHRG-119shrg63410,2026-03-25,SSEG,name_only_unique,low
+39384,DOUGLAS TROUTMAN,Douglas Troutman,,chrg:CHRG-119shrg63414,2025-10-08,SSEV,name_only_unique,low
+140840,JONATHAN JACHYM,Jonathan Jachym,,chrg:CHRG-119shrg63448,2025-02-26,SSBK,name_only_unique,low
+31253,ERICH PRATT,Erich Pratt,GUN OWNERS,chrg:CHRG-119shrg63505,2026-04-15,SSGA,name+org_in_lda,high
+65719,DUDLEY BROWN,Dudley Brown,NATIONAL ASSOCIATION FOR GUN RIGHTS,chrg:CHRG-119shrg63505,2026-04-15,SSGA,name+org_in_lda,high
+153502,ANNA CARLA PIERRE GOMEZ,Anna M. Gomez,,chrg:CHRG-119shrg63603,2025-12-17,SSCM,name_only_unique,low
+70456,DAN BYERS,Dan Byers,CHAMBER COMMERCE,chrg:CHRG-119shrg63707,2026-02-04,SSFR,name_only_unique,low
+148233,RICHARD ENGLER,Richard Engler,,chrg:CHRG-119shrg63733,2026-03-04,SSEV,name_only_unique,low
+54612,DAVID ISAACS,David Isaacs,SEMICONDUCTOR INDUSTRY ASSOCIATION,chrg:CHRG-119shrg63733,2026-03-04,SSEV,name+org_in_lda,high
+45976,MICHAEL GRAHAM,Michael Graham,,chrg:CHRG-119shrg63889,2025-09-17,SSCM,name_only_unique,low
+70346,JOYCE MEYER,Joyce Meyer,,chrg:CHRG-119shrg63889,2025-09-17,SSCM,name_only_unique,low
+141304,SEAN MCMASTER,Hon. Sean McMaster,,chrg:CHRG-119shrg63976,2026-06-03,SSEV,name_only_unique,low
+151047,LAURA DIBELLA,Laura DiBella,,chrg:CHRG-119shrg63981,2025-10-22,SSCM,name_only_unique,low
+3569,BRIAN BERRY,Brian Berry,,chrg:CHRG-119shrg64113,2026-01-28,SSCM,name_only_unique,low
+55757,CURTIS LEGEYT,Curtis LeGeyt,NATIONAL ASSOCIATION BROADCASTERS,chrg:CHRG-119shrg64348,2026-02-10,SSCM,name+org_in_lda,high
+89058,DYLAN HEDTLER-GAUDETTE,Dylan Hedtler-Gaudette,PROJECT ON GOVERNMENT OVERSIGHT,chrg:CHRG-119shrg64381,2026-07-15,SSGA,name+org_in_lda,high
+145331,CLAYTON HEIL,Clayton Heil,,chrg:CHRG-119shrg64450,2026-06-02,SSCM,name_only_unique,low
+38315,TODD HAUPTLI,Todd Hauptli,AMERICAN ASSOCIATION AIRPORT EXECUTIVES,chrg:CHRG-119shrg64617,2026-06-23,SSCM,name+org_in_lda,high
+73228,MATTHEW ANDERSON,Matthew Anderson,,chrg:CHRG-119shrg64619,2026-03-05,SSCM,name_only_unique,low
+140343,COLE SCANDAGLIA,Cole Scandaglia,INTERNATIONAL BROTHERHOOD TEAMSTERS,chrg:CHRG-119shrg65595,2026-06-09,SSCM,name+org_in_lda,high

@@ -1,0 +1,231 @@
+committee_code,committee_name,chamber_type,parent_committee_code,level
+HLIG,House Permanent Select Committee on Intelligence,house,HLIG,committee
+HLIG01,House Permanent Select Committee on Intelligence — Central Intelligence Agency,house,HLIG,subcommittee
+HLIG02,House Permanent Select Committee on Intelligence — National Security Agency and Cyber,house,HLIG,subcommittee
+HLIG04,House Permanent Select Committee on Intelligence — Defense Intelligence and Overhead Architecture,house,HLIG,subcommittee
+HLIG06,House Permanent Select Committee on Intelligence — National Intelligence Enterprise,house,HLIG,subcommittee
+HLIG09,House Permanent Select Committee on Intelligence — Oversight and Investigations,house,HLIG,subcommittee
+HLIG11,House Permanent Select Committee on Intelligence — Open Source Intelligence,house,HLIG,subcommittee
+HSAG,House Committee on Agriculture,house,HSAG,committee
+HSAG03,House Committee on Agriculture — Nutrition and Foreign Agriculture,house,HSAG,subcommittee
+HSAG14,"House Committee on Agriculture — Conservation, Research, and Biotechnology",house,HSAG,subcommittee
+HSAG15,House Committee on Agriculture — Forestry and Horticulture,house,HSAG,subcommittee
+HSAG16,"House Committee on Agriculture — General Farm Commodities, Risk Management, and Credit",house,HSAG,subcommittee
+HSAG22,"House Committee on Agriculture — Commodity Markets, Digital Assets, and Rural Development",house,HSAG,subcommittee
+HSAG29,"House Committee on Agriculture — Livestock, Dairy, and Poultry",house,HSAG,subcommittee
+HSAP,House Committee on Appropriations,house,HSAP,committee
+HSAP01,"House Committee on Appropriations — Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",house,HSAP,subcommittee
+HSAP02,House Committee on Appropriations — Defense,house,HSAP,subcommittee
+HSAP04,"House Committee on Appropriations — National Security, Department of State, and Related Programs",house,HSAP,subcommittee
+HSAP06,"House Committee on Appropriations — Interior, Environment, and Related Agencies",house,HSAP,subcommittee
+HSAP07,"House Committee on Appropriations — Labor, Health and Human Services, Education, and Related Agencies",house,HSAP,subcommittee
+HSAP10,House Committee on Appropriations — Energy and Water Development and Related Agencies,house,HSAP,subcommittee
+HSAP15,House Committee on Appropriations — Homeland Security,house,HSAP,subcommittee
+HSAP18,"House Committee on Appropriations — Military Construction, Veterans Affairs, and Related Agencies",house,HSAP,subcommittee
+HSAP19,"House Committee on Appropriations — Commerce, Justice, Science, and Related Agencies",house,HSAP,subcommittee
+HSAP20,"House Committee on Appropriations — Transportation, Housing and Urban Development, and Related Agencies",house,HSAP,subcommittee
+HSAP23,House Committee on Appropriations — Financial Services and General Government,house,HSAP,subcommittee
+HSAP24,House Committee on Appropriations — Legislative Branch,house,HSAP,subcommittee
+HSAS,House Committee on Armed Services,house,HSAS,committee
+HSAS02,House Committee on Armed Services — Military Personnel,house,HSAS,subcommittee
+HSAS03,House Committee on Armed Services — Readiness,house,HSAS,subcommittee
+HSAS25,House Committee on Armed Services — Tactical Air and Land Forces,house,HSAS,subcommittee
+HSAS26,House Committee on Armed Services — Intelligence and Special Operations,house,HSAS,subcommittee
+HSAS28,House Committee on Armed Services — Seapower and Projection Forces,house,HSAS,subcommittee
+HSAS29,House Committee on Armed Services — Strategic Forces,house,HSAS,subcommittee
+HSAS35,"House Committee on Armed Services — Cyber, Information Technologies, and Innovation",house,HSAS,subcommittee
+HSBA,House Committee on Financial Services,house,HSBA,committee
+HSBA04,House Committee on Financial Services — Housing and Insurance,house,HSBA,subcommittee
+HSBA09,House Committee on Financial Services — Oversight and Investigations,house,HSBA,subcommittee
+HSBA10,"House Committee on Financial Services — National Security, Illicit Finance, and International Financial Institutions",house,HSBA,subcommittee
+HSBA16,House Committee on Financial Services — Capital Markets,house,HSBA,subcommittee
+HSBA20,House Committee on Financial Services — Financial Institutions,house,HSBA,subcommittee
+HSBA21,"House Committee on Financial Services — Digital Assets, Financial Technology, and Artificial Intelligence",house,HSBA,subcommittee
+HSBU,House Committee on the Budget,house,HSBU,committee
+HSED,House Committee on Education and Workforce,house,HSED,committee
+HSED02,"House Committee on Education and Workforce — Health, Employment, Labor, and Pensions",house,HSED,subcommittee
+HSED10,House Committee on Education and Workforce — Workforce Protections,house,HSED,subcommittee
+HSED13,House Committee on Education and Workforce — Higher Education and Workforce Development,house,HSED,subcommittee
+HSED14,"House Committee on Education and Workforce — Early Childhood, Elementary, and Secondary Education",house,HSED,subcommittee
+HSFA,House Committee on Foreign Affairs,house,HSFA,committee
+HSFA05,House Committee on Foreign Affairs — East Asia and Pacific,house,HSFA,subcommittee
+HSFA07,House Committee on Foreign Affairs — Western Hemisphere,house,HSFA,subcommittee
+HSFA13,House Committee on Foreign Affairs — Middle East and North Africa,house,HSFA,subcommittee
+HSFA14,House Committee on Foreign Affairs — Europe,house,HSFA,subcommittee
+HSFA16,House Committee on Foreign Affairs — Africa,house,HSFA,subcommittee
+HSFA17,House Committee on Foreign Affairs — Oversight and Intelligence,house,HSFA,subcommittee
+HSFA19,House Committee on Foreign Affairs — South and Central Asia,house,HSFA,subcommittee
+HSGO,House Committee on Oversight and Government Reform,house,HSGO,committee
+HSGO05,"House Committee on Oversight and Government Reform — Economic Growth, Energy Policy, and Regulatory Affairs",house,HSGO,subcommittee
+HSGO06,House Committee on Oversight and Government Reform — Military and Foreign Affairs,house,HSGO,subcommittee
+HSGO12,"House Committee on Oversight and Government Reform — Cybersecurity, Information Technology, and Government Innovation",house,HSGO,subcommittee
+HSGO16,House Committee on Oversight and Government Reform — Delivering on Government Efficiency,house,HSGO,subcommittee
+HSGO24,House Committee on Oversight and Government Reform — Government Operations,house,HSGO,subcommittee
+HSGO27,House Committee on Oversight and Government Reform — Health Care and Financial Services,house,HSGO,subcommittee
+HSGO33,House Committee on Oversight and Government Reform — Federal Law Enforcement,house,HSGO,subcommittee
+HSHA,House Committee on House Administration,house,HSHA,committee
+HSHA08,House Committee on House Administration — Elections,house,HSHA,subcommittee
+HSHA27,House Committee on House Administration — Modernization and Innovation,house,HSHA,subcommittee
+HSHM,House Committee on Homeland Security,house,HSHM,committee
+HSHM05,House Committee on Homeland Security — Counterterrorism and Intelligence,house,HSHM,subcommittee
+HSHM07,House Committee on Homeland Security — Transportation and Maritime Security,house,HSHM,subcommittee
+HSHM08,House Committee on Homeland Security — Cybersecurity and Infrastructure Protection,house,HSHM,subcommittee
+HSHM09,"House Committee on Homeland Security — Oversight, Investigations, and Accountability",house,HSHM,subcommittee
+HSHM11,House Committee on Homeland Security — Border Security and Enforcement,house,HSHM,subcommittee
+HSHM12,House Committee on Homeland Security — Emergency Management and Technology,house,HSHM,subcommittee
+HSIF,House Committee on Energy and Commerce,house,HSIF,committee
+HSIF02,House Committee on Energy and Commerce — Oversight and Investigations,house,HSIF,subcommittee
+HSIF03,House Committee on Energy and Commerce — Energy,house,HSIF,subcommittee
+HSIF14,House Committee on Energy and Commerce — Health,house,HSIF,subcommittee
+HSIF16,House Committee on Energy and Commerce — Communications and Technology,house,HSIF,subcommittee
+HSIF17,"House Committee on Energy and Commerce — Commerce, Manufacturing, and Trade",house,HSIF,subcommittee
+HSIF18,House Committee on Energy and Commerce — Environment,house,HSIF,subcommittee
+HSII,House Committee on Natural Resources,house,HSII,committee
+HSII06,House Committee on Natural Resources — Energy and Mineral Resources,house,HSII,subcommittee
+HSII10,House Committee on Natural Resources — Federal Lands,house,HSII,subcommittee
+HSII13,"House Committee on Natural Resources — Water, Wildlife and Fisheries",house,HSII,subcommittee
+HSII15,House Committee on Natural Resources — Oversight and Investigations,house,HSII,subcommittee
+HSII24,House Committee on Natural Resources — Indian and Insular Affairs,house,HSII,subcommittee
+HSJU,House Committee on the Judiciary,house,HSJU,committee
+HSJU01,"House Committee on the Judiciary — Immigration Integrity, Security, and Enforcement",house,HSJU,subcommittee
+HSJU03,"House Committee on the Judiciary — Courts, Intellectual Property, Artificial Intelligence, and the Internet",house,HSJU,subcommittee
+HSJU05,"House Committee on the Judiciary — The Administrative State, Regulatory Reform, and Antitrust",house,HSJU,subcommittee
+HSJU08,House Committee on the Judiciary — Crime and Federal Government Surveillance,house,HSJU,subcommittee
+HSJU10,House Committee on the Judiciary — The Constitution and Limited Government,house,HSJU,subcommittee
+HSJU13,House Committee on the Judiciary — Oversight,house,HSJU,subcommittee
+HSPW,House Committee on Transportation and Infrastructure,house,HSPW,committee
+HSPW02,House Committee on Transportation and Infrastructure — Water Resources and Environment,house,HSPW,subcommittee
+HSPW05,House Committee on Transportation and Infrastructure — Aviation,house,HSPW,subcommittee
+HSPW07,House Committee on Transportation and Infrastructure — Coast Guard and Maritime Transportation,house,HSPW,subcommittee
+HSPW12,House Committee on Transportation and Infrastructure — Highways and Transit,house,HSPW,subcommittee
+HSPW13,"House Committee on Transportation and Infrastructure — Economic Development, Public Buildings, and Emergency Management",house,HSPW,subcommittee
+HSPW14,"House Committee on Transportation and Infrastructure — Railroads, Pipelines, and Hazardous Materials",house,HSPW,subcommittee
+HSQJ,"House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021",house,HSQJ,committee
+HSRU,House Committee on Rules,house,HSRU,committee
+HSRU02,House Committee on Rules — Legislative and Budget Process,house,HSRU,subcommittee
+HSRU04,House Committee on Rules — Rules and Organization of the House,house,HSRU,subcommittee
+HSSM,House Committee on Small Business,house,HSSM,committee
+HSSM21,"House Committee on Small Business — Rural Development, Energy, and Supply Chains",house,HSSM,subcommittee
+HSSM22,"House Committee on Small Business — Innovation, Entrepreneurship, and Workforce Development",house,HSSM,subcommittee
+HSSM23,House Committee on Small Business — Contracting and Infrastructure,house,HSSM,subcommittee
+HSSM24,"House Committee on Small Business — Oversight, Investigations, and Regulations",house,HSSM,subcommittee
+HSSM27,"House Committee on Small Business — Economic Growth, Tax, and Capital Access",house,HSSM,subcommittee
+HSSO,House Committee on Ethics,house,HSSO,committee
+HSSY,"House Committee on Science, Space, and Technology",house,HSSY,committee
+HSSY15,"House Committee on Science, Space, and Technology — Research and Technology",house,HSSY,subcommittee
+HSSY16,"House Committee on Science, Space, and Technology — Space and Aeronautics",house,HSSY,subcommittee
+HSSY18,"House Committee on Science, Space, and Technology — Environment",house,HSSY,subcommittee
+HSSY20,"House Committee on Science, Space, and Technology — Energy",house,HSSY,subcommittee
+HSSY21,"House Committee on Science, Space, and Technology — Investigations and Oversight",house,HSSY,subcommittee
+HSVR,House Committee on Veterans' Affairs,house,HSVR,committee
+HSVR03,House Committee on Veterans' Affairs — Health,house,HSVR,subcommittee
+HSVR08,House Committee on Veterans' Affairs — Oversight and Investigations,house,HSVR,subcommittee
+HSVR09,House Committee on Veterans' Affairs — Disability Assistance and Memorial Affairs,house,HSVR,subcommittee
+HSVR10,House Committee on Veterans' Affairs — Economic Opportunity,house,HSVR,subcommittee
+HSVR11,House Committee on Veterans' Affairs — Technology Modernization,house,HSVR,subcommittee
+HSWM,House Committee on Ways and Means,house,HSWM,committee
+HSWM01,House Committee on Ways and Means — Social Security,house,HSWM,subcommittee
+HSWM02,House Committee on Ways and Means — Health,house,HSWM,subcommittee
+HSWM03,House Committee on Ways and Means — Work and Welfare,house,HSWM,subcommittee
+HSWM04,House Committee on Ways and Means — Trade,house,HSWM,subcommittee
+HSWM05,House Committee on Ways and Means — Tax,house,HSWM,subcommittee
+HSWM06,House Committee on Ways and Means — Oversight,house,HSWM,subcommittee
+HSZS,House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party,house,HSZS,committee
+JCSE,Commission on Security and Cooperation in Europe,joint,JCSE,committee
+JSEC,Joint Economic Committee,joint,JSEC,committee
+JSLC,Joint Committee of Congress on the Library,joint,JSLC,committee
+JSPR,Joint Committee on Printing,joint,JSPR,committee
+JSTX,Joint Committee on Taxation,joint,JSTX,committee
+SCNC,United States Senate Caucus on International Narcotics Control,senate,SCNC,committee
+SLET,Senate Select Committee on Ethics,senate,SLET,committee
+SLIA,Senate Committee on Indian Affairs,senate,SLIA,committee
+SLIN,Senate Select Committee on Intelligence,senate,SLIN,committee
+SPAG,Senate Special Committee on Aging,senate,SPAG,committee
+SSAF,"Senate Committee on Agriculture, Nutrition, and Forestry",senate,SSAF,committee
+SSAF13,"Senate Committee on Agriculture, Nutrition, and Forestry — Commodities, Derivatives, Risk Management, and Trade",senate,SSAF,subcommittee
+SSAF14,"Senate Committee on Agriculture, Nutrition, and Forestry — Conservation, Forestry, Natural Resources, and Biotechnology",senate,SSAF,subcommittee
+SSAF15,"Senate Committee on Agriculture, Nutrition, and Forestry — Rural Development, Energy, and Credit",senate,SSAF,subcommittee
+SSAF16,"Senate Committee on Agriculture, Nutrition, and Forestry — Food and Nutrition, Specialty Crops, Organics, and Research",senate,SSAF,subcommittee
+SSAF17,"Senate Committee on Agriculture, Nutrition, and Forestry — Livestock, Dairy, Poultry, and Food Safety",senate,SSAF,subcommittee
+SSAP,Senate Committee on Appropriations,senate,SSAP,committee
+SSAP01,"Senate Committee on Appropriations — Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",senate,SSAP,subcommittee
+SSAP02,Senate Committee on Appropriations — Department of Defense,senate,SSAP,subcommittee
+SSAP08,Senate Committee on Appropriations — Legislative Branch,senate,SSAP,subcommittee
+SSAP14,Senate Committee on Appropriations — Department of Homeland Security,senate,SSAP,subcommittee
+SSAP16,"Senate Committee on Appropriations — Commerce, Justice, Science, and Related Agencies",senate,SSAP,subcommittee
+SSAP17,"Senate Committee on Appropriations — Department of Interior, Environment, and Related Agencies",senate,SSAP,subcommittee
+SSAP18,"Senate Committee on Appropriations — Departments of Labor, Health and Human Services, and Education, and Related Agencies",senate,SSAP,subcommittee
+SSAP19,"Senate Committee on Appropriations — Military Construction, Veterans Affairs, and Related Agencies",senate,SSAP,subcommittee
+SSAP20,"Senate Committee on Appropriations — State, Foreign Operations, and Related Programs",senate,SSAP,subcommittee
+SSAP22,Senate Committee on Appropriations — Energy and Water Development,senate,SSAP,subcommittee
+SSAP23,Senate Committee on Appropriations — Financial Services and General Government,senate,SSAP,subcommittee
+SSAP24,"Senate Committee on Appropriations — Transportation, Housing and Urban Development, and Related Agencies",senate,SSAP,subcommittee
+SSAS,Senate Committee on Armed Services,senate,SSAS,committee
+SSAS13,Senate Committee on Armed Services — Seapower,senate,SSAS,subcommittee
+SSAS14,Senate Committee on Armed Services — Airland,senate,SSAS,subcommittee
+SSAS15,Senate Committee on Armed Services — Readiness and Management Support,senate,SSAS,subcommittee
+SSAS16,Senate Committee on Armed Services — Strategic Forces,senate,SSAS,subcommittee
+SSAS17,Senate Committee on Armed Services — Personnel,senate,SSAS,subcommittee
+SSAS20,Senate Committee on Armed Services — Emerging Threats and Capabilities,senate,SSAS,subcommittee
+SSAS21,Senate Committee on Armed Services — Cybersecurity,senate,SSAS,subcommittee
+SSBK,"Senate Committee on Banking, Housing, and Urban Affairs",senate,SSBK,committee
+SSBK04,"Senate Committee on Banking, Housing, and Urban Affairs — Securities, Insurance, and Investment",senate,SSBK,subcommittee
+SSBK05,"Senate Committee on Banking, Housing, and Urban Affairs — National Security and International Trade and Finance",senate,SSBK,subcommittee
+SSBK08,"Senate Committee on Banking, Housing, and Urban Affairs — Financial Institutions and Consumer Protection",senate,SSBK,subcommittee
+SSBK09,"Senate Committee on Banking, Housing, and Urban Affairs — Housing, Transportation, and Community Development",senate,SSBK,subcommittee
+SSBK12,"Senate Committee on Banking, Housing, and Urban Affairs — Economic Policy",senate,SSBK,subcommittee
+SSBK13,"Senate Committee on Banking, Housing, and Urban Affairs — Digital Assets",senate,SSBK,subcommittee
+SSBU,Senate Committee on the Budget,senate,SSBU,committee
+SSCM,"Senate Committee on Commerce, Science, and Transportation",senate,SSCM,committee
+SSCM33,"Senate Committee on Commerce, Science, and Transportation — Aviation, Space, and Innovation",senate,SSCM,subcommittee
+SSCM34,"Senate Committee on Commerce, Science, and Transportation — Telecommunications and Media",senate,SSCM,subcommittee
+SSCM35,"Senate Committee on Commerce, Science, and Transportation — Consumer Protection, Technology, and Data Privacy",senate,SSCM,subcommittee
+SSCM36,"Senate Committee on Commerce, Science, and Transportation — Coast Guard, Maritime, and Fisheries",senate,SSCM,subcommittee
+SSCM37,"Senate Committee on Commerce, Science, and Transportation — Science, Manufacturing, and Competitiveness",senate,SSCM,subcommittee
+SSCM38,"Senate Committee on Commerce, Science, and Transportation — Surface Transportation, Freight, Pipelines, and Safety",senate,SSCM,subcommittee
+SSCM39,"Senate Committee on Commerce, Science, and Transportation — Tourism, Trade, and Export Promotion",senate,SSCM,subcommittee
+SSEG,Senate Committee on Energy and Natural Resources,senate,SSEG,committee
+SSEG01,Senate Committee on Energy and Natural Resources — Energy,senate,SSEG,subcommittee
+SSEG03,"Senate Committee on Energy and Natural Resources — Public Lands, Forests, and Mining",senate,SSEG,subcommittee
+SSEG04,Senate Committee on Energy and Natural Resources — National Parks,senate,SSEG,subcommittee
+SSEG07,Senate Committee on Energy and Natural Resources — Water and Power,senate,SSEG,subcommittee
+SSEV,Senate Committee on Environment and Public Works,senate,SSEV,committee
+SSEV08,Senate Committee on Environment and Public Works — Transportation and Infrastructure,senate,SSEV,subcommittee
+SSEV09,"Senate Committee on Environment and Public Works — Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",senate,SSEV,subcommittee
+SSEV10,"Senate Committee on Environment and Public Works — Clean Air, Climate, and Nuclear Innovation and Safety",senate,SSEV,subcommittee
+SSEV15,"Senate Committee on Environment and Public Works — Fisheries, Water, and Wildlife",senate,SSEV,subcommittee
+SSFI,Senate Committee on Finance,senate,SSFI,committee
+SSFI02,"Senate Committee on Finance — Social Security, Pensions, and Family Policy",senate,SSFI,subcommittee
+SSFI10,Senate Committee on Finance — Health Care,senate,SSFI,subcommittee
+SSFI11,Senate Committee on Finance — Taxation and IRS Oversight,senate,SSFI,subcommittee
+SSFI12,"Senate Committee on Finance — Energy, Natural Resources, and Infrastructure",senate,SSFI,subcommittee
+SSFI13,"Senate Committee on Finance — International Trade, Customs, and Global Competitiveness",senate,SSFI,subcommittee
+SSFI14,Senate Committee on Finance — Fiscal Responsibility and Economic Growth,senate,SSFI,subcommittee
+SSFR,Senate Committee on Foreign Relations,senate,SSFR,committee
+SSFR01,Senate Committee on Foreign Relations — Europe and Regional Security Cooperation,senate,SSFR,subcommittee
+SSFR02,"Senate Committee on Foreign Relations — East Asia, the Pacific, and International Cybersecurity Policy",senate,SSFR,subcommittee
+SSFR06,"Senate Committee on Foreign Relations — Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",senate,SSFR,subcommittee
+SSFR07,"Senate Committee on Foreign Relations — Near East, South Asia, Central Asia, and Counterterrorism",senate,SSFR,subcommittee
+SSFR09,Senate Committee on Foreign Relations — Africa and Global Health Policy,senate,SSFR,subcommittee
+SSFR14,"Senate Committee on Foreign Relations — State Department and USAID Management, International Operations, and Bilateral International Development",senate,SSFR,subcommittee
+SSFR15,"Senate Committee on Foreign Relations — Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",senate,SSFR,subcommittee
+SSGA,Senate Committee on Homeland Security and Governmental Affairs,senate,SSGA,committee
+SSGA01,Senate Committee on Homeland Security and Governmental Affairs — Permanent Subcommittee on Investigations,senate,SSGA,subcommittee
+SSGA20,"Senate Committee on Homeland Security and Governmental Affairs — Disaster Management, District of Columbia, and Census",senate,SSGA,subcommittee
+SSGA22,"Senate Committee on Homeland Security and Governmental Affairs — Border Management, Federal Workforce, and Regulatory Affairs",senate,SSGA,subcommittee
+SSHR,"Senate Committee on Health, Education, Labor, and Pensions",senate,SSHR,committee
+SSHR09,"Senate Committee on Health, Education, Labor, and Pensions — Education and the American Family",senate,SSHR,subcommittee
+SSHR11,"Senate Committee on Health, Education, Labor, and Pensions — Employment and Workplace Safety",senate,SSHR,subcommittee
+SSHR12,"Senate Committee on Health, Education, Labor, and Pensions — Primary Health and Retirement Security",senate,SSHR,subcommittee
+SSJU,Senate Committee on the Judiciary,senate,SSJU,committee
+SSJU01,"Senate Committee on the Judiciary — Antitrust, Competition Policy, and Consumer Rights",senate,SSJU,subcommittee
+SSJU04,Senate Committee on the Judiciary — Border Security and Immigration,senate,SSJU,subcommittee
+SSJU21,Senate Committee on the Judiciary — the Constitution,senate,SSJU,subcommittee
+SSJU22,Senate Committee on the Judiciary — Crime and Counterterrorism,senate,SSJU,subcommittee
+SSJU25,"Senate Committee on the Judiciary — Federal Courts, Oversight, Agency Action, and Federal Rights",senate,SSJU,subcommittee
+SSJU26,Senate Committee on the Judiciary — Intellectual Property,senate,SSJU,subcommittee
+SSJU27,Senate Committee on the Judiciary — Human Rights and the Law,senate,SSJU,subcommittee
+SSJU28,"Senate Committee on the Judiciary — Privacy, Technology, and the Law",senate,SSJU,subcommittee
+SSRA,Senate Committee on Rules and Administration,senate,SSRA,committee
+SSSB,Senate Committee on Small Business and Entrepreneurship,senate,SSSB,committee
+SSVA,Senate Committee on Veterans' Affairs,senate,SSVA,committee

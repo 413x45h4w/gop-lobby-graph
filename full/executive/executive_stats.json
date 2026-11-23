@@ -1,0 +1,21 @@
+{
+ "oira_meetings": 1357,
+ "oira_attendees": 18284,
+ "oira_attendee_gov": 11304,
+ "oira_attendee_org_match": 3161,
+ "oira_attendee_lobbyist_none": 17133,
+ "oira_attendee_lobbyist_name_only_unique": 519,
+ "oira_attendee_lobbyist_name+org_in_lda": 632,
+ "wh_name_match_rows": 37381,
+ "wh_ambiguous_name_excluded": 4398,
+ "wh_tour_excluded": 15430,
+ "wh_multi_middle_initial_excluded": 10697,
+ "wh_kept": 6856,
+ "oira_meetings_rows": 1357,
+ "oira_attendee_rows": 18284,
+ "org_agency_edges": 1160,
+ "lobbyist_oira_rows": 1151,
+ "wh_rows": 6856,
+ "wh_edges": 5458,
+ "built_at": "2026-11-22T20:28:47-05:00"
+}
