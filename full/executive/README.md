@@ -1,4 +1,4 @@
-# Executive-branch layer (built 2026-11-22T20:30:12-05:00)
+# Executive-branch layer (built 2026-11-22T21:13:50-05:00)
 
 Sources
 - OIRA EO 12866 meetings, reginfo.gov public calendar (completed meetings 2023-01 .. 2026-11; detail pages with requestor + attendee list + org): `raw/oira_meetings.jsonl`.
@@ -7,9 +7,10 @@ Sources
   during the second Trump term (Washington Examiner report, as cited by Vox Luci on 2026-11-15; logs are Presidential Records until 5 years after the term). Used instead: the Biden White House
   archive (bidenwhitehouse.archives.gov/disclosures/visitor-logs), files 2023.01 .. 2024.08 (the last release), streamed; only rows whose visitor first+last name equals
   an LDA lobbyist name were kept (`raw/wh_visitor_lobbyist_name_matches.jsonl`; per-file totals in `raw/wh_file_stats.jsonl`).
-- regulations.gov comments: NOT built. The v4 API needs an api.data.gov key; DEMO_KEY is limited to 10 requests/hour on this IP and the comment list endpoint does not
-  return the submitter organization (one call per comment needed). A free api.data.gov key (requires sign-up) or a targeted pull from the public Mirrulations S3 mirror
-  (s3://mirrulations, per-comment JSON) would close this gap.
+- regulations.gov comments: the v4 API needs an api.data.gov key (DEMO_KEY = 10 requests/hour here, and list results lack the submitter organization), so the
+  official API was not used. Instead a bounded pull from the public Mirrulations S3 mirror of regulations.gov (s3://mirrulations, AWS Open Data, Moravian University):
+  rulemaking dockets opened 2025-2026 whose RIN also had an OIRA EO 12866 meeting in 2025-2026, at most 800 comment JSONs per docket (see `docket_n_comments_in_mirror`
+  for the true size). `raw/regs_dockets.jsonl`, `raw/regs_comments.jsonl`, `regs_comments_orgs.csv`, `edges_org_to_docket_comments.csv`. This is a sample, not full coverage.
 - Agency calendars: no central structured source; not built.
 
 Files
@@ -23,25 +24,32 @@ Files
 Stats
 ```
 {
- "oira_meetings": 1357,
- "oira_attendees": 18284,
- "oira_attendee_gov": 11304,
- "oira_attendee_org_match": 3161,
- "oira_attendee_lobbyist_none": 17133,
- "oira_attendee_lobbyist_name_only_unique": 519,
- "oira_attendee_lobbyist_name+org_in_lda": 632,
+ "oira_meetings": 3277,
+ "oira_attendees": 41008,
+ "oira_attendee_gov": 24645,
+ "oira_attendee_org_match": 7381,
+ "oira_attendee_lobbyist_none": 38243,
+ "oira_attendee_lobbyist_name_only_unique": 1250,
+ "oira_attendee_lobbyist_name+org_in_lda": 1515,
  "wh_name_match_rows": 37381,
  "wh_ambiguous_name_excluded": 4398,
  "wh_tour_excluded": 15430,
  "wh_multi_middle_initial_excluded": 10697,
  "wh_kept": 6856,
- "oira_meetings_rows": 1357,
- "oira_attendee_rows": 18284,
- "org_agency_edges": 1160,
- "lobbyist_oira_rows": 1151,
+ "regs_comments": 56396,
+ "regs_comments_with_org": 6183,
+ "regs_comments_org_match": 2234,
+ "regs_comment_org_rows": 6183,
+ "org_docket_edges": 2037,
+ "regs_dockets_scanned_2025_26": 20549,
+ "regs_dockets_with_comments_fetched": 83,
+ "oira_meetings_rows": 3277,
+ "oira_attendee_rows": 41008,
+ "org_agency_edges": 2274,
+ "lobbyist_oira_rows": 2765,
  "wh_rows": 6856,
  "wh_edges": 5458,
- "built_at": "2026-11-22T20:28:47-05:00"
+ "built_at": "2026-11-22T21:13:48-05:00"
 }
 ```
 
@@ -61,16 +69,23 @@ Match keys used across all four folders
 Row counts
 | file | rows |
 |---|---|
-| `edges_lobbyist_to_agency_oira.csv` | 1,151 |
+| `edges_lobbyist_to_agency_oira.csv` | 2,765 |
 | `edges_lobbyist_to_wh_visitee.csv` | 5,458 |
-| `edges_org_to_agency_oira.csv` | 1,160 |
-| `oira_attendees.csv` | 18,284 |
-| `oira_meetings.csv` | 1,357 |
+| `edges_org_to_agency_oira.csv` | 2,274 |
+| `edges_org_to_docket_comments.csv` | 2,037 |
+| `oira_attendees.csv` | 41,008 |
+| `oira_meetings.csv` | 3,277 |
+| `regs_comments_orgs.csv` | 6,205 |
 | `wh_visits_lobbyist_name_matches.csv` | 6,856 |
-| `raw/oira_meetings.jsonl` | 1,516 |
+| `raw/oira_meetings.jsonl` | 3,277 |
+| `raw/regs_comments.jsonl` | 56,396 |
+| `raw/regs_dockets.jsonl` | 21,635 |
 | `raw/wh_file_stats.jsonl` | 20 |
 | `raw/wh_visitor_lobbyist_name_matches.jsonl` | 37,381 |
 
 ## Build log (append-only)
 - 2026-11-22T20:30:02-05:00: rebuilt; counts above.
 - 2026-11-22T20:30:12-05:00: rebuilt; counts above.
+- 2026-11-22T20:35:36-05:00: rebuilt; counts above.
+- 2026-11-22T21:13:40-05:00: rebuilt; counts above.
+- 2026-11-22T21:13:50-05:00: rebuilt; counts above.

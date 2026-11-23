@@ -8,11 +8,18 @@
  "house_travel": 7206,
  "house_travel_bioguide": 7193,
  "house_travel_org": 775,
+ "house_fd_assets": 31981,
+ "house_fd_assets_org": 3908,
+ "house_fd_H": 346,
+ "house_fd_G": 18,
+ "house_annual_holdings_rows": 31981,
+ "house_annual_gift_travel_rows": 364,
+ "member_company_holding_edges": 2136,
  "stock_tx_rows": 20151,
  "member_company_edges": 8814,
- "senate_holdings": 3493,
- "senate_gifts": 11,
- "senate_travel": 11,
+ "senate_holdings": 36916,
+ "senate_gifts": 36,
+ "senate_travel": 100,
  "travel_sponsor_edges": 4427,
- "built_at": "2026-11-22T20:27:37-05:00"
+ "built_at": "2026-11-22T20:58:50-05:00"
 }

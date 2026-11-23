@@ -1,4 +1,4 @@
-# State-level and events layer (built 2026-11-22T20:30:12-05:00)
+# State-level and events layer (built 2026-11-22T21:13:50-05:00)
 
 Built
 - `member_caucus_edges.csv` caucus memberships: links inside the members sections of English Wikipedia caucus articles (revision ids in `source_ref`),
@@ -8,12 +8,14 @@ Built
 - `house_foreign_travel_legs.csv` House official foreign travel (CODEL/STAFFDEL) legs parsed from the Clerk's text copies of the Congressional Record
   "Expenditure reports concerning official foreign travel" (2023-2026 releases, 71 files): traveler, member bioguide, dates, country, leg total USD.
 - `edges_member_codel_cotravel.csv` member <-> member pairs listed in the same report with the same country and arrival/departure dates. Confidence high.
+- `senate_foreign_travel_legs.csv` Senate "Foreign Travel Financial Reports" (Congressional Record Senate section, 2023-2026; granules located by scanning every
+  CREC issue's GovInfo MODS, `raw/crec_foreign_travel_granules.jsonl`). Senate tables give traveler + countries but no dates.
+- `edges_senator_codel_cotravel.csv` senator <-> senator in the same report section sharing >=2 foreign countries. Confidence medium (no dates in the source).
 
 Gaps (recorded honestly)
 - FollowTheMoney (state campaign finance): API requires a registered key ("Invalid API Key" without one); site says data current through 2024 and is being merged into OpenSecrets.
 - OpenSecrets bulk data: behind a sign-in / bot check (HTTP 403 challenge); the OpenSecrets API has been discontinued. Not used.
 - Political Party Time fundraiser archive: politicalpartytime.org returns HTTP 500 (offline).
-- Senate foreign travel reports (Congressional Record, Senate section) not parsed yet.
 - State lobbying registries: no free national bulk source; not built.
 
 Match keys used across all four folders
@@ -33,9 +35,15 @@ Row counts
 | file | rows |
 |---|---|
 | `edges_member_codel_cotravel.csv` | 2,952 |
+| `edges_senator_codel_cotravel.csv` | 149 |
 | `house_foreign_travel_legs.csv` | 6,831 |
 | `member_caucus_edges.csv` | 1,402 |
+| `senate_foreign_travel_legs.csv` | 8,480 |
+| `raw/crec_foreign_travel_granules.jsonl` | 795 |
 
 ## Build log (append-only)
 - 2026-11-22T20:30:02-05:00: rebuilt; counts above.
 - 2026-11-22T20:30:12-05:00: rebuilt; counts above.
+- 2026-11-22T20:35:36-05:00: rebuilt; counts above.
+- 2026-11-22T21:13:40-05:00: rebuilt; counts above.
+- 2026-11-22T21:13:50-05:00: rebuilt; counts above.

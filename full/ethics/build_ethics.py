@@ -104,5 +104,35 @@ for r in trav:
   k=(r[10],r[2]); a=ag[k]; a[0]+=1; a[1]+=r[6]=='member'; a[2].add(r[8][-4:]); a[3].add(r[7])
 sp=[[s,dclib.norm_org(s),org_match(s)[0],b,M[b]['name'],M[b]['party'],v[0],v[1],v[0]-v[1],'|'.join(sorted(v[2])),'|'.join(sorted(v[3]))[:200],now] for (s,b),v in sorted(ag.items(),key=lambda x:-x[1][0])]
 nsp=dclib.wcsv('edges_travel_sponsor_to_member.csv',['sponsor','sponsor_key','lda_org_key','bioguide','member','party','n_trips','n_member_trips','n_staff_trips','years','destinations','built_at'],sp)
+
+# House annual FD (Schedule A holdings, G gifts, H travel reimbursements)
+hh=[];hgt=[]
+if os.path.exists('raw/house_fd_annual_items.jsonl'):
+  for l in open('raw/house_fd_annual_items.jsonl'):
+    x=json.loads(l); b,mm=house_bioguide(x['filer_last'],x['filer_first'],x['state_dst']); nm=M.get(b,{}).get('name',x['filer_first']+' '+x['filer_last'])
+    u=f"https://disclosures-clerk.house.gov/public_disc/financial-pdfs/{x['filing_year']}/{x['doc_id']}.pdf"
+    if x['sched']=='A':
+      tk=re.findall(r'\(([A-Z][A-Z0-9.\-/]{0,7})\)',x['asset']); ok,om=org_match(x['asset'])
+      lo,hi=amt(x['value']); stat['house_fd_assets']+=1; stat['house_fd_assets_org']+=bool(ok)
+      hh.append([b,nm,M.get(b,{}).get('party',''),x['doc_id'],x['filing_year'],x['asset'][:250],tk[-1] if tk else '',x['asset_code'],x['value'],lo,hi,ok,om,u,mm])
+    else:
+      c=x['cols']; txt=' '.join(c)
+      if x['sched']=='H' and not re.search(r'\d\d/\d\d/\d{4}',txt): continue
+      if x['sched']=='G' and not re.search(r'\$[\d,]+',txt): continue
+      src=c[0]; ok,om=org_match(src); stat['house_fd_'+x['sched']]+=1
+      hgt.append([b,nm,x['doc_id'],x['filing_year'],{'G':'gift','H':'travel_reimbursement'}[x['sched']],src,txt[:300],ok,om,u])
+nhh=dclib.wcsv('house_annual_holdings.csv',['bioguide','member','party','doc_id','filing_year','asset','ticker','asset_code','value_range','value_min','value_max','lda_org_key','lda_org_match','source_url','member_match'],hh)
+nhg=dclib.wcsv('house_annual_gifts_travel.csv',['bioguide','member','doc_id','filing_year','kind','source','raw_text','lda_org_key','lda_org_match','source_url'],hgt)
+HA=collections.defaultdict(lambda:[0,0,0,'',set()])
+for r in hh:
+  if r[0] and r[11]:
+    a=HA[(r[0],r[11])]; a[0]+=1; a[1]+=int(r[9] or 0); a[2]+=int(r[10] or r[9] or 0); a[3]=r[5]; a[4].add(r[4])
+for r in sen_hold:
+  if r[0] and r[13]:
+    a=HA[(r[0],r[13])]; a[0]+=1; lo,hi=amt(r[10]); a[1]+=int(lo or 0); a[2]+=int(hi or lo or 0); a[3]=r[7]; a[4].add(r[5][-4:])
+nha=dclib.wcsv('edges_member_company_holdings.csv',['bioguide','member','party','chamber','lda_org_key','lda_org_name','n_holding_rows','sum_value_min','sum_value_max','asset_example','report_years','built_at'],
+  [[b,M.get(b,{}).get('name',''),M.get(b,{}).get('party',''),M.get(b,{}).get('chamber',''),k,OI[k]['name'],v[0],v[1],v[2],v[3][:150],'|'.join(sorted(v[4])),now] for (b,k),v in sorted(HA.items(),key=lambda q:-q[1][2])])
+stat.update({'house_annual_holdings_rows':nhh,'house_annual_gift_travel_rows':nhg,'member_company_holding_edges':nha})
+
 json.dump({**stat,'stock_tx_rows':ntx,'member_company_edges':nag,'senate_holdings':nh,'senate_gifts':ng,'senate_travel':nt,'house_travel':ntr,'travel_sponsor_edges':nsp,'built_at':now},open('ethics_stats.json','w'),indent=1)
 print(json.load(open('ethics_stats.json')))

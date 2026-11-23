@@ -1,0 +1,150 @@
+bioguide_a,member_a,party_a,bioguide_b,member_b,party_b,n_shared_report_sections,shared_countries,years,cross_party,confidence,built_at
+B001305,Ted Budd,R,E000295,Joni Ernst,R,2,bahrain|egypt|finland|germany|israel|qatar|saudi arabia|united arab emirates,2023|2024,0,medium,2026-11-22T20:33:36-05:00
+R000122,Jack Reed,D,S000148,Charles E. Schumer,D,2,germany|india|israel|poland|ukraine,2023|2024,0,medium,2026-11-22T20:33:36-05:00
+B001236,John Boozman,R,M000934,Jerry Moran,R,2,cyprus|germany|greece|italy|portugal|sweden,2023|2026,0,medium,2026-11-22T20:33:36-05:00
+H001061,John Hoeven,R,M000934,Jerry Moran,R,2,cyprus|egypt|finland|france|greece|israel,2023|2024,0,medium,2026-11-22T20:33:36-05:00
+H001076,Margaret Wood Hassan,D,S000148,Charles E. Schumer,D,2,china|poland|south korea|ukraine,2023|2024,0,medium,2026-11-22T20:33:36-05:00
+M001176,Jeff Merkley,D,V000128,Chris Van Hollen,D,2,egypt|israel|jordan,2024|2025,0,medium,2026-11-22T20:33:36-05:00
+C001088,Christopher A. Coons,D,P000595,Gary C. Peters,D,2,australia|botswana|cape verde|fiji|malawi|papua new guinea|zambia,2024|2025,0,medium,2026-11-22T20:33:36-05:00
+F000463,Deb Fischer,R,M000934,Jerry Moran,R,2,cyprus|egypt|finland|greece|italy|portugal|sweden,2024|2026,0,medium,2026-11-22T20:33:36-05:00
+B001277,Richard Blumenthal,D,R000122,Jack Reed,D,2,poland|ukraine,2024|2026,0,medium,2026-11-22T20:33:36-05:00
+I000024,James M. Inhofe,R,R000605,Mike Rounds,R,1,ethiopia|greece|kenya|rwanda|spain,2022,0,medium,2026-11-22T20:33:36-05:00
+M000639,Robert Menendez,D,P000449,Rob Portman,R,1,argentina|colombia|ecuador,2022,1,medium,2026-11-22T20:33:36-05:00
+C001088,Christopher A. Coons,D,H001046,Martin Heinrich,D,1,botswana|germany|morocco|south africa|zambia,2023,0,medium,2026-11-22T20:33:36-05:00
+M000639,Robert Menendez,D,V000128,Chris Van Hollen,D,1,botswana|germany|morocco|south africa|zambia,2023,0,medium,2026-11-22T20:33:36-05:00
+C000174,Thomas R. Carper,D,H001076,Margaret Wood Hassan,D,1,guatemala|honduras|mexico,2023,0,medium,2026-11-22T20:33:36-05:00
+B001305,Ted Budd,R,B001319,Katie Boyd Britt,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+B001305,Ted Budd,R,M000355,Mitch McConnell,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+B001305,Ted Budd,R,M001190,Markwayne Mullin,R,1,israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+B001305,Ted Budd,R,R000618,Pete Ricketts,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+B001305,Ted Budd,R,T000476,Thom Tillis,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+B001319,Katie Boyd Britt,R,E000295,Joni Ernst,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+B001319,Katie Boyd Britt,R,M000355,Mitch McConnell,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+B001319,Katie Boyd Britt,R,M001190,Markwayne Mullin,R,1,israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+B001319,Katie Boyd Britt,R,R000618,Pete Ricketts,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+B001319,Katie Boyd Britt,R,T000476,Thom Tillis,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+E000295,Joni Ernst,R,M000355,Mitch McConnell,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+E000295,Joni Ernst,R,M001190,Markwayne Mullin,R,1,israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+E000295,Joni Ernst,R,R000618,Pete Ricketts,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+E000295,Joni Ernst,R,T000476,Thom Tillis,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+M000355,Mitch McConnell,R,M001190,Markwayne Mullin,R,1,israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+M000355,Mitch McConnell,R,R000618,Pete Ricketts,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+M000355,Mitch McConnell,R,T000476,Thom Tillis,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+M001190,Markwayne Mullin,R,R000618,Pete Ricketts,R,1,israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+M001190,Markwayne Mullin,R,T000476,Thom Tillis,R,1,israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+R000618,Pete Ricketts,R,T000476,Thom Tillis,R,1,finland|germany|israel|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+C000127,Maria Cantwell,D,C001113,Catherine Cortez Masto,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C000127,Maria Cantwell,D,K000367,Amy Klobuchar,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C000127,Maria Cantwell,D,P000595,Gary C. Peters,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C000127,Maria Cantwell,D,R000122,Jack Reed,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C000127,Maria Cantwell,D,S000148,Charles E. Schumer,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C000127,Maria Cantwell,D,W000779,Ron Wyden,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C000127,Maria Cantwell,D,W000800,Peter Welch,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C000127,Maria Cantwell,D,W000805,Mark R. Warner,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C001113,Catherine Cortez Masto,D,K000367,Amy Klobuchar,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C001113,Catherine Cortez Masto,D,P000595,Gary C. Peters,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C001113,Catherine Cortez Masto,D,R000122,Jack Reed,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C001113,Catherine Cortez Masto,D,S000148,Charles E. Schumer,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C001113,Catherine Cortez Masto,D,W000779,Ron Wyden,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C001113,Catherine Cortez Masto,D,W000800,Peter Welch,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+C001113,Catherine Cortez Masto,D,W000805,Mark R. Warner,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+K000367,Amy Klobuchar,D,P000595,Gary C. Peters,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+K000367,Amy Klobuchar,D,R000122,Jack Reed,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+K000367,Amy Klobuchar,D,S000148,Charles E. Schumer,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+K000367,Amy Klobuchar,D,W000779,Ron Wyden,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+K000367,Amy Klobuchar,D,W000800,Peter Welch,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+K000367,Amy Klobuchar,D,W000805,Mark R. Warner,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+P000595,Gary C. Peters,D,R000122,Jack Reed,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+P000595,Gary C. Peters,D,S000148,Charles E. Schumer,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+P000595,Gary C. Peters,D,W000779,Ron Wyden,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+P000595,Gary C. Peters,D,W000800,Peter Welch,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+P000595,Gary C. Peters,D,W000805,Mark R. Warner,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+R000122,Jack Reed,D,W000779,Ron Wyden,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+R000122,Jack Reed,D,W000800,Peter Welch,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+R000122,Jack Reed,D,W000805,Mark R. Warner,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+S000148,Charles E. Schumer,D,W000779,Ron Wyden,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+S000148,Charles E. Schumer,D,W000800,Peter Welch,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+S000148,Charles E. Schumer,D,W000805,Mark R. Warner,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+W000779,Ron Wyden,D,W000800,Peter Welch,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+W000779,Ron Wyden,D,W000805,Mark R. Warner,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+W000800,Peter Welch,D,W000805,Mark R. Warner,D,1,germany|india|israel,2023,0,medium,2026-11-22T20:33:36-05:00
+B001236,John Boozman,R,B001319,Katie Boyd Britt,R,1,germany|greece|italy|portugal,2023,0,medium,2026-11-22T20:33:36-05:00
+B001319,Katie Boyd Britt,R,M000934,Jerry Moran,R,1,germany|greece|italy|portugal,2023,0,medium,2026-11-22T20:33:36-05:00
+C001047,Shelley Moore Capito,R,H001079,Cindy Hyde-Smith,R,1,australia|new zealand,2023,0,medium,2026-11-22T20:33:36-05:00
+C000880,Mike Crapo,R,C001056,John Cornyn,R,1,austria|greece|turkey,2023,0,medium,2026-11-22T20:33:36-05:00
+C000880,Mike Crapo,R,T000250,John Thune,R,1,austria|greece|turkey,2023,0,medium,2026-11-22T20:33:36-05:00
+C001056,John Cornyn,R,T000250,John Thune,R,1,austria|greece|turkey,2023,0,medium,2026-11-22T20:33:36-05:00
+C001088,Christopher A. Coons,D,M001169,Christopher Murphy,D,1,ireland|united kingdom,2023,0,medium,2026-11-22T20:33:36-05:00
+H000601,Bill Hagerty,R,M000639,Robert Menendez,D,1,egypt|ireland|italy|slovenia,2023,1,medium,2026-11-22T20:33:36-05:00
+H001076,Margaret Wood Hassan,D,M001198,Roger Marshall,R,1,egypt|ireland|italy|slovenia,2023,1,medium,2026-11-22T20:33:36-05:00
+C001056,John Cornyn,R,L000577,Mike Lee,R,1,argentina|brazil|colombia|panama,2023,0,medium,2026-11-22T20:33:36-05:00
+B001288,Cory A. Booker,D,C000141,Benjamin L. Cardin,D,1,egypt|saudi arabia|united arab emirates,2023,0,medium,2026-11-22T20:33:36-05:00
+B001288,Cory A. Booker,D,C001088,Christopher A. Coons,D,1,egypt|saudi arabia,2023,0,medium,2026-11-22T20:33:36-05:00
+C000141,Benjamin L. Cardin,D,C001088,Christopher A. Coons,D,1,egypt|saudi arabia,2023,0,medium,2026-11-22T20:33:36-05:00
+K000384,Tim Kaine,D,M001176,Jeff Merkley,D,1,guatemala|honduras,2023,0,medium,2026-11-22T20:33:36-05:00
+C000880,Mike Crapo,R,C001075,Bill Cassidy,R,1,china|south korea,2023,0,medium,2026-11-22T20:33:36-05:00
+C000880,Mike Crapo,R,H001076,Margaret Wood Hassan,D,1,china|south korea,2023,1,medium,2026-11-22T20:33:36-05:00
+C000880,Mike Crapo,R,K000393,John Kennedy,R,1,china|south korea,2023,0,medium,2026-11-22T20:33:36-05:00
+C000880,Mike Crapo,R,O000174,Jon Ossoff,D,1,china|south korea,2023,1,medium,2026-11-22T20:33:36-05:00
+C000880,Mike Crapo,R,S000148,Charles E. Schumer,D,1,china|south korea,2023,1,medium,2026-11-22T20:33:36-05:00
+C001075,Bill Cassidy,R,H001076,Margaret Wood Hassan,D,1,china|south korea,2023,1,medium,2026-11-22T20:33:36-05:00
+C001075,Bill Cassidy,R,K000393,John Kennedy,R,1,china|south korea,2023,0,medium,2026-11-22T20:33:36-05:00
+C001075,Bill Cassidy,R,O000174,Jon Ossoff,D,1,china|south korea,2023,1,medium,2026-11-22T20:33:36-05:00
+C001075,Bill Cassidy,R,S000148,Charles E. Schumer,D,1,china|israel|south korea,2023,1,medium,2026-11-22T20:33:36-05:00
+H001076,Margaret Wood Hassan,D,K000393,John Kennedy,R,1,china|south korea,2023,1,medium,2026-11-22T20:33:36-05:00
+H001076,Margaret Wood Hassan,D,O000174,Jon Ossoff,D,1,china|south korea,2023,0,medium,2026-11-22T20:33:36-05:00
+K000393,John Kennedy,R,O000174,Jon Ossoff,D,1,china|south korea,2023,1,medium,2026-11-22T20:33:36-05:00
+K000393,John Kennedy,R,S000148,Charles E. Schumer,D,1,china|south korea,2023,1,medium,2026-11-22T20:33:36-05:00
+O000174,Jon Ossoff,D,S000148,Charles E. Schumer,D,1,china|south korea,2023,0,medium,2026-11-22T20:33:36-05:00
+M001169,Christopher Murphy,D,S001181,Jeanne Shaheen,D,1,germany|hungary|turkey,2024,0,medium,2026-11-22T20:33:36-05:00
+B001320,Laphonza R. Butler,D,D000563,Richard J. Durbin,D,1,guatemala|honduras,2023,0,medium,2026-11-22T20:33:36-05:00
+B001320,Laphonza R. Butler,D,W000800,Peter Welch,D,1,guatemala|honduras,2023,0,medium,2026-11-22T20:33:36-05:00
+D000563,Richard J. Durbin,D,W000800,Peter Welch,D,1,guatemala|honduras,2023,0,medium,2026-11-22T20:33:36-05:00
+C001047,Shelley Moore Capito,R,F000463,Deb Fischer,R,1,cyprus|egypt|finland|greece|sweden,2024,0,medium,2026-11-22T20:33:36-05:00
+C001047,Shelley Moore Capito,R,H001061,John Hoeven,R,1,cyprus|egypt|finland,2024,0,medium,2026-11-22T20:33:36-05:00
+C001047,Shelley Moore Capito,R,M000934,Jerry Moran,R,1,cyprus|egypt|finland|greece|sweden,2024,0,medium,2026-11-22T20:33:36-05:00
+C001088,Christopher A. Coons,D,M001111,Patty Murray,D,1,botswana|cape verde|malawi|zambia,2024,0,medium,2026-11-22T20:33:36-05:00
+F000463,Deb Fischer,R,H001061,John Hoeven,R,1,cyprus|egypt|finland,2024,0,medium,2026-11-22T20:33:36-05:00
+M001111,Patty Murray,D,P000595,Gary C. Peters,D,1,botswana|cape verde|malawi|zambia,2024,0,medium,2026-11-22T20:33:36-05:00
+G000555,Kirsten E. Gillibrand,D,S001181,Jeanne Shaheen,D,1,japan|philippines|south korea|vietnam,2024,0,medium,2026-11-22T20:33:36-05:00
+B001267,Michael F. Bennet,D,B001277,Richard Blumenthal,D,1,poland|ukraine,2024,0,medium,2026-11-22T20:33:36-05:00
+B001267,Michael F. Bennet,D,H001076,Margaret Wood Hassan,D,1,poland|ukraine,2024,0,medium,2026-11-22T20:33:36-05:00
+B001267,Michael F. Bennet,D,R000122,Jack Reed,D,1,poland|ukraine,2024,0,medium,2026-11-22T20:33:36-05:00
+B001267,Michael F. Bennet,D,S000148,Charles E. Schumer,D,1,poland|ukraine,2024,0,medium,2026-11-22T20:33:36-05:00
+B001277,Richard Blumenthal,D,H001076,Margaret Wood Hassan,D,1,poland|ukraine,2024,0,medium,2026-11-22T20:33:36-05:00
+B001277,Richard Blumenthal,D,S000148,Charles E. Schumer,D,1,poland|ukraine,2024,0,medium,2026-11-22T20:33:36-05:00
+H001076,Margaret Wood Hassan,D,R000122,Jack Reed,D,1,poland|ukraine,2024,0,medium,2026-11-22T20:33:36-05:00
+B001319,Katie Boyd Britt,R,C001088,Christopher A. Coons,D,1,japan|south korea,2024,1,medium,2026-11-22T20:33:36-05:00
+B001319,Katie Boyd Britt,R,H000601,Bill Hagerty,R,1,japan|south korea,2024,0,medium,2026-11-22T20:33:36-05:00
+B001319,Katie Boyd Britt,R,S001227,Eric Schmitt,R,1,japan|south korea,2024,0,medium,2026-11-22T20:33:36-05:00
+C001088,Christopher A. Coons,D,H000601,Bill Hagerty,R,1,japan|south korea,2024,1,medium,2026-11-22T20:33:36-05:00
+C001088,Christopher A. Coons,D,S001227,Eric Schmitt,R,1,japan|south korea,2024,1,medium,2026-11-22T20:33:36-05:00
+H000601,Bill Hagerty,R,S001227,Eric Schmitt,R,1,japan|south korea,2024,0,medium,2026-11-22T20:33:36-05:00
+B001236,John Boozman,R,C001035,Susan M. Collins,R,1,czech republic|greece|hungary|morocco,2024,0,medium,2026-11-22T20:33:36-05:00
+B001236,John Boozman,R,H001061,John Hoeven,R,1,czech republic|greece|hungary,2024,0,medium,2026-11-22T20:33:36-05:00
+C001035,Susan M. Collins,R,H001061,John Hoeven,R,1,czech republic|greece|hungary,2024,0,medium,2026-11-22T20:33:36-05:00
+M001153,Lisa Murkowski,R,M001183,"Joe Manchin, III",I,1,australia|palau|philippines,2024,1,medium,2026-11-22T20:33:36-05:00
+H001076,Margaret Wood Hassan,D,M000934,Jerry Moran,R,1,ireland|luxembourg,2024,1,medium,2026-11-22T20:33:36-05:00
+G000359,Lindsey Graham,R,W000802,Sheldon Whitehouse,D,1,germany|israel,2025,1,medium,2026-11-22T20:33:36-05:00
+S001150,Adam B. Schiff,D,T000476,Thom Tillis,R,1,germany|israel,2025,1,medium,2026-11-22T20:33:36-05:00
+B001277,Richard Blumenthal,D,S001181,Jeanne Shaheen,D,1,france|france-,2025,0,medium,2026-11-22T20:33:36-05:00
+C001088,Christopher A. Coons,D,R000618,Pete Ricketts,R,1,philippines|taiwan,2025,1,medium,2026-11-22T20:33:36-05:00
+F000463,Deb Fischer,R,W000437,Roger F. Wicker,R,1,palau|philippines|taiwan,2025,0,medium,2026-11-22T20:33:36-05:00
+B001299,Jim Banks,R,C001114,John R. Curtis,R,1,denmark|finland|norway,2025,0,medium,2026-11-22T20:33:36-05:00
+B001299,Jim Banks,R,H001104,Jon Husted,R,1,denmark|finland|norway,2025,0,medium,2026-11-22T20:33:36-05:00
+B001299,Jim Banks,R,M001242,Bernie Moreno,R,1,denmark|finland|norway,2025,0,medium,2026-11-22T20:33:36-05:00
+B001299,Jim Banks,R,M001243,David McCormick,R,1,denmark|finland|norway,2025,0,medium,2026-11-22T20:33:36-05:00
+C001114,John R. Curtis,R,H001104,Jon Husted,R,1,denmark|finland|norway,2025,0,medium,2026-11-22T20:33:36-05:00
+C001114,John R. Curtis,R,M001242,Bernie Moreno,R,1,denmark|finland|norway,2025,0,medium,2026-11-22T20:33:36-05:00
+C001114,John R. Curtis,R,M001243,David McCormick,R,1,denmark|finland|norway,2025,0,medium,2026-11-22T20:33:36-05:00
+H001104,Jon Husted,R,M001242,Bernie Moreno,R,1,denmark|finland|norway,2025,0,medium,2026-11-22T20:33:36-05:00
+H001104,Jon Husted,R,M001243,David McCormick,R,1,denmark|finland|norway,2025,0,medium,2026-11-22T20:33:36-05:00
+M001242,Bernie Moreno,R,M001243,David McCormick,R,1,denmark|finland|norway,2025,0,medium,2026-11-22T20:33:36-05:00
+B001236,John Boozman,R,F000463,Deb Fischer,R,1,cyprus|greece|italy|portugal|sweden,2026,0,medium,2026-11-22T20:33:36-05:00
+G000555,Kirsten E. Gillibrand,D,P000595,Gary C. Peters,D,1,cyprus|greece|italy|portugal|sweden,2026,0,medium,2026-11-22T20:33:36-05:00
+C001088,Christopher A. Coons,D,S001181,Jeanne Shaheen,D,1,denmark|germany|hungary|moldova,2026,0,medium,2026-11-22T20:33:36-05:00
+K000377,Mark Kelly,D,R000122,Jack Reed,D,1,moldova|ukraine,2026,0,medium,2026-11-22T20:33:36-05:00
+C001114,John R. Curtis,R,R000608,Jacky Rosen,D,1,japan|south korea|taiwan,2026,1,medium,2026-11-22T20:33:36-05:00
+C001114,John R. Curtis,R,S001181,Jeanne Shaheen,D,1,japan|south korea|taiwan,2026,1,medium,2026-11-22T20:33:36-05:00
+R000608,Jacky Rosen,D,S001181,Jeanne Shaheen,D,1,japan|south korea|taiwan,2026,0,medium,2026-11-22T20:33:36-05:00
+B001261,John Barrasso,R,K000384,Tim Kaine,D,1,belgium|moldova|sweden,2026,1,medium,2026-11-22T20:33:36-05:00

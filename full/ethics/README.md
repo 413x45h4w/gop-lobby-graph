@@ -1,4 +1,4 @@
-# Ethics layer (built 2026-11-22T20:30:12-05:00)
+# Ethics layer (built 2026-11-22T21:13:50-05:00)
 
 Sources
 - House Clerk financial disclosure index `<year>FD.zip` (2023-2026) and electronic periodic transaction report PDFs
@@ -16,7 +16,11 @@ Files
   `senate_annual_travel_reimbursements.csv` (Part 6).
 - `house_privately_funded_travel.csv` each trip: member office, traveler (member or staff), destination, dates, sponsor, LD-2 org match.
 - `edges_travel_sponsor_to_member.csv` sponsor -> member office (n trips, member vs staff trips).
-- Gaps: House annual FD holdings/gifts (Schedules A/G/H) are PDFs not parsed here; House gift reports otherwise appear only inside those PDFs.
+- `house_annual_holdings.csv` House annual FD (filing type O, filing years 2024 and 2025 = calendar 2023 and 2024) Schedule A assets parsed from electronic PDFs
+  (asset text, ticker, asset code, value range). Wrapped asset names are sometimes truncated to the ticker line, e.g. "(HQH)". Paper/scanned annual reports are not parsed.
+- `house_annual_gifts_travel.csv` Schedule G gifts and Schedule H travel reimbursements from the same PDFs (raw text kept; parsing is approximate).
+- `edges_member_company_holdings.csv` member -> LD-2 org (company that lobbies) from House Schedule A + Senate Part 3, summed value-range bounds.
+- Gaps: House 2026 annual filings are not yet indexed as type O in the Clerk's 2026 index; House gift reports exist only inside FD PDFs (Schedule G above).
   Senate privately funded travel (Rule 35 pre-approval forms) is not in eFD as structured data; only annual-report travel reimbursements are included.
 
 Stats
@@ -31,13 +35,20 @@ Stats
  "house_travel": 7206,
  "house_travel_bioguide": 7193,
  "house_travel_org": 775,
+ "house_fd_assets": 31981,
+ "house_fd_assets_org": 3908,
+ "house_fd_H": 346,
+ "house_fd_G": 18,
+ "house_annual_holdings_rows": 31981,
+ "house_annual_gift_travel_rows": 364,
+ "member_company_holding_edges": 2136,
  "stock_tx_rows": 20151,
  "member_company_edges": 8814,
- "senate_holdings": 3493,
- "senate_gifts": 11,
- "senate_travel": 11,
+ "senate_holdings": 36916,
+ "senate_gifts": 36,
+ "senate_travel": 100,
  "travel_sponsor_edges": 4427,
- "built_at": "2026-11-22T20:27:37-05:00"
+ "built_at": "2026-11-22T20:58:50-05:00"
 }
 ```
 
@@ -57,17 +68,25 @@ Match keys used across all four folders
 Row counts
 | file | rows |
 |---|---|
+| `edges_member_company_holdings.csv` | 2,136 |
 | `edges_member_company_trades.csv` | 8,814 |
 | `edges_travel_sponsor_to_member.csv` | 5,116 |
+| `house_annual_gifts_travel.csv` | 364 |
+| `house_annual_holdings.csv` | 31,981 |
 | `house_privately_funded_travel.csv` | 7,941 |
-| `senate_annual_gifts.csv` | 11 |
-| `senate_annual_holdings.csv` | 3,493 |
-| `senate_annual_travel_reimbursements.csv` | 11 |
+| `senate_annual_gifts.csv` | 36 |
+| `senate_annual_holdings.csv` | 36,916 |
+| `senate_annual_travel_reimbursements.csv` | 100 |
 | `stock_transactions.csv` | 20,151 |
+| `raw/house_fd_annual_docs.jsonl` | 804 |
+| `raw/house_fd_annual_items.jsonl` | 32,858 |
 | `raw/house_ptr_docs.jsonl` | 1,903 |
 | `raw/house_ptr_transactions.jsonl` | 16,165 |
-| `raw/senate_efd_reports.jsonl` | 678 |
+| `raw/senate_efd_reports.jsonl` | 987 |
 
 ## Build log (append-only)
 - 2026-11-22T20:30:02-05:00: rebuilt; counts above.
 - 2026-11-22T20:30:12-05:00: rebuilt; counts above.
+- 2026-11-22T20:35:36-05:00: rebuilt; counts above.
+- 2026-11-22T21:13:40-05:00: rebuilt; counts above.
+- 2026-11-22T21:13:50-05:00: rebuilt; counts above.

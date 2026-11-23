@@ -1,10 +1,14 @@
-# Legislative layer (built 2026-11-22T20:30:12-05:00)
+# Legislative layer (built 2026-11-22T21:13:50-05:00)
 
 Sources (all public, no keys):
 - GovInfo BILLSTATUS bulk XML, 118th + 119th Congress, all 8 bill/resolution types (https://www.govinfo.gov/bulkdata/BILLSTATUS/<congress>/<type>/BILLSTATUS-<congress>-<type>.zip, fetched 2026-11-22 ET; govinfo last-modified 2026-11-22 00:18 for 119 hr).
 - unitedstates/congress-legislators `committee-membership-current.yaml`, `committees-current.yaml`, `legislators-current.json` (+ repo raw/legislators-historical.json for members who left after 2021).
 - House Committee Repository event pages, docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=115150..119700 (Dec 2022 - Nov 2026): hearing/markup title, committee, date, witness name + title/organization (`raw/house_events.jsonl`; 711 ids had no event).
 - GovInfo CHRG (published hearing transcripts) MODS metadata for every 118th/119th package in the public CHRG sitemaps 2023-2026 (`raw/chrg_mods.jsonl`): witnesses, committees, member roster printed in the record. House + Senate + Joint. Publication lags hearings by months, so recent Senate hearings are thin.
+
+Overlap with full/ld2/: ld2 (commit 7a63454) also carries 118th/119th bill tables, bill->committee and bill->sponsor/cosponsor edges built from the same
+GovInfo BILLSTATUS source with the same `hr1234-119` ids. The tables here were built before ld2 landed (20:11 ET) and are kept (append-only); prefer ld2 for
+bill<->client joins and use `member_cosponsor_edges.csv` here for the aggregated member<->member cosponsor graph, which ld2 does not include.
 
 Files
 - `bills.csv` one row per bill/resolution: sponsor bioguide, cosponsor counts, policy area, committee referrals, latest action, laws, top subjects.
@@ -34,7 +38,7 @@ Match rates and stats
  "name_only_ambiguous": 124,
  "name_only_unique": 679,
  "name+org_in_lda": 528,
- "built_at": "2026-11-22T20:23:34-05:00"
+ "built_at": "2026-11-22T21:13:38-05:00"
 }
 ```
 Witness org matching uses exact normalized names of whole comma-separated segments (1-3 segments), single-token keys must equal the full LD-2 name
@@ -73,3 +77,6 @@ Row counts
 ## Build log (append-only)
 - 2026-11-22T20:30:02-05:00: rebuilt; counts above.
 - 2026-11-22T20:30:12-05:00: rebuilt; counts above.
+- 2026-11-22T20:35:36-05:00: rebuilt; counts above.
+- 2026-11-22T21:13:40-05:00: rebuilt; counts above.
+- 2026-11-22T21:13:50-05:00: rebuilt; counts above.

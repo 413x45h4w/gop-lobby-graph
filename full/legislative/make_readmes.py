@@ -35,6 +35,10 @@ Sources (all public, no keys):
 - House Committee Repository event pages, docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=115150..119700 (Dec 2022 - Nov 2026): hearing/markup title, committee, date, witness name + title/organization (`raw/house_events.jsonl`; 711 ids had no event).
 - GovInfo CHRG (published hearing transcripts) MODS metadata for every 118th/119th package in the public CHRG sitemaps 2023-2026 (`raw/chrg_mods.jsonl`): witnesses, committees, member roster printed in the record. House + Senate + Joint. Publication lags hearings by months, so recent Senate hearings are thin.
 
+Overlap with full/ld2/: ld2 (commit 7a63454) also carries 118th/119th bill tables, bill->committee and bill->sponsor/cosponsor edges built from the same
+GovInfo BILLSTATUS source with the same `hr1234-119` ids. The tables here were built before ld2 landed (20:11 ET) and are kept (append-only); prefer ld2 for
+bill<->client joins and use `member_cosponsor_edges.csv` here for the aggregated member<->member cosponsor graph, which ld2 does not include.
+
 Files
 - `bills.csv` one row per bill/resolution: sponsor bioguide, cosponsor counts, policy area, committee referrals, latest action, laws, top subjects.
 - `bill_cosponsors.csv` every cosponsorship (incl. withdrawn, flagged) with date and original-cosponsor flag.
@@ -68,9 +72,10 @@ Sources
   during the second Trump term (Washington Examiner report, as cited by Vox Luci on 2026-11-15; logs are Presidential Records until 5 years after the term). Used instead: the Biden White House
   archive (bidenwhitehouse.archives.gov/disclosures/visitor-logs), files 2023.01 .. 2024.08 (the last release), streamed; only rows whose visitor first+last name equals
   an LDA lobbyist name were kept (`raw/wh_visitor_lobbyist_name_matches.jsonl`; per-file totals in `raw/wh_file_stats.jsonl`).
-- regulations.gov comments: NOT built. The v4 API needs an api.data.gov key; DEMO_KEY is limited to 10 requests/hour on this IP and the comment list endpoint does not
-  return the submitter organization (one call per comment needed). A free api.data.gov key (requires sign-up) or a targeted pull from the public Mirrulations S3 mirror
-  (s3://mirrulations, per-comment JSON) would close this gap.
+- regulations.gov comments: the v4 API needs an api.data.gov key (DEMO_KEY = 10 requests/hour here, and list results lack the submitter organization), so the
+  official API was not used. Instead a bounded pull from the public Mirrulations S3 mirror of regulations.gov (s3://mirrulations, AWS Open Data, Moravian University):
+  rulemaking dockets opened 2025-2026 whose RIN also had an OIRA EO 12866 meeting in 2025-2026, at most 800 comment JSONs per docket (see `docket_n_comments_in_mirror`
+  for the true size). `raw/regs_dockets.jsonl`, `raw/regs_comments.jsonl`, `regs_comments_orgs.csv`, `edges_org_to_docket_comments.csv`. This is a sample, not full coverage.
 - Agency calendars: no central structured source; not built.
 
 Files
@@ -107,7 +112,11 @@ Files
   `senate_annual_travel_reimbursements.csv` (Part 6).
 - `house_privately_funded_travel.csv` each trip: member office, traveler (member or staff), destination, dates, sponsor, LD-2 org match.
 - `edges_travel_sponsor_to_member.csv` sponsor -> member office (n trips, member vs staff trips).
-- Gaps: House annual FD holdings/gifts (Schedules A/G/H) are PDFs not parsed here; House gift reports otherwise appear only inside those PDFs.
+- `house_annual_holdings.csv` House annual FD (filing type O, filing years 2024 and 2025 = calendar 2023 and 2024) Schedule A assets parsed from electronic PDFs
+  (asset text, ticker, asset code, value range). Wrapped asset names are sometimes truncated to the ticker line, e.g. "(HQH)". Paper/scanned annual reports are not parsed.
+- `house_annual_gifts_travel.csv` Schedule G gifts and Schedule H travel reimbursements from the same PDFs (raw text kept; parsing is approximate).
+- `edges_member_company_holdings.csv` member -> LD-2 org (company that lobbies) from House Schedule A + Senate Part 3, summed value-range bounds.
+- Gaps: House 2026 annual filings are not yet indexed as type O in the Clerk's 2026 index; House gift reports exist only inside FD PDFs (Schedule G above).
   Senate privately funded travel (Rule 35 pre-approval forms) is not in eFD as structured data; only annual-report travel reimbursements are included.
 
 Stats
@@ -128,12 +137,14 @@ Built
 - `house_foreign_travel_legs.csv` House official foreign travel (CODEL/STAFFDEL) legs parsed from the Clerk's text copies of the Congressional Record
   "Expenditure reports concerning official foreign travel" (2023-2026 releases, 71 files): traveler, member bioguide, dates, country, leg total USD.
 - `edges_member_codel_cotravel.csv` member <-> member pairs listed in the same report with the same country and arrival/departure dates. Confidence high.
+- `senate_foreign_travel_legs.csv` Senate "Foreign Travel Financial Reports" (Congressional Record Senate section, 2023-2026; granules located by scanning every
+  CREC issue's GovInfo MODS, `raw/crec_foreign_travel_granules.jsonl`). Senate tables give traveler + countries but no dates.
+- `edges_senator_codel_cotravel.csv` senator <-> senator in the same report section sharing >=2 foreign countries. Confidence medium (no dates in the source).
 
 Gaps (recorded honestly)
 - FollowTheMoney (state campaign finance): API requires a registered key ("Invalid API Key" without one); site says data current through 2024 and is being merged into OpenSecrets.
 - OpenSecrets bulk data: behind a sign-in / bot check (HTTP 403 challenge); the OpenSecrets API has been discontinued. Not used.
 - Political Party Time fundraiser archive: politicalpartytime.org returns HTTP 500 (offline).
-- Senate foreign travel reports (Congressional Record, Senate section) not parsed yet.
 - State lobbying registries: no free national bulk source; not built.
 
 {COMMON}

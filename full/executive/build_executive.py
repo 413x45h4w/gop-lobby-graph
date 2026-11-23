@@ -71,5 +71,24 @@ for l in open('raw/wh_visitor_lobbyist_name_matches.jsonl'):
   g=wagg[(pid,(r['visitee_first']+' '+r['visitee_last']).strip())]; g[0]+=1; g[1].add(d); g[3]=r['first']+' '+r['last']
 n5=dclib.wcsv('wh_visits_lobbyist_name_matches.csv',['lobbyist_person_id','visitor_name','visitor_middle_initial','appt_start_date','visitee','location','room','total_people_in_appt','large_event_gt50','source_file','confidence'],wh)
 n6=dclib.wcsv('edges_lobbyist_to_wh_visitee.csv',['lobbyist_person_id','visitor_name','visitee','n_visits','first_date','last_date','confidence','built_at'],[[k[0],v[3],k[1],v[0],min(v[1]),max(v[1]),'low',now] for k,v in sorted(wagg.items(),key=lambda x:-x[1][0])])
+
+# regulations.gov comments (Mirrulations mirror sample)
+rc=[];ragg=collections.defaultdict(lambda:[0,'',set()])
+DK={json.loads(l)['docket']:json.loads(l) for l in open('raw/regs_dockets.jsonl')} if os.path.exists('raw/regs_dockets.jsonl') else {}
+if os.path.exists('raw/regs_comments.jsonl'):
+  for l in open('raw/regs_comments.jsonl'):
+    c=json.loads(l); stat['regs_comments']+=1
+    org=(c.get('organization') or '').strip()
+    if not org: continue
+    stat['regs_comments_with_org']+=1
+    os_=orgs_of(org); keys=[x[1] for x in os_ if x[1]]; stat['regs_comments_org_match']+=bool(keys)
+    d=DK.get(c['docket'],{})
+    rc.append([c['id'],c['docket'],d.get('rin',''),d.get('agency',''),(d.get('title') or '')[:200],(c.get('posted') or '')[:10],org,c.get('category') or '','|'.join(keys),c.get('docket_n_comments_in_mirror','')])
+    for k in keys:
+      g=ragg[(k,c['docket'])]; g[0]+=1; g[1]=d.get('rin',''); g[2].add(d.get('agency',''))
+n7=dclib.wcsv('regs_comments_orgs.csv',['comment_id','docket','rin','agency','docket_title','posted','organization','category','lda_org_keys','docket_n_comments_in_mirror'],rc)
+n8=dclib.wcsv('edges_org_to_docket_comments.csv',['lda_org_key','lda_org_name','docket','rin','agency','n_comments','confidence','built_at'],[[k,OI[k]['name'],dk,v[1],'|'.join(sorted(v[2])),v[0],'high',now] for (k,dk),v in sorted(ragg.items(),key=lambda x:-x[1][0])])
+stat.update({'regs_comment_org_rows':n7,'org_docket_edges':n8,'regs_dockets_scanned_2025_26':sum(1 for d in DK.values() if d.get('status')=='ok'),'regs_dockets_with_comments_fetched':len({c[1] for c in rc})})
+
 json.dump({**stat,'oira_meetings_rows':n1,'oira_attendee_rows':n2,'org_agency_edges':n3,'lobbyist_oira_rows':n4,'wh_rows':n5,'wh_edges':n6,'built_at':now},open('executive_stats.json','w'),indent=1)
 print(json.load(open('executive_stats.json')))
