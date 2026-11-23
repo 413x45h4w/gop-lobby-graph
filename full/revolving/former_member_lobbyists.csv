@@ -1,0 +1,264 @@
+person_id,lda_lobbyist_id,lobbyist,in_lobbyist_universe_scored,self_identified,self_id_text,bioguide,member,member_party,chambers,last_term_end,still_current,confidence,computed_at
+117449,117449,ALAN WHEAT,True,True,Former Member of Congress,W000326,Alan Wheat,D,rep,1995-01-03,False,high,2026-11-22T20:38:04-05:00
+71271,71271,"ALEXANDER (""ANDER"") CRENSHAW",True,True,"U.S. Representative (FL-04), 2001-2017",C001045,Ander Crenshaw,R,rep,2017-01-03,False,high,2026-11-22T20:38:04-05:00
+138996,138996,ALLEN BOYD,True,True,Former Member of Congress,B000716,Allen Boyd,D,rep,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+155410,155410,ANDREW FERGUSON,False,True,Former US Congressman 2017-2025,F000465,A. Drew Ferguson IV,R,rep,2025-01-03,False,high,2026-11-22T20:38:04-05:00
+79254,79254,ANN MARIE BUERKLE,True,True,Member of Congress,B001276,Ann Marie Buerkle,R,rep,2013-01-03,False,high,2026-11-22T20:38:04-05:00
+73582,73582,BARBARA COMSTOCK,True,True,Former United States Representative,C001105,Barbara Comstock,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+55074,55074,BART STUPAK,True,True,"U.S. Representative, 1993-2011",S001045,Bart Stupak,D,rep,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+63515,63515,BENJAMIN QUAYLE,True,True,Member of the U.S. House of Representatives,Q000024,Benjamin Quayle,R,rep,2013-01-03,False,high,2026-11-22T20:38:04-05:00
+155722,155722,BOB DOLD,True,True,"Member, U.S. House of Representatives, House Financials Services and Ways and Means Committees (2011-2013, 2015-2017)",D000613,Robert J. Dold,R,rep,2017-01-03,False,high,2026-11-22T20:38:04-05:00
+59979,59979,BYRON DORGAN,True,True,U.S. Senator (1992-2011),D000432,Byron Dorgan,D,rep|sen,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+62724,62724,CHARLES BASS,True,True,"Member, U.S. House of Representatives, 1995-2007, 2011-2013",B000220,Charles F. Bass,R,rep,2013-01-03,False,high,2026-11-22T20:38:04-05:00
+142755,142755,CHERI BUSTOS,True,True,2013-2023 US Senator,B001286,Cheri Bustos,D,rep,2023-01-03,False,high,2026-11-22T20:38:04-05:00
+73823,73823,CHESTER LOTT,True,True,"US Senator (19 yrs), US Representative (1 yr)",L000447,Trent Lott,R,rep|sen,2007-12-18,False,high,2026-11-22T20:38:04-05:00
+59870,59870,CHIP PICKERING,False,True,Congressman 1997-01/2/2009,P000323,Charles Pickering,R,rep,2009-01-03,False,high,2026-11-22T20:38:04-05:00
+149059,149059,CHRIS STEWART,True,True,Former US Congressman 2013-2023,S001192,Chris Stewart,R,rep,2023-09-15,False,high,2026-11-22T20:38:04-05:00
+150950,150950,CHRIS STEWART,False,True,Former US Congressman 2013-2023,S001192,Chris Stewart,R,rep,2023-09-15,False,high,2026-11-22T20:38:04-05:00
+58655,58655,CHRISTOPHER BOND,True,True,United States Senator- Missouri,B000611,Christopher Bond,R,sen,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+71987,71987,CHRISTOPHER CARNEY,True,True,Former Member of Congress,C001065,Christopher Carney,D,rep,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+138529,138529,COLLIN PETERSON,True,True,Member U.S. House of Representatives,P000258,Collin C. Peterson,D,rep,2021-01-03,False,high,2026-11-22T20:38:04-05:00
+152878,152878,CORY GARDNER,False,True,Member of the U.S. Senate (CO),G000562,Cory Gardner,R,rep|sen,2021-01-03,False,high,2026-11-22T20:38:04-05:00
+142745,142745,DAN BURTON,True,True,United States Representative,B001149,Dan Burton,R,rep,2013-01-03,False,high,2026-11-22T20:38:04-05:00
+62106,62106,DANIEL LUNGREN,True,True,Member of Congress,L000517,Daniel E. Lungren,R,rep,2013-01-03,False,high,2026-11-22T20:38:04-05:00
+68761,68761,DAVID VITTER,True,True,"US Senator, 2005-2017",V000127,David Vitter,R,rep|sen,2017-01-03,False,high,2026-11-22T20:38:04-05:00
+60075,154946,DENNIS CARDOZA,True,True,Member of Congress 2003-2012,C001050,Dennis Cardoza,D,rep,2012-08-15,False,high,2026-11-22T20:38:04-05:00
+48346,48346,DENNIS HERTEL,True,True,"Member of Congress, US House, January 1981 - January 1993",H000547,Dennis Hertel,D,rep,1993-01-03,False,high,2026-11-22T20:38:04-05:00
+144310,144310,ED PERLMUTTER,True,True,"Member, U.S. House of Representatives",P000593,Ed Perlmutter,D,rep,2023-01-03,False,high,2026-11-22T20:38:04-05:00
+61186,61186,EDOLPHUS TOWNS,True,True,Former Member of Congress 1983-2013,T000326,Edolphus Towns,D,rep,2013-01-03,False,high,2026-11-22T20:38:04-05:00
+139591,139591,EDWARD ROYCE,True,True,"Representative, U.S. House of Representatives",R000487,Edward R. Royce,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+66364,66364,EDWARD WHITFIELD,True,True,U.S. Representative (21 yrs.),W000413,Ed Whitfield,R,rep,2016-09-07,False,high,2026-11-22T20:38:04-05:00
+68022,68022,FRANK GUINTA,True,True,"Member of Congress, New Hampshire 1st District",G000570,Frank C. Guinta,R,rep,2017-01-03,False,high,2026-11-22T20:38:04-05:00
+94058,94058,FREDERICK BOUCHER,True,True,Former member House of Representatives (1983-2011),B000657,Frederick Boucher,D,rep,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+59235,59235,GEOFF DAVIS,True,True,former member of U.S. House of Representatives,D000603,Geoff Davis,R,rep,2012-07-31,False,high,2026-11-22T20:38:04-05:00
+143749,143749,GEORGE BUTTERFIELD,True,True,Former Member of Congress (Executive Branch only),B001251,G. K. Butterfield,D,rep,2022-12-30,False,high,2026-11-22T20:38:04-05:00
+61715,61715,GERALD WELLER,True,True,Member of Congress for 14 years,W000273,Gerald Weller,R,rep,2009-01-03,False,high,2026-11-22T20:38:04-05:00
+137746,137746,GREG WALDEN,True,True,US Congressman 1999-2021,W000791,Greg Walden,R,rep,2021-01-03,False,high,2026-11-22T20:38:04-05:00
+79398,79398,GREGG HARPER,True,True,Former Member of the U.S. House of Representatives,H001045,Gregg Harper,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+148054,148054,GREGG HARPER,True,True,Former Member of Congress (2009-2019),H001045,Gregg Harper,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+51716,51716,HENRY BONILLA,True,True,Member of Congress (1993-2007),B000617,Henry Bonilla,R,rep,2007-01-03,False,high,2026-11-22T20:38:04-05:00
+66092,64360,HOWARD MCKEON,True,True,U.S. Representative,M000508,"Howard P. ""Buck"" McKeon",R,rep,2015-01-03,False,high,2026-11-22T20:38:04-05:00
+25252,25252,JACK FIELDS,True,True,Former Member of Congress,F000111,Jack Fields,R,rep,1997-01-03,False,high,2026-11-22T20:38:04-05:00
+43882,43882,JAMES HAYES,False,True,Former member of congress 1987 to 1997,H000390,James Hayes,R,rep,1997-01-03,False,high,2026-11-22T20:38:04-05:00
+142682,72617,JAMES MORAN,True,True,"Member of Congress, 1991-2015",M000933,James P. Moran,D,rep,2015-01-03,False,high,2026-11-22T20:38:04-05:00
+153507,153507,JAMES TALENT,True,True,Former U.S. Senator,T000024,James Talent,R,rep|sen,2007-01-03,False,high,2026-11-22T20:38:04-05:00
+141688,141688,JEFF MILLER,True,True,Former Member U.S. Congress,M001144,Jeff Miller,R,rep,2017-01-03,False,high,2026-11-22T20:38:04-05:00
+141801,141801,JEFFREY DENHAM,True,True,Member of Congress,D000612,Jeff Denham,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+65463,93171,JEFFREY MILLER,True,True,Former Member US House of Representatives,M001144,Jeff Miller,R,rep,2017-01-03,False,high,2026-11-22T20:38:04-05:00
+58574,58574,JERRY COSTELLO,True,True,Member of the U.S. House of Representatives,C000794,Jerry F. Costello,D,rep,2013-01-03,False,high,2026-11-22T20:38:04-05:00
+47333,47333,JIM DAVIS,True,True,"Member, U.S. House of Representatives",D000114,James Davis,D,rep,2007-01-03,False,high,2026-11-22T20:38:04-05:00
+66180,66180,JIM TURNER,True,True,Member of Congress 1997-2005,T000424,James Turner,D,rep,2005-01-03,False,high,2026-11-22T20:38:04-05:00
+138226,138226,JOE CROWLEY,True,True,Member of Congress,C001038,Joseph Crowley,D,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+73822,73822,JOHN BREAUX,True,True,"US Senator (18 yrs), US Representative (2 yrs)",B000780,John Breaux,D,rep|sen,2005-01-03,False,high,2026-11-22T20:38:04-05:00
+151030,151030,JOHN CULBERSON,True,True,"Member of Congress, House of Representatives",C001048,John Abney Culberson,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+142747,142747,JOHN DOOLITTLE,True,True,United States Representative,D000429,John Doolittle,R,rep,2009-01-03,False,high,2026-11-22T20:38:04-05:00
+145570,141100,JOHN FASO,True,True,Member of Congress,F000464,John J. Faso,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+143730,143730,JOHN KATKO,True,True,Member of Congress,K000386,John Katko,R,rep,2023-01-03,False,high,2026-11-22T20:38:04-05:00
+72033,72033,JOHN SWEENEY,True,True,Member of Congress (1999-2007),S001149,John Sweeney,R,rep,2007-01-03,False,high,2026-11-22T20:38:04-05:00
+74191,74191,JOHN TANNER,True,True,"Former Member, House of Representatives",T000038,John Tanner,D,rep,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+54838,54838,JON PORTER,True,True,Former Member of Congress,P000589,Jon Porter,R,rep,2009-01-03,False,high,2026-11-22T20:38:04-05:00
+70199,70199,JOSEPH GARCIA,True,True,"Representative,FL 26th District(2013-2015)",G000573,Joe Garcia,D,rep,2015-01-03,False,high,2026-11-22T20:38:04-05:00
+71357,71357,KENDRICK MEEK,True,True,"U.S. Representative (FL-17), 2002-2010",M001148,Kendrick Meek,D,rep,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+72792,72792,KEVIN YODER,True,True,Member of the U.S. House of Representatives,Y000063,Kevin Yoder,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+144627,144627,KURT SCHRADER,True,True,Former Member of Congress,S001180,Kurt Schrader,D,rep,2023-01-03,False,high,2026-11-22T20:38:04-05:00
+152234,152234,LARRY BUCSHON,True,True,"Member, U.S. House of Representatives (administration lobbying only)",B001275,Larry Bucshon,R,rep,2025-01-03,False,high,2026-11-22T20:38:04-05:00
+59552,59552,LINCOLN DIAZ-BALART,True,True,"Former Member, U.S. House of Representatives",D000299,Lincoln Diaz-Balart,R,rep,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+145602,145602,LUIS FORTUNO,True,True,Former Member of the U.S. House of Representatives from Puerto Rico,F000452,Luis Fortuño,R,rep,2009-01-03,False,high,2026-11-22T20:38:04-05:00
+146550,146550,LUIS GUTIERREZ,False,True,Former United States Representative,G000535,Luis V. Gutiérrez,D,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+107295,107295,MARK PRYOR,True,True,United States Senator,P000590,Mark L. Pryor,D,sen,2015-01-03,False,high,2026-11-22T20:38:04-05:00
+139131,139131,MARTHA ROBY,True,True,Former Member of U.S. House of Representatives,R000591,Martha Roby,R,rep,2021-01-03,False,high,2026-11-22T20:38:04-05:00
+66815,66815,MARY LANDRIEU,True,True,U.S. Senator (1997-2015),L000550,Mary L. Landrieu,D,sen,2015-01-03,False,high,2026-11-22T20:38:04-05:00
+62900,62900,MARY LANDRIEU,True,True,U.S. Senator (1997-2015),L000550,Mary L. Landrieu,D,sen,2015-01-03,False,high,2026-11-22T20:38:04-05:00
+142770,142770,MAX ROSE,True,True,Member of Congress,R000613,Max Rose,D,rep,2021-01-03,False,high,2026-11-22T20:38:04-05:00
+138995,138995,MICHAEL ARCURI,True,True,Former Member of Congress,A000363,Michael Arcuri,D,rep,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+139767,139767,MIKE CONAWAY,True,True,"US Representative, Ret.",C001062,K. Michael Conaway,R,rep,2021-01-03,False,high,2026-11-22T20:38:04-05:00
+57234,57234,NORM COLEMAN,True,True,U.S. Senator,C001057,Norm Coleman,R,sen,2009-01-03,False,high,2026-11-22T20:38:04-05:00
+123520,123520,NORM DICKS,True,True,"Member, U.S. House of Representatives (1977-2012)",D000327,Norman D. Dicks,D,rep,2013-01-03,False,high,2026-11-22T20:38:04-05:00
+58987,58987,NORMAN DICKS,True,True,"Member, U.S. House of Representatives (1977-2012)",D000327,Norman D. Dicks,D,rep,2013-01-03,False,high,2026-11-22T20:38:04-05:00
+71524,71524,PAT MEEHAN,True,True,Member of Congress (January 2011 - April 2018),M001181,Patrick Meehan,R,rep,2018-04-27,False,high,2026-11-22T20:38:04-05:00
+148592,148592,PAT ROBERTS,True,True,U.S. Senator,R000307,Pat Roberts,R,rep|sen,2021-01-03,False,high,2026-11-22T20:38:04-05:00
+135457,135457,PETE OLSON,True,True,Member of Congress 2009-2021,O000168,Pete Olson,R,rep,2021-01-03,False,high,2026-11-22T20:38:04-05:00
+139510,139510,PETER KING,True,True,Member of the House of Representatives,K000210,Peter T. King,R,rep,2021-01-03,False,high,2026-11-22T20:38:04-05:00
+146764,146764,PETER ROSKAM,True,True,"Member of Congress, 2007-2019.",R000580,Peter J. Roskam,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+50210,50210,PHILIP ENGLISH,True,True,U.S. Representative (1995-2009),E000187,Philip English,R,rep,2009-01-03,False,high,2026-11-22T20:38:04-05:00
+25005,25005,RANDALL TATE,True,True,"Member of Congress (WA-9), 1995-1997",T000048,Randy Tate,R,rep,1997-01-03,False,high,2026-11-22T20:38:04-05:00
+149001,149001,RICHARD BURR,True,True,U.S. Senator,B001135,Richard Burr,R,rep|sen,2023-01-03,False,high,2026-11-22T20:38:04-05:00
+15869,15869,RICHARD GEPHARDT,True,True,"Member of Congress, 1977-2005",G000132,Richard Gephardt,D,rep,2005-01-03,False,high,2026-11-22T20:38:04-05:00
+61586,61586,RICHARD POMBO,False,True,Former Member of Congress,P000419,Richard Pombo,R,rep,2007-01-03,False,high,2026-11-22T20:38:04-05:00
+9333,9333,ROBERT BORSKI,True,True,Member of Congress 1983-2003,B000644,Robert Borski,D,rep,2003-01-03,False,high,2026-11-22T20:38:04-05:00
+107248,107248,ROBERT CRAMER,True,True,"Former Member of Congress, U.S. House of Representatives",C000868,Robert Cramer,D,rep,2009-01-03,False,high,2026-11-22T20:38:04-05:00
+154109,154109,ROBERT GOOD,True,True,Former member of U.S. House of Representatives,G000595,Bob Good,R,rep,2025-01-03,False,high,2026-11-22T20:38:04-05:00
+72775,72775,ROBERT GOODLATTE,True,True,Member of Congress 1993-2019,G000289,Bob Goodlatte,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+50806,50806,ROBERT TORRICELLI,True,True,"Member, House of Representatives, Senate",T000317,Robert Torricelli,D,rep|sen,2003-01-03,False,high,2026-11-22T20:38:04-05:00
+67706,67706,ROBERT WEXLER,True,True,Former Member U.S. Congress 1997-2010,W000314,Robert Wexler,D,rep,2010-01-04,False,high,2026-11-22T20:38:04-05:00
+145873,145873,RODNEY DAVIS,True,True,"Member, U.S. House of Representatives",D000619,Rodney Davis,R,rep,2023-01-03,False,high,2026-11-22T20:38:04-05:00
+147776,147776,RODNEY DAVIS,False,True,"Member of Congress, (IL-13), 2013-2023.",D000619,Rodney Davis,R,rep,2023-01-03,False,high,2026-11-22T20:38:04-05:00
+141979,141979,RON KIND,True,True,"Member of Congress, U.S. House of Representatives (1997-2023)",K000188,Ron Kind,D,rep,2023-01-03,False,high,2026-11-22T20:38:04-05:00
+47989,47989,RON KLINK,True,True,Former Member of Congress (1993-2001),K000270,Ron Klink,D,rep,2001-01-03,False,high,2026-11-22T20:38:04-05:00
+100313,100313,RUSS CARNAHAN,True,True,Former Member of Congress,C001060,Russ Carnahan,D,rep,2013-01-03,False,high,2026-11-22T20:38:04-05:00
+72808,72808,RYAN COSTELLO,True,True,"US Congressman, 2015-2019 (PA-6)",C001106,Ryan A. Costello,R,rep,2019-01-03,False,high,2026-11-22T20:38:04-05:00
+98805,98805,SAXBY CHAMBLISS,True,True,U.S. Senator,C000286,Saxby Chambliss,R,rep|sen,2015-01-03,False,high,2026-11-22T20:38:04-05:00
+144028,144028,SCOTT GARRETT,True,True,member of congress the SEC,G000548,Scott Garrett,R,rep,2017-01-03,False,high,2026-11-22T20:38:04-05:00
+43539,43539,SCOTT KLUG,True,True,"Member of Congress, 1990-1998",K000274,Scott Klug,R,rep,1999-01-03,False,high,2026-11-22T20:38:04-05:00
+139680,139680,STEVE STIVERS,False,True,Former Member of Congress,S001187,Steve Stivers,R,rep,2021-05-16,False,high,2026-11-22T20:38:04-05:00
+143924,143924,STEVEN WATKINS,False,True,Former Member of Congress,W000824,Steve Watkins,R,rep,2021-01-03,False,high,2026-11-22T20:38:04-05:00
+63731,145586,THOMAS DASCHLE,True,True,Former United States Senator,D000064,Thomas Daschle,D,rep|sen,2005-01-03,False,high,2026-11-22T20:38:04-05:00
+146653,146653,THOMAS DAVIS,True,True,"Member, U.S. House of Representatives",D000136,Thomas Davis,R,rep,2008-11-24,False,high,2026-11-22T20:38:04-05:00
+140755,140755,THOMAS FEENEY,True,True,"Representative (FL-24), 2003-2009.",F000447,Tom Feeney,R,rep,2009-01-03,False,high,2026-11-22T20:38:04-05:00
+66584,66584,THOMAS REYNOLDS,True,True,"Member, US House of Representatives",R000569,Thomas Reynolds,R,rep,2009-01-03,False,high,2026-11-22T20:38:04-05:00
+142746,142746,TODD TIAHRT,True,True,United States Representative,T000260,Todd Tiahrt,R,rep,2011-01-03,False,high,2026-11-22T20:38:04-05:00
+143240,143240,TOM REED,True,True,"2010-2022: U.S. Representative (NY-23), House of Representatives",R000585,Tom Reed,R,rep,2022-05-10,False,high,2026-11-22T20:38:04-05:00
+149087,149087,ALBERT WYNN,True,False,,W000784,Albert Wynn,D,rep,2008-05-31,False,name_only_unverified,2026-11-22T20:38:04-05:00
+60605,60605,ALBERT WYNN,True,False,,W000784,Albert Wynn,D,rep,2008-05-31,False,name_only_unverified,2026-11-22T20:38:04-05:00
+138037,138037,ALLEN MESSER,True,True,United States Representative (IN) 2013-2019,M001189,Luke Messer,R,rep,2019-01-03,False,self_identified_lastname_match,2026-11-22T20:38:04-05:00
+150816,150816,ANDERSON FERGUSON,False,True,Member of Congress,,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+143098,143098,ANDREW JACOBS,False,False,,J000033,Andrew Jacobs,D,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+146144,146144,ANN BUERKLE,True,False,,B001276,Ann Marie Buerkle,R,rep,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+54249,54249,BART GORDON,True,False,,G000309,Barton Gordon,D,rep,2011-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+57141,57141,BEN NIGHTHORSE CAMPBELL,True,True,Former U.S. Senator,,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+139071,139071,BENJAMIN GILMAN,False,False,,G000212,Benjamin Gilman,R,rep,2003-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+25692,25692,BILL SARPALIUS,True,False,,S000066,William Sarpalius,D,rep,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+70886,70886,BILL SHUSTER,True,False,,S001154,Bill Shuster,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+58996,58996,BLANCHE LINCOLN,True,False,,L000035,Blanche Lincoln,D,rep|sen,2011-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+139335,139335,BRADLEY BYRNE,True,False,,B001289,Bradley Byrne,R,rep,2021-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+66442,66442,CHARLES BASS,True,False,,B000220,Charles F. Bass,R,rep,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+148183,148183,CHARLES TAYLOR,False,False,,T000067,Charles Taylor,R,rep,2007-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+152380,152380,CHARLES TAYLOR,True,False,,T000067,Charles Taylor,R,rep,2007-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+150066,150066,CHRIS BELL,False,False,,B001241,Chris Bell,D,rep,2005-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+72771,72771,CHRIS COX,True,False,,C000830,C. Cox,R,rep,2005-08-02,False,name_only_unverified,2026-11-22T20:38:04-05:00
+64661,64661,CHRIS LEE,True,False,,L000568,Christopher Lee,R,rep,2011-02-09,False,name_only_unverified,2026-11-22T20:38:04-05:00
+92866,92866,CHRISTOPHER COX,False,False,,C000830,C. Cox,R,rep,2005-08-02,False,name_only_unverified,2026-11-22T20:38:04-05:00
+32310,32310,CHRISTOPHER COX,True,False,,C000830,C. Cox,R,rep,2005-08-02,False,name_only_unverified,2026-11-22T20:38:04-05:00
+64866,64866,CHRISTOPHER PORTER,False,False,,P000589,Jon Porter,R,rep,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+144569,144569,CHRISTOPHER STEWART,False,False,,S001192,Chris Stewart,R,rep,2023-09-15,False,name_only_unverified,2026-11-22T20:38:04-05:00
+143942,143942,CINDY JIMENEZ TURNER,False,True,U.S Representatives Nancy Pelosi (D-CA),,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+147166,147166,CONGRESSMAN ROBERT PITTENGER,True,False,,P000606,Robert Pittenger,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+142356,142356,DAVID CAMP,False,False,,C000071,Dave Camp,R,rep,2015-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+151383,151383,DAVID CAMP,True,False,,C000071,Dave Camp,R,rep,2015-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+45887,45887,DAVID MANN,True,False,,M000100,David Mann,D,rep,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+138758,138758,DAVID REICHERT,True,False,,R000578,David G. Reichert,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+147194,147194,DAVID VITTER,False,False,,V000127,David Vitter,R,rep|sen,2017-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+144294,144294,DAVID YOUNG,False,False,,Y000066,David Young,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+153003,153003,DEAN HELLER,True,False,,H001041,Dean Heller,R,rep|sen,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+60008,60008,DENNY REHBERG,True,False,,R000571,Denny Rehberg,R,rep,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+32389,32389,DON NICKLES,True,False,,N000102,Don Nickles,R,sen,2005-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+57882,57882,DONALD KENT,True,True,"U.S. Senator Don Nickles, Leg Asst",,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+141611,141611,DOUGLAS COLLINS,True,False,,C001093,Doug Collins,R,rep,2021-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+100787,100787,EARL HILLIARD,True,False,,H000621,Earl Hilliard,D,rep,2003-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+150029,150029,EARL POMEROY,True,False,,P000422,Earl Pomeroy,D,rep,2011-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+54039,54039,EARL POMEROY,True,False,,P000422,Earl Pomeroy,D,rep,2011-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+140522,140522,EVAN JENKINS,False,False,,J000297,Evan H. Jenkins,R,rep,2018-09-30,False,name_only_unverified,2026-11-22T20:38:04-05:00
+139440,139440,FILEMON VELA,True,False,,V000132,Filemon Vela,D,rep,2022-03-31,False,name_only_unverified,2026-11-22T20:38:04-05:00
+153004,153004,FILEMON VELA,True,False,,V000132,Filemon Vela,D,rep,2022-03-31,False,name_only_unverified,2026-11-22T20:38:04-05:00
+57530,57530,FRANCIS TURNER,True,True,US Senator Connie Mack,,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+67244,67244,FRANK MCCARTHY,True,True,Representative Sue Kelly (NY-19),,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+22888,22888,GEORGE HOCHBRUECKNER,True,False,,H000670,George Hochbrueckner,D,rep,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+53228,53228,GERALD WELLER,True,False,,W000273,Gerald Weller,R,rep,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+139695,139695,GORDON SMITH,True,False,,S001142,Gordon Smith,R,sen,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+51049,51049,GREG LAUGHLIN,True,False,,L000119,Gregory Laughlin,R,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+138223,138223,GREGORY WALDEN,True,False,,W000791,Greg Walden,R,rep,2021-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+62169,62169,HENRY WAXMAN,True,False,,W000215,Henry A. Waxman,D,rep,2015-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+155289,155289,HOWARD BERMAN,False,False,,B000410,Howard L. Berman,D,rep,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+63638,63638,HOWARD BERMAN,True,False,,B000410,Howard L. Berman,D,rep,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+70219,70219,ILEANA ROS-LEHTINEN,True,False,,R000435,Ileana Ros-Lehtinen,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+152646,152646,JAMES DAVIS,True,False,,D000114,James Davis,D,rep,2007-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+139476,139476,JAMES GREENWOOD,True,False,,G000439,James Greenwood,R,rep,2005-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+66602,66602,JAMES HAYES,False,False,,H000390,James Hayes,R,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+154047,154047,JAMES HAYES,False,False,,H000390,James Hayes,R,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+151636,151636,JAMES LONGLEY,False,False,,L000431,James Longley,R,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+144706,144706,JAMES MALONEY,True,False,,M000090,James Maloney,D,rep,2003-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+66870,66870,JAMES ROWLAND,True,False,,R000481,James Rowland,D,rep,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+102832,102832,JAMES ROWLAND,False,False,,R000481,James Rowland,D,rep,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+27527,27527,JAMES TURNER,True,False,,T000424,James Turner,D,rep,2005-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+73412,73412,JAMES WALSH,False,False,,W000099,James Walsh,R,rep,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+151247,151247,JAMES WALSH,False,False,,W000099,James Walsh,R,rep,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+143149,143149,JAMES WEBB,False,False,,W000803,Jim Webb,D,sen,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+153143,153143,JEFF DUNCAN,True,False,,D000615,Jeff Duncan,R,rep,2025-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+72129,72129,JEFFREY DENHAM,True,False,,D000612,Jeff Denham,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+143712,143712,JEFFREY MARKEY,True,True,Representative Jeff Metcalf.,M001172,Betsy Markey,D,rep,2011-01-03,False,self_identified_lastname_match,2026-11-22T20:38:04-05:00
+3649,3649,JEFFREY MILLER,False,False,,M001144,Jeff Miller,R,rep,2017-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+151456,151456,JENNY MILLER (NAME ERROR),True,True,Former Member US Congress,,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+147962,147962,JIM BRIDENSTINE,True,False,,B001283,Jim Bridenstine,R,rep,2018-04-23,False,name_only_unverified,2026-11-22T20:38:04-05:00
+72017,72017,JIM SLATTERY,True,False,,S000477,James Slattery,D,rep,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+148975,148975,JOE DONNELLY,True,True,U.S. Senator (2013 - 2019),,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+8035,8035,JOHN CAMPBELL,False,False,,C001064,John Campbell,R,rep,2015-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+145293,145293,JOHN EDWARDS,False,False,,E000286,John Edwards,D,sen,2005-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+154878,154878,JOHN EDWARDS,True,False,,E000286,John Edwards,D,sen,2005-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+112671,112671,JOHN FLEMING,True,False,,F000456,John Fleming,R,rep,2017-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+68257,68257,JOHN HUGHES,False,False,,H000930,William Hughes,D,rep,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+141702,141702,JOHN HUGHES,True,False,,H000930,William Hughes,D,rep,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+71261,71261,JOHN MCHUGH,True,False,,M000472,John McHugh,R,rep,2009-09-21,False,name_only_unverified,2026-11-22T20:38:04-05:00
+144235,144235,JOHN MITCHELL,False,False,,M000811,George Mitchell,D,sen,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+152959,152959,JOHN MITCHELL,False,False,,M000811,George Mitchell,D,sen,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+139630,139630,JOHN MYERS,False,False,,M001130,John Myers,R,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+147269,147269,JOHN MYERS,False,False,,M001130,John Myers,R,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+25169,25169,JOHN PORTER,True,False,,P000444,John Porter,R,rep,2001-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+141495,141495,JOHN SHIMKUS,True,False,,S000364,John Shimkus,R,rep,2021-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+141747,141747,JOHN SULLIVAN,True,False,,S001155,John Sullivan,R,rep,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+143943,143943,JOHN SULLIVAN,False,False,,S001155,John Sullivan,R,rep,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+150042,150042,JOHN TANNER,True,False,,T000038,John Tanner,D,rep,2011-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+55182,55182,JOSEPH BARTON,True,False,,B000213,Joe Barton,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+150138,150138,JOSEPH MCDADE,False,False,,M000399,Joseph McDade,R,rep,1999-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+116668,116668,JULIE SHROYER,True,True,Former Member of Congress,,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+119618,119618,KAREN MCCARTHY,False,False,,M000316,Karen McCarthy,D,rep,2005-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+52220,52220,KENNETH BENTSEN,False,False,,B000400,Ken Bentsen,D,rep,2003-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+62394,62394,KENNY HULSHOF,True,False,,H000948,Kenny Hulshof,R,rep,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+109328,109328,KIMBERLY BEER,False,True,"House of Representatives, Member of Congress Luis Fortuno 2005-2008",,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+70608,70608,LAMAR SMITH,True,False,,S000583,Lamar Smith,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+150715,150715,LEE JOHNSON,True,False,,J000163,Nancy Johnson,R,rep,2007-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+63726,63726,LUIS FORTUNO,True,False,,F000452,Luis Fortuño,R,rep,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+72781,72781,LYNN JENKINS,True,False,,J000290,Lynn Jenkins,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+145562,145562,LYNN JENKINS,True,False,,J000290,Lynn Jenkins,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+56464,56464,MARILYN MUSGRAVE,False,False,,M001152,Marilyn Musgrave,R,rep,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+96753,96753,MARK BEGICH,False,False,,B001265,Mark Begich,D,sen,2015-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+137740,137740,MARK FOLEY,False,False,,F000238,Mark Foley,R,rep,2006-09-29,False,name_only_unverified,2026-11-22T20:38:04-05:00
+142748,142748,MARK WALKER,True,False,,W000819,Mark Walker,R,rep,2021-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+140409,140409,MATT SALMON,True,False,,S000018,Matt Salmon,R,rep,2017-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+143662,143662,MATTHEW SALMON,True,False,,S000018,Matt Salmon,R,rep,2017-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+149279,149279,MICHAEL ANDREWS,True,False,,A000209,Michael Andrews,D,rep,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+141855,141855,MICHAEL DOYLE,True,False,,D000482,Michael F. Doyle,D,rep,2022-12-31,False,name_only_unverified,2026-11-22T20:38:04-05:00
+141397,141397,MICHAEL FERGUSON,False,False,,F000443,Michael Ferguson,R,rep,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+154197,154197,MICHAEL GARCIA,True,False,,G000061,Mike Garcia,R,rep,2025-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+66581,66581,MICHAEL WARD,False,False,,W000139,Michael Ward,D,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+77524,77524,MICHAEL WARD,False,False,,W000139,Michael Ward,D,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+60719,60719,MICHAEL WARD,False,False,,W000139,Michael Ward,D,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+148231,148231,NORMAN DICKS,True,False,,D000327,Norman D. Dicks,D,rep,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+147618,147618,PATRICK KENNEDY,True,True,Member of Congress from 1995 to 2011,,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+141720,141720,PATRICK WILLIAMS,True,False,,W000520,John Williams,D,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+64509,64509,PATRICK WILLIAMS,False,False,,W000520,John Williams,D,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+67304,67304,PAUL RYAN,True,False,,R000570,Paul D. Ryan,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+147331,147331,PETER DEFAZIO,True,False,,D000191,Peter A. DeFazio,D,rep,2023-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+17690,17690,PETER FITZGERALD,False,False,,F000442,Peter Fitzgerald,R,sen,2005-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+67805,67805,RALPH HALL,True,False,,H000067,Ralph M. Hall,R,rep,2015-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+49463,49463,ROBERT A GONZALEZ,False,False,,G000544,Charles A. Gonzalez,D,rep,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+147792,147792,ROBERT BISHOP,True,False,,B001250,Rob Bishop,R,rep,2021-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+134123,134123,ROBERT HURT,True,False,,H001060,Robert Hurt,R,rep,2017-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+143750,143750,ROBERT JOHNSON,False,False,,J000174,Sam Johnson,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+40853,40853,ROBERT LIVINGSTON,True,False,,L000371,Robert Livingston,R,rep,1999-03-01,False,name_only_unverified,2026-11-22T20:38:04-05:00
+146559,146559,ROBERT PALMER,False,True,Representative,,,,,,,self_identified_name_unmatched,2026-11-22T20:38:04-05:00
+49725,49725,ROBERT PORTMAN,True,False,,P000449,Rob Portman,R,rep|sen,2023-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+6319,6319,ROBERT UNDERWOOD,False,False,,U000014,Robert Underwood,D,rep,2003-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+62110,62110,RODNEY ALEXANDER,True,False,,A000361,Rodney Alexander,R,rep,2013-09-27,False,name_only_unverified,2026-11-22T20:38:04-05:00
+73022,73022,RODNEY FRELINGHUYSEN,True,False,,F000372,Rodney P. Frelinghuysen,R,rep,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+138317,138317,RONALD KLEIN,True,False,,K000366,Ron Klein,D,rep,2011-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+72360,72360,SEAN DUFFY,True,False,,D000614,Sean P. Duffy,R,rep,2019-09-23,False,name_only_unverified,2026-11-22T20:38:04-05:00
+67242,67242,SPENCER ABRAHAM,True,False,,A000355,Spencer Abraham,R,sen,2001-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+70513,70513,STEPHANIE MURPHY,False,False,,M001202,Stephanie N. Murphy,D,rep,2023-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+73172,73172,STEVE AUSTRIA,True,False,,A000365,Steve Austria,R,rep,2013-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+142016,142016,THOMAS ALLEN,False,False,,A000357,Thomas Allen,D,rep,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+146639,146639,THOMAS ANDREWS,True,False,,A000211,Thomas Andrews,D,rep,1995-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+39774,39774,THOMAS EDWARDS,False,False,,E000063,Thomas Edwards,D,rep,2011-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+155734,155734,THOMAS EWING,True,False,,E000282,Thomas Ewing,R,rep,2001-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+64348,64348,THOMAS LATHAM,True,False,,L000111,Tom Latham,R,rep,2015-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+151046,151046,THOMAS REYNOLDS,False,False,,R000569,Thomas Reynolds,R,rep,2009-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+146415,146415,TILLIE FOWLER,False,False,,F000328,Tillie Fowler,R,rep,2001-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+112181,112181,TILLIE FOWLER,False,False,,F000328,Tillie Fowler,R,rep,2001-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+115791,115791,TIM BISHOP,True,False,,B001242,Timothy H. Bishop,D,rep,2015-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+64127,64127,TODD TIAHRT,True,False,,T000260,Todd Tiahrt,R,rep,2011-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+154771,154771,TONY CARDENAS,True,False,,C001097,Tony Cárdenas,D,rep,2025-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+55181,55181,W.J. TAUZIN,True,False,,T000058,William Tauzin,R,rep,2005-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+149532,149532,WILL BREWSTER,True,False,,B000817,William Brewster,D,rep,1997-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+141516,141516,WILLIAM JOHNSON,False,False,,J000292,Bill Johnson,R,rep,2024-01-21,False,name_only_unverified,2026-11-22T20:38:04-05:00
+47301,47301,WILLIAM JOHNSON,False,False,,J000292,Bill Johnson,R,rep,2024-01-21,False,name_only_unverified,2026-11-22T20:38:04-05:00
+147428,147428,WILLIAM NELSON,False,False,,N000032,Bill Nelson,D,rep|sen,2019-01-03,False,name_only_unverified,2026-11-22T20:38:04-05:00
+65050,65050,WILLIAM RICHARDSON,False,False,,R000229,William Richardson,D,rep,1997-02-13,False,name_only_unverified,2026-11-22T20:38:04-05:00

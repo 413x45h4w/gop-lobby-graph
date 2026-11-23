@@ -1,0 +1,32 @@
+{
+ "stats": {
+  "filings": 297355,
+  "with_bills": 82676
+ },
+ "counts": {
+  "ld2_filings": 297355,
+  "edges_lobbyist_client": 115216,
+  "edges_client_bill": 145246,
+  "edges_lobbyist_bill": 606820,
+  "edges_lobbyist_agency": 177780,
+  "edges_client_agency": 99392,
+  "clients": 24204,
+  "edges_bill_committee": 35683,
+  "edges_bill_sponsor_member": 315609,
+  "edges_client_committee": 73119,
+  "edges_client_member_reach": 861734,
+  "clients_summary": 24204
+ },
+ "outlier_filings_excluded": [
+  "c2d195d2-8df2-4b75-8e95-7014cacd5e81",
+  "abaac383-7e32-409c-827e-6046a4d59eea",
+  "f77a4908-5b4f-41d6-a9c7-acc85dee6946",
+  "1d624ae1-cb98-4219-9e2e-75ac71ea1617",
+  "06ab9786-9457-4175-8c3f-e026d61e802a",
+  "f1a2fd8c-c5cc-430d-bb7a-c1073512f52a"
+ ],
+ "raw_pull_dates": [
+  "2026-11-22"
+ ],
+ "computed_at": "2026-11-22T20:42:37-05:00"
+}

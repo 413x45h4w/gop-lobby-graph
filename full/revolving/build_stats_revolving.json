@@ -1,0 +1,23 @@
+{
+ "counts": {
+  "covered_position_parsed": 25492,
+  "covered_position_ambiguous_member": 547,
+  "edges_former_staffer_member": 17199,
+  "former_staffer_member_pairs": 8858,
+  "payroll_name_matches_all": 14368,
+  "edges_former_staffer_committee": 5832,
+  "edges_lobbyist_former_agency": 3436,
+  "former_member_lobbyists": 263
+ },
+ "confidence": {
+  "high": 10901,
+  "medium": 6228,
+  "rejected_contact_list": 70
+ },
+ "payroll_confidence": {
+  "medium": 6220,
+  "low": 5242,
+  "high": 2906
+ },
+ "computed_at": "2026-11-22T20:38:04-05:00"
+}

@@ -1,0 +1,27 @@
+{
+ "counts": {
+  "fara_registrants": 7108,
+  "edges_principal_registrant": 17795,
+  "edges_registrant_agent": 44804,
+  "edges_fara_contact_member": 17641,
+  "edges_fara_contribution_member": 19960,
+  "edges_principal_registrant_member": 16191
+ },
+ "scan": {
+  "docs": 3062,
+  "docs_with_member_mentions": 656,
+  "docs_no_text_layer": 79
+ },
+ "agent_match": {
+  "high": 553,
+  "": 4031,
+  "medium": 157,
+  "low_multiple_people": 58
+ },
+ "registrant_lda_match": {
+  "true": 181,
+  "false": 691
+ },
+ "computed_at": "2026-11-22T20:38:27-05:00",
+ "bulk_pulled_at": "2026-11-22T20:09:53-05:00"
+}
