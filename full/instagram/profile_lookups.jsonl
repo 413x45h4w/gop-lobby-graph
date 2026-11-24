@@ -27,3 +27,8 @@
 {"collected_at":"2026-11-23T11:25:00-05:00","batch":6,"lobbyist":"TIMOTHY COSTA","status":"no_match","handle":"timothycosta","evidence":"public personal bio, no firm/DC tie; unvisited timothy.costa"}
 {"collected_at":"2026-11-23T11:25:00-05:00","batch":6,"lobbyist":"ZACHARY RUDISILL","status":"no_match","handle":"zach.rudisill","evidence":"private, bio unrelated; unvisited zacharyrudisill"}
 {"collected_at":"2026-11-23T11:25:00-05:00","batch":6,"lobbyist":"MARC LAMPKIN","status":"no_match","handle":"marclampkin|lampkinmarc","evidence":"0 posts no bio both"}
+{"collected_at":"2026-11-24T11:20:00-05:00","batch":7,"lobbyist":"HAZEN MARSHALL","status":"no_match","handle":"hazenmarshall","evidence":"private, name match only; no firm/DC tie"}
+{"collected_at":"2026-11-24T11:20:00-05:00","batch":7,"lobbyist":"STEVE STOMBRES","status":"no_match","handle":"","evidence":"@stevestombres does not exist"}
+{"collected_at":"2026-11-24T11:20:00-05:00","batch":7,"lobbyist":"DANIEL GANS","status":"no_match","handle":"danielgans","evidence":"public 0 posts no bio; unrelated"}
+{"collected_at":"2026-11-24T11:20:00-05:00","batch":7,"lobbyist":"KIRSTEN CHADWICK","status":"no_match","handle":"kirstenchadwick","evidence":"private, bio only Threads link; no tie"}
+{"collected_at":"2026-11-24T11:20:00-05:00","batch":7,"lobbyist":"DANIEL TODD","status":"no_match","handle":"danieltodd","evidence":"public 0 posts no bio"}
