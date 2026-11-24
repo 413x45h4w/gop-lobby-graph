@@ -28,7 +28,7 @@ for k in range(0,len(a),2):
   MD={m['media_key']:m for m in (j.get('includes') or {}).get('media',[])}
   nh=0
   for p in j.get('data',[]) or []:
-    txt=p.get('text','')+' '+((p.get('note_post') or {}).get('text','') if isinstance(p.get('note_post'),dict) else '')
+    txt=p.get('text','')+' '+((p.get('note_post') or p.get('note_tweet') or {}).get('text','') if isinstance(p.get('note_post') or p.get('note_tweet'),dict) else '')
     alts=[MD.get(mk,{}).get('alt_text') or '' for mk in (p.get('attachments') or {}).get('media_keys',[])]
     types=[MD.get(mk,{}).get('type','') for mk in (p.get('attachments') or {}).get('media_keys',[])]
     hay=(txt+' '+' '.join(alts)).lower()
