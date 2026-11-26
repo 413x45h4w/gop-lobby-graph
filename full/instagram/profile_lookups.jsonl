@@ -37,3 +37,8 @@
 {"collected_at":"2026-11-25T11:20:00-05:00","batch":8,"lobbyist":"TJ PETRIZZO","status":"no_match","handle":"tjpetrizzo","evidence":"private 0 posts no bio; name match only"}
 {"collected_at":"2026-11-25T11:20:00-05:00","batch":8,"lobbyist":"JESSICA MANDEL","status":"no_match","handle":"jessica.mandel","evidence":"private, unrelated bio; alt jessmandel_tml"}
 {"collected_at":"2026-11-25T11:20:00-05:00","batch":8,"lobbyist":"JONATHAN HILER","status":"no_match","handle":"","evidence":"only coversofhiller/chickenwing8787 name-only; not visited"}
+{"collected_at":"2026-11-26T11:30:00-05:00","batch":9,"lobbyist":"MARK WARREN","status":"no_match","handle":"markwarren_","evidence":"visited; bio 'MW G' no tie; cand markfwarren, mark___warren"}
+{"collected_at":"2026-11-26T11:30:00-05:00","batch":9,"lobbyist":"CHRIS BROWN","status":"no_match","handle":"","evidence":"only unrelated accounts; name too common"}
+{"collected_at":"2026-11-26T11:30:00-05:00","batch":9,"lobbyist":"JANE LUCAS","status":"no_match","handle":"janelucas24","evidence":"private, unverified; alt jane.lucas.s"}
+{"collected_at":"2026-11-26T11:30:00-05:00","batch":9,"lobbyist":"ROBERT HOBART","status":"no_match","handle":"roberthobart_","evidence":"bio MBA '29 no tie; alt robert_hobart, hobart.robert"}
+{"collected_at":"2026-11-26T11:30:00-05:00","batch":9,"lobbyist":"MARTIN DELGADO","status":"no_match","handle":"","evidence":"not visited; cand martindelgado, martindelgado14"}
