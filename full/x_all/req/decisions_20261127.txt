@@ -1,0 +1,58 @@
+1631438728576090112|148738|accept|shoutout|Rep. Dean thanks Howard alum "Jemiah Williams" on her team; same person (LDA covered position: Legislative Aide, Rep. Madeleine Dean; now Holland & Knight); former staffer; text
+1800925587948847296|141581|reject||not shown to be same person: 'Joe Donovan' thanked alongside New England Council's Jim Brett; link to Donovan Strategies lobbyist unverified, common name
+1882154655083577764|153817|accept|shoutout|"honored to have had Anna May on my staff for the last 2.5 years"; same person (covered position: Legislative Assistant to Rep. Michael Guest, Homeland Security PSM; now Carlough Solutions); former staffer
+1970083549190427103|53004|reject||namesake: fictional James Bond / Lt. Col. James Bond (NC Guard), not the Bond & Associates lobbyist
+1910410072833872239|53004|reject||namesake: fictional James Bond / Lt. Col. James Bond (NC Guard), not the Bond & Associates lobbyist
+1842520435121950887|53004|reject||namesake: fictional James Bond / Lt. Col. James Bond (NC Guard), not the Bond & Associates lobbyist
+1769770809965400070|53004|reject||namesake: fictional James Bond / Lt. Col. James Bond (NC Guard), not the Bond & Associates lobbyist
+1680020636553322498|53004|reject||namesake: fictional James Bond / Lt. Col. James Bond (NC Guard), not the Bond & Associates lobbyist
+1953842562495623180|72033|reject||namesake: Peapack-Gladstone NJ Councilman John Sweeney (deceased), not former Rep. John Sweeney
+2061913361873256690|144933|accept|shoutout|congratulates "a former fellow of mine, Mark Cruz" on IHS Director nomination; same person (covered: PDAS Indian Affairs; Gallatin Public Affairs); former staffer
+2067331791128572386|149124|reject||namesake: Rev. Daniel Simmons Sr., Mother Emanuel shooting victim, not the Simmons Energy lobbyist
+1778573264375177386|150467|reject||namesake: late former Flagstaff Mayor Paul Babbitt Jr., not the Holland & Hart lobbyist (former Kelly counsel)
+2081051877005824263|89313|reject||namesake: Epstein survivor Elizabeth Stein (SOTU guest), not the former Senate HELP staffer lobbyist
+2026440043674685907|89313|reject||namesake: Epstein survivor Elizabeth Stein (SOTU guest), not the former Senate HELP staffer lobbyist
+1912175565668233407|155539|accept|shoutout|"Sarah Kidd ... a former intern in my Washington, D.C. office"; same person (covered position: Intern, Rep. Scott Fitzgerald; Penn Hill Group); former intern; text + photo
+1712622822873321547|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1712621838885408998|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1712619881105912051|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1712489983456563524|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1712173210895110394|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1711730735315329246|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1710776663506571456|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1710258779781001679|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1710109628392964582|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1605914314245869569|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1595983546300387329|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1611857399870283776|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1611844952681766913|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1604925361589874688|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1602426612695318528|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1602000819276029952|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1601594537381879810|95141|reject||namesake: Rep. Jim Jordan (sitting Member), not the Green Mountain Strategies lobbyist
+1798833426629578834|143350|accept|mention|campaign post quotes "NRA-PVF Chair Randy Kozuch" endorsement letter; same person (NRA in-house lobbyist per LD-2); endorsement
+1888303206897230286|96158|accept|mention|"Russ Vought + Mark Paoletta + Clarence Thomas = pure awesome"; same person (covered: OMB General Counsel; Schaerr Jaffe); praise, text only
+1604131534587437059|62089|reject||namesake: South Oak Cliff HS football coach Jason Todd, not the in-house lobbyist
+2057080340770898218|150326|reject||namesake/no evidence: Virginia Beach Republican Women's Club post; not shown to be the LeoLabs in-house lobbyist
+1860852544517333165|49258|reject||namesake: Georgia Labor Commissioner Bruce Thompson (died Nov 2024), not shown to be CapEDC Advisors lobbyist V Bruce Thompson
+1861031123955904907|49258|reject||namesake: Georgia Labor Commissioner Bruce Thompson (died Nov 2024), not shown to be CapEDC Advisors lobbyist V Bruce Thompson
+1744737967988785555|7848|reject||namesake: Virginia Beach City Council candidate John Napier, not the lobbyist John Napier
+1743792195239288988|7848|reject||namesake: Virginia Beach City Council candidate John Napier, not the lobbyist John Napier
+1746577262198001711|143936|reject||namesake: Irish Minister of State Jack Chambers TD, not the Maynard Nexsen lobbyist
+1963239397203026377|151269|accept|shoutout|"my good friend, a beloved Wyoming guy, Rob Wallace"; same person (Rob Wallace Group; former Asst. Secretary of the Interior, Wyoming); text
+1749849462909095993|102519|accept|shoutout|"sat down with Samuel Kieffer, VP of Public Affairs at the American Farm Bureau Federation" (podcast); same person (AFBF in-house lobbyist per LD-2)
+1933543892248412209|85399|reject||namesake: SP4 Keith Smith, late Vietnam veteran (bill namesake), not the KH Strategies lobbyist
+1827415658130555034|64906|152614|reject||namesake: Pettis County MO Prosecuting Attorney Todd Smith, not a lobbyist
+1960725440080835009|149240|accept|shoutout|birthday wishes to "Melissa Stone" #flapol; likely same person (Florida GOP consultant, Cavalry Strategies); text + photo
+1660757873599578117|149240|accept|shoutout|"Congratulations Melissa Stone! Proud of you and your team!" on @Fla_Pol Florida business spotlight; likely same person (Cavalry Strategies founder); text
+2125746806130717146|153196|reject||namesake: NYC Council Member Kevin Riley (Bronx), not the American Resort Development Assn in-house lobbyist
+2071930167874719758|153196|reject||namesake: NYC Council Member Kevin Riley (Bronx), not the American Resort Development Assn in-house lobbyist
+2068714672816046562|153196|reject||namesake: NYC Council Member Kevin Riley (Bronx), not the American Resort Development Assn in-house lobbyist
+1993759876774785159|153196|reject||namesake: NYC Council Member Kevin Riley (Bronx), not the American Resort Development Assn in-house lobbyist
+1992621863630225440|153196|reject||namesake: NYC Council Member Kevin Riley (Bronx), not the American Resort Development Assn in-house lobbyist
+1945464643192762672|153196|reject||namesake: NYC Council Member Kevin Riley (Bronx), not the American Resort Development Assn in-house lobbyist
+1727310150078271791|153196|reject||namesake: NYC Council Member Kevin Riley (Bronx), not the American Resort Development Assn in-house lobbyist
+2079318915688321134|151359|accept|shoutout|"Elisabeth Gehl & President Emeritus Pierce Bush, of Big Brothers Big Sisters Lone Star joined us in Washington"; same person (Big Brothers Big Sisters of America in-house lobbyist per LD-2); office meeting
+2052413045826097164|143662|accept|shoutout|"On @KTAR923 now with my friend Matt Salmon talking about the Governor's race"; same person (former Rep. Matt Salmon, MJS Advisors); text
+2031013389678387690|72757|accept|shoutout|"meet with AMAC CEO Rebecca Weber and AMAC Action SVP Andy Mangione" to receive award; likely same person (Andrew Mangione in-house lobbyist, distinctive name); meeting
+2086118037879431291|141109|reject||namesake: Augusta County VA Treasurer David Bourne, not the Albertine Enterprises lobbyist
