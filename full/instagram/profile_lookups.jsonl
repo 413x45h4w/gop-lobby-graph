@@ -47,3 +47,8 @@
 {"collected_at":"2026-11-27T11:10:00-05:00","batch":10,"lobbyist":"SUSAN SWEAT","status":"no_match","handle":"susan_sweat","evidence":"public 0 posts no bio; alt sweat.susan, susan.sweat"}
 {"collected_at":"2026-11-27T11:10:00-05:00","batch":10,"lobbyist":"EMILY MURRY","status":"no_match","handle":"emily_murry","evidence":"private, personal bio no tie; alt emilymurryy, emily__murry"}
 {"collected_at":"2026-11-27T11:10:00-05:00","batch":10,"lobbyist":"JEFF MCMILLEN","status":"no_match","handle":"jeff_mcmillen","evidence":"private 6 posts, no tie; also jeffmcmillen public 0 posts"}
+{"collected_at": "2026-11-28T11:20:00-05:00", "batch": 11, "lobbyist": "MICHAEL HIGDON", "status": "no_match", "handle": "", "evidence": "michaeljhigdon is law professor; cand michael.higdon"}
+{"collected_at": "2026-11-28T11:20:00-05:00", "batch": 11, "lobbyist": "MICHAEL CHAPPELL", "status": "no_match", "handle": "", "evidence": "michael_chappell private sports sales; cand chappell.michael"}
+{"collected_at": "2026-11-28T11:20:00-05:00", "batch": 11, "lobbyist": "NICHOLAS UEHLECKE", "status": "no_match", "handle": "", "evidence": "ukes5 private no bio unverifiable"}
+{"collected_at": "2026-11-28T11:20:00-05:00", "batch": 11, "lobbyist": "WARREN PAYNE", "status": "no_match", "handle": "", "evidence": "warren_payne_iv private 2023 grad; cand warren.payne.71"}
+{"collected_at": "2026-11-28T11:20:00-05:00", "batch": 11, "lobbyist": "RAISSA DOWNS", "status": "no_match", "handle": "", "evidence": "raissadowns public 0 posts no bio, weak unconfirmed; cand ltarplin"}
